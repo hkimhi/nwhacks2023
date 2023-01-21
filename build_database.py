@@ -1,6 +1,5 @@
 from config import *
 import json
-import re
 
 # 1. Load all courses into memory so we can see their preqs
 # 2. For each course, add self as a post-req for each of its prereqs

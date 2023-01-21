@@ -10,7 +10,7 @@ IGNORE_CACHE = False
 # Only usedd for building the database file
 # If set to True, rebuilds the database file with all courses
 # If set to False, processing will happen on the current database file (if it exists)
-BUILD_DATABASE = False
+BUILD_DATABASE = True
 
 # FILEPATH
 # The location where files are saved

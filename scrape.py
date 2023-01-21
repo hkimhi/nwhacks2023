@@ -35,6 +35,7 @@ for code in codes_subset:
             course_dict['title'] = i.find('b').text
             course_dict['credits'] = int(i.text[i.text.find('(') + 1])
         if i.name == "dd":
+            course_dict['desc'] = i.text
             coreqs = []
             prereqs = []
             postreqs = []

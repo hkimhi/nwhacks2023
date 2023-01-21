@@ -3,6 +3,7 @@
         "name": "CIVL 201",
         "title": "Introduction to Civil Engineering",
         "credits": 3,
+        "desc": "The design process; graphical, visualization and computational tools; civil engineering disciplines; decision-making; teamwork; conceptual design project reflecting community, economic, environmental, sustainability and technical considerations. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.\nCorequisite: CIVL 203.\n",
         "coreqs": [
             "CIVL 203"
         ],
@@ -21,6 +22,7 @@
         "name": "CIVL 203",
         "title": "Technical Communication in Civil Engineering",
         "credits": 3,
+        "desc": "Written and oral communication in civil engineering.  Business correspondence, business meetings, poster presentations, oral presentations and technical reports.  Restricted to students in second year of the Civil Engineering program. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.\nCorequisite: CIVL 201.\nEquivalency: APSC 201..\r\n\t",
         "coreqs": [
             "CIVL 201"
         ],
@@ -39,6 +41,7 @@
         "name": "CIVL 204",
         "title": "Fundamentals of Environmental Engineering",
         "credits": 3,
+        "desc": "Environmental engineering issues and projects; application of scientific and engineering principles to addressing these; soil, water and air pollution, and remediation. [3-0-0]\nPrerequisite: CHEM 154.\n",
         "coreqs": [],
         "prereqs": [
             "CHEM 154"
@@ -49,6 +52,7 @@
         "name": "CIVL 210",
         "title": "Soil Mechanics I",
         "credits": 4,
+        "desc": "Soil classification, principle of effective stress, analysis of seepage, filter criteria, introduction to shear strength and slope stability analysis. This course is not eligible for Credit/D/Fail grading. [3-2*-1]\nPrerequisite: One of CIVL 230, MECH 260.\nCorequisite: EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280.\n",
         "coreqs": [
             "EOSC 210",
             "CHBE 251",
@@ -66,6 +70,7 @@
         "name": "CIVL 215",
         "title": "Fluid Mechanics I",
         "credits": 4,
+        "desc": "Fluid properties, hydrostatics, kinematics, and fluid dynamics: energy and momentum methods with applications. Dimensional analysis, modelling, introduction to flow in pipes and forces on immersed objects. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: All of PHYS 170, MATH 101.\n",
         "coreqs": [],
         "prereqs": [
             "PHYS 170",
@@ -77,6 +82,7 @@
         "name": "CIVL 230",
         "title": "Solid Mechanics",
         "credits": 4,
+        "desc": "Stress and strain, Hooke's law, axially loaded members, torsion, shear forces and bending moments in beams, bending and shear stresses in beams, composite members, introduction to inelastic and statically indeterminate problems. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: All of PHYS 170, MATH 101.\n",
         "coreqs": [],
         "prereqs": [
             "PHYS 170",
@@ -88,6 +94,7 @@
         "name": "CIVL 231",
         "title": "Structural Mechanics",
         "credits": 4,
+        "desc": "Deflection of beams and structural systems; analysis of determinate structures; combined axial load and bending; beam- columns; buckling (stability); biaxial stresses and strains; construction and testing of model structures. This course is not eligible for Credit/D/Fail grading. [3-2-0]\nPrerequisite: All of MATH 152, CIVL 203, CIVL 230.\n",
         "coreqs": [],
         "prereqs": [
             "MATH 152",
@@ -100,6 +107,7 @@
         "name": "CIVL 235",
         "title": "Plane Surveying",
         "credits": 4,
+        "desc": "Theory and application of plane surveying methods. Introduction to and use of compass, transit, tape, and level. Construction and topographic surveys. Reduction of field data and construction of drawings. Demonstration of modern instruments, remote sensing methods and geographical information systems (GIS). This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -108,6 +116,7 @@
         "name": "CIVL 250",
         "title": "Engineering and Sustainable Development",
         "credits": 3,
+        "desc": "Implications of a finite biosphere and the complexities inherent in environmental decision-making. Credit will only be granted for only one of CIVL 200 or CIVL 250. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -116,6 +125,7 @@
         "name": "CIVL 300",
         "title": "Construction Engineering and Management",
         "credits": 3,
+        "desc": "Project delivery systems: traditional; construction management; turnkey; project management. Network planning methods. Activity planning, including construction methods selection. Estimating, bidding and bonding. Project control tools and procedures. Human resources, including equity considerations; occupational health and safety and quality control. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: CIVL 203.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 203"
@@ -126,6 +136,7 @@
         "name": "CIVL 301",
         "title": "Modelling and Decision-Making in Civil Engineering",
         "credits": 3,
+        "desc": "Introduction to systems engineering; applications of decision-making, modelling, and programming, including probabilistic analyses and optimization, to civil engineering projects; review of numerical methods This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: All of MATH 152, CIVL 201, STAT 251.\n",
         "coreqs": [],
         "prereqs": [
             "MATH 152",
@@ -138,6 +149,7 @@
         "name": "CIVL 302",
         "title": "Civil Engineering Impacts",
         "credits": 3,
+        "desc": "The social and biophysical context of infrastructure and the impact of civil engineering on people, the economy, and the environment. Specific topics vary from year to year. [3-0-1]\nPrerequisite: CIVL 201.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 201"
@@ -148,6 +160,7 @@
         "name": "CIVL 303",
         "title": "Computational Tools in Civil Engineering",
         "credits": 3,
+        "desc": "Computational and numerical solutions to civil engineering problems; application to a civil engineering design project that reflects community, economic, environmental and technical considerations. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nPrerequisite: All of CIVL 201, CIVL 210, CIVL 215, CIVL 231, MATH 256.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 201",
@@ -162,6 +175,7 @@
         "name": "CIVL 305",
         "title": "Introduction to Environmental Engineering Applications",
         "credits": 3,
+        "desc": "Environmental legislation; risk assessment; urban water; mass balance; water and wastewater treatment; environmental impact assessment. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -170,6 +184,7 @@
         "name": "CIVL 311",
         "title": "Soil Mechanics II",
         "credits": 4,
+        "desc": "One-dimensional compression and stress-strain response of soils with application to estimation of the settlements and capacities of foundations and of retaining walls. This course is not eligible for Credit/D/Fail grading. [3-2*-1]\nPrerequisite: CIVL 210.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 210"
@@ -180,6 +195,7 @@
         "name": "CIVL 315",
         "title": "Fluid Mechanics II",
         "credits": 4,
+        "desc": "Two dimensional flow around immersed objects; velocity and pressure fields; lift and drag on cylinders and aerofoils; fluid loads on structures and structural response; pumps and turbines; analysis and design of pipeline systems; unsteady flow in pipes; frictionless waterhammer analysis. This course is not eligible for Credit/D/Fail grading. [3-2*-1]\nPrerequisite: All of CIVL 203, CIVL 215, MATH 256.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 203",
@@ -192,6 +208,7 @@
         "name": "CIVL 316",
         "title": "Hydrology and Open Channel Flow",
         "credits": 4,
+        "desc": "Introduction to open channel hydraulics, engineering hydrology, and water resource systems; estimation of design discharge; flood statistics; nonuniform steady open channel flow; energy and momentum principles, backwater analysis; culvert and bridge hydraulics. This course is not eligible for Credit/D/Fail grading. [3-2*-1]\nPrerequisite: All of CIVL 203, CIVL 215.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 203",
@@ -203,6 +220,7 @@
         "name": "CIVL 320",
         "title": "Civil Engineering Materials",
         "credits": 3,
+        "desc": "The structure and properties of common Civil Engineering materials: aggregates, Portland cement, concrete, wood, steel and other construction materials. The emphasis is on the relationship between the structure of materials and their mechanical and durability properties. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: All of APSC 278, APSC 279.\n",
         "coreqs": [],
         "prereqs": [
             "APSC 278",
@@ -214,6 +232,7 @@
         "name": "CIVL 331",
         "title": "Steel and Timber Design",
         "credits": 4,
+        "desc": "Introduction to limit states design of steel and timber structures: design objectives, design loads and load combinations, structural safety, material properties, design of tension and compression members, beams, columns, and connections. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: CIVL 231.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 231"
@@ -224,6 +243,7 @@
         "name": "CIVL 332",
         "title": "Structural Analysis",
         "credits": 3,
+        "desc": "Introduction to indeterminate structural analysis; approximate analysis of structures; calculation of displacements using virtual work; flexibility (force) method; stiffness method for frames; moment distribution method; influence lines, introduction to structural dynamics. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: All of CIVL 231, MATH 152.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 231",
@@ -235,6 +255,7 @@
         "name": "CIVL 340",
         "title": "Transportation Engineering I",
         "credits": 3,
+        "desc": "The analysis and design of the elements of transportation facilities in development of transport technology; vehicle motion; vehicle/pavement interaction; elements of road design; principles of queuing and roadway capacity; rail transit performance and capacity analysis; economics as applied to transport. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: STAT 251.\n",
         "coreqs": [],
         "prereqs": [
             "STAT 251"
@@ -245,6 +266,7 @@
         "name": "CIVL 402",
         "title": "Professionalism and Law in Civil Engineering",
         "credits": 3,
+        "desc": "The Professional Governance Act; professional ethics, conflicts of interest, confidentiality and accountability; health and safety; sustainable development and environmental stewardship; equity considerations; design and construction contracts, specifications and tendering; labour and employment law; dispute resolution; evidence and expert witnesses; torts and legal liability. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: Fourth-year standing.\n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -253,6 +275,7 @@
         "name": "CIVL 403",
         "title": "Engineering Economic Analysis",
         "credits": 3,
+        "desc": "Time value of money; cash flow analysis; comparing options; depreciation, taxes, and inflation; financial accounting; company structures; public sector projects; decision-making. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: Fourth-year standing required.\n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -261,6 +284,7 @@
         "name": "CIVL 404",
         "title": "Introduction to Solid Waste Management",
         "credits": 3,
+        "desc": "Characteristics of solid wastes; solid waste collection, treatment, and disposal; evaluation and analysis of landfills, composting, combined treatment, recycle, and re-use. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: CIVL 204.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 204"
@@ -271,6 +295,7 @@
         "name": "CIVL 406",
         "title": "Water Treatment and Waste Management",
         "credits": 3,
+        "desc": "Processes used in water and wastewater treatment. Conditions which necessitate treatment of water or wastewater, water and wastewater treatment processes and plant design. Municipal services required and associated with solid waste management. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: CIVL 305.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 305"
@@ -281,6 +306,7 @@
         "name": "CIVL 407",
         "title": "Environmental Laboratory Analysis",
         "credits": 3,
+        "desc": "Testing procedures used in water quality studies and in the operation of water and wastewater treatment plants. This course is not eligible for Credit/D/Fail grading. [1-3-0]\nPrerequisite: CHEM 154.\n",
         "coreqs": [],
         "prereqs": [
             "CHEM 154"
@@ -291,6 +317,7 @@
         "name": "CIVL 408",
         "title": "Geo-Environmental Engineering",
         "credits": 3,
+        "desc": "Environmental contamination, regulatory requirements, site investigation, migration of contaminants, containment systems, site remediation technologies, design considerations related to soil-contaminant interactions, hydrogeology, geochemistry and types of contaminants. Design and performance case histories. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: All of CIVL 210, CIVL 315, CIVL 316.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 210",
@@ -303,6 +330,7 @@
         "name": "CIVL 409",
         "title": "Municipal Engineering",
         "credits": 3,
+        "desc": "Design of municipal infrastructure, including streets, water supply networks, and sewers, garbage collection and solid waste management. Focus is on solutions for providing an adequate water supply, collecting and disposing of stormwater and sewage, and managing excess stormwater flow. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: All of CIVL 315, CIVL 316.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 315",
@@ -314,6 +342,7 @@
         "name": "CIVL 410",
         "title": "Foundation Engineering I",
         "credits": 3,
+        "desc": "An introduction to the process of foundation engineering. Empirical and analytical approaches used in current professional practice. Topics include site investigation, preloading, liquefaction assessment, ground improvement, design of shallow and deep foundations, and retaining structures. The importance of geology and technical communication are emphasized. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: CIVL 311.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 311"
@@ -324,6 +353,7 @@
         "name": "CIVL 411",
         "title": "Foundation Engineering II",
         "credits": 3,
+        "desc": "Aspects of Geotechnical Engineering. Design considerations illustrated by case histories pertinent to BC. Topics include: site investigation, terrain analyses, in situ testing, groundwater problems, deep foundations, tie back walls and bracing, tailings impoundments, Northern construction, ground ice, dikes and dams engineering. Many case histories presented in part by prominent consulting engineers in BC. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: CIVL 311.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 311"
@@ -334,6 +364,7 @@
         "name": "CIVL 413",
         "title": "Design of Earth Dams and Containment Structures",
         "credits": 3,
+        "desc": "Purpose and types of dams; design criteria; construction sequence; compaction; seepage; filter design; factors influencing the design of earth dams; stability and deformation under static and earthquake loading; slope protection; field instrumentation. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: CIVL 311. Fourth-year standing.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 311"
@@ -344,6 +375,7 @@
         "name": "CIVL 415",
         "title": "Water Resource Engineering",
         "credits": 3,
+        "desc": "An introduction to the planning and design of water resource systems, stream systems, and municipal and hydropower engineering. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: All of CIVL 315, CIVL 316, STAT 251.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 315",
@@ -356,6 +388,7 @@
         "name": "CIVL 416",
         "title": "Environmental Hydraulics",
         "credits": 3,
+        "desc": "Application of hydraulic engineering principles to problems of environmental concern. Pollutant transport and dispersion. Mixing in rivers and lakes. Theory of jets and plumes. Design of outfall diffusers. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: All of CIVL 316, MATH 256.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 316",
@@ -367,6 +400,7 @@
         "name": "CIVL 417",
         "title": "Coastal Engineering",
         "credits": 3,
+        "desc": "Linear wave theory; wave shoaling, refraction and diffraction; random waves; wave generation; long waves, tides and currents; coastal structures; beaches and coasts; mixing processes; harbour and marinas; coastal modelling. Credit will only be given for one of CIVL 417 or CIVL 540. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: CIVL 316 and one of EOSC 213, MATH 256.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 316",
@@ -379,6 +413,7 @@
         "name": "CIVL 418",
         "title": "Engineering Hydrology",
         "credits": 3,
+        "desc": "Hydrologic processes - weather, precipitation, infiltration, evaporation, snowmelt and runoff generation. Emphasis on quantitative techniques including: hydrograph analysis, reservoir and channel routing, statistical methods and design floods, hydrologic modelling. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: CIVL 316.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 316"
@@ -389,6 +424,7 @@
         "name": "CIVL 420",
         "title": "Concrete Technology",
         "credits": 3,
+        "desc": "Physical and chemical properties and microstructure of hydrated Portland cement; construction practices; modern use of industrial by-products such as fly ash, blast furnace slag, silica fume and metakaolin; use of chemical admixtures; environmental issues; properties of hardened concrete; issues in standardized and accelerated testing, non-destructive testing. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: CIVL 320.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 320"
@@ -399,6 +435,7 @@
         "name": "CIVL 422",
         "title": "Project Based Learning in Civil Engineering Materials",
         "credits": 3,
+        "desc": "Some topical problems will be identified and students in groups will carry out experiments to study the materials involved. Site visits and external consultations are an integral requirement. [1-4-0]\nPrerequisite: CIVL 320.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 320"
@@ -409,6 +446,7 @@
         "name": "CIVL 425",
         "title": "Case Studies of Construction Methods",
         "credits": 3,
+        "desc": "Identification and evaluation of solutions to construction site operation problems: the relationship between design and construction; factors affecting productivity and safety; measurement of on-site performance. Credit will be granted for only one of CIVL 425 or CIVL 521. [3-0-0]\nPrerequisite: Fourth-year standing.\n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -417,6 +455,7 @@
         "name": "CIVL 426",
         "title": "Virtual Design and Construction",
         "credits": 3,
+        "desc": "Building information modelling (BIM), 4D/5D modelling, design coordination, BIM execution and performance assessment, and integrated project delivery methods.  Credit will be granted for only one of CIVL 426 or CIVL 526. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -425,6 +464,7 @@
         "name": "CIVL 430",
         "title": "Design of Concrete Structures",
         "credits": 4,
+        "desc": "Non-linear response of reinforced concrete members subjected to axial load, bending and shear; design of simple one-way members including beams, columns, slabs and footings. This course is not eligible for Credit/D/Fail grading. [3-2*-1]\nPrerequisite: CIVL 332.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 332"
@@ -435,6 +475,7 @@
         "name": "CIVL 432",
         "title": "Advanced Structural Steel Design",
         "credits": 3,
+        "desc": "Design of steel structures to resist vertical and lateral loads. Floor and roof systems including conceptual layout, floor deck, beams, joists, trusses, and columns. Stability issues and limit states design. Connections and construction aspects. Seismic design. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: All of CIVL 331, CIVL 332.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 331",
@@ -446,6 +487,7 @@
         "name": "CIVL 433",
         "title": "Advanced Concrete Design",
         "credits": 3,
+        "desc": "Design of members subjected to shear and torsion, long columns, two-way slab systems; seismic design of low-rise concrete buildings. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: CIVL 430.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 430"
@@ -456,6 +498,7 @@
         "name": "CIVL 435",
         "title": "Advanced Structural Analysis",
         "credits": 3,
+        "desc": "Shear flow, shear deformation, St. Venant torsion, warping torsion, P-delta and geometric stiffness, buckling of columns and frames, cylindrical shells, beams on elastic foundation, shear wall analysis, elasto-plastic analysis. Introduction to the finite element method. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: CIVL 332.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 332"
@@ -466,6 +509,7 @@
         "name": "CIVL 436",
         "title": "Matrix Structural Analysis and Dynamics",
         "credits": 3,
+        "desc": "Further techniques in matrix structural analysis; non-rigid supports, temperature-shrinkage effects, computer implementation; matrix representation of structural dynamics; mode shapes, natural frequencies, continuous systems; lumped mass models, modal analysis, response spectra. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: CIVL 332.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 332"
@@ -476,6 +520,7 @@
         "name": "CIVL 437",
         "title": "Introduction to Ship Structures",
         "credits": 3,
+        "desc": "Structural theory and practice of ship structural design; longitudinal and transverse strength of hull girder; plates and shells; matrix analysis; introduction to classification society rules; ship section design synthesis; finite element analysis. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of CIVL 332, MECH 360.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 332",
@@ -487,6 +532,7 @@
         "name": "CIVL 439",
         "title": "Design of Timber Structures",
         "credits": 3,
+        "desc": "Design of timber structural elements using limit states design principles; joints and fasteners, sawn lumber and engineered wood products, light frame systems and shear walls. Credit will be granted for only one of CIVL 439 or CIVL 516. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of CIVL 331, WOOD 386.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 331",
@@ -498,6 +544,7 @@
         "name": "CIVL 440",
         "title": "Transportation Engineering II",
         "credits": 3,
+        "desc": "Traffic operations and network analysis: traffic studies and data design; traffic stream flow and roadway analysis; weaving and interchange ramp analysis; intersection traffic control measures and control design; progressive signal system design; flows prediction; road network simulation and assignment algorithms; motor vehicle accident analysis; field exercises. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: CIVL 340.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 340"
@@ -508,6 +555,7 @@
         "name": "CIVL 441",
         "title": "Transportation Planning and Analysis",
         "credits": 3,
+        "desc": "Transportation systems planning and analysis: data needs; surveys and analysis; sampling techniques; trip generation; trip distribution; modal choice; trip assignment; traffic impact studies; system evaluation. Credit will be granted for only one of CIVL 441, CIVL 583 or PLAN 535. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: CIVL 340. Fourth-year standing.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 340"
@@ -518,6 +566,7 @@
         "name": "CIVL 445",
         "title": "Civil Engineering Design Project I",
         "credits": 3,
+        "desc": "Integration and application of previously acquired knowledge and skills to find design solutions for a multi-disciplinary civil engineering project.  Focus on conceptual and preliminary design.. This course is not eligible for Credit/D/Fail grading. [2*-0-4]\nPrerequisite: CIVL 203 and fourth-year standing.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 203"
@@ -528,6 +577,7 @@
         "name": "CIVL 446",
         "title": "Civil Engineering Design Project II",
         "credits": 2,
+        "desc": "Integration and application of previously acquired knowledge and skills to find design solutions for a multi-disciplinary civil engineering design project.  Focus on detailed design. This course is not eligible for Credit/D/Fail grading. [2*-0-2]\nPrerequisite: CIVL 445.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 445"
@@ -538,6 +588,7 @@
         "name": "CIVL 475",
         "title": "Environmental Stewardship in Civil Engineering",
         "credits": 3,
+        "desc": "Co-evolution of human and natural environments, approaches to the design, construction and operations of interacting built, social, and ecological systems, the integrative design process and related strategies. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of APSC 261, APSC 262, APSC 263, CIVL 250, CIVL 302. Third-year standing in BASc program.\n",
         "coreqs": [],
         "prereqs": [
             "APSC 261",
@@ -552,6 +603,7 @@
         "name": "CIVL 478",
         "title": "Building Science",
         "credits": 3,
+        "desc": "Building science concepts associated with the design of modern buildings, focusing particularly on the building envelope's role in environmental separation, controlling the movement of heat, air, and water in liquid and vapour states. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: Fourth-year standing.\n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -560,6 +612,7 @@
         "name": "CIVL 492",
         "title": "Directed Studies in Civil Engineering",
         "credits": 1,
+        "desc": "Independent studies on a special topic. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -568,6 +621,7 @@
         "name": "CIVL 498",
         "title": "Topics in Civil Engineering",
         "credits": 1,
+        "desc": "Seminar or lecture. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -576,6 +630,7 @@
         "name": "CIVL 504",
         "title": "Seismic Hazard Analysis and Design Parameters",
         "credits": 3,
+        "desc": "Causes and characteristics of earthquakes. Properties of ground motion records. Estimation of ground motion intensity and analysis of attenuation relationships. Probabilistic and deterministic seismic hazard analysis for both sites and regions. Selection of earthquake records and construction of design spectra. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -584,6 +639,7 @@
         "name": "CIVL 505",
         "title": "Principles of Earthquake Engineering and Seismic Design",
         "credits": 3,
+        "desc": "Response of structures to earthquakes; concept of ductility; understanding and applications of seismic design codes for buildings; quasi-static, modal, and nonlinear analyses; modelling of structures; design of structures using energy dissipation devices. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -592,6 +648,7 @@
         "name": "CIVL 506",
         "title": "Performance-based Earthquake Engineering",
         "credits": 3,
+        "desc": "Application of performance-based earthquake engineering principles to the design and assessment of building structures. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -600,6 +657,7 @@
         "name": "CIVL 507",
         "title": "Dynamics of Structures I",
         "credits": 3,
+        "desc": "Fundamental analysis of simple structures subjected to dynamic loadings; vibration problems in structures; linear and nonlinear structural response of simple systems; numerical methods for practical vibration analysis. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -608,6 +666,7 @@
         "name": "CIVL 508",
         "title": "Dynamics of Structures II",
         "credits": 3,
+        "desc": "Dynamic response of discrete and continuous systems; structural property matrices and eigenvalue problem; introduction to random vibrations; wave propagation analysis; experimental techniques and computer modelling. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -616,6 +675,7 @@
         "name": "CIVL 509",
         "title": "Nonlinear Structural Analysis",
         "credits": 3,
+        "desc": "Nonlinear behaviour of structures and the formulation of elements to model such behaviour; solution strategies; nonlinear material and section response; nonlinear dynamic analysis; nonlinear geometry; application of nonlinear analysis in engineering practice. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -624,6 +684,7 @@
         "name": "CIVL 510",
         "title": "Behaviour of Steel Structures",
         "credits": 3,
+        "desc": "Elastic response; elastic limit; capacity design; non-elastic stability problems of members and frames; plastic design and analysis; connection design for ultimate loads. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -632,6 +693,7 @@
         "name": "CIVL 511",
         "title": "Seismic Design of Steel Structures",
         "credits": 3,
+        "desc": "Nonlinear behavior and modeling of steel structures; plastic analysis of steel structures; seismic design of steel buildings. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -640,6 +702,7 @@
         "name": "CIVL 513",
         "title": "Concrete Structures",
         "credits": 3,
+        "desc": "Mechanics of structural concrete; comparison of analytical predictions and experimental results; simplified procedure; design using strut-and-tie models; seismic design of concrete buildings This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -648,6 +711,7 @@
         "name": "CIVL 516",
         "title": "Behaviour of Timber Structures",
         "credits": 3,
+        "desc": "Behaviour of timber structural elements using limit states design principles; joints and fasteners, sawn lumber and engineered wood products, light frame systems and shear walls. Credit will be granted for only one of CIVL 439 or CIVL 516. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -656,6 +720,7 @@
         "name": "CIVL 517",
         "title": "Advanced Topics in Timber Structures",
         "credits": 3,
+        "desc": "Design of timber structural systems using limit states design principles; non-standard connectors, timber-concrete composites, cross-laminated timber and hybrid systems. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -664,6 +729,7 @@
         "name": "CIVL 518",
         "title": "Reliability and Structural Safety",
         "credits": 3,
+        "desc": "Probability theory and random variables. Performance functions and probability of non-performance: simulations and FORM/SORM methods. Applications. System reliability. Time-dependent reliability and introduction to stochastic processes. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -672,6 +738,7 @@
         "name": "CIVL 519",
         "title": "Risk and Decision Analysis for Infrastructure Management",
         "credits": 3,
+        "desc": "Simulation and risk analysis; decision-making under uncertainty; methods to identify, value and implement flexibility in civil engineering systems design; applications to multiple civil engineering disciplines.  This course is not eligible for Credit/D/Fail grading. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: STAT 251.\n",
         "coreqs": [],
         "prereqs": [
             "STAT 251"
@@ -682,6 +749,7 @@
         "name": "CIVL 520",
         "title": "Construction Planning and Control",
         "credits": 3,
+        "desc": "Planning of civil engineering projects using networking techniques and time space methods. Treatment of resources and cash flow. Activity planning. Concepts of control at the project and activity levels. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -690,6 +758,7 @@
         "name": "CIVL 521",
         "title": "Construction Methods and Performance",
         "credits": 3,
+        "desc": "Case studies in construction methods and solutions to construction site operation problems. Construction productivity, performance measurement, safety, quality, and other production issues. Credit will be granted for only one of CIVL 425 or CIVL 521. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -698,6 +767,7 @@
         "name": "CIVL 522",
         "title": "Project and Construction Economics",
         "credits": 3,
+        "desc": "Application of the principles of engineering economics, economics and systems analysis techniques to the mathematical modelling of civil engineering projects. Topics treated: modelling of capital expenditures, revenues and operating expenditures, project financing, sensitivity analysis, risk analysis and management. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -706,6 +776,7 @@
         "name": "CIVL 523",
         "title": "Project Management for Engineers",
         "credits": 3,
+        "desc": "Perspectives of project management as it relates to civil engineering. Case studies are used to illustrate key issues. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -714,6 +785,7 @@
         "name": "CIVL 524",
         "title": "Legal Aspects of Project and Construction Management",
         "credits": 3,
+        "desc": "Legal issues of construction contracts, bidding processes, negligence, insurance, bonding, liens, and labour law. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -722,6 +794,7 @@
         "name": "CIVL 526",
         "title": "Virtual Design and Construction",
         "credits": 3,
+        "desc": "Building information modelling (BIM), 4D/5D modelling, design coordination, BIM execution and performance assessment, and integrated project delivery methods. Credit will be granted for only one of CIVL 426 or CIVL 526. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -730,6 +803,7 @@
         "name": "CIVL 528",
         "title": "Advanced Concrete Technology",
         "credits": 2,
+        "desc": "Pore structure, permeability and transport properties of concrete with and without mineral and chemical admixtures, damage modelling and application of linear and non-linear fracture mechanics, fiber reinforcement of concrete, strain-rate effects, fatigue and impact resistance, durability. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: CIVL 420.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 420"
@@ -740,6 +814,7 @@
         "name": "CIVL 529",
         "title": "Condition Assessment and Rehabilitation of Civil Infrastructure",
         "credits": 3,
+        "desc": "Non-destructive testing; repair and strengthening; high performance plain, polymer-modified, and fibre-reinforced concrete; shotcrete; fibre-reinforced polymer sprays; wraps and laminates; structural health monitoring using sensors; case studies. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -748,6 +823,7 @@
         "name": "CIVL 537",
         "title": "Computational Mechanics I",
         "credits": 3,
+        "desc": "Numerical techniques, weighted residual methods, finite differences, finite elements. Formulations using energy principles, shape functions, conformity, stiffness and mass matrices. Consistent load vectors. Applications to linear problems. Numerical integration and equation solvers. Dynamic problems. Introduction to nonlinear problems. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -756,6 +832,7 @@
         "name": "CIVL 538",
         "title": "Computational Mechanics II",
         "credits": 3,
+        "desc": "Finite elements for geometrically nonlinear problems: Lagrangian and Eulerian formulations. Review of constitutive models: Finite elements for materially nonlinear problems. Incremental formulations. Iterative solution algorithms. Application to project type problems. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: CIVL 537.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 537"
@@ -766,6 +843,7 @@
         "name": "CIVL 539",
         "title": "Advanced Theory of Structures",
         "credits": 3,
+        "desc": "Shearflow, shear deformation, St. Venant torsion, geometric stiffness and buckling of structural components and systems, lateral torsional buckling, beams on elastic foundation, theory of plates and shells, energy methods. Credit will be granted for only one of CIVL 435 or CIVL 539. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -774,6 +852,7 @@
         "name": "CIVL 540",
         "title": "Advanced Coastal Engineering",
         "credits": 3,
+        "desc": "Wave theories; wave shoaling, refraction, diffraction and reflection; tides and currents; random waves; wave generation; coastal structures; sedimentation; mixing processes; harbours design; coastal modelling. Credit will be granted for only one of CIVL 417 or CIVL 540. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -782,6 +861,7 @@
         "name": "CIVL 541",
         "title": "Environmental Fluid Mechanics",
         "credits": 3,
+        "desc": "Analysis of density stratified flows with application to water quality problems in inland and coastal waters. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -790,6 +870,7 @@
         "name": "CIVL 542",
         "title": "Physical Limnology",
         "credits": 3,
+        "desc": "Physical processes that affect the behaviour of lakes, including reservoirs, water filled mine pits, mine tailings ponds and other standing water bodies. Impacts of these processes on water quality, and methods used in the rehabilitation of lakes. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -798,6 +879,7 @@
         "name": "CIVL 543",
         "title": "Turbulent Fluid Dynamics",
         "credits": 3,
+        "desc": "Physical and mathematical models of turbulent flow suitable for engineering estimates and predictions. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -806,6 +888,7 @@
         "name": "CIVL 546",
         "title": "Fluvial Hydraulics",
         "credits": 3,
+        "desc": "Hydraulics of flow in rivers. Sediment transport, flow resistance, river morphology, stable channel design, bank erosion and scour; effects of engineering works on river systems; river restoration. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -814,6 +897,7 @@
         "name": "CIVL 547",
         "title": "Estuary Hydraulics",
         "credits": 2,
+        "desc": "Estuary dynamics and estuary classification; the effect of engineering works on salinity intrusion; physics of estuary pollution and the use of computer and hydraulic models. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -822,6 +906,7 @@
         "name": "CIVL 548",
         "title": "Numerical Modelling of Surface Water Quality",
         "credits": 3,
+        "desc": "Development and application of water quality models for lakes, rivers, estuaries, and reservoirs. Derivation of differential equations of pollutant transport; kinetic relationships for physical and chemical transformation of substances; numerical and analytical solutions to transport equations; calibration and verification. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -830,6 +915,7 @@
         "name": "CIVL 551",
         "title": "Advanced Hydrology",
         "credits": 3,
+        "desc": "Modelling hydrologic processes. Flow forecasting models for watersheds. Hydrology in a global perspective. Hydrological measurement techniques. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -838,6 +924,7 @@
         "name": "CIVL 555",
         "title": "Optimization and Heuristic Approaches for Civil Engineering Systems",
         "credits": 3,
+        "desc": "Optimization and simulation and their use in civil engineering design, analysis, and operation.  Problem formulation, classical solution techniques, and heuristic approaches, and their applications to the disciplines within civil engineering are addressed. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -846,6 +933,7 @@
         "name": "CIVL 556",
         "title": "Modelling and Optimization of Civil Engineering Systems",
         "credits": 3,
+        "desc": "Applications of practical simulation and optimization software systems and operations research methodologies in design, analysis, and operation of civil engineering systems. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: CIVL 301.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 301"
@@ -856,6 +944,7 @@
         "name": "CIVL 558",
         "title": "Water Resources Infrastructure",
         "credits": 2,
+        "desc": "Case history studies of local infrastructure used for controlling and utilizing water, including hydroelectric projects, developments on alluvial fans and floodplains and management of transportation corridors. Emphasis on engineering and environmental aspects. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -864,6 +953,7 @@
         "name": "CIVL 559",
         "title": "Advanced Water and Wastewater Treatment Technology",
         "credits": 3,
+        "desc": "Processes for removing and mitigating impurities that are not effectively removed in conventional water and waste treatment practice; investigation of disposal practices that make use of the impurities as a resource. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -872,6 +962,7 @@
         "name": "CIVL 561",
         "title": "Risk and Remediation in Geo-environment",
         "credits": 3,
+        "desc": "Sampling; investigations; fate and transport of chemicals in soil, water, sediment, biota and air; exposure pathways assessment and toxicological principles for receptors; risk-based approach to site remediation, treatment and control technologies. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -880,6 +971,7 @@
         "name": "CIVL 562",
         "title": "Environmental Data Collection and Analysis",
         "credits": 3,
+        "desc": "Development and application of sampling and data analysis programs as they apply to environmental engineering. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: One of CIVL 407, CHBE 364.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 407",
@@ -891,6 +983,7 @@
         "name": "CIVL 564",
         "title": "Engineering Management of Solid Wastes",
         "credits": 2,
+        "desc": "Characteristics of solid wastes; introduction to solid waste collection, treatment and disposal. Evaluation of current practice and analysis of future potential of landfills, composting, combined treatment, recycle and re-use. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -899,6 +992,7 @@
         "name": "CIVL 565",
         "title": "Physical-Chemical Treatment Processes",
         "credits": 3,
+        "desc": "Development of the principles of selected physical and chemical treatment unit operations. Applications in both water and wastewater treatment. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -907,6 +1001,7 @@
         "name": "CIVL 566",
         "title": "Fate of Contaminants in Aquatic Systems",
         "credits": 3,
+        "desc": "Fate of contaminants in inland and coastal waters. Pollutants associated with pulp mills, waste treatment plants, mining operations and other sources. Natural processes (physical, chemical, and biological) affecting the ultimate fate and impact of these pollutants. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -915,6 +1010,7 @@
         "name": "CIVL 569",
         "title": "Environmental Biotechnology",
         "credits": 3,
+        "desc": "Development of the principles of secondary, biological treatment processes, with application to both municipal and industrial wastewater treatment. Discussion of different treatment methodology, incorporating both aerobic and anaerobic microbiological processes. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -923,6 +1019,7 @@
         "name": "CIVL 570",
         "title": "Advanced Soil Mechanics",
         "credits": 2,
+        "desc": "Soil composition and geological factors affecting engineering properties, stress and strain at a point, principle of effective stress, stress-strain relations; theories of primary and secondary consolidation, settlement; shear testing equipment, stress-strain and strength behaviour of soil under static and dynamic loading. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: CIVL 311.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 311"
@@ -933,6 +1030,7 @@
         "name": "CIVL 574",
         "title": "Experimental Soil Mechanics",
         "credits": 3,
+        "desc": "Field and laboratory experimental studies of advanced aspects of soil behaviour; compressibility; shear strength; pore water pressure; dynamic tests; advanced instrumentation and measurement techniques; research reports required. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: CIVL 570.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 570"
@@ -943,6 +1041,7 @@
         "name": "CIVL 575",
         "title": "Constitutive Models for Soil",
         "credits": 3,
+        "desc": "Introduction to continuum mechanics; basics of elastopslasticity; stress-strain behavior of geomaterials; anisotropy; monotonic and cyclic loading; critical state soil mechanics; specific constitutive models for clays and sands. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -951,6 +1050,7 @@
         "name": "CIVL 579",
         "title": "Geosynthetics",
         "credits": 2,
+        "desc": "Material properties; standard tests data; soil-geosynthetic interaction; design of reinforced soil structures (walls, slopes, embankments); design of filtration and drainage works; design of geomembrane-lined waste containment facilities; regulatory requirements; case history applications. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: CIVL 311.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 311"
@@ -961,6 +1061,7 @@
         "name": "CIVL 580",
         "title": "Geotechnical Earthquake Engineering",
         "credits": 3,
+        "desc": "Local site effects, soil-structure-interaction, liquefaction, seismic slope stability, seismic design of retaining structures; advanced methods in geotechnical earthquake engineering. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -969,6 +1070,7 @@
         "name": "CIVL 581",
         "title": "Soil Dynamics for Design Practice",
         "credits": 3,
+        "desc": "Seismic loading and its effect on earth structures; dynamic response of single, and multi-degree of freedom systems and continuous systems; behaviour of soil under dynamic loading; pore pressure generation and liquefaction effects; seismicity and seismic design parameters; dynamic analysis of earth structures; seismic design of soil-structure systems. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: CIVL 570.\n",
         "coreqs": [],
         "prereqs": [
             "CIVL 570"
@@ -979,6 +1081,7 @@
         "name": "CIVL 582",
         "title": "Transportation Engineering Impacts",
         "credits": 3,
+        "desc": "Methods to measure, predict and evaluate impacts of transportation modes. Discussion of measures to reduce impacts. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -987,6 +1090,7 @@
         "name": "CIVL 583",
         "title": "Urban Engineering Methods and Models",
         "credits": 3,
+        "desc": "The application of urban analysis methods and models to the design of municipal and transportation engineering systems. Credit will be granted for only one of CIVL 441, CIVL 583 or PLAN 535. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -995,6 +1099,7 @@
         "name": "CIVL 584",
         "title": "Applications of Advanced Computer Techniques in Civil Engineering",
         "credits": 3,
+        "desc": "Applications of artificial intelligence, neural networks, fuzzy logic and computer simulation to civil engineering problems involving uncertainty. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -1003,6 +1108,7 @@
         "name": "CIVL 586",
         "title": "Urban Transportation System Analysis",
         "credits": 3,
+        "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -1011,6 +1117,7 @@
         "name": "CIVL 589",
         "title": "Traffic Flow Theory",
         "credits": 3,
+        "desc": "A discussion of the various traffic flow distribution models, gap acceptance, queuing processes, traffic flow simulation with applications to intersection design, signal system design and control of urban freeways. This course is not eligible for Credit/D/Fail grading. [3-0]\n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -1019,6 +1126,7 @@
         "name": "CIVL 592",
         "title": "Directed Studies in Civil Engineering",
         "credits": 1,
+        "desc": "Independent studies not related to thesis work. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -1027,6 +1135,7 @@
         "name": "CIVL 597",
         "title": "Seminar",
         "credits": 1,
+        "desc": "Presentations and discussions of current research topics in various disciplines of Civil Engineering. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -1035,6 +1144,7 @@
         "name": "CIVL 598",
         "title": "Topics in Civil Engineering",
         "credits": 1,
+        "desc": "Seminar or lecture. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -1043,6 +1153,7 @@
         "name": "CIVL 599",
         "title": "M.A.Sc. Thesis",
         "credits": 1,
+        "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
@@ -1051,6 +1162,7 @@
         "name": "CIVL 699",
         "title": "Doctoral Dissertation",
         "credits": 0,
+        "desc": "\n",
         "coreqs": [],
         "prereqs": [],
         "postreqs": []
