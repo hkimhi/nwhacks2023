@@ -37,7 +37,7 @@ class Graph:
             graph.back[name].extend(d["coreqs"])
             graph.nodes[name] = Node(name, d["cred"], d["desc"])
 
-    def bfs(self, src, tgt, pre=False, depth=-1):
+    def bfs(self, src, tgt, pre=False, depth=-1) -> Node:
         que = deque(src)
         vis = set(src)
         i = 0
@@ -46,10 +46,10 @@ class Graph:
             if crs in vis:
                 continue
             if crs == tgt:
-                return vis
+                return [self.nodes[name] for name in vis]
             if pre:
                 que.extend(self.back[crs])
             else:
                 que.extend(self.fwd[crs])
             i += 1
-        return [self.nodes[name] for name in vis]
+        return []
