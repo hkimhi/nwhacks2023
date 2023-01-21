@@ -1,0 +1,296 @@
+[
+    {
+        "name": "MTRL 201",
+        "desc": "Written and oral communication in business correspondence, engineering design methods, report preparation, and oral presentations of technical material. Restricted to students in second year of the Materials Engineering Program. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
+        "prereqs": "One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.",
+        "coreqs": "MTRL 280.\nEquivalency: APSC 201.\r\n"
+    },
+    {
+        "name": "MTRL 250",
+        "desc": "Heat and mass balances applied to materials engineering; thermodynamic principles applied to materials processing: heat of reaction, free energy, activity, phase equilibrium, reactions involving gases, Ellingham diagrams. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nEquivalency: MANU 261.\r\n\t"
+    },
+    {
+        "name": "MTRL 251",
+        "desc": "Behaviour of solutions, phase diagrams, electrochemistry, chemical potential and free energy diagrams applied to materials processing and thermodynamic modelling. [3-0-2]\n",
+        "prereqs": "MTRL 250.\nEquivalency: MTRL 350.\r\n",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 263",
+        "desc": "Fluid statics; fluid mechanics; laminar and turbulent flow; equations of continuity and motion; boundary layers; flow in conduits and packed and fluidized beds; flow measurements. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nEquivalency: MMAT 263.\r\n\t"
+    },
+    {
+        "name": "MTRL 264",
+        "desc": "Conduction, forced and natural convection, and radiation.  Heat transfer with fluid flow, applications of heat exchange, and solidification of castings. This course is not eligible for Credit/D/Fail grading. [2-0-2]\n"
+    },
+    {
+        "name": "MTRL 280",
+        "desc": "The process of materials selection for different design criteria; the importance of shape and processing variables; the use of computer software in the selection process. This course is not eligible for Credit/D/Fail grading. [2-0-3]\nEquivalency: MMAT 280.\r\n\t"
+    },
+    {
+        "name": "MTRL 320",
+        "desc": "Fundamental communication and inter- personal skills, as well as operational processes, that engineers require to effectively work in design teams. Concepts and best practices around project management tools and techniques, team dynamics, planning, and organization. This course is not eligible for Credit/D/Fail grading. [1-0-2]\n",
+        "prereqs": "MTRL 201.",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 340",
+        "desc": "Manufacturing processes from a materials perspective; metal casting, heat treating processes, forming processes, machining, and joining. Role of manufacturing in microstructure and material properties development and on component performance. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
+        "prereqs": "APSC 278.",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 358",
+        "desc": "Aqueous extraction of metals from ores and concentrates. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nEquivalency: MTRL 358.\r\n\t"
+    },
+    {
+        "name": "MTRL 359",
+        "desc": "Laboratory exercises on aqueous extraction of metals from ores and concentrates. This course is not eligible for Credit/D/Fail grading. [0-3*-0]\nCorequisite: One of MMAT 358, MTRL 358.\nEquivalency: MMAT 359.\r\n\t"
+    },
+    {
+        "name": "MTRL 361",
+        "desc": "Mathematical and physical modelling of processes employed in the production of materials. The application of models to analyze, design and improve materials production. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nEquivalency: MMAT 361.\r\n\t"
+    },
+    {
+        "name": "MTRL 363",
+        "desc": "Diffusion and mass transfer with chemical reaction; gas-liquid, gas-solid and liquid-liquid systems; analysis of mass transfer processes in metallurgical operations; mixing in continuous and batch processes. This course is not eligible for Credit/D/Fail grading. [2-0-2]\n",
+        "prereqs": "All of MTRL 263, MTRL 264.",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 365",
+        "desc": "Polycrystalline and single crystal deformation; dislocation theory; strengthening mechanisms; fracture mechanics; fatigue; high temperature deformation mechanisms. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
+        "prereqs": "All of APSC 278, MECH 260.",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 378",
+        "desc": "Solidification and solid state transformations; nucleation and growth processes; segregation and structure in castings; phase changes in steel; transformation diagrams; diffusion equations. This course is not eligible for Credit/D/Fail grading. [3-0-2*]\nEquivalency: MMAT 378.\r\n\t"
+    },
+    {
+        "name": "MTRL 381",
+        "desc": "Structure and properties of ferrous and non-ferrous metals; heat treatment; hardenability; metallography; age hardening. This course is not eligible for Credit/D/Fail grading. [0-3*-0]\nCorequisite: All of MTRL 365, MTRL 378.\nEquivalency: MMAT 381.\r\n\t"
+    },
+    {
+        "name": "MTRL 382",
+        "desc": "Fundamentals of engineering ceramics focusing on raw materials, forming, sintering and properties, characterization, and design with ceramics. This course is not eligible for Credit/D/Fail grading. [3-3*-0]\nEquivalency: MMAT 382.\r\n\t"
+    },
+    {
+        "name": "MTRL 392",
+        "desc": "Written and oral technical communication. Report preparation and oral presentation of technical information. This course is not eligible for Credit/D/Fail grading. [1-0-2]\n",
+        "prereqs": "One of APSC 201, MTRL 201.",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 394",
+        "desc": "The structure and properties of polymeric materials, reinforced polymers and polymer matrix composites with emphasis on their engineering properties and applications. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nEquivalency: MMAT 394.\r\n\t"
+    },
+    {
+        "name": "MTRL 398",
+        "desc": "Written communication in engineering. Reporting of technical material. This course is not eligible for Credit/D/Fail grading. \n",
+        "prereqs": "One of APSC 201, MTRL 201.",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 442",
+        "desc": "Strategies for ceramic and metallic coatings by melting-solidification, from the vapour state and from solution, and methods of surface modification. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
+        "prereqs": "APSC 278.",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 451",
+        "desc": "Basic principles and techniques of microstructural analysis with particular reference to engineered materials including x-ray, SEM microprobe TEM and high energy electron analysis. This course is not eligible for Credit/D/Fail grading. [1-3*-2]\nEquivalency: MMAT 451.\r\n\t"
+    },
+    {
+        "name": "MTRL 455",
+        "desc": "Time value of money, cash flows, capital and operating cost estimation, financial decision making and relevant case studies. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nEquivalency: MMAT 455.\r\n\t"
+    },
+    {
+        "name": "MTRL 456",
+        "desc": "Fundamental aspects of environmental degradation of metals (corrosion), ceramics, adn polymers, with an empasis on aqueous environments. This course is not eligible for Credit/D/Fail grading. [2-0-2]\n"
+    },
+    {
+        "name": "MTRL 458",
+        "desc": "Leaching, purification, precipitation, regeneration; thermodynamics and kinetics of separation steps; electrochemical applications. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
+        "prereqs": "One of MMAT 358, MTRL 358.\nEquivalency: MMAT 458.\r\n",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 460",
+        "desc": "Measurement systems for materials processing and evaluation, methods of data collection and analysis in materials engineering, materials processing monitoring and control, design of experiments for materials processing and optimization. This course is not eligible for Credit/D/Fail grading. [2-0-2]\n",
+        "prereqs": "All of STAT 251, APSC 278.",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 466",
+        "desc": "Design projects to illustrate the full spectrum of design encountered in Metals and Materials Engineering including the design of components, structures and processes used to manufacture materials. This course is not eligible for Credit/D/Fail grading. [1-0-5]\nEquivalency: MMAT 466.\r\n\t"
+    },
+    {
+        "name": "MTRL 467",
+        "desc": "Design projects to illustrate the full spectrum of design encountered in Metals and Materials Engineering including the design of components, structures and processes used to manufacture materials. This course is not eligible for Credit/D/Fail grading. [1-0-5]\nEquivalency: MMAT 467.\r\n\t"
+    },
+    {
+        "name": "MTRL 469",
+        "desc": "Various casting technologies related to the automotive and aerospace sectorswill be covered, including upstream liquid metal processing. [2-0-2]\n",
+        "prereqs": "All of APSC 278, MTRL 378.",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 471",
+        "desc": "Introduction to nanomaterials in the form of fibres and composites, including processing, structure, characterization methods, properties, and modelling. Credit will only be given for one of MTRL 471 or MTRL 571. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n"
+    },
+    {
+        "name": "MTRL 472",
+        "desc": "Case studies addressing temperature modelling in welding and joining, material selection for welds and joints, calculation of properties for welds and joints, mechanical analysis of joints, and design of welding and joining procedures. This course is not eligible for Credit/D/Fail grading. [2-0-2]\n",
+        "prereqs": "All of MTRL 365, MTRL 378.",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 475",
+        "desc": "Follows the production of metallurgical products, focusing on process design models used to describe solidification, recrystallization, and precipitation. This course is not eligible for Credit/D/Fail grading. [2-0-2]\n",
+        "prereqs": "All of MTRL 365, MTRL 378.",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 478",
+        "desc": "Semiconductor materials, MOSFET structure, operation and applications in digital circuits, fabrication techniques, basic mask and fabrication flow design and semiconductor fabrication process theories at an entry level. [3-0-0]\n"
+    },
+    {
+        "name": "MTRL 485",
+        "desc": "Failure by excess deformation, fracture, fatigue, and environmental effects. Failure theories and case studies of engineering failures. This course is not eligible for Credit/D/Fail grading. [2-0-2]\n",
+        "prereqs": "All of MECH 260, MTRL 365.",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 486",
+        "desc": "Principles of test methods; inspection techniques and equipment; quantitative flaw evaluation; reliability analysis. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nEquivalency: MMAT 486.\r\n\t"
+    },
+    {
+        "name": "MTRL 494",
+        "desc": "Understanding the properties and the mechanical behaviour of composite materials with emphasis on analysis, design, and manufacturing. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n"
+    },
+    {
+        "name": "MTRL 495",
+        "desc": "Engineered materials in medical applications with an emphasis on material properties, functionality, design, and material response in the biological environment. This course is not eligible for Credit/D/Fail grading. [2-0-2]\n",
+        "prereqs": "APSC 278.\nEquivalency: MMAT 495.\r\n",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 496",
+        "desc": "Concepts of life cycle analysis, circular economy and critical materials.  Project-based introduction to key concepts, calculations, and design. This course is not eligible for Credit/D/Fail grading. [2-0-2]\n",
+        "prereqs": "MTRL 250.",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 497",
+        "desc": " This course is not eligible for Credit/D/Fail grading.\n"
+    },
+    {
+        "name": "MTRL 512",
+        "desc": "Phase transformations and strengthening of advanced engineering alloys (e.g. steels, aluminum, magnesium and titanium alloys) with particular emphasis on structure-property development relevant to the latest materials manufacturing technologies. This course is not eligible for Credit/D/Fail grading. \n"
+    },
+    {
+        "name": "MTRL 515",
+        "desc": "Mathematical modelling of manufacturing processes; Computer Aided Engineering tools; application examples will be drawn from a range of manufacturing operations. This course is not eligible for Credit/D/Fail grading. \n"
+    },
+    {
+        "name": "MTRL 517",
+        "desc": "The full spectrum of design encountered including the design of components, structures and processes used to manufacture materials. This course is not eligible for Credit/D/Fail grading. \n"
+    },
+    {
+        "name": "MTRL 550",
+        "desc": "Application of advanced thermodynamic principles in metallurgical processes. This course is not eligible for Credit/D/Fail grading. \n",
+        "prereqs": "One of MMAT 350, MTRL 350.\nEquivalency: MMAT 550.\r\n",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 557",
+        "desc": "The theory of solvent extraction and ion exchange, membrane separations, chemical precipitation, electrochemical separations and other techniques for aqueous metal processing, applications from the metal processing literature. This course is not eligible for Credit/D/Fail grading. \nEquivalency: MMAT 557.\r\n\t"
+    },
+    {
+        "name": "MTRL 558",
+        "desc": "Modern theories relating to corrosion and corrosion protection of metals. Thermodynamic and kinetic phenomena, corrosion measurements, inhibition and passivation, design for corrosive environments, stress corrosion cracking theory. This course is not eligible for Credit/D/Fail grading. \n",
+        "prereqs": "One of MMAT 456, MTRL 456.\nEquivalency: MMAT 558.\r\n",
+        "coreqs": ""
+    },
+    {
+        "name": "MTRL 559",
+        "desc": "Advanced thermochemical modelling of hydrometallurgical unit operations to include extraction, separation, and recovery of base metals.  Application to flow-sheet analysis. This course is not eligible for Credit/D/Fail grading. \n"
+    },
+    {
+        "name": "MTRL 562",
+        "desc": "Application of the finite element method to heat transfer and solidification; steady state and transient heat conduction; latent heat evolution and radiation. This course is not eligible for Credit/D/Fail grading. \nEquivalency: MMAT 562.\r\n\t"
+    },
+    {
+        "name": "MTRL 564",
+        "desc": "Batch leaching kinetics, leaching mechanisms; statistical methods for design of multiparticle continuous leaching reactors; coupled heat and mass balances, mixing phenomena, redox and precipitation reactions, complex mineralogical feeds; heap and dump leaching. This course is not eligible for Credit/D/Fail grading. \nEquivalency: MMAT 564.\r\n\t"
+    },
+    {
+        "name": "MTRL 570",
+        "desc": "Nature and properties of lattice imperfections; dislocation theory and its use to describe work hardening, creep, structure of grain boundaries and other phenomena. This course is not eligible for Credit/D/Fail grading. \nEquivalency: MMAT 570.\r\n\t"
+    },
+    {
+        "name": "MTRL 571",
+        "desc": "Processing and properties of nanomaterials in the context of fibrous and composite materials. Credit will only be given for one of MTRL 471, 571. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n"
+    },
+    {
+        "name": "MTRL 575",
+        "desc": "Thermodynamic and kinetic bases for the theory of phase transformations in the condensed state. This course is not eligible for Credit/D/Fail grading. \nEquivalency: MMAT 575.\r\n\t"
+    },
+    {
+        "name": "MTRL 578",
+        "desc": "Physical mechanisms of microstructure evolution; structure, energy and mobilities of grain boundaries, grain boundary segregation, precipitation, recovery, recrystallization, grain growth; microstructure engineering of steels. This course is not eligible for Credit/D/Fail grading. \nEquivalency: MMAT 578.\r\n\t"
+    },
+    {
+        "name": "MTRL 579",
+        "desc": "Practical aspects, physical models, and simulations of Si-based nanofabrication processes such as oxidation, diffusion, ion implantation, chemical vapor deposition, etching, stress techniques. Semiconductor device physic basics will also be discussed. This course is not eligible for Credit/D/Fail grading. \n"
+    },
+    {
+        "name": "MTRL 582",
+        "desc": "Complex silicate structures; ion exchange in silicates; kinetics of solid state reactions; kinetics of high temperature processes. This course is not eligible for Credit/D/Fail grading. \nEquivalency: MMAT 582.\r\n\t"
+    },
+    {
+        "name": "MTRL 585",
+        "desc": "The equations and concepts of linear elastic fracture mechanics. Fracture toughness testing, statistical theories of fracture and proof testing, stress corrosion cracking and static fatigue. Acoustic emission and other nondestructive testing methods. Case studies of large scale fractures of pressure vessels and structures. This course is not eligible for Credit/D/Fail grading. \nEquivalency: MMAT 585.\r\n\t"
+    },
+    {
+        "name": "MTRL 588",
+        "desc": "Electrochemical interfaces; electrode reactions; thermodynamics; kinetics and transport processes in electrochemical systems; experimental techniques. Electrochemical reactors and processes; modelling, design and economics. Electrochemical technologies; electrosynthesis, batteries and fuel cells. Electro-metallurgy; electrowinning and refining of metals, corrosion, leaching and cementation. This course is not eligible for Credit/D/Fail grading. \nEquivalency: CHBE 577, MMAT 588.\r\n\t"
+    },
+    {
+        "name": "MTRL 592",
+        "desc": "May be arranged on approval of the department head. This course is not eligible for Credit/D/Fail grading. \nEquivalency: MMAT 592.\r\n\t"
+    },
+    {
+        "name": "MTRL 593",
+        "desc": " This course is not eligible for Credit/D/Fail grading.\nEquivalency: MMAT 593.\r\n\t"
+    },
+    {
+        "name": "MTRL 594",
+        "desc": "Processing and properties of advanced polymer based composite materials with emphasis on analysis, design, and manufacturing. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n"
+    },
+    {
+        "name": "MTRL 595",
+        "desc": "Formation and structure-function relations of biological materials, the interaction of tissue-synthetic biomaterials, advanced biomaterials design, biomimetic processing, and current progress in drug delivery systems and biomedical devices. This course is not eligible for Credit/D/Fail grading. \nEquivalency: MMAT 595.\r\n\t"
+    },
+    {
+        "name": "MTRL 596",
+        "desc": " This course is not eligible for Credit/D/Fail grading.\nEquivalency: MMAT 596.\r\n\t"
+    },
+    {
+        "name": "MTRL 597",
+        "desc": " This course is not eligible for Credit/D/Fail grading.\nEquivalency: MMAT 597.\r\n\t"
+    },
+    {
+        "name": "MTRL 598",
+        "desc": "Presentation and discussion of current topics in metals and materials research. A required course for graduate students in metals and materials which carries no academic credit. \nEquivalency: MMAT 598.\r\n\t"
+    },
+    {
+        "name": "MTRL 599",
+        "desc": "For M.A.Sc. Degree. Research studies in chemical metallurgy, physical metallurgy, or ceramics. This course is not eligible for Credit/D/Fail grading. \nEquivalency: MMAT 599.\r\n\t"
+    },
+    {
+        "name": "MTRL 699",
+        "desc": "\nEquivalency: MMAT 699.\r\n\t"
+    }
+]
