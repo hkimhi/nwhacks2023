@@ -1,170 +1,226 @@
 [
     {
         "name": "EECE 500",
-        "coreqs": "",
-        "prereqs": "Enrolment in the PhD degree program in ECE",
-        "postreqs": ""
+        "title": "Introduction to the Academic Enterprise",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 501",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mathematical Methods for Electrical and Computer Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 502",
-        "coreqs": "",
-        "prereqs": "by permission of the instructor",
-        "postreqs": ""
+        "title": "Cybersecurity Research Seminar",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 510",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Strategy and Leadership for Engineers",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 541",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Multimedia Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 549",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Dynamic Modelling of Electric Machines and Controls",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 550",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Power Electronic Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 553",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Power Systems Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 554",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Power System Control and Dynamics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 555",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Renewable and Efficient Electric Power Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 560",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Network Analysis and Simulation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 561",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Alternative Energy Sources",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 562",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Statistical Signal Processing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 563",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Wireless Communication Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 564",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Signal Detection, Estimation, and Learning",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 565",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Communication Networks",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 566",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Information and Coding Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 567",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Power System Dynamics and Stability",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 568",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "From Exploring to Building Machine Learning Models",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 569",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mobile Communications Networks",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 570",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Fundamentals of Visual Computing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 571",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Electrical Engineering Seminar and Special Problems",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 581",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Microsystems Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 585",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Electromagnetic Compatibility",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 589",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Robotics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 597",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Directed Research",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 599",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Thesis",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EECE 699",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Doctoral Dissertation",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     }
 ]

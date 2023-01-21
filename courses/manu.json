@@ -1,122 +1,215 @@
 [
     {
         "name": "MANU 201",
-        "coreqs": "",
-        "prereqs": "One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150",
-        "postreqs": ""
+        "title": "Technical Communication",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 176",
+            "ENGL 110",
+            "ENGL 111",
+            "ENGL 112",
+            "ENGL 120",
+            "ENGL 121",
+            "WRDS 150"
+        ],
+        "postreqs": []
     },
     {
         "name": "MANU 230",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Manufacturing Engineering Laboratory",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MANU 261",
-        "coreqs": "MATH 255",
-        "prereqs": "All of MATH 101, MATH 152, PHYS 158",
-        "postreqs": ""
+        "title": "Thermodynamics",
+        "credits": 3,
+        "coreqs": [
+            "MATH 255"
+        ],
+        "prereqs": [
+            "MATH 101",
+            "MATH 152",
+            "PHYS 158"
+        ],
+        "postreqs": []
     },
     {
         "name": "MANU 265",
-        "coreqs": "MATH 255",
-        "prereqs": "All of MATH 101, MATH 152, PHYS 158, PHYS 170",
-        "postreqs": ""
+        "title": "Machine Dynamics",
+        "credits": 3,
+        "coreqs": [
+            "MATH 255"
+        ],
+        "prereqs": [
+            "MATH 101",
+            "MATH 152",
+            "PHYS 158",
+            "PHYS 170"
+        ],
+        "postreqs": []
     },
     {
         "name": "MANU 270",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Production Systems Management I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MANU 330",
-        "coreqs": "",
-        "prereqs": "MANU 230",
-        "postreqs": ""
+        "title": "Manufacturing Engineering Project I",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [
+            "MANU 230"
+        ],
+        "postreqs": []
     },
     {
         "name": "MANU 370",
-        "coreqs": "",
-        "prereqs": "MANU 270",
-        "postreqs": ""
+        "title": "Production Systems Management II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MANU 270"
+        ],
+        "postreqs": []
     },
     {
         "name": "MANU 378",
-        "coreqs": "",
-        "prereqs": "APSC 278",
-        "postreqs": ""
+        "title": "Engineering Materials II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 278"
+        ],
+        "postreqs": []
     },
     {
         "name": "MANU 380",
-        "coreqs": "",
-        "prereqs": "All of APSC 278, APSC 279, MTRL 264, MECH 260 and one of MANU 261, MTRL 250 and one of MECH 280, MTRL 263",
-        "postreqs": ""
+        "title": "Manufacturing Processes I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 278",
+            "APSC 279",
+            "MTRL 264",
+            "MECH 260",
+            "MANU 261",
+            "MTRL 250",
+            "MECH 280",
+            "MTRL 263"
+        ],
+        "postreqs": []
     },
     {
         "name": "MANU 386",
-        "coreqs": "MANU 330",
-        "prereqs": "All of MANU 265, MATH 255",
-        "postreqs": ""
+        "title": "Industrial Automation",
+        "credits": 3,
+        "coreqs": [
+            "MANU 330"
+        ],
+        "prereqs": [
+            "MANU 265",
+            "MATH 255"
+        ],
+        "postreqs": []
     },
     {
         "name": "MANU 399",
-        "coreqs": "",
-        "prereqs": "Third-year standing",
-        "postreqs": ""
+        "title": "Special Topics in Manufacturing Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MANU 400",
-        "coreqs": "",
-        "prereqs": "TBD\n",
-        "postreqs": ""
+        "title": "Topics in Manufacturing Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MANU 430",
-        "coreqs": "",
-        "prereqs": "MANU 230",
-        "postreqs": ""
+        "title": "Manufacturing Design Capstone Project",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [
+            "MANU 230"
+        ],
+        "postreqs": []
     },
     {
         "name": "MANU 455",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Factory Planning",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MANU 465",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "AI and Machine Learning Applications in Manufacturing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MANU 480",
-        "coreqs": "",
-        "prereqs": "MANU 380",
-        "postreqs": ""
+        "title": "Manufacturing Processes II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MANU 380"
+        ],
+        "postreqs": []
     },
     {
         "name": "MANU 481",
-        "coreqs": "",
-        "prereqs": "MANU 380",
-        "postreqs": ""
+        "title": "Manufacturing Processes III",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MANU 380"
+        ],
+        "postreqs": []
     },
     {
         "name": "MANU 485",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Metal Cutting and Machine Tool Vibrations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MANU 487",
-        "coreqs": "MANU 430",
-        "prereqs": "All of MANU 265, MATH 255, MECH 368",
-        "postreqs": ""
+        "title": "Machine and Part Metrology",
+        "credits": 3,
+        "coreqs": [
+            "MANU 430"
+        ],
+        "prereqs": [
+            "MANU 265",
+            "MATH 255",
+            "MECH 368"
+        ],
+        "postreqs": []
     },
     {
         "name": "MANU 499",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing\n",
-        "postreqs": ""
+        "title": "Special Topics in Manufacturing Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     }
 ]

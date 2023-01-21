@@ -30,15 +30,18 @@ with open("courses.json") as infile:
     all_courses = json.load(infile)
 
     for course in all_courses:
-        prereqs = course['prereqs'].split('.')[0]
-        matches = re.findall(r"[A-Z]{3,4} [0-9]{3}", prereqs)
-        
+        prereqs = course['prereqs']
+
         for curr_course in all_courses:
-            if(curr_course['name'] in matches):
-                if(curr_course['postreqs'] == ''):
-                    curr_course['postreqs'] = course['name']
-                else:
-                    curr_course['postreqs'] += f", {course['name']}"
+            if(curr_course['name'] in prereqs):
+                curr_course['postreqs'].append(course['name'])
+        
+        # for curr_course in all_courses:
+        #     if(curr_course['name'] in matches):
+        #         if(curr_course['postreqs'] == ''):
+        #             curr_course['postreqs'] = course['name']
+        #         else:
+        #             curr_course['postreqs'] += f", {course['name']}"
 
     # postreqs should be added back, update courses.json file
     

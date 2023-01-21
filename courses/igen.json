@@ -1,50 +1,92 @@
 [
     {
         "name": "IGEN 201",
-        "coreqs": "IGEN 230",
-        "prereqs": "One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150",
-        "postreqs": ""
+        "title": "Integrated Technical Communication",
+        "credits": 3,
+        "coreqs": [
+            "IGEN 230"
+        ],
+        "prereqs": [
+            "APSC 176",
+            "ENGL 110",
+            "ENGL 111",
+            "ENGL 112",
+            "ENGL 120",
+            "ENGL 121",
+            "WRDS 150"
+        ],
+        "postreqs": []
     },
     {
         "name": "IGEN 230",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Engineering Design",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "IGEN 330",
-        "coreqs": "",
-        "prereqs": "Third-year standing in the Integrated Engineering program",
-        "postreqs": ""
+        "title": "Intermediate Engineering Design",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "IGEN 340",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Technology Entrepreneurship",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "IGEN 430",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Engineering Design Projects",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "IGEN 450",
-        "coreqs": "",
-        "prereqs": "Either (a) MECH 221 or (b) APSC 278 and one of CIVL 215, MTRL 263 and one of CIVL 230, MECH 260",
-        "postreqs": ""
+        "title": "Pipeline Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 221",
+            "APSC 278",
+            "CIVL 215",
+            "MTRL 263",
+            "CIVL 230",
+            "MECH 260"
+        ],
+        "postreqs": []
     },
     {
         "name": "IGEN 451",
-        "coreqs": "",
-        "prereqs": "Either (a) MECH 221 or (b) APSC 278 and one of CIVL 215, MTRL 263 and one of CIVL 230, MECH 260",
-        "postreqs": ""
+        "title": "Pipeline Systems and Infrastructure",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 221",
+            "APSC 278",
+            "CIVL 215",
+            "MTRL 263",
+            "CIVL 230",
+            "MECH 260"
+        ],
+        "postreqs": []
     },
     {
         "name": "IGEN 452",
-        "coreqs": "",
-        "prereqs": "IGEN 450",
-        "postreqs": ""
+        "title": "Pipeline Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "IGEN 450"
+        ],
+        "postreqs": []
     }
 ]

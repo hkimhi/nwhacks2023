@@ -1,362 +1,521 @@
 [
     {
         "name": "APSC 100",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Engineering I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 101",
-        "coreqs": "",
-        "prereqs": "APSC 100",
-        "postreqs": ""
+        "title": "Introduction to Engineering II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 100"
+        ],
+        "postreqs": []
     },
     {
         "name": "APSC 107",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Engineering Co-op",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 110",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Education Work Term I",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 122",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Engineering",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 150",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Engineering Case Studies",
+        "credits": 5,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 151",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Computer-Aided Engineering Graphics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 160",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Computation in Engineering Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 172",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Engineering Analysis I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 173",
-        "coreqs": "",
-        "prereqs": "APSC 172",
-        "postreqs": ""
+        "title": "Engineering Analysis II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 172"
+        ],
+        "postreqs": []
     },
     {
         "name": "APSC 176",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Engineering Communication",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 178",
-        "coreqs": "APSC 173",
-        "prereqs": "APSC 172",
-        "postreqs": ""
+        "title": "Electricity, Magnetism, and Waves",
+        "credits": 4,
+        "coreqs": [
+            "APSC 173"
+        ],
+        "prereqs": [
+            "APSC 172"
+        ],
+        "postreqs": []
     },
     {
         "name": "APSC 179",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Linear Algebra for Engineers",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 180",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Statics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 182",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Matter and Energy I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 183",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Matter and Energy II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 201",
-        "coreqs": "",
-        "prereqs": "One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150",
-        "postreqs": ""
+        "title": "Technical Communication",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 176",
+            "ENGL 110",
+            "ENGL 111",
+            "ENGL 112",
+            "ENGL 120",
+            "ENGL 121",
+            "WRDS 150"
+        ],
+        "postreqs": []
     },
     {
         "name": "APSC 202",
-        "coreqs": "ENPH 259",
-        "prereqs": "One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121",
-        "postreqs": ""
+        "title": "Technical Communication Engineering Physics I",
+        "credits": 2,
+        "coreqs": [
+            "ENPH 259"
+        ],
+        "prereqs": [
+            "APSC 176",
+            "ENGL 110",
+            "ENGL 111",
+            "ENGL 112",
+            "ENGL 120",
+            "ENGL 121"
+        ],
+        "postreqs": []
     },
     {
         "name": "APSC 203",
-        "coreqs": "ENPH 253",
-        "prereqs": "APSC 202",
-        "postreqs": ""
+        "title": "Technical Communication Engineering Physics II",
+        "credits": 1,
+        "coreqs": [
+            "ENPH 253"
+        ],
+        "prereqs": [
+            "APSC 202"
+        ],
+        "postreqs": []
     },
     {
         "name": "APSC 210",
-        "coreqs": "",
-        "prereqs": "APSC 110",
-        "postreqs": ""
+        "title": "Co-operative Education Work Term",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 110"
+        ],
+        "postreqs": []
     },
     {
         "name": "APSC 211",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Education Work Term",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 212",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Education Work Term",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 261",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Technology and Society I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 262",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Technology and Society II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 263",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Technology and Development",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 278",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Engineering Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 279",
-        "coreqs": "APSC 278 may be taken",
-        "prereqs": "APSC 278",
-        "postreqs": ""
+        "title": "Engineering Materials Laboratory",
+        "credits": 1,
+        "coreqs": [
+            "APSC 278"
+        ],
+        "prereqs": [
+            "APSC 278"
+        ],
+        "postreqs": []
     },
     {
         "name": "APSC 310",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Education Work Term",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 311",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Education Work Term",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 312",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Education Work Term",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 331",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Intermediate Engineering Design I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 332",
-        "coreqs": "",
-        "prereqs": "APSC 331",
-        "postreqs": ""
+        "title": "Intermediate Engineering Design II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 331"
+        ],
+        "postreqs": []
     },
     {
         "name": "APSC 364",
-        "coreqs": "",
-        "prereqs": "Third-year standing",
-        "postreqs": ""
+        "title": "Applied Sustainability: UBC as a Living Laboratory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 366",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "The Art of the Possible: An Introduction to Engineering for Non-Engineers",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 367",
-        "coreqs": "",
-        "prereqs": "Restricted to students with a Major, Combined Major, Honours, Honours with, or Minor specialization in Political Science or International Relations, or at least 3rd year standing in any BASc program",
-        "postreqs": ""
+        "title": "Humanitarian Engineering: Politics and Practice",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 377",
-        "coreqs": "",
-        "prereqs": "Third-year standing in B",
-        "postreqs": ""
+        "title": "Nuclear Weapons and Arms Control",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 380",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Microcomputers",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 383",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Prototyping",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 402",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing or permission of the instructor",
-        "postreqs": ""
+        "title": "Living Language: Science and Society",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 410",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Education Work Term",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 411",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Education Work Term",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 412",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Education Work Term",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 440",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing in Engineering",
-        "postreqs": ""
+        "title": "Management Fundamentals for Technology-Based Product Marketing and Development",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 450",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Professional Engineering Practice",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 461",
-        "coreqs": "",
-        "prereqs": "Completion of third year",
-        "postreqs": ""
+        "title": "Global Engineering Leadership",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 462",
-        "coreqs": "",
-        "prereqs": "APSC 461 and registration with the Go Global ISL program and successful completion of Go Global program requirements",
-        "postreqs": ""
+        "title": "Global Engineering Leadership Practicum",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 461"
+        ],
+        "postreqs": []
     },
     {
         "name": "APSC 486",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "New Venture Design",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 496",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Interdisciplinary Engineering Design Project",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 498",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Directed Studies",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 510",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Technology Internship",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 511",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Technology Management Colloquium",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 512",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Intellectual Property Management and Technology Commercialization",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 520",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-op Work Term I",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 521",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-op Work Term II",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 522",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-op Work Term III",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 540",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Entrepreneurial Thinking for Applied Scientists",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 541",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Technology Entrepreneurship for Engineers",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 542",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Leadership for Applied Scientists",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 597",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Project for M.Eng. Studies",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "APSC 598",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     }
 ]

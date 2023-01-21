@@ -1,488 +1,724 @@
 [
     {
         "name": "MINE 200",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mineral Resources Engineering I",
+        "credits": 7,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 201",
-        "coreqs": "",
-        "prereqs": "MINE 200",
-        "postreqs": ""
+        "title": "Mineral Resources Engineering II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 200"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 224",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mineralogy for Mining Engineering",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 291",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Mining",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 292",
-        "coreqs": "",
-        "prereqs": "MINE 224",
-        "postreqs": ""
+        "title": "Introduction to Mineral Processing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 224"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 293",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Seminar",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 302",
-        "coreqs": "",
-        "prereqs": "MINE 291",
-        "postreqs": ""
+        "title": "Underground Mining and Design",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 291"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 303",
-        "coreqs": "",
-        "prereqs": "CIVL 210 and one of MECH 260, CIVL 230",
-        "postreqs": ""
+        "title": "Rock Mechanics Fundamentals",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 210",
+            "MECH 260",
+            "CIVL 230"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 304",
-        "coreqs": "",
-        "prereqs": "MINE 291",
-        "postreqs": ""
+        "title": "Rock Fragmentation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 291"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 310",
-        "coreqs": "",
-        "prereqs": "All of MINE 291, MINE 292",
-        "postreqs": ""
+        "title": "Surface Mining and Design",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 291",
+            "MINE 292"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 331",
-        "coreqs": "",
-        "prereqs": "Third Year Standing",
-        "postreqs": ""
+        "title": "Physical Mineral Processes",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 333",
-        "coreqs": "",
-        "prereqs": "Third Year Standing",
-        "postreqs": ""
+        "title": "Flotation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 350",
-        "coreqs": "",
-        "prereqs": "STAT 251",
-        "postreqs": ""
+        "title": "Modelling and Simulation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "STAT 251"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 380",
-        "coreqs": "",
-        "prereqs": "CIVL 210",
-        "postreqs": ""
+        "title": "Mine Waste Management",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 210"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 393",
-        "coreqs": "",
-        "prereqs": "Third-year standing in Mining Engineering",
-        "postreqs": ""
+        "title": "Seminar",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 395",
-        "coreqs": "STAT 251",
-        "prereqs": "All of MINE 291, MINE 292",
-        "postreqs": ""
+        "title": "Mineral Deposit Modelling",
+        "credits": 3,
+        "coreqs": [
+            "STAT 251"
+        ],
+        "prereqs": [
+            "MINE 291",
+            "MINE 292"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 396",
-        "coreqs": "",
-        "prereqs": "Second-year standing in Engineering",
-        "postreqs": ""
+        "title": "Engineering Economics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 402",
-        "coreqs": "",
-        "prereqs": "MINE 291",
-        "postreqs": ""
+        "title": "Mine Ventilation and Occupational Health and Safety",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 291"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 403",
-        "coreqs": "",
-        "prereqs": "One of MINE 303, MINE 305",
-        "postreqs": ""
+        "title": "Rock Mechanics Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 303",
+            "MINE 305"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 404",
-        "coreqs": "",
-        "prereqs": "Third- or Fourth-year standing in Mining Engineering",
-        "postreqs": ""
+        "title": "Strategic Issues in Mining",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 405",
-        "coreqs": "",
-        "prereqs": "Third-year standing",
-        "postreqs": ""
+        "title": "Introduction to Risk Management for Mining and Large Industrial Projects",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 406",
-        "coreqs": "",
-        "prereqs": "MINE 396",
-        "postreqs": ""
+        "title": "Mine Project Valuation and Risk Assessment",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 396"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 420",
-        "coreqs": "",
-        "prereqs": "STAT 251",
-        "postreqs": ""
+        "title": "Applied Geostatistics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "STAT 251"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 432",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mineral Process Control",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 434",
-        "coreqs": "",
-        "prereqs": "MINE 331",
-        "postreqs": ""
+        "title": "Processing Precious Metal Ores",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 331"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 435",
-        "coreqs": "",
-        "prereqs": "MINE 331",
-        "postreqs": ""
+        "title": "Plant and Process Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 331"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 436",
-        "coreqs": "",
-        "prereqs": "MATH 255 and one of MECH 280, CIVL 215",
-        "postreqs": ""
+        "title": "Industrial Mixing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 255",
+            "MECH 280",
+            "CIVL 215"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 438",
-        "coreqs": "",
-        "prereqs": "MINE 331",
-        "postreqs": ""
+        "title": "Advanced Process Mineralogy",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 331"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 455",
-        "coreqs": "",
-        "prereqs": "One of MINE 291, MINE 292",
-        "postreqs": ""
+        "title": "Mine Water Management",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 291",
+            "MINE 292"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 462",
-        "coreqs": "",
-        "prereqs": "All of MINE 292, MINE 331",
-        "postreqs": ""
+        "title": "Coal Preparation Technology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 292",
+            "MINE 331"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 465",
-        "coreqs": "",
-        "prereqs": "One of MINE 302, MINE 310",
-        "postreqs": ""
+        "title": "Materials Handling",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 302",
+            "MINE 310"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 470",
-        "coreqs": "",
-        "prereqs": "Third-year standing",
-        "postreqs": ""
+        "title": "Indigenous Peoples and Mining in Canada",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 482",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing",
-        "postreqs": ""
+        "title": "Maintenance Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 485",
-        "coreqs": "",
-        "prereqs": "Two of MINE 302, MINE 303, EOSC 323",
-        "postreqs": ""
+        "title": "Cave Mining Systems: Design and Planning",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 302",
+            "MINE 303",
+            "EOSC 323"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 486",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mining and The Environment",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 488",
-        "coreqs": "",
-        "prereqs": "MINE 310",
-        "postreqs": ""
+        "title": "Heavy Oil Sand Mining and Processing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 310"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 491",
-        "coreqs": "",
-        "prereqs": "All of MINE 302, MINE 303, MINE 304, MINE 310, MINE 331, MINE 333, MINE 350, MINE 396",
-        "postreqs": ""
+        "title": "Mine and Plant Engineering Design Feasibility Study",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 302",
+            "MINE 303",
+            "MINE 304",
+            "MINE 310",
+            "MINE 331",
+            "MINE 333",
+            "MINE 350",
+            "MINE 396"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 493",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing in Mining Engineering",
-        "postreqs": ""
+        "title": "Seminar",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 497",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Directed Studies",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 501",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics for Engineers in the Mining Industry",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 504",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Rock Fragmentation",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 505",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Topics in Rock Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 506",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mining Methods",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 507",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Block Caving Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 508",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Integrated Mining and Processing Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 509",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mine Ventilation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 515",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Future of Mining",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 520",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Coal Preparation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 521",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Flotation Technology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 522",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Processing of Mineral Fines",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 524",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Processing of Precious Metal Ores",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 526",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mathematical Modelling of Mineral Processes",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 527",
-        "coreqs": "",
-        "prereqs": "One of MINE 526, MINE 575",
-        "postreqs": ""
+        "title": "Simulation and Optimization of Mineral Processes",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 526",
+            "MINE 575"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 529",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Rheology of Mineral Suspensions",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 533",
-        "coreqs": "",
-        "prereqs": "Permission of instructor is required",
-        "postreqs": ""
+        "title": "Treatment of Mineral Industry Effluents",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 540",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Acid Rock Drainage",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 541",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Environmental Risk Assessments in Relation to Mining",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 544",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mining Environment Case Studies",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 547",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Industrial Expert Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 551",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Applied Underground Rock Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 552",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mining Geostatistics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 553",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Modelling of Industrial Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 554",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mine Economics and Finance",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 555",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mining and Society",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 559",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Indigenous Peoples and Mining in Canada",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 581",
-        "coreqs": "",
-        "prereqs": "Permission of instructor is required",
-        "postreqs": ""
+        "title": "Safety of Tailings Storage Facilities",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 582",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Maintenance Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 584",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Energy from the Earth: Renewable Versus Conventional",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 585",
-        "coreqs": "",
-        "prereqs": "MINE 581",
-        "postreqs": ""
+        "title": "Risk Management of Tailings Storage Facilities",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 581"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 586",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Mine Waste Management",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 587",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Mine Site Management",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 588",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Risk Assessment for Mine Waste Management",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 589",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mine Waste Management Case Studies",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 590",
-        "coreqs": "",
-        "prereqs": "Permission of instructor is required",
-        "postreqs": ""
+        "title": "Special Advanced Topics",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 591",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Communication Skills and Workplace Readiness",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 592",
-        "coreqs": "",
-        "prereqs": "MINE 591",
-        "postreqs": ""
+        "title": "Mining Industry Internship",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MINE 591"
+        ],
+        "postreqs": []
     },
     {
         "name": "MINE 597",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Engineering Project",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 598",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Seminar",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 599",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "M.A.Sc. Thesis",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 698",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Seminar",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MINE 699",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Doctoral Dissertation",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     }
 ]

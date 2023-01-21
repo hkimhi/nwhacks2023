@@ -1,668 +1,1123 @@
 [
     {
         "name": "CPSC 100",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Computational Thinking",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 103",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Systematic Program Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 107",
-        "coreqs": "",
-        "prereqs": "CPSC 103",
-        "postreqs": ""
+        "title": "Systematic Program Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 103"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 110",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Computation, Programs, and Programming",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 121",
-        "coreqs": "One of CPSC 107, CPSC 110",
-        "prereqs": "Principles of Mathematics 12 or Pre-calculus 12",
-        "postreqs": ""
+        "title": "Models of Computation",
+        "credits": 4,
+        "coreqs": [
+            "CPSC 107",
+            "CPSC 110"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 203",
-        "coreqs": "",
-        "prereqs": "One of CPSC 103, CPSC 110, EOSC 211, MATH 210, PHYS 210, COMM 337",
-        "postreqs": ""
+        "title": "Programming, Problem Solving, and Algorithms",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 103",
+            "CPSC 110",
+            "EOSC 211",
+            "MATH 210",
+            "PHYS 210",
+            "COMM 337"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 210",
-        "coreqs": "",
-        "prereqs": "One of CPSC 107, CPSC 110",
-        "postreqs": ""
+        "title": "Software Construction",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 107",
+            "CPSC 110"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 213",
-        "coreqs": "",
-        "prereqs": "All of CPSC 121, CPSC 210",
-        "postreqs": ""
+        "title": "Introduction to Computer Systems",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 121",
+            "CPSC 210"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 221",
-        "coreqs": "",
-        "prereqs": "One of CPSC 210, CPEN 221 and one of CPSC 121, MATH 220",
-        "postreqs": ""
+        "title": "Basic Algorithms and Data Structures",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 210",
+            "CPEN 221",
+            "CPSC 121",
+            "MATH 220"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 259",
-        "coreqs": "",
-        "prereqs": "APSC 160",
-        "postreqs": ""
+        "title": "Data Structures and Algorithms for Electrical Engineers",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 160"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 261",
-        "coreqs": "",
-        "prereqs": "One of EECE 259, CPEN 211 and one of EECE 210, CPEN 221",
-        "postreqs": ""
+        "title": "Basics of Computer Systems",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "EECE 259",
+            "CPEN 211",
+            "EECE 210",
+            "CPEN 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 298",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Work Placement I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 299",
-        "coreqs": "",
-        "prereqs": "CPSC 298",
-        "postreqs": ""
+        "title": "Co-operative Work Placement II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 298"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 301",
-        "coreqs": "",
-        "prereqs": "Third-year standing or higher",
-        "postreqs": ""
+        "title": "Computing in the Life Sciences",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 302",
-        "coreqs": "",
-        "prereqs": "One of CPSC 103, CPSC 110, CPEN 221, EOSC 211, PHYS 210 and one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223",
-        "postreqs": ""
+        "title": "Numerical Computation for Algebraic Problems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 103",
+            "CPSC 110",
+            "CPEN 221",
+            "EOSC 211",
+            "PHYS 210",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 303",
-        "coreqs": "",
-        "prereqs": "One of CPSC 103, CPSC 110, CPEN 221, EOSC 211, PHYS 210 and one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223",
-        "postreqs": ""
+        "title": "Numerical Approximation and Discretization",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 103",
+            "CPSC 110",
+            "CPEN 221",
+            "EOSC 211",
+            "PHYS 210",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 304",
-        "coreqs": "",
-        "prereqs": "CPSC 221",
-        "postreqs": ""
+        "title": "Introduction to Relational Databases",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 310",
-        "coreqs": "",
-        "prereqs": "All of CPSC 213, CPSC 221",
-        "postreqs": ""
+        "title": "Introduction to Software Engineering",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 213",
+            "CPSC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 311",
-        "coreqs": "",
-        "prereqs": "CPSC 210",
-        "postreqs": ""
+        "title": "Definition of Programming Languages",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 210"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 312",
-        "coreqs": "",
-        "prereqs": "One of CPSC 210, CPEN 221",
-        "postreqs": ""
+        "title": "Functional and Logic Programming",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 210",
+            "CPEN 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 313",
-        "coreqs": "",
-        "prereqs": "All of CPSC 213, CPSC 221",
-        "postreqs": ""
+        "title": "Computer Hardware and Operating Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 213",
+            "CPSC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 314",
-        "coreqs": "",
-        "prereqs": "CPSC 221 and one of MATH 200, MATH 217, MATH 226, MATH 253 and one of MATH 152, MATH 221, MATH 223",
-        "postreqs": ""
+        "title": "Computer Graphics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 221",
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 317",
-        "coreqs": "",
-        "prereqs": "All of CPSC 213, CPSC 221",
-        "postreqs": ""
+        "title": "Internet Computing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 213",
+            "CPSC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 319",
-        "coreqs": "",
-        "prereqs": "CPSC 310",
-        "postreqs": ""
+        "title": "Software Engineering Project",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 310"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 320",
-        "coreqs": "",
-        "prereqs": "CPSC 221 and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above",
-        "postreqs": ""
+        "title": "Intermediate Algorithm Design and Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 221",
+            "COMM 291",
+            "BIOL 300"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 322",
-        "coreqs": "",
-        "prereqs": "CPSC 221",
-        "postreqs": ""
+        "title": "Introduction to Artificial Intelligence",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 330",
-        "coreqs": "",
-        "prereqs": "Either (a) one of CPSC 203, CPSC 210, CPEN 221 or (b) MATH 210 and one of CPSC 107, CPSC 110",
-        "postreqs": ""
+        "title": "Applied Machine Learning",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 203",
+            "CPSC 210",
+            "CPEN 221",
+            "MATH 210",
+            "CPSC 107",
+            "CPSC 110"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 340",
-        "coreqs": "",
-        "prereqs": "CPSC 221 and one of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254 and one of STAT 241, STAT 251, ECON 325, ECON 327, MATH 302, STAT 302, MATH 318",
-        "postreqs": ""
+        "title": "Machine Learning and Data Mining",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 221",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223",
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254",
+            "STAT 241",
+            "STAT 251",
+            "ECON 325",
+            "ECON 327",
+            "MATH 302",
+            "STAT 302",
+            "MATH 318"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 344",
-        "coreqs": "",
-        "prereqs": "One of CPSC 210, CPEN 221",
-        "postreqs": ""
+        "title": "Introduction to Human Computer Interaction Methods",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 210",
+            "CPEN 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 349",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Honours Research Seminar",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 368",
-        "coreqs": "",
-        "prereqs": "One of CPSC 203, CPSC 210, CPEN 221",
-        "postreqs": ""
+        "title": "Databases in Data Science",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 203",
+            "CPSC 210",
+            "CPEN 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 398",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Work Placement III",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 399",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Work Placement IV",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 402",
-        "coreqs": "",
-        "prereqs": "One of CPSC 302, CPSC 303, MATH 307",
-        "postreqs": ""
+        "title": "Numerical Linear Algebra",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 302",
+            "CPSC 303",
+            "MATH 307"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 404",
-        "coreqs": "",
-        "prereqs": "CPSC 304 and one of CPSC 213, CPSC 261, CPEN 212",
-        "postreqs": ""
+        "title": "Advanced Relational Databases",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 304",
+            "CPSC 213",
+            "CPSC 261",
+            "CPEN 212"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 406",
-        "coreqs": "",
-        "prereqs": "One of CPSC 302, CPSC 303, MATH 307",
-        "postreqs": ""
+        "title": "Computational Optimization",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 302",
+            "CPSC 303",
+            "MATH 307"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 410",
-        "coreqs": "",
-        "prereqs": "Either (a) CPSC 310 or (b) all of CPEN 321, CPEN 331",
-        "postreqs": ""
+        "title": "Advanced Software Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 310",
+            "CPEN 321",
+            "CPEN 331"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 411",
-        "coreqs": "",
-        "prereqs": "All of CPSC 213, CPSC 221, CPSC 311",
-        "postreqs": ""
+        "title": "Introduction to Compiler Construction",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 213",
+            "CPSC 221",
+            "CPSC 311"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 415",
-        "coreqs": "",
-        "prereqs": "One of CPSC 313, CPEN 331",
-        "postreqs": ""
+        "title": "Advanced Operating Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 313",
+            "CPEN 331"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 416",
-        "coreqs": "",
-        "prereqs": "One of CPSC 313, CPEN 331 and one of CPSC 317, ELEC 331",
-        "postreqs": ""
+        "title": "Distributed Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 313",
+            "CPEN 331",
+            "CPSC 317",
+            "ELEC 331"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 417",
-        "coreqs": "",
-        "prereqs": "All of CPSC 313, CPSC 317 and one of STAT 200, STAT 201, STAT 241, STAT 251",
-        "postreqs": ""
+        "title": "Computer Networking",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 313",
+            "CPSC 317",
+            "STAT 200",
+            "STAT 201",
+            "STAT 241",
+            "STAT 251"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 418",
-        "coreqs": "",
-        "prereqs": "CPSC 320 and one of CPSC 261, CPSC 313, CPEN 212, CPEN 411",
-        "postreqs": ""
+        "title": "Parallel Computation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 320",
+            "CPSC 261",
+            "CPSC 313",
+            "CPEN 212",
+            "CPEN 411"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 420",
-        "coreqs": "",
-        "prereqs": "CPSC 320",
-        "postreqs": ""
+        "title": "Advanced Algorithms Design and Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 320"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 421",
-        "coreqs": "",
-        "prereqs": "CPSC 221",
-        "postreqs": ""
+        "title": "Introduction to Theory of Computing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 422",
-        "coreqs": "",
-        "prereqs": "CPSC 322",
-        "postreqs": ""
+        "title": "Intelligent Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 322"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 424",
-        "coreqs": "",
-        "prereqs": "CPSC 320 and one of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253",
-        "postreqs": ""
+        "title": "Geometric Modelling",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 320",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223",
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 425",
-        "coreqs": "",
-        "prereqs": "All of CPSC 221, MATH 200, MATH 221",
-        "postreqs": ""
+        "title": "Computer Vision",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 221",
+            "MATH 200",
+            "MATH 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 426",
-        "coreqs": "",
-        "prereqs": "CPSC 314",
-        "postreqs": ""
+        "title": "Computer Animation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 314"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 427",
-        "coreqs": "",
-        "prereqs": "CPSC 221 and one of MATH 200, MATH 217, MATH 226, MATH 253 and one of MATH 152, MATH 221, MATH 223",
-        "postreqs": ""
+        "title": "Video Game Programming",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 221",
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 430",
-        "coreqs": "",
-        "prereqs": "3 credits of Computer Science and at least third-year standing",
-        "postreqs": ""
+        "title": "Computers and Society",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 436",
-        "coreqs": "",
-        "prereqs": "Third-year standing in a Computer Science or Computer Engineering specialization, and permission of the department",
-        "postreqs": ""
+        "title": "Topics in Computer Science",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 440",
-        "coreqs": "",
-        "prereqs": "All of CPSC 320, CPSC 340",
-        "postreqs": ""
+        "title": "Advanced Machine Learning",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 320",
+            "CPSC 340"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 444",
-        "coreqs": "",
-        "prereqs": "CPSC 344 and one of STAT 200, STAT 201, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, GEOG 374, KIN  206, KIN  371, POLI 380, PSYC 218, PSYC 278, PSYC 366, SOCI 328",
-        "postreqs": ""
+        "title": "Advanced Methods for Human Computer Interaction",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 344",
+            "STAT 200",
+            "STAT 201",
+            "STAT 203",
+            "STAT 241",
+            "STAT 251",
+            "BIOL 300",
+            "COMM 291",
+            "ECON 325",
+            "ECON 327",
+            "FRST 231",
+            "GEOG 374",
+            "POLI 380",
+            "PSYC 218",
+            "PSYC 278",
+            "PSYC 366",
+            "SOCI 328"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 445",
-        "coreqs": "",
-        "prereqs": "CPSC 320 and either BMEG 250 or six credits of BIOL beyond BIOL 111",
-        "postreqs": ""
+        "title": "Algorithms in Bioinformatics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 320",
+            "BMEG 250",
+            "BIOL 111"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 447",
-        "coreqs": "",
-        "prereqs": "One of CPSC 310, CPEN 321",
-        "postreqs": ""
+        "title": "Introduction to Visualization",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 310",
+            "CPEN 321"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 448",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Directed Studies in Computer Science",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 449",
-        "coreqs": "",
-        "prereqs": "CPSC 349",
-        "postreqs": ""
+        "title": "Honours Thesis",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 349"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 455",
-        "coreqs": "",
-        "prereqs": "One of CPSC 310, CPEN 321",
-        "postreqs": ""
+        "title": "Applied Industry Practices",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 310",
+            "CPEN 321"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 490",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Student Directed Seminars",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 491",
-        "coreqs": "",
-        "prereqs": "All of CPSC 221, CPSC 310, CPSC 344 and Third-year standing",
-        "postreqs": ""
+        "title": "Interactive Digital Media Practicum",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 221",
+            "CPSC 310",
+            "CPSC 344"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPSC 499",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Work Placement V",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 500",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Fundamentals of Algorithm Design and Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 501",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Theory of Automata, Formal Languages and Computability",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 502",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Artificial Intelligence I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 503",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Computational Linguistics I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 504",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Data Management",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 505",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Image Understanding I: Image Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 506",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Complexity of Computation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 507",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Software Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 508",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Operating Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 509",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Programming Language Principles",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 511",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Implementation of Programming Languages",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 513",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Formal Verification and Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 514",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Computer Graphics: Rendering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 515",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Computational Robotics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 516",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Computational Geometry",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 517",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Sparse Matrix Computation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 519",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Logic Programming and Functional Programming",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 520",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Numerical Solution of Differential Equations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 521",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Parallel Algorithms and Architectures",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 522",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Artificial Intelligence II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 524",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Computer Graphics: Modelling",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 525",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Image Understanding II: Scene Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 526",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Computer Animation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 527",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Computer Communication Protocols",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 529",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Definition of Programming Languages",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 530",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Information Processing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 531",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Theory of Computation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 532",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Artificial Intelligence",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 533",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Computer Graphics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 534",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Data Management",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 535",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Simulation and Optimization",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 536",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Algorithms and Complexity",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 537",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Coding and Information Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 538",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Computer Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 539",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Programming Languages",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 540",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Machine Learning",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 542",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Numerical Computation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 543",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Physical User Interface Design and Evaluation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 544",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Human Computer Interaction",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 545",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Algorithms for Bioinformatics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 546",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Numerical Optimization",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 547",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Information Visualization",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 548",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Directed Study",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 549",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Master's Thesis",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 550",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Machine Learning II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 554",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Human-Computer Interaction",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 564",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Data Mining",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 589",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "M.Sc. Major Essay",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 590",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Research Methods in Computer Science",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPSC 649",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Doctoral Dissertation",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     }
 ]

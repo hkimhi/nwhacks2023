@@ -1,236 +1,407 @@
 [
     {
         "name": "CPEN 211",
-        "coreqs": "",
-        "prereqs": "APSC 160",
-        "postreqs": ""
+        "title": "Computing Systems I",
+        "credits": 5,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 160"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 212",
-        "coreqs": "",
-        "prereqs": "CPEN 211 and one of CPEN 221, CPEN 223, CPSC 259",
-        "postreqs": ""
+        "title": "Computing Systems II",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPEN 211",
+            "CPEN 221",
+            "CPEN 223",
+            "CPSC 259"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 221",
-        "coreqs": "",
-        "prereqs": "APSC 160",
-        "postreqs": ""
+        "title": "Software Construction I",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 160"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 223",
-        "coreqs": "",
-        "prereqs": "APSC 160",
-        "postreqs": ""
+        "title": "Software Design for Engineers",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 160"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 281",
-        "coreqs": "",
-        "prereqs": "One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150",
-        "postreqs": ""
+        "title": "Technical Communication",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 176",
+            "ENGL 110",
+            "ENGL 111",
+            "ENGL 112",
+            "ENGL 120",
+            "ENGL 121",
+            "WRDS 150"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 291",
-        "coreqs": "ELEC 201",
-        "prereqs": "CPEN 211",
-        "postreqs": ""
+        "title": "Computer Engineering Design Studio I",
+        "credits": 6,
+        "coreqs": [
+            "ELEC 201"
+        ],
+        "prereqs": [
+            "CPEN 211"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 311",
-        "coreqs": "",
-        "prereqs": "One of CPEN 211, CPEN 312",
-        "postreqs": ""
+        "title": "Digital Systems Design",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPEN 211",
+            "CPEN 312"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 312",
-        "coreqs": "",
-        "prereqs": "One of ELEC 201, ELEC 204, ELEC 203, MECH 221",
-        "postreqs": ""
+        "title": "Digital Systems and Microcomputers",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 201",
+            "ELEC 204",
+            "ELEC 203",
+            "MECH 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 321",
-        "coreqs": "",
-        "prereqs": "CPEN 322",
-        "postreqs": ""
+        "title": "Software Engineering",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPEN 322"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 322",
-        "coreqs": "",
-        "prereqs": "CPEN 221 and CPSC 221\n",
-        "postreqs": ""
+        "title": "Software Construction II",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPEN 221",
+            "CPSC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 331",
-        "coreqs": "",
-        "prereqs": "One of CPSC 261, CPEN 212 and CPEN 221",
-        "postreqs": ""
+        "title": "Operating Systems",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 261",
+            "CPEN 212",
+            "CPEN 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 333",
-        "coreqs": "",
-        "prereqs": "One of CPSC 259, CPEN 223",
-        "postreqs": ""
+        "title": "System Software Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 259",
+            "CPEN 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 391",
-        "coreqs": "",
-        "prereqs": "All of CPEN 212, CPSC 221, CPEN 291 and one of CPEN 311, CPEN 322",
-        "postreqs": ""
+        "title": "Computer Engineering Design Studio II",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [
+            "CPEN 212",
+            "CPSC 221",
+            "CPEN 291",
+            "CPEN 311",
+            "CPEN 322"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 400",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Computer Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPEN 411",
-        "coreqs": "",
-        "prereqs": "One of CPEN 212, CPEN 311, CPEN 312",
-        "postreqs": ""
+        "title": "Computer Architecture",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPEN 212",
+            "CPEN 311",
+            "CPEN 312"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 412",
-        "coreqs": "",
-        "prereqs": "CPEN 311 and one of CPEN 211, CPEN 312",
-        "postreqs": ""
+        "title": "Microcomputer Systems Design",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPEN 311",
+            "CPEN 211",
+            "CPEN 312"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 421",
-        "coreqs": "",
-        "prereqs": "One of CPEN 321, CPSC 310",
-        "postreqs": ""
+        "title": "Software Project Management",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPEN 321",
+            "CPSC 310"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 422",
-        "coreqs": "",
-        "prereqs": "One of CPEN 221, CPEN 321, CPSC 210, CPSC 310",
-        "postreqs": ""
+        "title": "Software Testing and Analysis",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPEN 221",
+            "CPEN 321",
+            "CPSC 210",
+            "CPSC 310"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 423",
-        "coreqs": "",
-        "prereqs": "One of CPEN 221, CPEN 321, CPSC 310",
-        "postreqs": ""
+        "title": "Software Architecture",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPEN 221",
+            "CPEN 321",
+            "CPSC 310"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 431",
-        "coreqs": "One of ELEC 331, CPSC 317",
-        "prereqs": "One of CPEN 331, CPSC 313 and one of CPEN 221, CPSC 210",
-        "postreqs": ""
+        "title": "Design of Distributed Software Applications",
+        "credits": 4,
+        "coreqs": [
+            "ELEC 331",
+            "CPSC 317"
+        ],
+        "prereqs": [
+            "CPEN 331",
+            "CPSC 313",
+            "CPEN 221",
+            "CPSC 210"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 432",
-        "coreqs": "",
-        "prereqs": "One of CPEN 333, CPEN 331, CPSC 313",
-        "postreqs": ""
+        "title": "Real-time System Design",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPEN 333",
+            "CPEN 331",
+            "CPSC 313"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 441",
-        "coreqs": "",
-        "prereqs": "One of CPSC 260, CPSC 221 and one of CPEN 221, CPSC 210, CPEN 333",
-        "postreqs": ""
+        "title": "Human Computer Interfaces in Engineering Design",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPSC 260",
+            "CPSC 221",
+            "CPEN 221",
+            "CPSC 210",
+            "CPEN 333"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 442",
-        "coreqs": "",
-        "prereqs": "One of CPEN 333, CPEN 331, CPSC 313",
-        "postreqs": ""
+        "title": "Introduction to Cybersecurity",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPEN 333",
+            "CPEN 331",
+            "CPSC 313"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 481",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Economic Analysis of Engineering Projects",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPEN 491",
-        "coreqs": "",
-        "prereqs": "CPEN 391",
-        "postreqs": ""
+        "title": "Computer Engineering Capstone Design Project",
+        "credits": 5,
+        "coreqs": [],
+        "prereqs": [
+            "CPEN 391"
+        ],
+        "postreqs": []
     },
     {
         "name": "CPEN 497",
-        "coreqs": "",
-        "prereqs": "Third-year standing",
-        "postreqs": ""
+        "title": "Research Experience in Computer Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPEN 499",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Undergraduate Thesis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPEN 502",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Architecture for Learning Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPEN 511",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Computer Architecture",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPEN 512",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Parallel and Reconfigurable Computing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPEN 513",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "CAD Algorithms for Integrated Circuits",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPEN 521",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Software Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPEN 522",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Software Verification and Testing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPEN 523",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Software Project Management",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPEN 524",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Principles of Mobile Application Development and Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPEN 533",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Error Resilient Computing Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPEN 541",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Human Interface Technologies",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPEN 542",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Cybersecurity",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CPEN 642",
-        "coreqs": "",
-        "prereqs": "by permission of the instructor",
-        "postreqs": ""
+        "title": "Cybersecurity Research Seminar",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     }
 ]

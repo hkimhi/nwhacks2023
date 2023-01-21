@@ -1,674 +1,1058 @@
 [
     {
         "name": "CIVL 201",
-        "coreqs": "CIVL 203",
-        "prereqs": "One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150",
-        "postreqs": ""
+        "title": "Introduction to Civil Engineering",
+        "credits": 3,
+        "coreqs": [
+            "CIVL 203"
+        ],
+        "prereqs": [
+            "APSC 176",
+            "ENGL 110",
+            "ENGL 111",
+            "ENGL 112",
+            "ENGL 120",
+            "ENGL 121",
+            "WRDS 150"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 203",
-        "coreqs": "CIVL 201",
-        "prereqs": "One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150",
-        "postreqs": ""
+        "title": "Technical Communication in Civil Engineering",
+        "credits": 3,
+        "coreqs": [
+            "CIVL 201"
+        ],
+        "prereqs": [
+            "APSC 176",
+            "ENGL 110",
+            "ENGL 111",
+            "ENGL 112",
+            "ENGL 120",
+            "ENGL 121",
+            "WRDS 150"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 204",
-        "coreqs": "",
-        "prereqs": "CHEM 154",
-        "postreqs": ""
+        "title": "Fundamentals of Environmental Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHEM 154"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 210",
-        "coreqs": "EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280",
-        "prereqs": "One of CIVL 230, MECH 260",
-        "postreqs": ""
+        "title": "Soil Mechanics I",
+        "credits": 4,
+        "coreqs": [
+            "EOSC 210",
+            "CHBE 251",
+            "CIVL 215",
+            "EOSC 329",
+            "MECH 280"
+        ],
+        "prereqs": [
+            "CIVL 230",
+            "MECH 260"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 215",
-        "coreqs": "",
-        "prereqs": "All of PHYS 170, MATH 101",
-        "postreqs": ""
+        "title": "Fluid Mechanics I",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 170",
+            "MATH 101"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 230",
-        "coreqs": "",
-        "prereqs": "All of PHYS 170, MATH 101",
-        "postreqs": ""
+        "title": "Solid Mechanics",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 170",
+            "MATH 101"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 231",
-        "coreqs": "",
-        "prereqs": "All of MATH 152, CIVL 203, CIVL 230",
-        "postreqs": ""
+        "title": "Structural Mechanics",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 152",
+            "CIVL 203",
+            "CIVL 230"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 235",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Plane Surveying",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 250",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Engineering and Sustainable Development",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 300",
-        "coreqs": "",
-        "prereqs": "CIVL 203",
-        "postreqs": ""
+        "title": "Construction Engineering and Management",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 203"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 301",
-        "coreqs": "",
-        "prereqs": "All of MATH 152, CIVL 201, STAT 251",
-        "postreqs": ""
+        "title": "Modelling and Decision-Making in Civil Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 152",
+            "CIVL 201",
+            "STAT 251"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 302",
-        "coreqs": "",
-        "prereqs": "CIVL 201",
-        "postreqs": ""
+        "title": "Civil Engineering Impacts",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 201"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 303",
-        "coreqs": "",
-        "prereqs": "All of CIVL 201, CIVL 210, CIVL 215, CIVL 231, MATH 256",
-        "postreqs": ""
+        "title": "Computational Tools in Civil Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 201",
+            "CIVL 210",
+            "CIVL 215",
+            "CIVL 231",
+            "MATH 256"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 305",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Environmental Engineering Applications",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 311",
-        "coreqs": "",
-        "prereqs": "CIVL 210",
-        "postreqs": ""
+        "title": "Soil Mechanics II",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 210"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 315",
-        "coreqs": "",
-        "prereqs": "All of CIVL 203, CIVL 215, MATH 256",
-        "postreqs": ""
+        "title": "Fluid Mechanics II",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 203",
+            "CIVL 215",
+            "MATH 256"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 316",
-        "coreqs": "",
-        "prereqs": "All of CIVL 203, CIVL 215",
-        "postreqs": ""
+        "title": "Hydrology and Open Channel Flow",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 203",
+            "CIVL 215"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 320",
-        "coreqs": "",
-        "prereqs": "All of APSC 278, APSC 279",
-        "postreqs": ""
+        "title": "Civil Engineering Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 278",
+            "APSC 279"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 331",
-        "coreqs": "",
-        "prereqs": "CIVL 231",
-        "postreqs": ""
+        "title": "Steel and Timber Design",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 231"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 332",
-        "coreqs": "",
-        "prereqs": "All of CIVL 231, MATH 152",
-        "postreqs": ""
+        "title": "Structural Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 231",
+            "MATH 152"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 340",
-        "coreqs": "",
-        "prereqs": "STAT 251",
-        "postreqs": ""
+        "title": "Transportation Engineering I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "STAT 251"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 402",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing",
-        "postreqs": ""
+        "title": "Professionalism and Law in Civil Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 403",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing required",
-        "postreqs": ""
+        "title": "Engineering Economic Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 404",
-        "coreqs": "",
-        "prereqs": "CIVL 204",
-        "postreqs": ""
+        "title": "Introduction to Solid Waste Management",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 204"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 406",
-        "coreqs": "",
-        "prereqs": "CIVL 305",
-        "postreqs": ""
+        "title": "Water Treatment and Waste Management",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 305"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 407",
-        "coreqs": "",
-        "prereqs": "CHEM 154",
-        "postreqs": ""
+        "title": "Environmental Laboratory Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHEM 154"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 408",
-        "coreqs": "",
-        "prereqs": "All of CIVL 210, CIVL 315, CIVL 316",
-        "postreqs": ""
+        "title": "Geo-Environmental Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 210",
+            "CIVL 315",
+            "CIVL 316"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 409",
-        "coreqs": "",
-        "prereqs": "All of CIVL 315, CIVL 316",
-        "postreqs": ""
+        "title": "Municipal Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 315",
+            "CIVL 316"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 410",
-        "coreqs": "",
-        "prereqs": "CIVL 311",
-        "postreqs": ""
+        "title": "Foundation Engineering I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 311"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 411",
-        "coreqs": "",
-        "prereqs": "CIVL 311",
-        "postreqs": ""
+        "title": "Foundation Engineering II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 311"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 413",
-        "coreqs": "",
-        "prereqs": "CIVL 311",
-        "postreqs": ""
+        "title": "Design of Earth Dams and Containment Structures",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 311"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 415",
-        "coreqs": "",
-        "prereqs": "All of CIVL 315, CIVL 316, STAT 251",
-        "postreqs": ""
+        "title": "Water Resource Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 315",
+            "CIVL 316",
+            "STAT 251"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 416",
-        "coreqs": "",
-        "prereqs": "All of CIVL 316, MATH 256",
-        "postreqs": ""
+        "title": "Environmental Hydraulics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 316",
+            "MATH 256"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 417",
-        "coreqs": "",
-        "prereqs": "CIVL 316 and one of EOSC 213, MATH 256",
-        "postreqs": ""
+        "title": "Coastal Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 316",
+            "EOSC 213",
+            "MATH 256"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 418",
-        "coreqs": "",
-        "prereqs": "CIVL 316",
-        "postreqs": ""
+        "title": "Engineering Hydrology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 316"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 420",
-        "coreqs": "",
-        "prereqs": "CIVL 320",
-        "postreqs": ""
+        "title": "Concrete Technology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 320"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 422",
-        "coreqs": "",
-        "prereqs": "CIVL 320",
-        "postreqs": ""
+        "title": "Project Based Learning in Civil Engineering Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 320"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 425",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing",
-        "postreqs": ""
+        "title": "Case Studies of Construction Methods",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 426",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Virtual Design and Construction",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 430",
-        "coreqs": "",
-        "prereqs": "CIVL 332",
-        "postreqs": ""
+        "title": "Design of Concrete Structures",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 332"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 432",
-        "coreqs": "",
-        "prereqs": "All of CIVL 331, CIVL 332",
-        "postreqs": ""
+        "title": "Advanced Structural Steel Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 331",
+            "CIVL 332"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 433",
-        "coreqs": "",
-        "prereqs": "CIVL 430",
-        "postreqs": ""
+        "title": "Advanced Concrete Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 430"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 435",
-        "coreqs": "",
-        "prereqs": "CIVL 332",
-        "postreqs": ""
+        "title": "Advanced Structural Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 332"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 436",
-        "coreqs": "",
-        "prereqs": "CIVL 332",
-        "postreqs": ""
+        "title": "Matrix Structural Analysis and Dynamics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 332"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 437",
-        "coreqs": "",
-        "prereqs": "One of CIVL 332, MECH 360",
-        "postreqs": ""
+        "title": "Introduction to Ship Structures",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 332",
+            "MECH 360"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 439",
-        "coreqs": "",
-        "prereqs": "One of CIVL 331, WOOD 386",
-        "postreqs": ""
+        "title": "Design of Timber Structures",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 331",
+            "WOOD 386"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 440",
-        "coreqs": "",
-        "prereqs": "CIVL 340",
-        "postreqs": ""
+        "title": "Transportation Engineering II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 340"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 441",
-        "coreqs": "",
-        "prereqs": "CIVL 340",
-        "postreqs": ""
+        "title": "Transportation Planning and Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 340"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 445",
-        "coreqs": "",
-        "prereqs": "CIVL 203 and fourth-year standing",
-        "postreqs": ""
+        "title": "Civil Engineering Design Project I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 203"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 446",
-        "coreqs": "",
-        "prereqs": "CIVL 445",
-        "postreqs": ""
+        "title": "Civil Engineering Design Project II",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 445"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 475",
-        "coreqs": "",
-        "prereqs": "One of APSC 261, APSC 262, APSC 263, CIVL 250, CIVL 302",
-        "postreqs": ""
+        "title": "Environmental Stewardship in Civil Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 261",
+            "APSC 262",
+            "APSC 263",
+            "CIVL 250",
+            "CIVL 302"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 478",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing",
-        "postreqs": ""
+        "title": "Building Science",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 492",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Directed Studies in Civil Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 498",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Civil Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 504",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Seismic Hazard Analysis and Design Parameters",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 505",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Principles of Earthquake Engineering and Seismic Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 506",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Performance-based Earthquake Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 507",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Dynamics of Structures I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 508",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Dynamics of Structures II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 509",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Nonlinear Structural Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 510",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Behaviour of Steel Structures",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 511",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Seismic Design of Steel Structures",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 513",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Concrete Structures",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 516",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Behaviour of Timber Structures",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 517",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Topics in Timber Structures",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 518",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Reliability and Structural Safety",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 519",
-        "coreqs": "",
-        "prereqs": "STAT 251",
-        "postreqs": ""
+        "title": "Risk and Decision Analysis for Infrastructure Management",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "STAT 251"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 520",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Construction Planning and Control",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 521",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Construction Methods and Performance",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 522",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Project and Construction Economics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 523",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Project Management for Engineers",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 524",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Legal Aspects of Project and Construction Management",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 526",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Virtual Design and Construction",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 528",
-        "coreqs": "",
-        "prereqs": "CIVL 420",
-        "postreqs": ""
+        "title": "Advanced Concrete Technology",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 420"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 529",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Condition Assessment and Rehabilitation of Civil Infrastructure",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 537",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Computational Mechanics I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 538",
-        "coreqs": "",
-        "prereqs": "CIVL 537",
-        "postreqs": ""
+        "title": "Computational Mechanics II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 537"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 539",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Theory of Structures",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 540",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Coastal Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 541",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Environmental Fluid Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 542",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Physical Limnology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 543",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Turbulent Fluid Dynamics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 546",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Fluvial Hydraulics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 547",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Estuary Hydraulics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 548",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Numerical Modelling of Surface Water Quality",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 551",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Hydrology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 555",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Optimization and Heuristic Approaches for Civil Engineering Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 556",
-        "coreqs": "",
-        "prereqs": "CIVL 301",
-        "postreqs": ""
+        "title": "Modelling and Optimization of Civil Engineering Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 301"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 558",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Water Resources Infrastructure",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 559",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Water and Wastewater Treatment Technology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 561",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Risk and Remediation in Geo-environment",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 562",
-        "coreqs": "",
-        "prereqs": "One of CIVL 407, CHBE 364",
-        "postreqs": ""
+        "title": "Environmental Data Collection and Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 407",
+            "CHBE 364"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 564",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Engineering Management of Solid Wastes",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 565",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Physical-Chemical Treatment Processes",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 566",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Fate of Contaminants in Aquatic Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 569",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Environmental Biotechnology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 570",
-        "coreqs": "",
-        "prereqs": "CIVL 311",
-        "postreqs": ""
+        "title": "Advanced Soil Mechanics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 311"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 574",
-        "coreqs": "",
-        "prereqs": "CIVL 570",
-        "postreqs": ""
+        "title": "Experimental Soil Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 570"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 575",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Constitutive Models for Soil",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 579",
-        "coreqs": "",
-        "prereqs": "CIVL 311",
-        "postreqs": ""
+        "title": "Geosynthetics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 311"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 580",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Geotechnical Earthquake Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 581",
-        "coreqs": "",
-        "prereqs": "CIVL 570",
-        "postreqs": ""
+        "title": "Soil Dynamics for Design Practice",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CIVL 570"
+        ],
+        "postreqs": []
     },
     {
         "name": "CIVL 582",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Transportation Engineering Impacts",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 583",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Urban Engineering Methods and Models",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 584",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Applications of Advanced Computer Techniques in Civil Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 586",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Urban Transportation System Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 589",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Traffic Flow Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 592",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Directed Studies in Civil Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 597",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Seminar",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 598",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Civil Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 599",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "M.A.Sc. Thesis",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CIVL 699",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Doctoral Dissertation",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     }
 ]

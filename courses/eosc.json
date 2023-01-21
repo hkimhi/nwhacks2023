@@ -1,812 +1,1377 @@
 [
     {
         "name": "EOSC 110",
-        "coreqs": "EOSC 111 is recommended",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "The Solid Earth: A Dynamic Planet",
+        "credits": 3,
+        "coreqs": [
+            "EOSC 111"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 111",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Laboratory Exploration of Planet Earth",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 112",
-        "coreqs": "EOSC 111 is recommended",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "The Fluid Earth: Atmosphere and Ocean",
+        "credits": 3,
+        "coreqs": [
+            "EOSC 111"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 114",
-        "coreqs": "EOSC 111 is recommended",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "The Catastrophic Earth: Natural Disasters",
+        "credits": 3,
+        "coreqs": [
+            "EOSC 111"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 116",
-        "coreqs": "EOSC 111 is recommended",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mesozoic Earth: Time of the Dinosaurs",
+        "credits": 3,
+        "coreqs": [
+            "EOSC 111"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 118",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Earth's Treasures: Gold and Gems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 210",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Earth Science for Engineers",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 211",
-        "coreqs": "",
-        "prereqs": "One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001",
-        "postreqs": ""
+        "title": "Computer Methods in Earth, Ocean and Atmospheric Sciences",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 212",
-        "coreqs": "",
-        "prereqs": "Second-year standing in science or engineering",
-        "postreqs": ""
+        "title": "Topics in the Earth and Planetary Sciences",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 213",
-        "coreqs": "",
-        "prereqs": "One of MATH 200, MATH 253 and one of MATH 152, MATH 221, MATH 223 and one of APSC 160, CPSC 103, CPSC 110, EOSC 211",
-        "postreqs": ""
+        "title": "Computational Methods in Geological Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 200",
+            "MATH 253",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223",
+            "APSC 160",
+            "CPSC 103",
+            "CPSC 110",
+            "EOSC 211"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 220",
-        "coreqs": "",
-        "prereqs": "One of CHEM 110, CHEM 111, CHEM 120, CHEM 121, SCIE 001",
-        "postreqs": ""
+        "title": "Introductory Mineralogy",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHEM 110",
+            "CHEM 111",
+            "CHEM 120",
+            "CHEM 121",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 221",
-        "coreqs": "",
-        "prereqs": "EOSC 220",
-        "postreqs": ""
+        "title": "Introductory Petrology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 220"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 222",
-        "coreqs": "",
-        "prereqs": "Second-year standing in Science",
-        "postreqs": ""
+        "title": "Geological Time and Stratigraphy",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 223",
-        "coreqs": "EOSC 221",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Field Techniques",
+        "credits": 3,
+        "coreqs": [
+            "EOSC 221"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 240",
-        "coreqs": "CIVL 210",
-        "prereqs": "EOSC 210",
-        "postreqs": ""
+        "title": "Site Investigation",
+        "credits": 3,
+        "coreqs": [
+            "CIVL 210"
+        ],
+        "prereqs": [
+            "EOSC 210"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 250",
-        "coreqs": "MATH 200",
-        "prereqs": "One of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157",
-        "postreqs": ""
+        "title": "Fields and Fluxes",
+        "credits": 3,
+        "coreqs": [
+            "MATH 200"
+        ],
+        "prereqs": [
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 157"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 256",
-        "coreqs": "",
-        "prereqs": "Either (a) one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157;  or (b) SCIE 001",
-        "postreqs": ""
+        "title": "Earthquakes",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 157",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 270",
-        "coreqs": "",
-        "prereqs": "One of SCIE 001, CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 154",
-        "postreqs": ""
+        "title": "Marine Ecosystems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "SCIE 001",
+            "CHEM 110",
+            "CHEM 111",
+            "CHEM 120",
+            "CHEM 121",
+            "CHEM 154"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 310",
-        "coreqs": "",
-        "prereqs": "Second-year standing",
-        "postreqs": ""
+        "title": "The Earth and the Solar System",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 311",
-        "coreqs": "",
-        "prereqs": "Second-year standing",
-        "postreqs": ""
+        "title": "The Earth and its Resources",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 314",
-        "coreqs": "",
-        "prereqs": "Second-year standing",
-        "postreqs": ""
+        "title": "The Ocean Environment",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 315",
-        "coreqs": "",
-        "prereqs": "Second-year standing\n",
-        "postreqs": ""
+        "title": "The Ocean Ecosystem",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 320",
-        "coreqs": "",
-        "prereqs": "EOSC 221 and one of EOSC 210, EOSC 222",
-        "postreqs": ""
+        "title": "Sedimentology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 221",
+            "EOSC 210",
+            "EOSC 222"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 321",
-        "coreqs": "",
-        "prereqs": "EOSC 221",
-        "postreqs": ""
+        "title": "Igneous Petrology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 322",
-        "coreqs": "",
-        "prereqs": "EOSC 221",
-        "postreqs": ""
+        "title": "Metamorphic Petrology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 323",
-        "coreqs": "",
-        "prereqs": "All of EOSC 221, EOSC 223 and one of EOSC 210, EOSC 222",
-        "postreqs": ""
+        "title": "Structural Geology I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 221",
+            "EOSC 223",
+            "EOSC 210",
+            "EOSC 222"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 325",
-        "coreqs": "",
-        "prereqs": "3rd year standing in Science, Land and Food Systems or Forestry; and\n",
-        "postreqs": ""
+        "title": "Principles of Physical Hydrogeology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 326",
-        "coreqs": "",
-        "prereqs": "Biology 100-level and third-year standing in Science",
-        "postreqs": ""
+        "title": "Earth and Life Through Time",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 327",
-        "coreqs": "CHEM 205",
-        "prereqs": "EOSC 220",
-        "postreqs": ""
+        "title": "Geochemical Thermodynamics",
+        "credits": 3,
+        "coreqs": [
+            "CHEM 205"
+        ],
+        "prereqs": [
+            "EOSC 220"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 328",
-        "coreqs": "",
-        "prereqs": "All of EOSC 323, EOSC 330 and one of EOSC 321, EOSC 322",
-        "postreqs": ""
+        "title": "Field Geology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 323",
+            "EOSC 330",
+            "EOSC 321",
+            "EOSC 322"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 329",
-        "coreqs": "",
-        "prereqs": "One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001",
-        "postreqs": ""
+        "title": "Quantitative Groundwater Hydrology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 330",
-        "coreqs": "",
-        "prereqs": "One of GEOB 103, EOSC 110, EOSC 210",
-        "postreqs": ""
+        "title": "Principles of Geomorphology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "GEOB 103",
+            "EOSC 110",
+            "EOSC 210"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 331",
-        "coreqs": "",
-        "prereqs": "EOSC 221",
-        "postreqs": ""
+        "title": "Introduction to Mineral Deposits",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 332",
-        "coreqs": "",
-        "prereqs": "EOSC 323 or permission of the instructor",
-        "postreqs": ""
+        "title": "Tectonic Evolution of North America",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 323"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 333",
-        "coreqs": "",
-        "prereqs": "EOSC 221",
-        "postreqs": ""
+        "title": "Elemental and Isotopic Geochemistry",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 340",
-        "coreqs": "",
-        "prereqs": "Either (a) SCIE 001 or (b) one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 154 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157",
-        "postreqs": ""
+        "title": "Global Climate Change",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "SCIE 001",
+            "CHEM 110",
+            "CHEM 111",
+            "CHEM 120",
+            "CHEM 121",
+            "CHEM 154",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 153",
+            "PHYS 157"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 350",
-        "coreqs": "",
-        "prereqs": "One of MATH 200, MATH 253 and third-year standing or higher in Science or Applied Science",
-        "postreqs": ""
+        "title": "Environmental, Geotechnical, and Exploration Geophysics I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 200",
+            "MATH 253"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 352",
-        "coreqs": "",
-        "prereqs": "One of EOSC 250, MATH 317",
-        "postreqs": ""
+        "title": "Geophysical Continuum Dynamics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 250",
+            "MATH 317"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 353",
-        "coreqs": "",
-        "prereqs": "EOSC 352",
-        "postreqs": ""
+        "title": "Seismology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 352"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 354",
-        "coreqs": "",
-        "prereqs": "Either (a) SCIE 001 or (b) one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157",
-        "postreqs": ""
+        "title": "Analysis of Time Series and Inverse Theory for Earth Scientists",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "SCIE 001",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 157"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 355",
-        "coreqs": "",
-        "prereqs": "Either (a) SCIE 001 or (b) one of MATH 101, MATH 103, MATH 105, MATH 121;  and one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 154 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157",
-        "postreqs": ""
+        "title": "The Planets",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "SCIE 001",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "CHEM 110",
+            "CHEM 111",
+            "CHEM 120",
+            "CHEM 121",
+            "CHEM 154",
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 153",
+            "PHYS 157"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 372",
-        "coreqs": "",
-        "prereqs": "Either (a) SCIE 001 or (b) one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 154 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157",
-        "postreqs": ""
+        "title": "Introductory Oceanography: Circulation and Plankton",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "SCIE 001",
+            "CHEM 110",
+            "CHEM 111",
+            "CHEM 120",
+            "CHEM 121",
+            "CHEM 154",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 153",
+            "PHYS 157"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 373",
-        "coreqs": "",
-        "prereqs": "EOSC 372",
-        "postreqs": ""
+        "title": "Introductory Oceanography: Climate and Ecosystems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 372"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 398",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Work Placement I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 399",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Work Placement II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 410",
-        "coreqs": "",
-        "prereqs": "One of STAT 200, BIOL 300 and one of MATH 200, EOSC 250 and EOSC 211 and one of EOSC 212, ENVR 300 and one of CPSC 203, CPSC 210",
-        "postreqs": ""
+        "title": "Geoscientific Data Analysis and Empirical Modelling",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "STAT 200",
+            "BIOL 300",
+            "MATH 200",
+            "EOSC 250",
+            "EOSC 211",
+            "EOSC 212",
+            "ENVR 300",
+            "CPSC 203",
+            "CPSC 210"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 420",
-        "coreqs": "",
-        "prereqs": "All of EOSC 220, EOSC 221",
-        "postreqs": ""
+        "title": "Volcanology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 220",
+            "EOSC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 421",
-        "coreqs": "",
-        "prereqs": "EOSC 320 or permission of instructor",
-        "postreqs": ""
+        "title": "Advanced Sedimentology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 320"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 422",
-        "coreqs": "",
-        "prereqs": "EOSC 323",
-        "postreqs": ""
+        "title": "Structural Geology II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 323"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 424",
-        "coreqs": "",
-        "prereqs": "EOSC 331",
-        "postreqs": ""
+        "title": "Advanced Mineral Deposits",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 331"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 425",
-        "coreqs": "",
-        "prereqs": "EOSC 222",
-        "postreqs": ""
+        "title": "Paleontology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 222"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 426",
-        "coreqs": "",
-        "prereqs": "One of BIOL 111, BIOL 112, BIOL 121, CHEM 110, CHEM 111, CHEM 120, CHEM 121, EOSC 110, EOSC 112",
-        "postreqs": ""
+        "title": "Fundamentals of Geomicrobiology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "BIOL 111",
+            "BIOL 112",
+            "BIOL 121",
+            "CHEM 110",
+            "CHEM 111",
+            "CHEM 120",
+            "CHEM 121",
+            "EOSC 110",
+            "EOSC 112"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 428",
-        "coreqs": "",
-        "prereqs": "One of EOSC 325, EOSC 329",
-        "postreqs": ""
+        "title": "Field Techniques in Groundwater Hydrology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 325",
+            "EOSC 329"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 429",
-        "coreqs": "",
-        "prereqs": "One of EOSC 325, EOSC 329",
-        "postreqs": ""
+        "title": "Groundwater Contamination",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 325",
+            "EOSC 329"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 430",
-        "coreqs": "One of EOSC 325, EOSC 329",
-        "prereqs": "One of CHEM 123, CHEM 130, CHEM 154, SCIE 001",
-        "postreqs": ""
+        "title": "Aqueous Geochemistry",
+        "credits": 3,
+        "coreqs": [
+            "EOSC 325",
+            "EOSC 329"
+        ],
+        "prereqs": [
+            "CHEM 123",
+            "CHEM 130",
+            "CHEM 154",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 431",
-        "coreqs": "",
-        "prereqs": "EOSC 429",
-        "postreqs": ""
+        "title": "Groundwater Remediation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 429"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 432",
-        "coreqs": "EOSC 320",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Fossil Fuels",
+        "credits": 3,
+        "coreqs": [
+            "EOSC 320"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 433",
-        "coreqs": "",
-        "prereqs": "All of EOSC 329, CIVL 210, MINE 303",
-        "postreqs": ""
+        "title": "Geological Engineering Practice I - Rock Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 329",
+            "CIVL 210",
+            "MINE 303"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 434",
-        "coreqs": "",
-        "prereqs": "All of EOSC 329, EOSC 330, CIVL 210",
-        "postreqs": ""
+        "title": "Geological Engineering Practice II - Soil Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 329",
+            "EOSC 330",
+            "CIVL 210"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 442",
-        "coreqs": "",
-        "prereqs": "EOSC 340 and one of CPSC 103, CPSC 110, CPSC 301, EOSC 211, MATH 210, PHYS 210 and one of STAT 200, STAT 201, STAT 251, BIOL 300",
-        "postreqs": ""
+        "title": "Climate Measurement and Analysis",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 340",
+            "CPSC 103",
+            "CPSC 110",
+            "CPSC 301",
+            "EOSC 211",
+            "MATH 210",
+            "PHYS 210",
+            "STAT 200",
+            "STAT 201",
+            "STAT 251",
+            "BIOL 300"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 445",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing in Geological Engineering",
-        "postreqs": ""
+        "title": "Engineering Design Project",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 447",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Thesis",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 448",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Directed Studies",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 449",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Thesis",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 450",
-        "coreqs": "",
-        "prereqs": "One of PHYS 312, MATH 316, MATH 257 and one of PHYS 102, PHYS 108, PHYS 118, PHYS 158, SCIE 001",
-        "postreqs": ""
+        "title": "Interior Structure of Earth and Planets",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 312",
+            "MATH 316",
+            "MATH 257",
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 158",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 453",
-        "coreqs": "",
-        "prereqs": "One of PHYS 312, MATH 316, MATH 257",
-        "postreqs": ""
+        "title": "Physics of the Earth and Other Planets",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 312",
+            "MATH 316",
+            "MATH 257"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 454",
-        "coreqs": "",
-        "prereqs": "All of EOSC 352, EOSC 353, EOSC 450 and one of PHYS 301, PHYS 354",
-        "postreqs": ""
+        "title": "Applied Geophysics",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 352",
+            "EOSC 353",
+            "EOSC 450",
+            "PHYS 301",
+            "PHYS 354"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 470",
-        "coreqs": "",
-        "prereqs": "One of EOSC 372, EOSC 373",
-        "postreqs": ""
+        "title": "Biological Oceanography",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 372",
+            "EOSC 373"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 471",
-        "coreqs": "",
-        "prereqs": "EOSC 211 and one of ATSC 201, EOSC 372, GEOB 200 and one of SCIE 001, PHYS 101, PHYS 107, PHYS 117, PHYS 153, PHYS 157",
-        "postreqs": ""
+        "title": "Waves, Currents and Ocean Mixing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 211",
+            "ATSC 201",
+            "EOSC 372",
+            "GEOB 200",
+            "SCIE 001",
+            "PHYS 101",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 153",
+            "PHYS 157"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 472",
-        "coreqs": "",
-        "prereqs": "EOSC 373",
-        "postreqs": ""
+        "title": "Chemical Oceanography and Marine Geochemistry",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 373"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 473",
-        "coreqs": "",
-        "prereqs": "One of EOSC 372, EOSC 373",
-        "postreqs": ""
+        "title": "Methods in Oceanography",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 372",
+            "EOSC 373"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 474",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Marine Pollution",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 475",
-        "coreqs": "",
-        "prereqs": "A minimum of 6 credits of third-year level life science courses",
-        "postreqs": ""
+        "title": "Marine Microbiology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 478",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Fisheries Science",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 490",
-        "coreqs": "",
-        "prereqs": "Third-year standing",
-        "postreqs": ""
+        "title": "Student Directed Seminars in Earth, Ocean and Atmospheric Sciences",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 498",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Work Placement III",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 499",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Work Placement IV",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 510",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Data Analysis in Atmospheric, Earth and Ocean Sciences",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 511",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Numerical Techniques for Ocean, Atmosphere and Earth Scientists",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 512",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Geophysical Fluid Dynamics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 513",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Imaging and estimation with wavelets",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 514",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Geological Fluid Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 515",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Graduate Seminar Course",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 516",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Teaching and Learning in Earth, Ocean and Atmospheric Sciences",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 520",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Mineralogy",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 521",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Microbeam and Diffraction Methods for the Characterization of Minerals and Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 522",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Methods and Modelling in Petrology and Geochemistry",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 523",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Isotope Geology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 524",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Problems in Paleontology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 525",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Magmatic Ore Deposits",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 526",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mechanics of Natural Deformation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 528",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Coal Geology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 529",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Geohazard Risk Management",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 530",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Igneous Petrology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 531",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Exploration Methodology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 532",
-        "coreqs": "",
-        "prereqs": "EOSC 533",
-        "postreqs": ""
+        "title": "Field Laboratory in Groundwater Hydrology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 533"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 533",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Groundwater Hydrology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 534",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Geological Engineering: Soils and Weak Rocks",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 535",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Transport Processes in Porous Media",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 536",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Rock Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 538",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Diamond Exploration",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 539",
-        "coreqs": "",
-        "prereqs": "Completion of a course in Economic Geology\n",
-        "postreqs": ""
+        "title": "Geochemistry of Hydrothermal Ore Deposits",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 540",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Groundwater Geochemistry",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 541",
-        "coreqs": "",
-        "prereqs": "Either (a) EOSC 430 or (b) EOSC 540;  and EOSC 533",
-        "postreqs": ""
+        "title": "Multi-component Reactive Transport Modelling in Groundwater",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 430",
+            "EOSC 540",
+            "EOSC 533"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 542",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Volcanology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 543",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Solid Earth Sciences",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 544",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Geodynamics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 545",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Models in Mineral Deposits",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 546",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Field Methods in Earth Science",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 547",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Tunneling and Underground Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 548",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Graduating Paper for Masters Candidates without Thesis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 549",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Master's Thesis",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 550",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Linear Inverse Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 552",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Geomagnetism and Aeronomy",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 554",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Theoretical Glaciology",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 555",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Nonlinear Inverse Theory",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 556",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Studies in Applied Geophysics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 561",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Theory and Methods in Seismic Interpretation",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 562",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mechanics of Earthquakes and Faulting",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 570",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Paleoceanography",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 571",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Seminar in Physical Oceanography and Atmospheric Science",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 573",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Methods in Oceanography",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 575",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "The Biology and Ecology of Marine Zooplanktonic Organisms",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 576",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Inorganic Chemical Tracers in the Study of Marine Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 578",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Seminal Papers in Biological Oceanography",
+        "credits": 5,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 579",
-        "coreqs": "",
-        "prereqs": "EOSC 512",
-        "postreqs": ""
+        "title": "Dynamic Oceanography",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [
+            "EOSC 512"
+        ],
+        "postreqs": []
     },
     {
         "name": "EOSC 582",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Satellite Remote Sensing: Applications to Oceanography and Meteorology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 583",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Circulation Processes and Transport Mechanisms in Observational Oceanography",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 584",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Biological Oceanography",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 585",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Physical Oceanography",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 595",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Directed Studies",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 598",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "M.Eng. Graduating Paper",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 599",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Thesis",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 649",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Doctoral Dissertation",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "EOSC 699",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Doctoral Dissertation",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     }
 ]

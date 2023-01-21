@@ -1,602 +1,1037 @@
 [
     {
         "name": "CHBE 201",
-        "coreqs": "CHBE 220",
-        "prereqs": "One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150",
-        "postreqs": ""
+        "title": "Integrated Technical Communication",
+        "credits": 3,
+        "coreqs": [
+            "CHBE 220"
+        ],
+        "prereqs": [
+            "APSC 176",
+            "ENGL 110",
+            "ENGL 111",
+            "ENGL 112",
+            "ENGL 120",
+            "ENGL 121",
+            "WRDS 150"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 220",
-        "coreqs": "CHBE 201",
-        "prereqs": "All of CHEM 154, MATH 101",
-        "postreqs": ""
+        "title": "Founding Principles in Chemical and Biological Engineering I",
+        "credits": 4,
+        "coreqs": [
+            "CHBE 201"
+        ],
+        "prereqs": [
+            "CHEM 154",
+            "MATH 101"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 221",
-        "coreqs": "",
-        "prereqs": "CHBE 220",
-        "postreqs": ""
+        "title": "Founding Principles in Chemical and Biological Engineering II",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 220"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 230",
-        "coreqs": "MATH 256",
-        "prereqs": "APSC 160",
-        "postreqs": ""
+        "title": "Computational Methods",
+        "credits": 3,
+        "coreqs": [
+            "MATH 256"
+        ],
+        "prereqs": [
+            "APSC 160"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 241",
-        "coreqs": "",
-        "prereqs": "All of CHEM 154, MATH 152",
-        "postreqs": ""
+        "title": "Material and Energy Balances",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHEM 154",
+            "MATH 152"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 243",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Chemical and Biological Engineering Process and Technology",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 244",
-        "coreqs": "",
-        "prereqs": "CHBE 241",
-        "postreqs": ""
+        "title": "Chemical and Biological Engineering Thermodynamics I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 241"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 251",
-        "coreqs": "MATH 256",
-        "prereqs": "PHYS 170",
-        "postreqs": ""
+        "title": "Transport Phenomena I",
+        "credits": 3,
+        "coreqs": [
+            "MATH 256"
+        ],
+        "prereqs": [
+            "PHYS 170"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 262",
-        "coreqs": "All of CHBE 201, CHBE 241, CHBE 251, CHEM 250, CHEM 251, CHEM 260",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Chemical Engineering and Applied Chemistry Laboratory",
+        "credits": 4,
+        "coreqs": [
+            "CHBE 201",
+            "CHBE 241",
+            "CHBE 251",
+            "CHEM 250",
+            "CHEM 251",
+            "CHEM 260"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 263",
-        "coreqs": "All of CHBE 220, CHBE 241, CHEM 250, CHEM 260",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Chemical and Biological Engineering Laboratory Practice",
+        "credits": 1,
+        "coreqs": [
+            "CHBE 220",
+            "CHBE 241",
+            "CHEM 250",
+            "CHEM 260"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 264",
-        "coreqs": "All of CHBE 244, CHBE 251",
-        "prereqs": "CHBE 263",
-        "postreqs": ""
+        "title": "Chemical and Biological Engineering Laboratory",
+        "credits": 3,
+        "coreqs": [
+            "CHBE 244",
+            "CHBE 251"
+        ],
+        "prereqs": [
+            "CHBE 263"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 344",
-        "coreqs": "",
-        "prereqs": "All of CHBE 241, CHBE 244",
-        "postreqs": ""
+        "title": "Introduction to Unit Operations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 241",
+            "CHBE 244"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 345",
-        "coreqs": "",
-        "prereqs": "All of CHBE 346, CHBE 352",
-        "postreqs": ""
+        "title": "Unit Operations",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 346",
+            "CHBE 352"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 346",
-        "coreqs": "",
-        "prereqs": "All of CHBE 220, CHBE 241, CHBE 244",
-        "postreqs": ""
+        "title": "Chemical and Biological Engineering Thermodynamics II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 220",
+            "CHBE 241",
+            "CHBE 244"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 350",
-        "coreqs": "",
-        "prereqs": "All of CHBE 251, CHBE 351, MATH 253",
-        "postreqs": ""
+        "title": "Mass Transfer Bridge Module",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 251",
+            "CHBE 351",
+            "MATH 253"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 352",
-        "coreqs": "",
-        "prereqs": "All of CHBE 251, MATH 253",
-        "postreqs": ""
+        "title": "Transport Phenomena II",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 251",
+            "MATH 253"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 355",
-        "coreqs": "",
-        "prereqs": "All of CHBE 230, CHBE 346, CHBE 352",
-        "postreqs": ""
+        "title": "Kinetics and Reactor Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 230",
+            "CHBE 346",
+            "CHBE 352"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 356",
-        "coreqs": "",
-        "prereqs": "One of MATH 255, MATH 256",
-        "postreqs": ""
+        "title": "Process Dynamics and Control",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 255",
+            "MATH 256"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 362",
-        "coreqs": "All of CHBE 370, CHBE 352",
-        "prereqs": "All of CHBE 201, CHBE 241, CHBE 251, CHBE 264",
-        "postreqs": ""
+        "title": "Process Engineering Laboratory",
+        "credits": 3,
+        "coreqs": [
+            "CHBE 370",
+            "CHBE 352"
+        ],
+        "prereqs": [
+            "CHBE 201",
+            "CHBE 241",
+            "CHBE 251",
+            "CHBE 264"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 364",
-        "coreqs": "CHBE 373",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Environmental Engineering Laboratory",
+        "credits": 3,
+        "coreqs": [
+            "CHBE 373"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 365",
-        "coreqs": "CHBE 381",
-        "prereqs": "All of CHBE 201, CHBE 241, CHBE 264, CHBE 221",
-        "postreqs": ""
+        "title": "Biological Engineering  Laboratory",
+        "credits": 3,
+        "coreqs": [
+            "CHBE 381"
+        ],
+        "prereqs": [
+            "CHBE 201",
+            "CHBE 241",
+            "CHBE 264",
+            "CHBE 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 366",
-        "coreqs": "All of CHBE 345, CHBE 356",
-        "prereqs": "All of CHBE 201, CHBE 241, CHBE 251, CHBE 264",
-        "postreqs": ""
+        "title": "Chemical Engineering Laboratory",
+        "credits": 3,
+        "coreqs": [
+            "CHBE 345",
+            "CHBE 356"
+        ],
+        "prereqs": [
+            "CHBE 201",
+            "CHBE 241",
+            "CHBE 251",
+            "CHBE 264"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 370",
-        "coreqs": "",
-        "prereqs": "All of CHBE 241, CHBE 244",
-        "postreqs": ""
+        "title": "Fundamentals of Sustainable Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 241",
+            "CHBE 244"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 373",
-        "coreqs": "",
-        "prereqs": "One of CHBE 251, CIVL 215, MECH 280, MTRL 263",
-        "postreqs": ""
+        "title": "Water Pollution Control",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 251",
+            "CIVL 215",
+            "MECH 280",
+            "MTRL 263"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 376",
-        "coreqs": "All of CHBE 345, CHBE 355",
-        "prereqs": "CHBE 241",
-        "postreqs": ""
+        "title": "Computer Flowsheeting and Unit Operation Design",
+        "credits": 4,
+        "coreqs": [
+            "CHBE 345",
+            "CHBE 355"
+        ],
+        "prereqs": [
+            "CHBE 241"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 381",
-        "coreqs": "",
-        "prereqs": "One of CHBE 221, BMEG 245 and one of MATH 101, MATH 103, MATH 105",
-        "postreqs": ""
+        "title": "Bioprocess Engineering I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 221",
+            "BMEG 245",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 401",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mechanical Pulping and Papermaking",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 402",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Biomass Fractionation Technology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 419",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Industrial Biotechnology Laboratory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 451",
-        "coreqs": "",
-        "prereqs": "One of CHBE 346, MTRL 350",
-        "postreqs": ""
+        "title": "Engineering Thermodynamics and Statistical Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 346",
+            "MTRL 350"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 452",
-        "coreqs": "All of CHBE 457, CHBE 459, CHBE 485",
-        "prereqs": "All of BIOL 112, CHBE 241, CHBE 254, CHBE 344, CHBE 346, CHBE 351, CHBE 356, CHBE 373",
-        "postreqs": ""
+        "title": "Environmental Process Design Project",
+        "credits": 6,
+        "coreqs": [
+            "CHBE 457",
+            "CHBE 459",
+            "CHBE 485"
+        ],
+        "prereqs": [
+            "BIOL 112",
+            "CHBE 241",
+            "CHBE 254",
+            "CHBE 344",
+            "CHBE 346",
+            "CHBE 351",
+            "CHBE 356",
+            "CHBE 373"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 453",
-        "coreqs": "All of CHBE 459, CHBE 481",
-        "prereqs": "All of CHBE 241, CHBE 345, CHBE 356, CHBE 376, CHBE 381",
-        "postreqs": ""
+        "title": "Biological Process and Product Design",
+        "credits": 8,
+        "coreqs": [
+            "CHBE 459",
+            "CHBE 481"
+        ],
+        "prereqs": [
+            "CHBE 241",
+            "CHBE 345",
+            "CHBE 356",
+            "CHBE 376",
+            "CHBE 381"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 454",
-        "coreqs": "All of CHBE 459, CHBE 471",
-        "prereqs": "All of CHBE 241, CHBE 345, CHBE 356, CHBE 376",
-        "postreqs": ""
+        "title": "Chemical Process and Product Design",
+        "credits": 8,
+        "coreqs": [
+            "CHBE 459",
+            "CHBE 471"
+        ],
+        "prereqs": [
+            "CHBE 241",
+            "CHBE 345",
+            "CHBE 356",
+            "CHBE 376"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 455",
-        "coreqs": "",
-        "prereqs": "CHEM 251",
-        "postreqs": ""
+        "title": "Kinetics and Reactor Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHEM 251"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 456",
-        "coreqs": "",
-        "prereqs": "All of CHBE 230, CHBE 352, CHBE 355",
-        "postreqs": ""
+        "title": "Heterogenous Catalysis and Advanced Reactor Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 230",
+            "CHBE 352",
+            "CHBE 355"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 457",
-        "coreqs": "",
-        "prereqs": "All of CHBE 241, CHBE 346, CHBE 376, CHBE 344",
-        "postreqs": ""
+        "title": "Process Synthesis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 241",
+            "CHBE 346",
+            "CHBE 376",
+            "CHBE 344"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 459",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Chemical and Biological Engineering Economics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 464",
-        "coreqs": "",
-        "prereqs": "All of CHBE 345, CHBE 355, CHBE 356, CHBE 362 and one of CHBE 365, CHBE 366",
-        "postreqs": ""
+        "title": "Chemical and Biological Engineering Laboratory",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 345",
+            "CHBE 355",
+            "CHBE 356",
+            "CHBE 362",
+            "CHBE 365",
+            "CHBE 366"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 465",
-        "coreqs": "",
-        "prereqs": "CHBE 221 or equivalent and third-year standing required",
-        "postreqs": ""
+        "title": "Rehabilitation and Design of Aquatic Habitat",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 470",
-        "coreqs": "",
-        "prereqs": "One of CHBE 221, BMEG 245",
-        "postreqs": ""
+        "title": "Transport in Biological Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 221",
+            "BMEG 245"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 471",
-        "coreqs": "",
-        "prereqs": "All of CHBE 345, CHBE 352, CHBE 355, CHBE 376",
-        "postreqs": ""
+        "title": "Chemical Process Engineering",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 345",
+            "CHBE 352",
+            "CHBE 355",
+            "CHBE 376"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 474",
-        "coreqs": "",
-        "prereqs": "All of CHBE 356, CHBE 376",
-        "postreqs": ""
+        "title": "Process Control Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 356",
+            "CHBE 376"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 476",
-        "coreqs": "",
-        "prereqs": "All of CHBE 344, CHBE 376",
-        "postreqs": ""
+        "title": "Modelling and Optimization in Chemical Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 344",
+            "CHBE 376"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 477",
-        "coreqs": "",
-        "prereqs": "All of CHBE 220, CHBE 241, CHBE 346",
-        "postreqs": ""
+        "title": "Fuel Cell and Electrochemical Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 220",
+            "CHBE 241",
+            "CHBE 346"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 478",
-        "coreqs": "",
-        "prereqs": "One of CHEM 260, CHBE 251 or equivalent\n",
-        "postreqs": ""
+        "title": "Polymer Science and Processing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHEM 260",
+            "CHBE 251"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 479",
-        "coreqs": "",
-        "prereqs": "Third-year Chemical and Biological Engineering",
-        "postreqs": ""
+        "title": "Chemical Engineering Aspects of Occupational Health and Safety",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 480",
-        "coreqs": "",
-        "prereqs": "Third year Chemical and Biological Engineering",
-        "postreqs": ""
+        "title": "Hazardous Waste Processing Technology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 481",
-        "coreqs": "",
-        "prereqs": "CHBE 381",
-        "postreqs": ""
+        "title": "Bioprocess Engineering II",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 381"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 482",
-        "coreqs": "",
-        "prereqs": "All of CHBE 345, CHBE 355, CHBE 376",
-        "postreqs": ""
+        "title": "Petroleum Refining Process Modelling and Simulation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 345",
+            "CHBE 355",
+            "CHBE 376"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 483",
-        "coreqs": "",
-        "prereqs": "Third-year Chemical and Biological Engineering",
-        "postreqs": ""
+        "title": "Energy Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 484",
-        "coreqs": "",
-        "prereqs": "All of CHBE 241, CHBE 244",
-        "postreqs": ""
+        "title": "Green Engineering Principles and Applications for Process Industries",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 241",
+            "CHBE 244"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 485",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Air Pollution Prevention and Control",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 486",
-        "coreqs": "",
-        "prereqs": "All of CHBE 241, CHBE 244, CHBE 370",
-        "postreqs": ""
+        "title": "Waste Management for Resource Recovery",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 241",
+            "CHBE 244",
+            "CHBE 370"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 487",
-        "coreqs": "",
-        "prereqs": "One of CHBE 241, FNH  300",
-        "postreqs": ""
+        "title": "Interfacial Phenomena",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 241"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 488",
-        "coreqs": "",
-        "prereqs": "One of CHBE 244, MTRL 252 and one of CHBE 251, CIVL 215, MTRL 263",
-        "postreqs": ""
+        "title": "Carbon Capture, Conversion and Sequestration Technologies",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 244",
+            "MTRL 252",
+            "CHBE 251",
+            "CIVL 215",
+            "MTRL 263"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 489",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Pollution Control in the Pulp and Paper Industry",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 491",
-        "coreqs": "",
-        "prereqs": "All of CHBE 362, CHBE 366",
-        "postreqs": ""
+        "title": "Thesis Proposal",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 362",
+            "CHBE 366"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 492",
-        "coreqs": "",
-        "prereqs": "CHBE 491",
-        "postreqs": ""
+        "title": "Thesis",
+        "credits": 5,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 491"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 493",
-        "coreqs": "",
-        "prereqs": "All of CHBE 362, CHBE 364",
-        "postreqs": ""
+        "title": "Thesis Proposal-Environmental Topic",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 362",
+            "CHBE 364"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 494",
-        "coreqs": "",
-        "prereqs": "CHBE 493",
-        "postreqs": ""
+        "title": "Thesis-Environmental Topic",
+        "credits": 5,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 493"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 495",
-        "coreqs": "",
-        "prereqs": "All of CHBE 362, CHBE 365",
-        "postreqs": ""
+        "title": "Thesis Proposal-Biotechnology Topic",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 362",
+            "CHBE 365"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 496",
-        "coreqs": "",
-        "prereqs": "CHBE 495",
-        "postreqs": ""
+        "title": "Thesis Biotechnology Topic",
+        "credits": 5,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 495"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 497",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Chemical and Biological Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 498",
-        "coreqs": "",
-        "prereqs": "Third-year Chemical and Biological Engineering",
-        "postreqs": ""
+        "title": "Engineering Report",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 502",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Biomass Fractionation Chemistry",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 505",
-        "coreqs": "",
-        "prereqs": "Supervisor and instructor approval required",
-        "postreqs": ""
+        "title": "Introduction to Chemical Engineering for Non-Chemical Engineers",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 506",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Industrial Process Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 510",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Optimization of Bioprocesses",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 549",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Master's Thesis for M.Sc",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 550",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Reactor Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 551",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Engineering Thermodynamics and Statistical Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 552",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Optimization Methods",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 553",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mathematical Operations in Chemical Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 554",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Momentum, Heat and Mass Transfer",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 557",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Fluid Dynamics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 559",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Chemical Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 560",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Biological Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 561",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Particle Technology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 563",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Applied Heterogeneous Catalysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 564",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Industrial Biotechnology Laboratory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 565",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Process Control",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 566",
-        "coreqs": "",
-        "prereqs": "BIOL 112",
-        "postreqs": ""
+        "title": "Topics in Biological Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "BIOL 112"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 567",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "System Identification and Adaptive Control",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 570",
-        "coreqs": "",
-        "prereqs": "BIOL 112",
-        "postreqs": ""
+        "title": "Advanced Transport in Biological Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "BIOL 112"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 571",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Non-Newtonian Fluid Behaviour",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 573",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Engineering and Sustainability Leadership",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 574",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Equilibrium Properties of Non-Ideal Mixtures",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 575",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Air Pollution Control",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 577",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Electrochemical Science, Engineering and Technology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 580",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Topics in Pulp and Paper Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 583",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Energy Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 587",
-        "coreqs": "",
-        "prereqs": "MATH 255 (or equivalent); PHYS 108, PHYS 118, PHYS 158 (or equivalent); CHEM 154 (or equivalent)",
-        "postreqs": ""
+        "title": "Interfacial Phenomena",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 255",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 158",
+            "CHEM 154"
+        ],
+        "postreqs": []
     },
     {
         "name": "CHBE 588",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Carbon Capture, Conversion and Sequestration Technologies",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 590",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Small Watershed Systems Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 596",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Engineering Report",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 597",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "M.A.Sc. Thesis Proposal Development",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 598",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Master's Seminar",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 599",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Thesis",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 697",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Ph.D. Thesis Proposal Development",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "CHBE 699",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Doctoral Dissertation",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     }
 ]

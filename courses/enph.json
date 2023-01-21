@@ -1,62 +1,137 @@
 [
     {
         "name": "ENPH 253",
-        "coreqs": "",
-        "prereqs": "ENPH 259",
-        "postreqs": ""
+        "title": "Introduction to Instrument Design",
+        "credits": 5,
+        "coreqs": [],
+        "prereqs": [
+            "ENPH 259"
+        ],
+        "postreqs": []
     },
     {
         "name": "ENPH 257",
-        "coreqs": "",
-        "prereqs": "Either (a) SCIE 001 or (b) one of MATH 200, MATH 217, MATH 226, MATH 254, MATH 255;  and either (a) all of PHYS 108, PHYS 109 or (b) one of PHYS 102, PHYS 153 or (c) all of PHYS 157, PHYS 158, PHYS 159 or (d) all of PHYS 118, PHYS 119 or (e) all of PHYS 108, PHYS 119",
-        "postreqs": ""
+        "title": "Heat and Thermodynamics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [
+            "SCIE 001",
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 254",
+            "MATH 255",
+            "PHYS 108",
+            "PHYS 109",
+            "PHYS 102",
+            "PHYS 153",
+            "PHYS 157",
+            "PHYS 158",
+            "PHYS 159",
+            "PHYS 118",
+            "PHYS 119",
+            "PHYS 108",
+            "PHYS 119"
+        ],
+        "postreqs": []
     },
     {
         "name": "ENPH 259",
-        "coreqs": "",
-        "prereqs": "One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150 and either (a) all of PHYS 108, PHYS 109 or (b) one of PHYS 102, PHYS 153 or (c) SCIE 001 or (d) all of PHYS 157, PHYS 158, PHYS 159 or (e) all of PHYS 118, PHYS 119 or (f) all of PHYS 108, PHYS 119",
-        "postreqs": ""
+        "title": "Experimental Techniques",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 176",
+            "ENGL 110",
+            "ENGL 111",
+            "ENGL 112",
+            "ENGL 120",
+            "ENGL 121",
+            "WRDS 150",
+            "PHYS 108",
+            "PHYS 109",
+            "PHYS 102",
+            "PHYS 153",
+            "SCIE 001",
+            "PHYS 157",
+            "PHYS 158",
+            "PHYS 159",
+            "PHYS 118",
+            "PHYS 119",
+            "PHYS 108",
+            "PHYS 119"
+        ],
+        "postreqs": []
     },
     {
         "name": "ENPH 270",
-        "coreqs": "",
-        "prereqs": "PHYS 170",
-        "postreqs": ""
+        "title": "Mechanics II",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 170"
+        ],
+        "postreqs": []
     },
     {
         "name": "ENPH 352",
-        "coreqs": "PHYS 301",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Laboratory Techniques in Physics",
+        "credits": 2,
+        "coreqs": [
+            "PHYS 301"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ENPH 353",
-        "coreqs": "",
-        "prereqs": "All of ENPH 253, CPEN 221",
-        "postreqs": ""
+        "title": "Engineering Physics Project I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ENPH 253",
+            "CPEN 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "ENPH 459",
-        "coreqs": "",
-        "prereqs": "ENPH 253",
-        "postreqs": ""
+        "title": "Engineering Physics Project II",
+        "credits": 5,
+        "coreqs": [],
+        "prereqs": [
+            "ENPH 253"
+        ],
+        "postreqs": []
     },
     {
         "name": "ENPH 479",
-        "coreqs": "",
-        "prereqs": "ENPH 459",
-        "postreqs": ""
+        "title": "Engineering Physics Project III",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [
+            "ENPH 459"
+        ],
+        "postreqs": []
     },
     {
         "name": "ENPH 480",
-        "coreqs": "",
-        "prereqs": "ENPH 479",
-        "postreqs": ""
+        "title": "Engineering Physics Project IV",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ENPH 479"
+        ],
+        "postreqs": []
     },
     {
         "name": "ENPH 481",
-        "coreqs": "",
-        "prereqs": "ENPH 459",
-        "postreqs": ""
+        "title": "Entrepreneurial Projects I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ENPH 459"
+        ],
+        "postreqs": []
     }
 ]

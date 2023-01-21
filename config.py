@@ -1,7 +1,7 @@
 # IGNORE_CACHE
 # Default: False
 # Only used for scraping
-# If set to True, re-scrapes data for couress OVERWRITES currently existing files (if they exist)
+# If set to True, re-scrapes data for coures and OVERWRITES currently existing files (if they exist)
 # If set to False, does not re-scrape data if a file is already found with the correct course code
 IGNORE_CACHE = False
 

@@ -1,686 +1,1402 @@
 [
     {
         "name": "PHYS 100",
-        "coreqs": "",
-        "prereqs": "Not open to students with credit for PHYS 12",
-        "postreqs": ""
+        "title": "Introductory Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 101",
-        "coreqs": "One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184",
-        "prereqs": "One of PHYS 12, PHYS 100",
-        "postreqs": ""
+        "title": "Energy and Waves",
+        "credits": 3,
+        "coreqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
+        "prereqs": [
+            "PHYS 100"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 102",
-        "coreqs": "One of MATH 101, MATH 103, MATH 105, MATH 121",
-        "prereqs": "One of PHYS 101, PHYS 107",
-        "postreqs": ""
+        "title": "Electricity, Light and Radiation",
+        "credits": 3,
+        "coreqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121"
+        ],
+        "prereqs": [
+            "PHYS 101",
+            "PHYS 107"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 106",
-        "coreqs": "One of MATH 100, MATH 102, MATH 104, MATH 120, MATH 180, MATH 184",
-        "prereqs": "Either (a) a score more than 85% in all of PHYS 12, MATH 12 or (b) a score more than 85% in all of PHYS 12, PREC 12 or (c) a score more than 85% in all of PHYS 12, CALC 12 or (d) a score more than 85% in PHYS 100",
-        "postreqs": ""
+        "title": "Enriched Physics 1 (lecture)",
+        "credits": 3,
+        "coreqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
+        "prereqs": [
+            "PHYS 100"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 107",
-        "coreqs": "One of MATH 100, MATH 102, MATH 104, MATH 120, MATH 180, MATH 184",
-        "prereqs": "Either (a) a score of 85% or higher in all of PHYS 12, MATH 12 or (b) a score of 85% or higher in all of PHYS 12, PREC 12 or (c) a score of 85% or higher in all of PHYS 12, CALC 12 or (d) a score of 85% or higher in PHYS 100",
-        "postreqs": ""
+        "title": "Enriched Physics 1",
+        "credits": 3,
+        "coreqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
+        "prereqs": [
+            "PHYS 100"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 108",
-        "coreqs": "One of MATH 101, MATH 103, MATH 105, MATH 121",
-        "prereqs": "Either (a) one of PHYS 106, PHYS 107 or (b) a score of 85% or higher in one of PHYS 101, PHYS 117, PHYS 131",
-        "postreqs": ""
+        "title": "Enriched Physics II",
+        "credits": 3,
+        "coreqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121"
+        ],
+        "prereqs": [
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 101",
+            "PHYS 117",
+            "PHYS 131"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 109",
-        "coreqs": "One of PHYS 108, PHYS 118",
-        "prereqs": "PHYS 107",
-        "postreqs": ""
+        "title": "Enriched Experimental Physics",
+        "credits": 1,
+        "coreqs": [
+            "PHYS 108",
+            "PHYS 118"
+        ],
+        "prereqs": [
+            "PHYS 107"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 117",
-        "coreqs": "One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184",
-        "prereqs": "One of PHYS 12, PHYS 100",
-        "postreqs": ""
+        "title": "Dynamics and Waves",
+        "credits": 3,
+        "coreqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
+        "prereqs": [
+            "PHYS 100"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 118",
-        "coreqs": "One of MATH 101, MATH 103, MATH 105, MATH 121",
-        "prereqs": "One of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184",
-        "postreqs": ""
+        "title": "Electricity, Light and Radiation",
+        "credits": 3,
+        "coreqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121"
+        ],
+        "prereqs": [
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 157",
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 119",
-        "coreqs": "One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184",
-        "prereqs": "One of PHYS 12, PHYS 100",
-        "postreqs": ""
+        "title": "Experimental Physics Lab I",
+        "credits": 1,
+        "coreqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
+        "prereqs": [
+            "PHYS 100"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 129",
-        "coreqs": "",
-        "prereqs": "One of PHYS 107, PHYS 119",
-        "postreqs": ""
+        "title": "Experimental Physics Lab II",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 107",
+            "PHYS 119"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 131",
-        "coreqs": "One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184",
-        "prereqs": "One of PHYS 12, PHYS 100",
-        "postreqs": ""
+        "title": "Energy and Waves (Lecture)",
+        "credits": 3,
+        "coreqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
+        "prereqs": [
+            "PHYS 100"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 153",
-        "coreqs": "One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184",
-        "prereqs": "One of PHYS 12, PHYS 100",
-        "postreqs": ""
+        "title": "Elements of Physics",
+        "credits": 6,
+        "coreqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
+        "prereqs": [
+            "PHYS 100"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 157",
-        "coreqs": "One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184",
-        "prereqs": "One of PHYS 12, PHYS 100",
-        "postreqs": ""
+        "title": "Introductory Physics for Engineers I",
+        "credits": 3,
+        "coreqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
+        "prereqs": [
+            "PHYS 100"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 158",
-        "coreqs": "One of MATH 101, MATH 103, MATH 105, MATH 121",
-        "prereqs": "PHYS 157",
-        "postreqs": ""
+        "title": "Introductory Physics for Engineers II",
+        "credits": 3,
+        "coreqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121"
+        ],
+        "prereqs": [
+            "PHYS 157"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 159",
-        "coreqs": "One of PHYS 157, PHYS 158",
-        "prereqs": "One of PHYS 12, PHYS 100",
-        "postreqs": ""
+        "title": "Introductory Physics Laboratory for Engineers",
+        "credits": 1,
+        "coreqs": [
+            "PHYS 157",
+            "PHYS 158"
+        ],
+        "prereqs": [
+            "PHYS 100"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 170",
-        "coreqs": "One of MATH 101, MATH 103, MATH 105, MATH 121",
-        "prereqs": "One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184",
-        "postreqs": ""
+        "title": "Mechanics I",
+        "credits": 3,
+        "coreqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121"
+        ],
+        "prereqs": [
+            "PHYS 100",
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 200",
-        "coreqs": "",
-        "prereqs": "Either (a) one of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153 and one of MATH 101, MATH 103, MATH 105, MATH 121;  or (b) SCIE 001",
-        "postreqs": ""
+        "title": "Relativity and Quanta",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 158",
+            "PHYS 153",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 203",
-        "coreqs": "One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254",
-        "prereqs": "One of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153, SCIE 001",
-        "postreqs": ""
+        "title": "Thermal Physics I",
+        "credits": 4,
+        "coreqs": [
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
+        ],
+        "prereqs": [
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 158",
+            "PHYS 153",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 209",
-        "coreqs": "One of MATH 215, MATH 255, MATH 256, MATH 258 and one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254",
-        "prereqs": "Either (a) all of PHYS 108, PHYS 109 or (b) one of PHYS 102, PHYS 153 or (c) SCIE 001 or (d) all of PHYS 158, PHYS 159 or (e) all of PHYS 118, PHYS 119 or (f) all of PHYS 108, PHYS 119",
-        "postreqs": ""
+        "title": "Intermediate Experimental Physics",
+        "credits": 3,
+        "coreqs": [
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258",
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
+        ],
+        "prereqs": [
+            "PHYS 108",
+            "PHYS 109",
+            "PHYS 102",
+            "PHYS 153",
+            "SCIE 001",
+            "PHYS 158",
+            "PHYS 159",
+            "PHYS 118",
+            "PHYS 119",
+            "PHYS 108",
+            "PHYS 119"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 210",
-        "coreqs": "One of MATH 152, MATH 221, MATH 223",
-        "prereqs": "One of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153, SCIE 001",
-        "postreqs": ""
+        "title": "Introduction to Computational Physics",
+        "credits": 3,
+        "coreqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
+        "prereqs": [
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 158",
+            "PHYS 153",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 216",
-        "coreqs": "One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254",
-        "prereqs": "One of PHYS 106, PHYS 107, PHYS 117, PHYS 170, SCIE 001 and one of MATH 152, MATH 221, MATH 223",
-        "postreqs": ""
+        "title": "Intermediate Mechanics",
+        "credits": 3,
+        "coreqs": [
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
+        ],
+        "prereqs": [
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 170",
+            "SCIE 001",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 219",
-        "coreqs": "One of MATH 200, MATH 217, MATH 226, MATH 253",
-        "prereqs": "Either (a) one of PHYS 108, PHYS 118 and one of PHYS 109, PHYS 119;  or (b) PHYS 102 or (c) all of PHYS 158, PHYS 159 or (d) SCIE 001",
-        "postreqs": ""
+        "title": "Intermediate Experimental Physics I",
+        "credits": 2,
+        "coreqs": [
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253"
+        ],
+        "prereqs": [
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 109",
+            "PHYS 119",
+            "PHYS 102",
+            "PHYS 158",
+            "PHYS 159",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 229",
-        "coreqs": "MATH 215",
-        "prereqs": "PHYS 219",
-        "postreqs": ""
+        "title": "Intermediate Experimental Physics II",
+        "credits": 1,
+        "coreqs": [
+            "MATH 215"
+        ],
+        "prereqs": [
+            "PHYS 219"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 250",
-        "coreqs": "",
-        "prereqs": "One of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153, SCIE 001",
-        "postreqs": ""
+        "title": "Introduction to Modern Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 158",
+            "PHYS 153",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 298",
-        "coreqs": "",
-        "prereqs": "PHYS 200",
-        "postreqs": ""
+        "title": "Co-operative Work Placement I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 200"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 299",
-        "coreqs": "",
-        "prereqs": "PHYS 298",
-        "postreqs": ""
+        "title": "Co-operative Work Placement II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 298"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 301",
-        "coreqs": "",
-        "prereqs": "One of PHYS 102, PHYS 108, PHYS 118, PHYS 153, PHYS 158, SCIE 001 and one of MATH 217, MATH 227, MATH 317 and one of MATH 215, MATH 255",
-        "postreqs": ""
+        "title": "Electricity and Magnetism",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 153",
+            "PHYS 158",
+            "SCIE 001",
+            "MATH 217",
+            "MATH 227",
+            "MATH 317",
+            "MATH 215",
+            "MATH 255"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 304",
-        "coreqs": "One of MATH 257, MATH 316, PHYS 312",
-        "prereqs": "One of PHYS 200, PHYS 250",
-        "postreqs": ""
+        "title": "Introduction to Quantum Mechanics",
+        "credits": 3,
+        "coreqs": [
+            "MATH 257",
+            "MATH 316",
+            "PHYS 312"
+        ],
+        "prereqs": [
+            "PHYS 200",
+            "PHYS 250"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 305",
-        "coreqs": "",
-        "prereqs": "One of PHYS 102, PHYS 108, PHYS 118, PHYS 153, PHYS 158, SCIE 001 and either (a) PHYS 203 or (b) one of ENPH 257, CHEM 201, CHEM 205 and one of MATH 302, MATH 318, STAT 241, STAT 251, STAT 302",
-        "postreqs": ""
+        "title": "Introduction to Biophysics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 153",
+            "PHYS 158",
+            "SCIE 001",
+            "PHYS 203",
+            "ENPH 257",
+            "CHEM 201",
+            "CHEM 205",
+            "MATH 302",
+            "MATH 318",
+            "STAT 241",
+            "STAT 251",
+            "STAT 302"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 306",
-        "coreqs": "",
-        "prereqs": "One of PHYS 216, ENPH 270 and one of MATH 215, MATH 255, MATH 256, MATH 258",
-        "postreqs": ""
+        "title": "Advanced Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 216",
+            "ENPH 270",
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 309",
-        "coreqs": "",
-        "prereqs": "One of PHYS 209, PHYS 229, ENPH 259",
-        "postreqs": ""
+        "title": "Electrical Laboratory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 209",
+            "PHYS 229",
+            "ENPH 259"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 312",
-        "coreqs": "",
-        "prereqs": "MATH 215",
-        "postreqs": ""
+        "title": "Introduction to Mathematical Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 215"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 314",
-        "coreqs": "PHYS 203",
-        "prereqs": "MATH 215",
-        "postreqs": ""
+        "title": "Fluids",
+        "credits": 3,
+        "coreqs": [
+            "PHYS 203"
+        ],
+        "prereqs": [
+            "MATH 215"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 315",
-        "coreqs": "MATH 215",
-        "prereqs": "One of PHYS 203, ENPH 257, CHEM 201, CHEM 205, CHEM 304 and one of PHYS 200, PHYS 250, CHEM 312",
-        "postreqs": ""
+        "title": "Quantum Physics of Materials",
+        "credits": 3,
+        "coreqs": [
+            "MATH 215"
+        ],
+        "prereqs": [
+            "PHYS 203",
+            "ENPH 257",
+            "CHEM 201",
+            "CHEM 205",
+            "CHEM 304",
+            "PHYS 200",
+            "PHYS 250",
+            "CHEM 312"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 318",
-        "coreqs": "",
-        "prereqs": "One of ENPH 259, PHYS 209, PHYS 229",
-        "postreqs": ""
+        "title": "Experimental Acoustics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ENPH 259",
+            "PHYS 209",
+            "PHYS 229"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 319",
-        "coreqs": "",
-        "prereqs": "One of PHYS 209, PHYS 219, ENPH 259",
-        "postreqs": ""
+        "title": "Electronics Laboratory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 209",
+            "PHYS 219",
+            "ENPH 259"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 330",
-        "coreqs": "",
-        "prereqs": "Either (a) one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 180, MATH 184 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157;  or (b) SCIE 001",
-        "postreqs": ""
+        "title": "Modern Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 180",
+            "MATH 184",
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 153",
+            "PHYS 157",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 333",
-        "coreqs": "",
-        "prereqs": "Either (a) one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 102, PHYS 106, PHYS 107, PHYS 108, PHYS 117, PHYS 118, PHYS 131, PHYS 153, PHYS 157, PHYS 158;  or (b) SCIE 001",
-        "postreqs": ""
+        "title": "Energy and Climate",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "PHYS 101",
+            "PHYS 102",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 108",
+            "PHYS 117",
+            "PHYS 118",
+            "PHYS 131",
+            "PHYS 153",
+            "PHYS 157",
+            "PHYS 158",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 340",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Revolutions in Understanding the Universe",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 341",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Physics of Music",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 343",
-        "coreqs": "",
-        "prereqs": "Secondary school algebra",
-        "postreqs": ""
+        "title": "Physical Science by Inquiry",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 348",
-        "coreqs": "",
-        "prereqs": "Third-year standing in a physics honours program or fourth-year standing in a physics or astronomy major program",
-        "postreqs": ""
+        "title": "Frontiers in Physics and Astronomy",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 349",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Directed Research Project in Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 350",
-        "coreqs": "",
-        "prereqs": "One of ENPH 270, PHYS 270",
-        "postreqs": ""
+        "title": "Applications of Classical Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ENPH 270",
+            "PHYS 270"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 354",
-        "coreqs": "",
-        "prereqs": "One of PHYS 102, PHYS 108, PHYS 153, SCIE 001 and one of MATH 215, MATH 255 and one of MATH 217, MATH 227, MATH 317",
-        "postreqs": ""
+        "title": "Electric and Magnetic Fields",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 153",
+            "SCIE 001",
+            "MATH 215",
+            "MATH 255",
+            "MATH 217",
+            "MATH 227",
+            "MATH 317"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 399",
-        "coreqs": "",
-        "prereqs": "PHYS 299",
-        "postreqs": ""
+        "title": "Co-operative Work Placement III",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 299"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 400",
-        "coreqs": "",
-        "prereqs": "One of PHYS 304, PHYS 450",
-        "postreqs": ""
+        "title": "Introduction to Elementary Particles",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 304",
+            "PHYS 450"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 401",
-        "coreqs": "",
-        "prereqs": "One of PHYS 301, PHYS 354",
-        "postreqs": ""
+        "title": "Electromagnetic Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 301",
+            "PHYS 354"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 402",
-        "coreqs": "",
-        "prereqs": "One of PHYS 304, PHYS 450",
-        "postreqs": ""
+        "title": "Applications of Quantum Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 304",
+            "PHYS 450"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 403",
-        "coreqs": "",
-        "prereqs": "One of PHYS 203, ENPH 257, PHYS 257, CHEM 201, CHEM 304 and one of PHYS 304, PHYS 450, CHEM 312",
-        "postreqs": ""
+        "title": "Statistical Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 203",
+            "ENPH 257",
+            "PHYS 257",
+            "CHEM 201",
+            "CHEM 304",
+            "PHYS 304",
+            "PHYS 450",
+            "CHEM 312"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 404",
-        "coreqs": "",
-        "prereqs": "Third year standing in Science or Applied Science is required",
-        "postreqs": ""
+        "title": "Introduction to Medical Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 405",
-        "coreqs": "",
-        "prereqs": "One of PHYS 102, PHYS 108, PHYS 118, PHYS 153, PHYS 158, SCIE 001 and third year standing in Science or Applied Science",
-        "postreqs": ""
+        "title": "Radiation Biophysics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 153",
+            "PHYS 158",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 407",
-        "coreqs": "",
-        "prereqs": "One of MATH 217, MATH 227, MATH 317 and one of MATH 215, MATH 255",
-        "postreqs": ""
+        "title": "Introduction to General Relativity",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 217",
+            "MATH 227",
+            "MATH 317",
+            "MATH 215",
+            "MATH 255"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 408",
-        "coreqs": "",
-        "prereqs": "One of PHYS 301, PHYS 354 and one of MATH 215, MATH 255",
-        "postreqs": ""
+        "title": "Optics",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 301",
+            "PHYS 354",
+            "MATH 215",
+            "MATH 255"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 409",
-        "coreqs": "",
-        "prereqs": "One of PHYS 309, PHYS 319",
-        "postreqs": ""
+        "title": "Experimental Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 309",
+            "PHYS 319"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 410",
-        "coreqs": "",
-        "prereqs": "One of PHYS 312, MATH 257, MATH 316 and one of PHYS 210, EOSC 211, CPSC 110, CPSC 103, APSC 160",
-        "postreqs": ""
+        "title": "Computational Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 312",
+            "MATH 257",
+            "MATH 316",
+            "PHYS 210",
+            "EOSC 211",
+            "CPSC 110",
+            "CPSC 103",
+            "APSC 160"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 412",
-        "coreqs": "",
-        "prereqs": "MATH 215 and one of CHEM 312, PHYS 200",
-        "postreqs": ""
+        "title": "Quantum Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 215",
+            "CHEM 312",
+            "PHYS 200"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 420",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Physics Demonstrations",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 437",
-        "coreqs": "",
-        "prereqs": "One of PHYS 313, PHYS 403, PHYS 455, CHEM 304",
-        "postreqs": ""
+        "title": "Physics of Biocellular Structure and Machinery",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 313",
+            "PHYS 403",
+            "PHYS 455",
+            "CHEM 304"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 438",
-        "coreqs": "",
-        "prereqs": "One of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157, SCIE 001",
-        "postreqs": ""
+        "title": "Zoological Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 101",
+            "PHYS 106",
+            "PHYS 107",
+            "PHYS 117",
+            "PHYS 131",
+            "PHYS 157",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 447",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Topics in Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 449",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Honours Thesis",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 450",
-        "coreqs": "",
-        "prereqs": "One of PHYS 200, PHYS 250",
-        "postreqs": ""
+        "title": "Quantum Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 200",
+            "PHYS 250"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 454",
-        "coreqs": "",
-        "prereqs": "One of PHYS 301, PHYS 354",
-        "postreqs": ""
+        "title": "Applied Electromagnetic Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 301",
+            "PHYS 354"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 455",
-        "coreqs": "",
-        "prereqs": "One of PHYS 257, PHYS 203, PHYS 313 and one of PHYS 304, PHYS 450",
-        "postreqs": ""
+        "title": "Statistical Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 257",
+            "PHYS 203",
+            "PHYS 313",
+            "PHYS 304",
+            "PHYS 450"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 458",
-        "coreqs": "",
-        "prereqs": "All of PHYS 250, PHYS 354",
-        "postreqs": ""
+        "title": "Applied Optics",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 250",
+            "PHYS 354"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 473",
-        "coreqs": "",
-        "prereqs": "One of PHYS 304, PHYS 450",
-        "postreqs": ""
+        "title": "Applied Nuclear Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 304",
+            "PHYS 450"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 474",
-        "coreqs": "",
-        "prereqs": "One of PHYS 450, PHYS 304",
-        "postreqs": ""
+        "title": "Applied Solid State Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 450",
+            "PHYS 304"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 490",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Student Directed Seminar",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 498",
-        "coreqs": "",
-        "prereqs": "PHYS 399",
-        "postreqs": ""
+        "title": "Co-operative Work Placement IV",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 399"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 499",
-        "coreqs": "",
-        "prereqs": "PHYS 498",
-        "postreqs": ""
+        "title": "Co-operative Work Placement V",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 498"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 500",
-        "coreqs": "",
-        "prereqs": "PHYS 402",
-        "postreqs": ""
+        "title": "Quantum Mechanics I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 402"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 501",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Quantum Mechanics II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 502",
-        "coreqs": "",
-        "prereqs": "A background in undergraduate solid state physics such as covered in PHYS 474 is highly recommended",
-        "postreqs": ""
+        "title": "Condensed Matter Physics I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 474"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 503",
-        "coreqs": "PHYS 500",
-        "prereqs": "PHYS 502",
-        "postreqs": ""
+        "title": "Condensed Matter Physics II",
+        "credits": 3,
+        "coreqs": [
+            "PHYS 500"
+        ],
+        "prereqs": [
+            "PHYS 502"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 504",
-        "coreqs": "",
-        "prereqs": "A background in electricity and magnetism such as covered PHYS 401 is highly recommended",
-        "postreqs": ""
+        "title": "Special Relativity and Classical Electromagnetism",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 401"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 505",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Nuclear Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 506",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Elementary Particle Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 508",
-        "coreqs": "",
-        "prereqs": "PHYS 526",
-        "postreqs": ""
+        "title": "Quantum Field Theory II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 526"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 509",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Theory of Measurements",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 513",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Advanced Spectroscopy",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 516",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Statistical Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 518",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Superconductivity",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 520",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Teaching Techniques in Physics and Astronomy",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 521",
-        "coreqs": "",
-        "prereqs": "PHYS 500",
-        "postreqs": ""
+        "title": "Group Theory Methods in Quantum Mechanics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 500"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 523",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Quantum Electronics and Nonlinear Optics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 525",
-        "coreqs": "",
-        "prereqs": "All of PHYS 500, PHYS 503",
-        "postreqs": ""
+        "title": "Advanced Condensed Matter Physics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 500",
+            "PHYS 503"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 526",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Quantum Field Theory I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 527",
-        "coreqs": "",
-        "prereqs": "All of PHYS 501, PHYS 505",
-        "postreqs": ""
+        "title": "Topics in Nuclear Physics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 501",
+            "PHYS 505"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 528",
-        "coreqs": "PHYS 508",
-        "prereqs": "All of PHYS 508, PHYS 505",
-        "postreqs": ""
+        "title": "Elementary Particle Physics",
+        "credits": 2,
+        "coreqs": [
+            "PHYS 508"
+        ],
+        "prereqs": [
+            "PHYS 508",
+            "PHYS 505"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 529",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Quantum Theory",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 530",
-        "coreqs": "",
-        "prereqs": "PHYS 504",
-        "postreqs": ""
+        "title": "Topics in General Relativity Theory",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 504"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 531",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Particle Detection Techniques",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 533",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Laser Physics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 534",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Radiotherapy Physics I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 535",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Radiotherapy Physics II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 536",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Radiation Biophysics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 539",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Radiation Dosimetry",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 540",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Radiological Imaging",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 541",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Nuclear Medicine",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 542",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Nuclear Magnetic Resonance Imaging",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 543",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Biomedical Optics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 545",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Anatomy, Physiology and Statistics for Medical Physicists",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 546",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Clinical Experience in Medical Physics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 549",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Master's Thesis",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 555",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Directed Studies in Physics",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 560",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Physics and Engineering of Particle Accelerators",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 565",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Applications of Radioisotopes in Science and in Medicine",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 571",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Physical Cosmology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 572",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Experimental Methods in Quantum Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 573",
-        "coreqs": "",
-        "prereqs": "A background in undergraduate solid state physics such as covered in PHYS 474 is highly recommended",
-        "postreqs": ""
+        "title": "Modelling and Simulation of Quantum Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 474"
+        ],
+        "postreqs": []
     },
     {
         "name": "PHYS 599",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "M.A.Sc. Thesis",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "PHYS 649",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Doctoral Dissertation",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     }
 ]

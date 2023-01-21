@@ -1,278 +1,469 @@
 [
     {
         "name": "BMEG 101",
-        "coreqs": "BMEG 102",
-        "prereqs": "APSC 100",
-        "postreqs": ""
+        "title": "Introduction to Biomedical Engineering",
+        "credits": 3,
+        "coreqs": [
+            "BMEG 102"
+        ],
+        "prereqs": [
+            "APSC 100"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 102",
-        "coreqs": "BMEG 101",
-        "prereqs": "One of PHYS 12, PHYS 100\nCorequisite: BMEG 101",
-        "postreqs": ""
+        "title": "Biomedical Engineering Lab",
+        "credits": 2,
+        "coreqs": [
+            "BMEG 101"
+        ],
+        "prereqs": [
+            "PHYS 100",
+            "BMEG 101"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 200",
-        "coreqs": "",
-        "prereqs": "All of APSC 101, PHYS 159",
-        "postreqs": ""
+        "title": "Biomedical Engineering Bridge Module",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 101",
+            "PHYS 159"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 201",
-        "coreqs": "",
-        "prereqs": "One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150",
-        "postreqs": ""
+        "title": "Technical Communication for Biomedical Engineers",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 176",
+            "ENGL 110",
+            "ENGL 111",
+            "ENGL 112",
+            "ENGL 120",
+            "ENGL 121",
+            "WRDS 150"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 210",
-        "coreqs": "",
-        "prereqs": "PHYS 157",
-        "postreqs": ""
+        "title": "Thermodynamics in Biomedical Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 157"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 220",
-        "coreqs": "MATH 264",
-        "prereqs": "All of PHYS 158, MATH 253, MATH 256",
-        "postreqs": ""
+        "title": "Circuits and Electromagnetics with Application to Biomedical Engineering",
+        "credits": 4,
+        "coreqs": [
+            "MATH 264"
+        ],
+        "prereqs": [
+            "PHYS 158",
+            "MATH 253",
+            "MATH 256"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 230",
-        "coreqs": "",
-        "prereqs": "Either (a) all of BMEG 101, PHYS 170 or (b) all of APSC 101, BMEG 200, PHYS 170",
-        "postreqs": ""
+        "title": "Biomechanics I",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "BMEG 101",
+            "PHYS 170",
+            "APSC 101",
+            "BMEG 200",
+            "PHYS 170"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 245",
-        "coreqs": "",
-        "prereqs": "One of CHEM 12, CHEM 100",
-        "postreqs": ""
+        "title": "The Fundamental Units of Life: From Cells To Systems",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CHEM 100"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 250",
-        "coreqs": "",
-        "prereqs": "All of BMEG 245, MATH 256",
-        "postreqs": ""
+        "title": "Cellular  Physiology  and Biophysics",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "BMEG 245",
+            "MATH 256"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 257",
-        "coreqs": "",
-        "prereqs": "Either (a) all of BMEG 101, BMEG 102 or (b) all of APSC 101, BMEG 200, PHYS 159",
-        "postreqs": ""
+        "title": "Biomedical Engineering Design I",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "BMEG 101",
+            "BMEG 102",
+            "APSC 101",
+            "BMEG 200",
+            "PHYS 159"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 310",
-        "coreqs": "",
-        "prereqs": "BMEG 245 and one of CPEN 221, CPEN 223",
-        "postreqs": ""
+        "title": "Introduction to Bioinformatics",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "BMEG 245",
+            "CPEN 221",
+            "CPEN 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 320",
-        "coreqs": "",
-        "prereqs": "Either (a) BMEG 220 or (b) all of ELEC 221, ELEC 201, ELEC 202",
-        "postreqs": ""
+        "title": "Bioengineering Feedback Systems and Controls",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "BMEG 220",
+            "ELEC 221",
+            "ELEC 201",
+            "ELEC 202"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 321",
-        "coreqs": "",
-        "prereqs": "Either (a) MATH 256 or (b) all of MATH 265, MATH 267;  and either (a) BMEG 220 or (b) one of ELEC 211, PHYS 301 and one of ELEC 201, ELEC 204",
-        "postreqs": ""
+        "title": "Biomedical Instrumentation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 256",
+            "MATH 265",
+            "MATH 267",
+            "BMEG 220",
+            "ELEC 211",
+            "PHYS 301",
+            "ELEC 201",
+            "ELEC 204"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 330",
-        "coreqs": "",
-        "prereqs": "BMEG 230",
-        "postreqs": ""
+        "title": "Biomechanics II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "BMEG 230"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 350",
-        "coreqs": "",
-        "prereqs": "All of BMEG 245, BMEG 250",
-        "postreqs": ""
+        "title": "Human Structure/Function from Cells to Systems",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "BMEG 245",
+            "BMEG 250"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 357",
-        "coreqs": "",
-        "prereqs": "BMEG 257",
-        "postreqs": ""
+        "title": "Biomedical  Engineering Design II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "BMEG 257"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 371",
-        "coreqs": "",
-        "prereqs": "One of MATH 253, MATH 217 and either (a) MATH 256 or (b) all of MATH 255, MATH 257",
-        "postreqs": ""
+        "title": "Transport Phenomena within Cells and Tissues",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 253",
+            "MATH 217",
+            "MATH 256",
+            "MATH 255",
+            "MATH 257"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 372",
-        "coreqs": "",
-        "prereqs": "All of BMEG 250, CHEM 123",
-        "postreqs": ""
+        "title": "Biomedical Materials and Drug Delivery",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "BMEG 250",
+            "CHEM 123"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 373",
-        "coreqs": "",
-        "prereqs": "CHBE 251",
-        "postreqs": ""
+        "title": "Microfluidics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "CHBE 251"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 374",
-        "coreqs": "",
-        "prereqs": "BMEG 250",
-        "postreqs": ""
+        "title": "Cellular Bioengineering: Laboratory & Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "BMEG 250"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 400",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Biomedical Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 401",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Economics of Healthcare Solutions",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 410",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Biomedical Equipment, Physiology, and Anatomy",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 420",
-        "coreqs": "",
-        "prereqs": "One of BMEG 220, BMEG 250 and one of BMEG 321, ELEC 371",
-        "postreqs": ""
+        "title": "Medical Imaging",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "BMEG 220",
+            "BMEG 250",
+            "BMEG 321",
+            "ELEC 371"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 455",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Professionalism and Ethics in Biomedical Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 456",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Clinical and Industrial Biomedical Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 457",
-        "coreqs": "",
-        "prereqs": "All of BMEG 350, BMEG 357",
-        "postreqs": ""
+        "title": "Biomedical Engineering Design Project",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [
+            "BMEG 350",
+            "BMEG 357"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 470",
-        "coreqs": "",
-        "prereqs": "All of BMEG 245, BMEG 250, BMEG 350",
-        "postreqs": ""
+        "title": "Cellular  Responses  to Forces and Biomaterials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "BMEG 245",
+            "BMEG 250",
+            "BMEG 350"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 474",
-        "coreqs": "",
-        "prereqs": "All of BMEG 245, BMEG 250, BMEG 350",
-        "postreqs": ""
+        "title": "Stem Cells and Regenerative Medicine",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "BMEG 245",
+            "BMEG 250",
+            "BMEG 350"
+        ],
+        "postreqs": []
     },
     {
         "name": "BMEG 490",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing and at least 80% average in third-year courses",
-        "postreqs": ""
+        "title": "Introduction to Academic Research",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 500",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Orientation to Clinical Environment",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 501",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Interdisciplinary Team Project in Medical Technology Innovation",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 510",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Anatomy and Physiology with Applications to Biomedical Devices",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 511",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Fundamentals of Applied Pathophysiology in Biomedical Engineering",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 550",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Biomedical Engineering Technology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 554",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Directed Studies in Biomedical Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 556",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Clinical and Industrial Biomedical Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 557",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Statistical Methods for Evaluating Medical Technologies",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 580",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Biomedical Engineering Topics at the Interface of Medicine and Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 581",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Professional and Academic Development",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 590",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Biomedical Engineering Professional Skills",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 591",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Biomedical Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 597",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Master of Engineering Project",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 598",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Biomedical Engineering Seminar",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 599",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "M.A. Sc. Thesis",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "BMEG 699",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Doctoral Dissertation",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     }
 ]

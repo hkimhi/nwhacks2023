@@ -1,530 +1,920 @@
 [
     {
         "name": "ELEC 201",
-        "coreqs": "One of MATH 255, MATH 256, MATH 265",
-        "prereqs": "MATH 101 and one of PHYS 108, PHYS 118, PHYS 158",
-        "postreqs": ""
+        "title": "Circuit Analysis I",
+        "credits": 4,
+        "coreqs": [
+            "MATH 255",
+            "MATH 256",
+            "MATH 265"
+        ],
+        "prereqs": [
+            "MATH 101",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 158"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 202",
-        "coreqs": "",
-        "prereqs": "All of PHYS 158, MATH 101 and one of ELEC 201, ELEC 203 and one of MATH 255, MATH 256",
-        "postreqs": ""
+        "title": "Circuit Analysis II",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 158",
+            "MATH 101",
+            "ELEC 201",
+            "ELEC 203",
+            "MATH 255",
+            "MATH 256"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 203",
-        "coreqs": "One of MATH 255, MATH 256",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Basic Circuit Analysis",
+        "credits": 3,
+        "coreqs": [
+            "MATH 255",
+            "MATH 256"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 204",
-        "coreqs": "One of MATH 256, MATH 255",
-        "prereqs": "MATH 152 and one of PHYS 108, PHYS 118, PHYS 158",
-        "postreqs": ""
+        "title": "Linear Circuits",
+        "credits": 4,
+        "coreqs": [
+            "MATH 256",
+            "MATH 255"
+        ],
+        "prereqs": [
+            "MATH 152",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 158"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 205",
-        "coreqs": "ELEC 204",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Electronics Laboratory",
+        "credits": 1,
+        "coreqs": [
+            "ELEC 204"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 211",
-        "coreqs": "MATH 264",
-        "prereqs": "One of MATH 263, MATH 253 and one of PHYS 108, PHYS 118, PHYS 158",
-        "postreqs": ""
+        "title": "Engineering Electromagnetics",
+        "credits": 2,
+        "coreqs": [
+            "MATH 264"
+        ],
+        "prereqs": [
+            "MATH 263",
+            "MATH 253",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 158"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 221",
-        "coreqs": "",
-        "prereqs": "One of MATH 256, MATH 255",
-        "postreqs": ""
+        "title": "Signals and Systems",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 256",
+            "MATH 255"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 271",
-        "coreqs": "ELEC 202",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Selected Topics in Biomedical Engineering",
+        "credits": 1,
+        "coreqs": [
+            "ELEC 202"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 281",
-        "coreqs": "",
-        "prereqs": "One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150",
-        "postreqs": ""
+        "title": "Technical Communication",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 176",
+            "ENGL 110",
+            "ENGL 111",
+            "ENGL 112",
+            "ENGL 120",
+            "ENGL 121",
+            "WRDS 150"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 291",
-        "coreqs": "",
-        "prereqs": "All of ELEC 201, CPEN 211",
-        "postreqs": ""
+        "title": "Electrical Engineering Design Studio I",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 201",
+            "CPEN 211"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 292",
-        "coreqs": "All of ELEC 201, CPEN 211, ELEC 221",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Biomedical Engineering Design Studio",
+        "credits": 6,
+        "coreqs": [
+            "ELEC 201",
+            "CPEN 211",
+            "ELEC 221"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 301",
-        "coreqs": "",
-        "prereqs": "Either (a) one of ELEC 201, ELEC 203 and ELEC 202;  or (b) ELEC 204",
-        "postreqs": ""
+        "title": "Electronic Circuits",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 201",
+            "ELEC 203",
+            "ELEC 202",
+            "ELEC 204"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 302",
-        "coreqs": "",
-        "prereqs": "One of ELEC 201, ELEC 203, ELEC 204, MECH 221",
-        "postreqs": ""
+        "title": "Electronic Circuits for Electromechanical Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 201",
+            "ELEC 203",
+            "ELEC 204",
+            "MECH 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 311",
-        "coreqs": "",
-        "prereqs": "ELEC 211 and either (a) all of MATH 101, MATH 263, MATH 265, MATH 267 or (b) all of MATH 101, MATH 253, MATH 264, MATH 265, MATH 267 or (c) all of MATH 101, MATH 253, MATH 256, MATH 264",
-        "postreqs": ""
+        "title": "Electromagnetic Fields and Waves",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 211",
+            "MATH 101",
+            "MATH 263",
+            "MATH 265",
+            "MATH 267",
+            "MATH 101",
+            "MATH 253",
+            "MATH 264",
+            "MATH 265",
+            "MATH 267",
+            "MATH 101",
+            "MATH 253",
+            "MATH 256",
+            "MATH 264"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 315",
-        "coreqs": "",
-        "prereqs": "One of ELEC 211, ENPH 253",
-        "postreqs": ""
+        "title": "Electronic Materials and Devices",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 211",
+            "ENPH 253"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 321",
-        "coreqs": "",
-        "prereqs": "One of ELEC 221, STAT 305",
-        "postreqs": ""
+        "title": "Stochastic Signals and Systems",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 221",
+            "STAT 305"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 331",
-        "coreqs": "",
-        "prereqs": "One of ELEC 221, CPEN 212, CPSC 261, CPEN 331",
-        "postreqs": ""
+        "title": "Computer Communications",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 221",
+            "CPEN 212",
+            "CPSC 261",
+            "CPEN 331"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 341",
-        "coreqs": "",
-        "prereqs": "One of ELEC 202, ELEC 204",
-        "postreqs": ""
+        "title": "Systems and Control",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 202",
+            "ELEC 204"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 342",
-        "coreqs": "",
-        "prereqs": "All of PHYS 170, ELEC 202",
-        "postreqs": ""
+        "title": "Electro-Mechanical Energy Conversion and Transmission",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 170",
+            "ELEC 202"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 343",
-        "coreqs": "",
-        "prereqs": "One of ELEC 202, ELEC 302",
-        "postreqs": ""
+        "title": "Electromechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 202",
+            "ELEC 302"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 344",
-        "coreqs": "",
-        "prereqs": "One of ELEC 201, ELEC 203, ELEC 204, MECH 221",
-        "postreqs": ""
+        "title": "Applied Electronics and Electromechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 201",
+            "ELEC 203",
+            "ELEC 204",
+            "MECH 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 352",
-        "coreqs": "",
-        "prereqs": "All of ELEC 202, ELEC 342",
-        "postreqs": ""
+        "title": "Electric Energy Systems",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 202",
+            "ELEC 342"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 361",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Molecules to Mechanisms",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 371",
-        "coreqs": "",
-        "prereqs": "Either (a) all of MATH 265, MATH 267 or (b) MATH 256;  and either (a) all of ELEC 202, ELEC 292 or (b) all of BMEG 220, BMEG 257",
-        "postreqs": ""
+        "title": "Biomedical Engineering Instrumentation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 265",
+            "MATH 267",
+            "MATH 256",
+            "ELEC 202",
+            "ELEC 292",
+            "BMEG 220",
+            "BMEG 257"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 391",
-        "coreqs": "",
-        "prereqs": "One of CPEN 291, ELEC 291, ELEC 292 and two of ELEC 301, ELEC 341, ELEC 311, ELEC 342",
-        "postreqs": ""
+        "title": "Electrical Engineering Design Studio II",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [
+            "CPEN 291",
+            "ELEC 291",
+            "ELEC 292",
+            "ELEC 301",
+            "ELEC 341",
+            "ELEC 311",
+            "ELEC 342"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 400",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Electrical Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 401",
-        "coreqs": "",
-        "prereqs": "One of ELEC 301, ELEC 302",
-        "postreqs": ""
+        "title": "Analog CMOS Integrated Circuit Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 301",
+            "ELEC 302"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 402",
-        "coreqs": "",
-        "prereqs": "CPEN 311",
-        "postreqs": ""
+        "title": "Introduction to VLSI Systems",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CPEN 311"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 403",
-        "coreqs": "",
-        "prereqs": "ELEC 402",
-        "postreqs": ""
+        "title": "Advanced Digital VLSI Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 402"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 404",
-        "coreqs": "ELEC 401",
-        "prereqs": "ELEC 221",
-        "postreqs": ""
+        "title": "RF Integrated Circuits",
+        "credits": 3,
+        "coreqs": [
+            "ELEC 401"
+        ],
+        "prereqs": [
+            "ELEC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 411",
-        "coreqs": "",
-        "prereqs": "One of ELEC 311, PHYS 301, PHYS 354",
-        "postreqs": ""
+        "title": "Antennas and Propagation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 311",
+            "PHYS 301",
+            "PHYS 354"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 412",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Optical Waveguides and Photonics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 413",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Semiconductor Lasers",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 415",
-        "coreqs": "",
-        "prereqs": "One of ELEC 315, PHYS 304",
-        "postreqs": ""
+        "title": "Semiconductor Devices: Physics, Design and Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 315",
+            "PHYS 304"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 416",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Quantum Dots and Device Applications",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 421",
-        "coreqs": "",
-        "prereqs": "ELEC 221",
-        "postreqs": ""
+        "title": "Digital Signal and Image Processing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 422",
-        "coreqs": "",
-        "prereqs": "All of ELEC 371, ELEC 341, ELEC 221 and one of CPSC 260, CPSC 259 and one of STAT 251, MATH 318, MATH 302, STAT 302",
-        "postreqs": ""
+        "title": "Biosignals and Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 371",
+            "ELEC 341",
+            "ELEC 221",
+            "CPSC 260",
+            "CPSC 259",
+            "STAT 251",
+            "MATH 318",
+            "MATH 302",
+            "STAT 302"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 431",
-        "coreqs": "",
-        "prereqs": "ELEC 221 and one of ELEC 321, MATH 302, MATH 318, STAT 251, STAT 302, STAT 357",
-        "postreqs": ""
+        "title": "Communication Systems I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 221",
+            "ELEC 321",
+            "MATH 302",
+            "MATH 318",
+            "STAT 251",
+            "STAT 302",
+            "STAT 357"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 432",
-        "coreqs": "",
-        "prereqs": "ELEC 431",
-        "postreqs": ""
+        "title": "Communication Systems II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 431"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 433",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Error Control Coding for Communications and Computers",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 434",
-        "coreqs": "",
-        "prereqs": "ELEC 221",
-        "postreqs": ""
+        "title": "Introduction to Optical Networks",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 441",
-        "coreqs": "",
-        "prereqs": "ELEC 341",
-        "postreqs": ""
+        "title": "Control Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 341"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 442",
-        "coreqs": "",
-        "prereqs": "PHYS 170",
-        "postreqs": ""
+        "title": "Introduction to Robotics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "PHYS 170"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 451",
-        "coreqs": "",
-        "prereqs": "One of ELEC 301, ELEC 344, ELEC 342",
-        "postreqs": ""
+        "title": "Power Electronics",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 301",
+            "ELEC 344",
+            "ELEC 342"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 452",
-        "coreqs": "",
-        "prereqs": "One of ELEC 342, ELEC 343",
-        "postreqs": ""
+        "title": "Industrial Drives",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 342",
+            "ELEC 343"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 453",
-        "coreqs": "",
-        "prereqs": "ELEC 342",
-        "postreqs": ""
+        "title": "Power System Analysis",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 342"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 454",
-        "coreqs": "",
-        "prereqs": "ELEC 453",
-        "postreqs": ""
+        "title": "Power System Analysis II",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 453"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 455",
-        "coreqs": "",
-        "prereqs": "All of ELEC 453, ELEC 342",
-        "postreqs": ""
+        "title": "Power Systems Protection",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 453",
+            "ELEC 342"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 456",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Decision Support Methods in Power Systems Operation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 457",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Optimization of Power System Operation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 461",
-        "coreqs": "One of APSC 201, MTRL 478",
-        "prereqs": "One of CHEM 312, ELEC 315, PHYS 250, PHYS 304",
-        "postreqs": ""
+        "title": "Nanotechnology in Electronics",
+        "credits": 3,
+        "coreqs": [
+            "APSC 201",
+            "MTRL 478"
+        ],
+        "prereqs": [
+            "CHEM 312",
+            "ELEC 315",
+            "PHYS 250",
+            "PHYS 304"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 462",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Sensors and Actuators in Microsystems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 463",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Micro/Nanofabrication and Instrumentation Laboratory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 464",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Nanotechnology and Nature",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 465",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Microsystems Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 471",
-        "coreqs": "",
-        "prereqs": "All of ELEC 371, ELEC 341, ELEC 311, ELEC 221",
-        "postreqs": ""
+        "title": "Medical Imaging",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 371",
+            "ELEC 341",
+            "ELEC 311",
+            "ELEC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 472",
-        "coreqs": "",
-        "prereqs": "All of ELEC 201, ELEC 202, CPEN 211, ELEC 341",
-        "postreqs": ""
+        "title": "Biomechatronics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 201",
+            "ELEC 202",
+            "CPEN 211",
+            "ELEC 341"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 473",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Biological Micro-Electro-Mechanical Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 474",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Biophotonics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 481",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Economic Analysis of Engineering Projects",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 491",
-        "coreqs": "",
-        "prereqs": "ELEC 391",
-        "postreqs": ""
+        "title": "Electrical Engineering Capstone Design Project",
+        "credits": 5,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 391"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 494",
-        "coreqs": "",
-        "prereqs": "ELEC 391",
-        "postreqs": ""
+        "title": "Biomedical Engineering Capstone Design Project",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 391"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 497",
-        "coreqs": "",
-        "prereqs": "Third-year standing",
-        "postreqs": ""
+        "title": "Research Experience in Electrical Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 499",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Undergraduate Thesis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 501",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Analog Integrated Circuit Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 502",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Topics in Very-Large-Scale Integration (VLSI) Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 503",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Integrated Circuits for High-Speed Data Links",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 504",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Radio Frequency Integrated Circuits",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 505",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Integrated Circuits for Phase-Locked Loops",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 506",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "CMOS Design for Photonics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 507",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mixed-Signal and RF Integrated Circuits and Systems Test",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 521",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Biomedical Microdevices",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 522",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Computer-Integrated Surgery",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 523",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Medical Imaging",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 524",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Biophotonics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 541",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Semiconductor Theory for Device Applications",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 542",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Nanoscale Modelling and Simulations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 543",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Green Nanoelectronic Devices",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 544",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Microsystems Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 545",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Emerging Electronic Materials and Devices",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 546",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Micro and Nano Fabrication Technologies",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 571",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Control Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 572",
-        "coreqs": "",
-        "prereqs": "Completion of MECH 466, MECH 468, EECE 360, or equivalent is recommended\n",
-        "postreqs": ""
+        "title": "Multivariable Feedback Control",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 466",
+            "MECH 468",
+            "EECE 360"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 573",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Game Theory: Mathematical Analysis and Engineering Applications",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 574",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Self-Tuning Control",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 581",
-        "coreqs": "",
-        "prereqs": "EECE 584",
-        "postreqs": ""
+        "title": "Active Silicon Photonics Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "EECE 584"
+        ],
+        "postreqs": []
     },
     {
         "name": "ELEC 582",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Optical Fibers and Devices",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ELEC 584",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Nanophotonics Fabrication",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     }
 ]

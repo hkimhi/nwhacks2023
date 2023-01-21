@@ -1,1046 +1,1913 @@
 [
     {
         "name": "MATH 100",
-        "coreqs": "",
-        "prereqs": "High-school calculus and a score of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12",
-        "postreqs": ""
+        "title": "Differential Calculus with Applications",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 101",
-        "coreqs": "",
-        "prereqs": "One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184",
-        "postreqs": ""
+        "title": "Integral Calculus with Applications",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 102",
-        "coreqs": "",
-        "prereqs": "High-school calculus and a score of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12",
-        "postreqs": ""
+        "title": "Differential Calculus with Applications to Life Sciences",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 103",
-        "coreqs": "",
-        "prereqs": "One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184",
-        "postreqs": ""
+        "title": "Integral Calculus with Applications to Life Sciences",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 104",
-        "coreqs": "",
-        "prereqs": "High-school calculus and a score of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12",
-        "postreqs": ""
+        "title": "Differential Calculus with Applications to Commerce and Social Sciences",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 105",
-        "coreqs": "",
-        "prereqs": "One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184",
-        "postreqs": ""
+        "title": "Integral Calculus with Applications to Commerce and Social Sciences",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 110",
-        "coreqs": "",
-        "prereqs": "A grade of 65% or higher in BC Principles of Mathematics 12 or Pre-calculus 12",
-        "postreqs": ""
+        "title": "Differential Calculus",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 120",
-        "coreqs": "",
-        "prereqs": "High-school calculus and one of (a) a score of 95% or higher in BC Principles of Mathematics 12 or Pre-calculus 12; or (b) permission from the Mathematics Department Head",
-        "postreqs": ""
+        "title": "Honours Differential Calculus",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 121",
-        "coreqs": "",
-        "prereqs": "Either (a) a score of 68% or higher in MATH 120 or (b) a score of 80% or higher in one of MATH 100, MATH 102, MATH 104, MATH 180, MATH 184 or (c) a score of 5 in AP Calculus AB",
-        "postreqs": ""
+        "title": "Honours Integral Calculus",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 120",
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 180",
+            "MATH 184"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 152",
-        "coreqs": "MATH 101",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Linear Systems",
+        "credits": 3,
+        "coreqs": [
+            "MATH 101"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 180",
-        "coreqs": "",
-        "prereqs": "A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12",
-        "postreqs": ""
+        "title": "Differential Calculus with Applications",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 184",
-        "coreqs": "",
-        "prereqs": "A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12",
-        "postreqs": ""
+        "title": "Differential Calculus for Social Science and Commerce",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 190",
-        "coreqs": "",
-        "prereqs": "Principles of Mathematics 12 or Pre-calculus 12 and registration in the B",
-        "postreqs": ""
+        "title": "Calculus Survey",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 200",
-        "coreqs": "",
-        "prereqs": "One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001",
-        "postreqs": ""
+        "title": "Calculus III",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 210",
-        "coreqs": "One of MATH 215, MATH 255, MATH 256, MATH 258 and one of MATH 152, MATH 221, MATH 223",
-        "prereqs": "One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001",
-        "postreqs": ""
+        "title": "Introduction to Mathematical Computing",
+        "credits": 3,
+        "coreqs": [
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 215",
-        "coreqs": "One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254",
-        "prereqs": "One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223",
-        "postreqs": ""
+        "title": "Elementary Differential Equations I",
+        "credits": 3,
+        "coreqs": [
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
+        ],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 217",
-        "coreqs": "One of MATH 152, MATH 221, MATH 223",
-        "prereqs": "A score of 68% or higher in one of PHYS 102, PHYS 108, PHYS 118, PHYS 153, PHYS 158, SCIE 001 and a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001",
-        "postreqs": ""
+        "title": "Multivariable and Vector Calculus",
+        "credits": 4,
+        "coreqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
+        "prereqs": [
+            "PHYS 102",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 153",
+            "PHYS 158",
+            "SCIE 001",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 220",
-        "coreqs": "",
-        "prereqs": "Either (a) a score of 64% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001 or (b) one of MATH 121, MATH 200, MATH 217, MATH 226, MATH 253, MATH 254",
-        "postreqs": ""
+        "title": "Mathematical Proof",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "SCIE 001",
+            "MATH 121",
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 221",
-        "coreqs": "",
-        "prereqs": "Either (a) a score of 64% or higher in one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 or (b) one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 or (c) advanced credit for MATH 100",
-        "postreqs": ""
+        "title": "Matrix Algebra",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 100",
+            "MATH 102",
+            "MATH 104",
+            "MATH 110",
+            "MATH 120",
+            "MATH 180",
+            "MATH 184",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001",
+            "MATH 100"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 223",
-        "coreqs": "",
-        "prereqs": "Either (a) MATH 121 or (b) a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001",
-        "postreqs": ""
+        "title": "Linear Algebra",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 121",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 226",
-        "coreqs": "One of MATH 152, MATH 221, MATH 223",
-        "prereqs": "Either (a) a score of 68% or higher in MATH 121 or (b) a score of 80% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001",
-        "postreqs": ""
+        "title": "Advanced Calculus I",
+        "credits": 3,
+        "coreqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
+        "prereqs": [
+            "MATH 121",
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 227",
-        "coreqs": "",
-        "prereqs": "A score of 68% or higher in MATH 226",
-        "postreqs": ""
+        "title": "Advanced Calculus II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 226"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 230",
-        "coreqs": "",
-        "prereqs": "Principles of Mathematics 11",
-        "postreqs": ""
+        "title": "Introduction to Finite Mathematics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 253",
-        "coreqs": "",
-        "prereqs": "One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001",
-        "postreqs": ""
+        "title": "Multivariable Calculus",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 254",
-        "coreqs": "All of MECH 222, MECH 225",
-        "prereqs": "MATH 101 and one of MATH 152, MATH 221, MATH 223",
-        "postreqs": ""
+        "title": "Multivariable and Vector Calculus for Mechanical Engineering",
+        "credits": 3,
+        "coreqs": [
+            "MECH 222",
+            "MECH 225"
+        ],
+        "prereqs": [
+            "MATH 101",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 255",
-        "coreqs": "One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254",
-        "prereqs": "One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223",
-        "postreqs": ""
+        "title": "Ordinary Differential Equations",
+        "credits": 3,
+        "coreqs": [
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
+        ],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 256",
-        "coreqs": "One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 263",
-        "prereqs": "One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223",
-        "postreqs": ""
+        "title": "Differential Equations",
+        "credits": 3,
+        "coreqs": [
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 263"
+        ],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 257",
-        "coreqs": "",
-        "prereqs": "One of MATH 215, MATH 255, MATH 256, MATH 258",
-        "postreqs": ""
+        "title": "Partial Differential Equations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 258",
-        "coreqs": "All of MECH 221, MECH 224",
-        "prereqs": "MATH 101 and one of MATH 152, MATH 221, MATH 223",
-        "postreqs": ""
+        "title": "Differential Equations for Mechanical Engineering",
+        "credits": 3,
+        "coreqs": [
+            "MECH 221",
+            "MECH 224"
+        ],
+        "prereqs": [
+            "MATH 101",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 264",
-        "coreqs": "One of BMEG 220, ELEC 211",
-        "prereqs": "One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254",
-        "postreqs": ""
+        "title": "Vector Calculus for Electrical Engineering",
+        "credits": 1,
+        "coreqs": [
+            "BMEG 220",
+            "ELEC 211"
+        ],
+        "prereqs": [
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 300",
-        "coreqs": "One of MATH 217, MATH 227, MATH 254, MATH 317",
-        "prereqs": "One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254",
-        "postreqs": ""
+        "title": "Introduction to Complex Variables",
+        "credits": 3,
+        "coreqs": [
+            "MATH 217",
+            "MATH 227",
+            "MATH 254",
+            "MATH 317"
+        ],
+        "prereqs": [
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 301",
-        "coreqs": "One of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312",
-        "prereqs": "One of MATH 300, MATH 305 and one of MATH 215, MATH 255, MATH 256, MATH 258",
-        "postreqs": ""
+        "title": "Applied Analysis",
+        "credits": 3,
+        "coreqs": [
+            "MATH 256",
+            "MATH 257",
+            "MATH 316",
+            "MATH 358",
+            "MECH 358",
+            "PHYS 312"
+        ],
+        "prereqs": [
+            "MATH 300",
+            "MATH 305",
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 302",
-        "coreqs": "",
-        "prereqs": "One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254",
-        "postreqs": ""
+        "title": "Introduction to Probability",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 303",
-        "coreqs": "",
-        "prereqs": "One of MATH 302, STAT 302",
-        "postreqs": ""
+        "title": "Introduction to Stochastic Processes",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 302",
+            "STAT 302"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 305",
-        "coreqs": "One of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312",
-        "prereqs": "One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254 and one of MATH 215, MATH 255, MATH 256, MATH 258",
-        "postreqs": ""
+        "title": "Applied Complex Analysis",
+        "credits": 3,
+        "coreqs": [
+            "MATH 256",
+            "MATH 257",
+            "MATH 316",
+            "MATH 358",
+            "MECH 358",
+            "PHYS 312"
+        ],
+        "prereqs": [
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254",
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 307",
-        "coreqs": "",
-        "prereqs": "One of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254",
-        "postreqs": ""
+        "title": "Applied Linear Algebra",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 223",
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 308",
-        "coreqs": "",
-        "prereqs": "Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223",
-        "postreqs": ""
+        "title": "Euclidean Geometry",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 220",
+            "MATH 226",
+            "CPSC 121",
+            "MATH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 309",
-        "coreqs": "",
-        "prereqs": "Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223",
-        "postreqs": ""
+        "title": "Topics in Geometry",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 220",
+            "MATH 226",
+            "CPSC 121",
+            "MATH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 310",
-        "coreqs": "",
-        "prereqs": "One of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121",
-        "postreqs": ""
+        "title": "Abstract Linear Algebra",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 220",
+            "MATH 226",
+            "CPSC 121"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 312",
-        "coreqs": "",
-        "prereqs": "One of MATH 220, MATH 223, MATH 226, CPSC 121 and 9 additional credits of mathematics courses",
-        "postreqs": ""
+        "title": "Introduction to Number Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 220",
+            "MATH 223",
+            "MATH 226",
+            "CPSC 121"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 313",
-        "coreqs": "",
-        "prereqs": "MATH 312",
-        "postreqs": ""
+        "title": "Topics in Number Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 312"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 316",
-        "coreqs": "",
-        "prereqs": "One of MATH 215, MATH 255, MATH 256, MATH 258",
-        "postreqs": ""
+        "title": "Elementary Differential Equations II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 317",
-        "coreqs": "",
-        "prereqs": "One of MATH 200, MATH 226, MATH 253",
-        "postreqs": ""
+        "title": "Calculus IV",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 200",
+            "MATH 226",
+            "MATH 253"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 318",
-        "coreqs": "One of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312",
-        "prereqs": "One of MATH 152, MATH 221, MATH 223 and one of MATH 215, MATH 255, MATH 256, MATH 258",
-        "postreqs": ""
+        "title": "Probability with Physical Applications",
+        "credits": 3,
+        "coreqs": [
+            "MATH 256",
+            "MATH 257",
+            "MATH 316",
+            "MATH 358",
+            "MECH 358",
+            "PHYS 312"
+        ],
+        "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 223",
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 319",
-        "coreqs": "",
-        "prereqs": "Either (a) a score of 68% or higher in MATH 220 or (b) a score of 55% or higher in one of MATH 223, MATH 226",
-        "postreqs": ""
+        "title": "Introduction to Real Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 220",
+            "MATH 223",
+            "MATH 226"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 320",
-        "coreqs": "",
-        "prereqs": "Either (a) a score of 68% or higher in MATH 226 or (b) one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254 and a score of 80% or higher in MATH 220",
-        "postreqs": ""
+        "title": "Real Variables I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 226",
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254",
+            "MATH 220"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 321",
-        "coreqs": "",
-        "prereqs": "MATH 320",
-        "postreqs": ""
+        "title": "Real Variables II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 320"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 322",
-        "coreqs": "",
-        "prereqs": "Either (a) a score of 68% or higher in one of MATH 223, MATH 310 or (b) one of MATH 152, MATH 221, MATH 223 and a score of 80% or higher in MATH 220",
-        "postreqs": ""
+        "title": "Introduction to Group Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 223",
+            "MATH 310",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223",
+            "MATH 220"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 323",
-        "coreqs": "",
-        "prereqs": "MATH 322",
-        "postreqs": ""
+        "title": "Introduction to Rings and Modules",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 322"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 335",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Introduction to Mathematics",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 340",
-        "coreqs": "",
-        "prereqs": "One of MATH 152, MATH 221, MATH 223",
-        "postreqs": ""
+        "title": "Introduction to Linear Programming",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 341",
-        "coreqs": "",
-        "prereqs": "One of MATH 220, MATH 223, MATH 226, CPSC 121",
-        "postreqs": ""
+        "title": "Introduction to Discrete Mathematics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 220",
+            "MATH 223",
+            "MATH 226",
+            "CPSC 121"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 342",
-        "coreqs": "",
-        "prereqs": "Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223",
-        "postreqs": ""
+        "title": "Algebra and Coding Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 220",
+            "MATH 226",
+            "CPSC 121",
+            "MATH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 344",
-        "coreqs": "",
-        "prereqs": "Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223",
-        "postreqs": ""
+        "title": "Mathematical Game Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 152",
+            "MATH 221",
+            "MATH 220",
+            "MATH 226",
+            "CPSC 121",
+            "MATH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 345",
-        "coreqs": "",
-        "prereqs": "A score of 68% or higher in one of MATH 215, MATH 255, MATH 256, MATH 258",
-        "postreqs": ""
+        "title": "Applied Nonlinear Dynamics and Chaos",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 358",
-        "coreqs": "",
-        "prereqs": "All of MECH 224, MECH 225",
-        "postreqs": ""
+        "title": "Engineering Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 224",
+            "MECH 225"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 360",
-        "coreqs": "",
-        "prereqs": "One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001",
-        "postreqs": ""
+        "title": "Mathematical Modelling in Science",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 101",
+            "MATH 103",
+            "MATH 105",
+            "MATH 121",
+            "SCIE 001"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 361",
-        "coreqs": "",
-        "prereqs": "One of BIOL 301, MATH 215, MATH 255, MATH 256, MATH 258",
-        "postreqs": ""
+        "title": "Introduction to Mathematical Biology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "BIOL 301",
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 398",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Co-operative Work Placement I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 399",
-        "coreqs": "",
-        "prereqs": "MATH 398",
-        "postreqs": ""
+        "title": "Co-operative Work Placement II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 398"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 400",
-        "coreqs": "",
-        "prereqs": "One of MATH 300, MATH 305 and one of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312",
-        "postreqs": ""
+        "title": "Applied Partial Differential Equations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 300",
+            "MATH 305",
+            "MATH 256",
+            "MATH 257",
+            "MATH 316",
+            "MATH 358",
+            "MECH 358",
+            "PHYS 312"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 401",
-        "coreqs": "",
-        "prereqs": "Either (a) a score of 80% or higher in one of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312 or (b) MATH 400",
-        "postreqs": ""
+        "title": "Green's Functions and Variational Methods",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 256",
+            "MATH 257",
+            "MATH 316",
+            "MATH 358",
+            "MECH 358",
+            "PHYS 312",
+            "MATH 400"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 402",
-        "coreqs": "",
-        "prereqs": "A score of 68% or higher in one of MATH 301, MATH 320",
-        "postreqs": ""
+        "title": "Calculus of Variations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 301",
+            "MATH 320"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 403",
-        "coreqs": "",
-        "prereqs": "A score of 68% or higher in one of MATH 301, MATH 320",
-        "postreqs": ""
+        "title": "Stabilization and Optimal Control of Dynamical Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 301",
+            "MATH 320"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 404",
-        "coreqs": "MATH 420",
-        "prereqs": "MATH 300 and a score of 68% or higher in MATH 321",
-        "postreqs": ""
+        "title": "Harmonic Analysis I",
+        "credits": 3,
+        "coreqs": [
+            "MATH 420"
+        ],
+        "prereqs": [
+            "MATH 300",
+            "MATH 321"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 405",
-        "coreqs": "",
-        "prereqs": "One of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312",
-        "postreqs": ""
+        "title": "Numerical Methods for Differential Equations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 256",
+            "MATH 257",
+            "MATH 316",
+            "MATH 358",
+            "MECH 358",
+            "PHYS 312"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 406",
-        "coreqs": "",
-        "prereqs": "One of MATH 307, CPSC 302 and either (a) a score of 80% or higher in one of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312 or (b) MATH 400",
-        "postreqs": ""
+        "title": "Variational and Approximate Methods in Applied Mathematics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 307",
+            "CPSC 302",
+            "MATH 256",
+            "MATH 257",
+            "MATH 316",
+            "MATH 358",
+            "MECH 358",
+            "PHYS 312",
+            "MATH 400"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 412",
-        "coreqs": "",
-        "prereqs": "A score of 68% or higher in all of MATH 320, MATH 322",
-        "postreqs": ""
+        "title": "Advanced Linear Algebra",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 320",
+            "MATH 322"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 414",
-        "coreqs": "",
-        "prereqs": "24 credits in MATH",
-        "postreqs": ""
+        "title": "Mathematical Demonstrations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 418",
-        "coreqs": "",
-        "prereqs": "A score of 68% or higher in MATH 321",
-        "postreqs": ""
+        "title": "Probability",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 321"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 419",
-        "coreqs": "",
-        "prereqs": "MATH 418",
-        "postreqs": ""
+        "title": "Stochastic Processes",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 418"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 420",
-        "coreqs": "",
-        "prereqs": "A score of 68% or higher in MATH 321",
-        "postreqs": ""
+        "title": "Real Analysis I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 321"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 421",
-        "coreqs": "",
-        "prereqs": "MATH 420",
-        "postreqs": ""
+        "title": "Real Analysis II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 420"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 422",
-        "coreqs": "",
-        "prereqs": "MATH 323",
-        "postreqs": ""
+        "title": "Fields and Galois Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 323"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 423",
-        "coreqs": "",
-        "prereqs": "MATH 323 and a score of 68% or higher in one of MATH 412, MATH 422",
-        "postreqs": ""
+        "title": "Commutative Algebra",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 323",
+            "MATH 412",
+            "MATH 422"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 424",
-        "coreqs": "",
-        "prereqs": "Either (a) a score of 68% or higher in MATH 223 or (b) a score of 80% or higher in one of MATH 152, MATH 221;  and either (a) a score of 68% or higher in MATH 227 or (b) a score of 80% or higher in one of MATH 217, MATH 254, MATH 264, MATH 317",
-        "postreqs": ""
+        "title": "Classical Differential Geometry",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 223",
+            "MATH 152",
+            "MATH 221",
+            "MATH 227",
+            "MATH 217",
+            "MATH 254",
+            "MATH 264",
+            "MATH 317"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 425",
-        "coreqs": "",
-        "prereqs": "MATH 424",
-        "postreqs": ""
+        "title": "Introduction to Modern Differential Geometry",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 424"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 425",
-        "coreqs": "",
-        "prereqs": "One of MATH 221, MATH 223 and one of MATH 217, MATH 227, MATH 254, MATH 264, MATH 317 and one of MATH 319, MATH 320",
-        "postreqs": ""
+        "title": "Introduction to Modern Differential Geometry",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 221",
+            "MATH 223",
+            "MATH 217",
+            "MATH 227",
+            "MATH 254",
+            "MATH 264",
+            "MATH 317",
+            "MATH 319",
+            "MATH 320"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 426",
-        "coreqs": "",
-        "prereqs": "A score of 68% or higher in all of MATH 321, MATH 322",
-        "postreqs": ""
+        "title": "Introduction to Topology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 321",
+            "MATH 322"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 427",
-        "coreqs": "",
-        "prereqs": "MATH 426",
-        "postreqs": ""
+        "title": "Topics in Topology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 426"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 428",
-        "coreqs": "MATH 320",
-        "prereqs": "One of MATH 215, MATH 255, MATH 256, MATH 258 and one of PHYS 216, PHYS 306, ENPH 270",
-        "postreqs": ""
+        "title": "Mathematical Classical Mechanics I",
+        "credits": 3,
+        "coreqs": [
+            "MATH 320"
+        ],
+        "prereqs": [
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258",
+            "PHYS 216",
+            "PHYS 306",
+            "ENPH 270"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 430",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Special Topics in Analysis",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 432",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Special Topics in Algebra",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 437",
-        "coreqs": "One of MATH 320, MATH 322",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Number Theory",
+        "credits": 3,
+        "coreqs": [
+            "MATH 320",
+            "MATH 322"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 440",
-        "coreqs": "",
-        "prereqs": "MATH 300 and a score of 68% or higher in MATH 320",
-        "postreqs": ""
+        "title": "Complex Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 300",
+            "MATH 320"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 441",
-        "coreqs": "",
-        "prereqs": "MATH 340",
-        "postreqs": ""
+        "title": "Mathematical Modelling: Discrete Optimization Problems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 340"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 442",
-        "coreqs": "",
-        "prereqs": "3rd year standing and one of MATH 220, MATH 223, MATH 226 or CPSC 221",
-        "postreqs": ""
+        "title": "Graphs and Networks",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 220",
+            "MATH 223",
+            "MATH 226",
+            "CPSC 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 443",
-        "coreqs": "",
-        "prereqs": "A score of 68% or higher in one of MATH 220, MATH 223, MATH 226, CPSC 121",
-        "postreqs": ""
+        "title": "Graph Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 220",
+            "MATH 223",
+            "MATH 226",
+            "CPSC 121"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 444",
-        "coreqs": "",
-        "prereqs": "One of MATH 220, MATH 226 and 6 credits of MATH courses numbered 300 or higher",
-        "postreqs": ""
+        "title": "Mathematical Research and Writing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 220",
+            "MATH 226"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 446",
-        "coreqs": "",
-        "prereqs": "21 credits of MATH",
-        "postreqs": ""
+        "title": "Topics in the History of Mathematics I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 448",
-        "coreqs": "",
-        "prereqs": "Third- or fourth-year standing and permission of the Department Head",
-        "postreqs": ""
+        "title": "Directed Studies in Mathematics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 449",
-        "coreqs": "",
-        "prereqs": "Permission of the Department Head\n",
-        "postreqs": ""
+        "title": "Honours Reading",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 450",
-        "coreqs": "",
-        "prereqs": "MATH 400",
-        "postreqs": ""
+        "title": "Asymptotic and Perturbation Methods",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 400"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 462",
-        "coreqs": "",
-        "prereqs": "One of MATH 361, MATH 345",
-        "postreqs": ""
+        "title": "Projects in Mathematical Biology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 361",
+            "MATH 345"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 498",
-        "coreqs": "",
-        "prereqs": "MATH 399",
-        "postreqs": ""
+        "title": "Co-operative Work Placement III",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 399"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 499",
-        "coreqs": "",
-        "prereqs": "MATH 498",
-        "postreqs": ""
+        "title": "Co-operative Work Placement IV",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 498"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 501",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Algebra I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 502",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Algebra II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 503",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Discrete Mathematics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 507",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Measure Theory and Integration",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 508",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Complex Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 510",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Functional Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 511",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Operator Theory and Applications",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 512",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Quantum Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 513",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mathematical Classical Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 514",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Ordinary Differential Equations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 515",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Partial Differential Equations of Fluid Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 516",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Partial Differential Equations I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 517",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Partial Differential Equations II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 519",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Fluid Mechanics I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 520",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Fluid Mechanics II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 521",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Numerical Analysis of Partial Differential Equations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 522",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Numerical Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 523",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Combinatorial Optimization",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 525",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Differential Geometry I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 526",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Differential Geometry II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 527",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Algebraic Topology I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 528",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Algebraic Topology II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 529",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Differential Topology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 530",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Geometric Topology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 532",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Algebraic Geometry I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 533",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Algebraic Geometry II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 534",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Lie Theory I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 535",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Lie Theory II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 537",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Elementary Number Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 538",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Algebraic Number Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 539",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Analytic Number Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 541",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Harmonic Analysis I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 542",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Harmonic Analysis II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 543",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Discrete Harmonic Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 544",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Probability I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 545",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Probability II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 546",
-        "coreqs": "",
-        "prereqs": "All of MATH 544, MATH 545",
-        "postreqs": ""
+        "title": "Continuous Time Stochastic Processes",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 544",
+            "MATH 545"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 547",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Optimal Control Theory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 548",
-        "coreqs": "",
-        "prereqs": "All of MATH 544, MATH 545",
-        "postreqs": ""
+        "title": "Discrete Random Processes",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 544",
+            "MATH 545"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 549",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Thesis for Master's Degree",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 550",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Methods of Asymptotic Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 551",
-        "coreqs": "",
-        "prereqs": "MATH 550",
-        "postreqs": ""
+        "title": "Perturbation Methods for Differential Equations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 550"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 552",
-        "coreqs": "",
-        "prereqs": "One of MATH 215, MATH 255, MATH 256 and one of MATH 256, MATH 257, MATH 316",
-        "postreqs": ""
+        "title": "Introduction to Dynamical Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 256",
+            "MATH 257",
+            "MATH 316"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 553",
-        "coreqs": "",
-        "prereqs": "MATH 552",
-        "postreqs": ""
+        "title": "Advanced Dynamical Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 552"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 554",
-        "coreqs": "",
-        "prereqs": "Elementary courses in differential equations and linear algebra",
-        "postreqs": ""
+        "title": "Symmetries and Differential Equations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 555",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Compressed Sensing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 556",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Industrial Mathematical Modelling",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 557",
-        "coreqs": "",
-        "prereqs": "MATH 400 and some knowledge of either fluid mechanics or elasticity",
-        "postreqs": ""
+        "title": "Linear and Nonlinear Waves",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 400"
+        ],
+        "postreqs": []
     },
     {
         "name": "MATH 559",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Complex Fluids",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 560",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mathematical Biology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 561",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mathematics of Infectious Diseases and Immunology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 562",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mathematical Electrophysiology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 563",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Modelling of Cell-Scale Biology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 564",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Evolutionary Dynamics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 566",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Theory of Optimal Transportation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 567",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Nonlinear Wave Equations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 589",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "M.Sc. Major Essay",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 590",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Graduate Seminar",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 591",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Graduate Seminar in Applied Mathematics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 592",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Automorphic Forms",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 599",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mathematics Teaching Techniques",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 600",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Algebra",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 601",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Analysis",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 602",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Geometry",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 603",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Topology",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 604",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Optimization",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 605",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Applied Mathematics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 606",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Differential Equations",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 607",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Numerical Analysis",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 608",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Probability",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 609",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Mathematical Physics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 610",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Pure Mathematics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 612",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Mathematical Biology",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 613",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Number Theory",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 615",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Algebraic Geometry",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 616",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Discrete Mathematics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 620",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Directed Studies in Mathematics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MATH 649",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Doctoral Dissertation",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     }
 ]

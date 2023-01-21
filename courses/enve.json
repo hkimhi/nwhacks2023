@@ -1,38 +1,72 @@
 [
     {
         "name": "ENVE 200",
-        "coreqs": "",
-        "prereqs": "Second-year standing",
-        "postreqs": ""
+        "title": "Environmental Engineering Design and Decision Making",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "ENVE 201",
-        "coreqs": "One of ENVE 200, ENVE 202, ENVE 203",
-        "prereqs": "WRDS 150 or equivalent (ENGL 100, 110, 111 or 112)\nCorequisite: One of ENVE 200, ENVE 202, ENVE 203",
-        "postreqs": ""
+        "title": "Technical Communications for Environmental Engineering",
+        "credits": 3,
+        "coreqs": [
+            "ENVE 200",
+            "ENVE 202",
+            "ENVE 203"
+        ],
+        "prereqs": [
+            "WRDS 150",
+            "ENGL 100",
+            "ENVE 200",
+            "ENVE 202",
+            "ENVE 203"
+        ],
+        "postreqs": []
     },
     {
         "name": "ENVE 202",
-        "coreqs": "",
-        "prereqs": "All of CHEM 154, CIVL 204, CHBE 241, ENVE 200",
-        "postreqs": ""
+        "title": "Environmental Engineering Science",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "CHEM 154",
+            "CIVL 204",
+            "CHBE 241",
+            "ENVE 200"
+        ],
+        "postreqs": []
     },
     {
         "name": "ENVE 203",
-        "coreqs": "",
-        "prereqs": "ENVE 200",
-        "postreqs": ""
+        "title": "Environmental Engineering and Sustainability",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "ENVE 200"
+        ],
+        "postreqs": []
     },
     {
         "name": "ENVE 301",
-        "coreqs": "",
-        "prereqs": "All of ENVE 202, ENVE 203 and Third-year standing",
-        "postreqs": ""
+        "title": "Environmental Engineering Intermediate Design Project",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ENVE 202",
+            "ENVE 203"
+        ],
+        "postreqs": []
     },
     {
         "name": "ENVE 401",
-        "coreqs": "",
-        "prereqs": "ENVE 301 and Fourth-year standing",
-        "postreqs": ""
+        "title": "Environmental Engineering Capstone Project",
+        "credits": 8,
+        "coreqs": [],
+        "prereqs": [
+            "ENVE 301"
+        ],
+        "postreqs": []
     }
 ]

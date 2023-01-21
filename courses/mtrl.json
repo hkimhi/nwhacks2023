@@ -1,386 +1,578 @@
 [
     {
         "name": "MTRL 201",
-        "coreqs": "MTRL 280",
-        "prereqs": "One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150",
-        "postreqs": ""
+        "title": "Technical Communication",
+        "credits": 3,
+        "coreqs": [
+            "MTRL 280"
+        ],
+        "prereqs": [
+            "APSC 176",
+            "ENGL 110",
+            "ENGL 111",
+            "ENGL 112",
+            "ENGL 120",
+            "ENGL 121",
+            "WRDS 150"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 250",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Thermodynamics of Materials I",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 251",
-        "coreqs": "",
-        "prereqs": "MTRL 250",
-        "postreqs": ""
+        "title": "Thermodynamics of Materials II",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "MTRL 250"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 263",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Transport Phenomena I - Fluid Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 264",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Transport Phenomena II - Heat Transport",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 280",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Materials in Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 320",
-        "coreqs": "",
-        "prereqs": "MTRL 201",
-        "postreqs": ""
+        "title": "Management of Engineering Design",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [
+            "MTRL 201"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 340",
-        "coreqs": "",
-        "prereqs": "APSC 278",
-        "postreqs": ""
+        "title": "Manufacturing in Materials Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 278"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 358",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Hydrometallurgy I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 359",
-        "coreqs": "One of MMAT 358, MTRL 358",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Hydrometallurgy I Laboratory",
+        "credits": 1,
+        "coreqs": [
+            "MMAT 358",
+            "MTRL 358"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 361",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Modelling of Materials Processes",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 363",
-        "coreqs": "",
-        "prereqs": "All of MTRL 263, MTRL 264",
-        "postreqs": ""
+        "title": "Transport Phenomena III - Mass Transport",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MTRL 263",
+            "MTRL 264"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 365",
-        "coreqs": "",
-        "prereqs": "All of APSC 278, MECH 260",
-        "postreqs": ""
+        "title": "Mechanical Behaviour of Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 278",
+            "MECH 260"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 378",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Phase Transformations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 381",
-        "coreqs": "All of MTRL 365, MTRL 378",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Structure and Properties Laboratory",
+        "credits": 1,
+        "coreqs": [
+            "MTRL 365",
+            "MTRL 378"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 382",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Ceramics",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 392",
-        "coreqs": "",
-        "prereqs": "One of APSC 201, MTRL 201",
-        "postreqs": ""
+        "title": "Engineering Technical Communication",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 201",
+            "MTRL 201"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 394",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Polymers and Polymer Matrix Composites",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 398",
-        "coreqs": "",
-        "prereqs": "One of APSC 201, MTRL 201",
-        "postreqs": ""
+        "title": "Engineering Written Communication",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 201",
+            "MTRL 201"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 442",
-        "coreqs": "",
-        "prereqs": "APSC 278",
-        "postreqs": ""
+        "title": "Coatings and Surface Modification",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 278"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 451",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Microstructural Analysis Laboratory",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 455",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Economic Aspects of Materials Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 456",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Environmental Degradation of Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 458",
-        "coreqs": "",
-        "prereqs": "One of MMAT 358, MTRL 358",
-        "postreqs": ""
+        "title": "Hydrometallurgy II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MMAT 358",
+            "MTRL 358"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 460",
-        "coreqs": "",
-        "prereqs": "All of STAT 251, APSC 278",
-        "postreqs": ""
+        "title": "Monitoring and Optimization of Materials Processing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "STAT 251",
+            "APSC 278"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 466",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Engineering Project I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 467",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Engineering Project II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 469",
-        "coreqs": "",
-        "prereqs": "All of APSC 278, MTRL 378",
-        "postreqs": ""
+        "title": "Casting Technology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 278",
+            "MTRL 378"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 471",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Nanofibre Technology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 472",
-        "coreqs": "",
-        "prereqs": "All of MTRL 365, MTRL 378",
-        "postreqs": ""
+        "title": "Welding and Joining of Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MTRL 365",
+            "MTRL 378"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 475",
-        "coreqs": "",
-        "prereqs": "All of MTRL 365, MTRL 378",
-        "postreqs": ""
+        "title": "Microstructure Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MTRL 365",
+            "MTRL 378"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 478",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Electronic Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 485",
-        "coreqs": "",
-        "prereqs": "All of MECH 260, MTRL 365",
-        "postreqs": ""
+        "title": "Failure of Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 260",
+            "MTRL 365"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 486",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Nondestructive Evaluation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 494",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Composite Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 495",
-        "coreqs": "",
-        "prereqs": "APSC 278",
-        "postreqs": ""
+        "title": "Biomaterials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "APSC 278"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 496",
-        "coreqs": "",
-        "prereqs": "MTRL 250",
-        "postreqs": ""
+        "title": "Materials Sustainability",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MTRL 250"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 497",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Special Topics in Materials Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 512",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Material Optimization for the Manufacture of Structural Metallic Components",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 515",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Simulation and Modelling Tools for Materials Manufacturing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 517",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Case Studies in Advanced Materials Manufacturing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 550",
-        "coreqs": "",
-        "prereqs": "One of MMAT 350, MTRL 350",
-        "postreqs": ""
+        "title": "Metallurgical Thermodynamics",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [
+            "MMAT 350",
+            "MTRL 350"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 557",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Separation Science in Aqueous Metal Processing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 558",
-        "coreqs": "",
-        "prereqs": "One of MMAT 456, MTRL 456",
-        "postreqs": ""
+        "title": "Corrosion",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MMAT 456",
+            "MTRL 456"
+        ],
+        "postreqs": []
     },
     {
         "name": "MTRL 559",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Hydrometallurgy",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 562",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Finite Elements in Heat Transfer",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 564",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Hydrometallurgical Reactor Design and Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 570",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Deformation of Crystalline Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 571",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Nanofibre Technology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 575",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Phase Transformations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 578",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Microstructural Evolution of Deformed Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 579",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Physics of Microfabrication: Front End Processing",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 582",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Ceramics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 585",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Topics in Fracture Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 588",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Electrochemical Science, Engineering and Technology",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 592",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Topics in Materials Engineering",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 593",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Directed Studies in Materials Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 594",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Composite Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 595",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Advanced Biomaterials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 596",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "M.Sc. Thesis",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 597",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "M.Eng. Project",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 598",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Seminar",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 599",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Thesis",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MTRL 699",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Doctoral Dissertation",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     }
 ]

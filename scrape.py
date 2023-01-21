@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from os.path import exists
 import requests
 import json
+import re
 
 codes_subset = []
 
@@ -30,21 +31,24 @@ for code in codes_subset:
     for i in main_box.children:
         # Title tag
         if i.name == "dt":
-            course_dict['name'] = f"{code.upper()} " + \
-                i.find('a').attrs['name']
+            course_dict['name'] = f"{code.upper()} " + i.find('a').attrs['name']
+            course_dict['title'] = i.find('b').text
+            course_dict['credits'] = int(i.text[i.text.find('(') + 1])
         if i.name == "dd":
-            coreq_str = ''
-            prereq_str = ''
-            postreq_str = ''
+            coreqs = []
+            prereqs = []
+            postreqs = []
 
             if("Corequisite" in i.text):
-                coreq_str = i.text.split("Corequisite: ")[1].split('.')[0]
+                coreqs = i.text.split("Corequisite: ")[1].split('.')[0]
+                coreqs = re.findall(r"[A-Z]{3,4} [0-9]{3}", coreqs)
             if("Prerequisite" in i.text):
-                prereq_str = i.text.split("Prerequisite: ")[1].split('.')[0]
+                prereqs = i.text.split("Prerequisite: ")[1].split('.')[0]
+                prereqs = re.findall(r"[A-Z]{3,4} [0-9]{3}", prereqs)
 
-            course_dict['coreqs'] = coreq_str
-            course_dict['prereqs'] = prereq_str
-            course_dict['postreqs'] = postreq_str
+            course_dict['coreqs'] = coreqs
+            course_dict['prereqs'] = prereqs
+            course_dict['postreqs'] = postreqs
             
             course_descs.append(course_dict)
             course_dict = {}

@@ -1,692 +1,1255 @@
 [
     {
         "name": "MECH 220",
-        "coreqs": "MECH 221",
-        "prereqs": "All of APSC 160, MATH 101, MATH 152, PHYS 158, PHYS 170 and one of APSC 100, APSC 150, APSC 151 and one of BMEG 102, PHYS 159 and one of APSC 176, ENGL 112, WRDS 150",
-        "postreqs": ""
+        "title": "Technical Skills Practicum",
+        "credits": 4,
+        "coreqs": [
+            "MECH 221"
+        ],
+        "prereqs": [
+            "APSC 160",
+            "MATH 101",
+            "MATH 152",
+            "PHYS 158",
+            "PHYS 170",
+            "APSC 100",
+            "APSC 150",
+            "APSC 151",
+            "BMEG 102",
+            "PHYS 159",
+            "APSC 176",
+            "ENGL 112",
+            "WRDS 150"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 221",
-        "coreqs": "All of MECH 220, MECH 224",
-        "prereqs": "All of MATH 101, MATH 152, PHYS 158, PHYS 170 and one of BMEG 102, PHYS 159 and one of APSC 176, ENGL 112, WRDS 150",
-        "postreqs": ""
+        "title": "Engineering Science I",
+        "credits": 1,
+        "coreqs": [
+            "MECH 220",
+            "MECH 224"
+        ],
+        "prereqs": [
+            "MATH 101",
+            "MATH 152",
+            "PHYS 158",
+            "PHYS 170",
+            "BMEG 102",
+            "PHYS 159",
+            "APSC 176",
+            "ENGL 112",
+            "WRDS 150"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 222",
-        "coreqs": "All of MECH 223, MECH 225",
-        "prereqs": "All of MECH 220, MECH 221",
-        "postreqs": ""
+        "title": "Engineering Science II",
+        "credits": 6,
+        "coreqs": [
+            "MECH 223",
+            "MECH 225"
+        ],
+        "prereqs": [
+            "MECH 220",
+            "MECH 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 223",
-        "coreqs": "MECH 222",
-        "prereqs": "All of MECH 220, MECH 221",
-        "postreqs": ""
+        "title": "Introduction to the Mechanical Design Process",
+        "credits": 7,
+        "coreqs": [
+            "MECH 222"
+        ],
+        "prereqs": [
+            "MECH 220",
+            "MECH 221"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 224",
-        "coreqs": "MECH 221",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Integration of Engineering Concepts I",
+        "credits": 1,
+        "coreqs": [
+            "MECH 221"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 225",
-        "coreqs": "MECH 222",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Integration of Engineering Concepts II",
+        "credits": 1,
+        "coreqs": [
+            "MECH 222"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 226",
-        "coreqs": "All of MECH 220, MECH 221, MECH 222, MECH 223, MECH 224, MECH 225",
-        "prereqs": "A score of 65% or higher in one of ENGL 112, WRDS 150, APSC 176",
-        "postreqs": ""
+        "title": "Technical Communication for Mechanical Engineers",
+        "credits": 3,
+        "coreqs": [
+            "MECH 220",
+            "MECH 221",
+            "MECH 222",
+            "MECH 223",
+            "MECH 224",
+            "MECH 225"
+        ],
+        "prereqs": [
+            "ENGL 112",
+            "WRDS 150",
+            "APSC 176"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 227",
-        "coreqs": "",
-        "prereqs": "MECH 220 and one of APSC 176, ENGL 112, WRDS 150",
-        "postreqs": ""
+        "title": "Approaches to Technical Communication for Mechanical Engineers",
+        "credits": 5,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 220",
+            "APSC 176",
+            "ENGL 112",
+            "WRDS 150"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 230",
-        "coreqs": "MECH 221",
-        "prereqs": "All of APSC 160, MATH 101, MATH 152, PHYS 158, PHYS 170 and one of APSC 100, APSC 150, APSC 151 and one of BMEG 102, PHYS 159 and one of APSC 176, ENGL 112, WRDS 150",
-        "postreqs": ""
+        "title": "Technical Skills Practicum I",
+        "credits": 2,
+        "coreqs": [
+            "MECH 221"
+        ],
+        "prereqs": [
+            "APSC 160",
+            "MATH 101",
+            "MATH 152",
+            "PHYS 158",
+            "PHYS 170",
+            "APSC 100",
+            "APSC 150",
+            "APSC 151",
+            "BMEG 102",
+            "PHYS 159",
+            "APSC 176",
+            "ENGL 112",
+            "WRDS 150"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 231",
-        "coreqs": "",
-        "prereqs": "MECH 230",
-        "postreqs": ""
+        "title": "Technical Skills Practicum II",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 230"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 232",
-        "coreqs": "MECH 221",
-        "prereqs": "All of APSC 160, MATH 101, MATH 152, PHYS 158, PHYS 170 and one of APSC 100, APSC 150, APSC 151 and one of BMEG 102, PHYS 159 and one of APSC 176, ENGL 112, WRDS 150",
-        "postreqs": ""
+        "title": "Introduction to the Mechanical Design Process I",
+        "credits": 2,
+        "coreqs": [
+            "MECH 221"
+        ],
+        "prereqs": [
+            "APSC 160",
+            "MATH 101",
+            "MATH 152",
+            "PHYS 158",
+            "PHYS 170",
+            "APSC 100",
+            "APSC 150",
+            "APSC 151",
+            "BMEG 102",
+            "PHYS 159",
+            "APSC 176",
+            "ENGL 112",
+            "WRDS 150"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 233",
-        "coreqs": "",
-        "prereqs": "MECH 232",
-        "postreqs": ""
+        "title": "Introduction to the Mechanical Design Process II",
+        "credits": 5,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 232"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 234",
-        "coreqs": "",
-        "prereqs": "MECH 230",
-        "postreqs": ""
+        "title": "Technical Skills Practicum IIA",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 230"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 235",
-        "coreqs": "",
-        "prereqs": "MECH 234",
-        "postreqs": ""
+        "title": "Technical Skills Practicum IIB",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 234"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 260",
-        "coreqs": "",
-        "prereqs": "Either (a) all of MATH 101, PHYS 170 or (b) all of APSC 172, APSC 173, APSC 180",
-        "postreqs": ""
+        "title": "Introduction to Mechanics of Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 101",
+            "PHYS 170",
+            "APSC 172",
+            "APSC 173",
+            "APSC 180"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 280",
-        "coreqs": "",
-        "prereqs": "All of MATH 152, PHYS 170 and one of MATH 217, MATH 253;  and either (a) PHYS 131 and one of PHYS 108, PHYS 118;  or (b) PHYS 153 or (c) all of PHYS 157, PHYS 158, PHYS 159",
-        "postreqs": ""
+        "title": "Introduction to Fluid Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MATH 152",
+            "PHYS 170",
+            "MATH 217",
+            "MATH 253",
+            "PHYS 131",
+            "PHYS 108",
+            "PHYS 118",
+            "PHYS 153",
+            "PHYS 157",
+            "PHYS 158",
+            "PHYS 159"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 305",
-        "coreqs": "",
-        "prereqs": "All of MECH 220, MECH 223, MECH 224, MECH 225",
-        "postreqs": ""
+        "title": "Data Analysis and Mechanical Engineering Laboratories",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 220",
+            "MECH 223",
+            "MECH 224",
+            "MECH 225"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 306",
-        "coreqs": "",
-        "prereqs": "All of MECH 220, MECH 223, MECH 224, MECH 225",
-        "postreqs": ""
+        "title": "Data Analysis and Mechatronics Laboratories",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 220",
+            "MECH 223",
+            "MECH 224",
+            "MECH 225"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 325",
-        "coreqs": "MECH 360",
-        "prereqs": "One of MECH 223, MECH 260",
-        "postreqs": ""
+        "title": "Machine Design",
+        "credits": 4,
+        "coreqs": [
+            "MECH 360"
+        ],
+        "prereqs": [
+            "MECH 223",
+            "MECH 260"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 327",
-        "coreqs": "",
-        "prereqs": "Either (a) MECH 225 or (b) one of CHBE 241, ENPH 257 and one of CHBE 251, CIVL 215, MECH 280",
-        "postreqs": ""
+        "title": "Thermodynamics II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 225",
+            "CHBE 241",
+            "ENPH 257",
+            "CHBE 251",
+            "CIVL 215",
+            "MECH 280"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 328",
-        "coreqs": "",
-        "prereqs": "MECH 223",
-        "postreqs": ""
+        "title": "Mechanical Engineering Design Project",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 223"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 329",
-        "coreqs": "",
-        "prereqs": "Either (a) MECH 224 or (b) all of APSC 278, MECH 260",
-        "postreqs": ""
+        "title": "Materials for Mechanical Design",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 224",
+            "APSC 278",
+            "MECH 260"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 358",
-        "coreqs": "",
-        "prereqs": "All of MECH 224, MECH 225",
-        "postreqs": ""
+        "title": "Engineering Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 224",
+            "MECH 225"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 360",
-        "coreqs": "",
-        "prereqs": "One of MECH 224, MECH 260",
-        "postreqs": ""
+        "title": "Mechanics of Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 224",
+            "MECH 260"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 366",
-        "coreqs": "",
-        "prereqs": "All of MECH 220, MECH 223, MECH 224, MECH 225",
-        "postreqs": ""
+        "title": "Modelling of Mechatronic Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 220",
+            "MECH 223",
+            "MECH 224",
+            "MECH 225"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 368",
-        "coreqs": "",
-        "prereqs": "Either (a) two of MECH 220, MECH 224, ELEC 203 or (b) two of MECH 220, MECH 224, EECE 263 or (c) all of MANU 230, ELEC 203",
-        "postreqs": ""
+        "title": "Engineering Measurements and Instrumentation",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 220",
+            "MECH 224",
+            "ELEC 203",
+            "MECH 220",
+            "MECH 224",
+            "EECE 263",
+            "MANU 230",
+            "ELEC 203"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 375",
-        "coreqs": "",
-        "prereqs": "Either (a) MECH 225 or (b) one of CHBE 241, ENPH 257, PHYS 203 and one of CHBE 251, CIVL 215, MECH 280",
-        "postreqs": ""
+        "title": "Heat Transfer",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 225",
+            "CHBE 241",
+            "ENPH 257",
+            "PHYS 203",
+            "CHBE 251",
+            "CIVL 215",
+            "MECH 280"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 380",
-        "coreqs": "",
-        "prereqs": "Either (a) MECH 225 or (b) MATH 255 and one of CHBE 251, CIVL 215, MECH 280 and one of CHBE 241, ENPH 257, PHYS 203",
-        "postreqs": ""
+        "title": "Fluid Dynamics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 225",
+            "MATH 255",
+            "CHBE 251",
+            "CIVL 215",
+            "MECH 280",
+            "CHBE 241",
+            "ENPH 257",
+            "PHYS 203"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 386",
-        "coreqs": "",
-        "prereqs": "MECH 380",
-        "postreqs": ""
+        "title": "Industrial Fluid Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 380"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 392",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Manufacturing Processes",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 400",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing in B",
-        "postreqs": ""
+        "title": "Professionalism and Ethics in Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 410",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Special Topics in Mechanical Engineering",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 420",
-        "coreqs": "",
-        "prereqs": "All of MECH 360, MECH 463, MECH 366 and one of ELEC 343, EECE 376",
-        "postreqs": ""
+        "title": "Sensors and Actuators",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 360",
+            "MECH 463",
+            "MECH 366",
+            "ELEC 343",
+            "EECE 376"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 421",
-        "coreqs": "MECH 420",
-        "prereqs": "MECH 366",
-        "postreqs": ""
+        "title": "Mechatronics System Instrumentation",
+        "credits": 4,
+        "coreqs": [
+            "MECH 420"
+        ],
+        "prereqs": [
+            "MECH 366"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 422",
-        "coreqs": "",
-        "prereqs": "One of ELEC 302, EECE 363, ELEC 344, EECE 365 and all of MECH 360, MECH 463",
-        "postreqs": ""
+        "title": "Introduction to Microelectromechanical Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "ELEC 302",
+            "EECE 363",
+            "ELEC 344",
+            "EECE 365",
+            "MECH 360",
+            "MECH 463"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 423",
-        "coreqs": "CPEN 333",
-        "prereqs": "All of MECH 366, ELEC 302, CPEN 312 and 4th year standing",
-        "postreqs": ""
+        "title": "Mechatronic Product Design",
+        "credits": 4,
+        "coreqs": [
+            "CPEN 333"
+        ],
+        "prereqs": [
+            "MECH 366",
+            "ELEC 302",
+            "CPEN 312"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 426",
-        "coreqs": "MECH 360",
-        "prereqs": "One of MECH 223, MECH 260",
-        "postreqs": ""
+        "title": "Mechanical Design",
+        "credits": 3,
+        "coreqs": [
+            "MECH 360"
+        ],
+        "prereqs": [
+            "MECH 223",
+            "MECH 260"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 430",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Engineering Data Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 431",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Engineering Economics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 433",
-        "coreqs": "",
-        "prereqs": "Either (a) MECH 225 or (b) one of MATH 255, MATH 256 and one of CHBE 251, CIVL 215, MECH 280",
-        "postreqs": ""
+        "title": "Biofluids",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 225",
+            "MATH 255",
+            "MATH 256",
+            "CHBE 251",
+            "CIVL 215",
+            "MECH 280"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 435",
-        "coreqs": "",
-        "prereqs": "Either (a) MECH 221 or (b) all of APSC 278, MECH 260",
-        "postreqs": ""
+        "title": "Orthopaedic Biomechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 221",
+            "APSC 278",
+            "MECH 260"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 436",
-        "coreqs": "",
-        "prereqs": "MECH 360 and one of MECH 224, BMEG 330",
-        "postreqs": ""
+        "title": "Fundamentals of Injury Biomechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 360",
+            "MECH 224",
+            "BMEG 330"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 439",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Biomechanics Research",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 445",
-        "coreqs": "",
-        "prereqs": "All of MECH 327, MECH 375",
-        "postreqs": ""
+        "title": "Fuel Cell Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 327",
+            "MECH 375"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 453",
-        "coreqs": "",
-        "prereqs": "All of MECH 327, MECH 328, MECH 360 and fourth-year standing in the Aerospace Option",
-        "postreqs": ""
+        "title": "Aerospace Design Project",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 327",
+            "MECH 328",
+            "MECH 360"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 454",
-        "coreqs": "",
-        "prereqs": "All of MECH 325, MECH 327, MECH 328, MECH 360 and fourth-year standing in the Thermofluids Option",
-        "postreqs": ""
+        "title": "Thermofluids Capstone Design Project",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 325",
+            "MECH 327",
+            "MECH 328",
+            "MECH 360"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 457",
-        "coreqs": "All of MECH 327, MECH 426",
-        "prereqs": "All of MECH 325, MECH 328, MECH 329, MECH 360 and fourth-year standing in Mechanical Engineering",
-        "postreqs": ""
+        "title": "Mechanical Engineering Design Project",
+        "credits": 6,
+        "coreqs": [
+            "MECH 327",
+            "MECH 426"
+        ],
+        "prereqs": [
+            "MECH 325",
+            "MECH 328",
+            "MECH 329",
+            "MECH 360"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 458",
-        "coreqs": "",
-        "prereqs": "All of MECH 325, MECH 328, MECH 360 and fourth-year standing in the Mechatronics Option",
-        "postreqs": ""
+        "title": "Mechatronics Design Project",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 325",
+            "MECH 328",
+            "MECH 360"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 459",
-        "coreqs": "MECH 426",
-        "prereqs": "All of MECH 325, MECH 328, MECH 360 and fourth-year standing in the Biomedical Option",
-        "postreqs": ""
+        "title": "Biomedical Design Project",
+        "credits": 6,
+        "coreqs": [
+            "MECH 426"
+        ],
+        "prereqs": [
+            "MECH 325",
+            "MECH 328",
+            "MECH 360"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 460",
-        "coreqs": "",
-        "prereqs": "MECH 360",
-        "postreqs": ""
+        "title": "Advanced Mechanics of Materials",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 360"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 462",
-        "coreqs": "",
-        "prereqs": "Either (a) all of MECH 360, MECH 375 or (b) all of MECH 360, MTRL 264",
-        "postreqs": ""
+        "title": "Finite Element Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 360",
+            "MECH 375",
+            "MECH 360",
+            "MTRL 264"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 463",
-        "coreqs": "",
-        "prereqs": "One of MECH 224, MECH 260",
-        "postreqs": ""
+        "title": "Mechanical Vibrations",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 224",
+            "MECH 260"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 464",
-        "coreqs": "One of MECH 466, MECH 467",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Industrial Robotics",
+        "credits": 3,
+        "coreqs": [
+            "MECH 466",
+            "MECH 467"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 466",
-        "coreqs": "",
-        "prereqs": "Either (a) all of MECH 220, MECH 221, MECH 463 or (b) all of MATH 255, MECH 463 and one of ELEC 201, ELEC 202, ELEC 204, EECE 251, EECE 253;  or (c) all of ELEC 204, ELEC 221, ENPH 270, MATH 255",
-        "postreqs": ""
+        "title": "Automatic Control",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 220",
+            "MECH 221",
+            "MECH 463",
+            "MATH 255",
+            "MECH 463",
+            "ELEC 201",
+            "ELEC 202",
+            "ELEC 204",
+            "EECE 251",
+            "EECE 253",
+            "ELEC 204",
+            "ELEC 221",
+            "ENPH 270",
+            "MATH 255"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 467",
-        "coreqs": "",
-        "prereqs": "One of MECH 366, MANU 386",
-        "postreqs": ""
+        "title": "Computer Control of Mechatronics Systems",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 366",
+            "MANU 386"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 468",
-        "coreqs": "One of MECH 366, MECH 466",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Modern Control Engineering",
+        "credits": 3,
+        "coreqs": [
+            "MECH 366",
+            "MECH 466"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 469",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Dynamic System Modelling",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 470",
-        "coreqs": "",
-        "prereqs": "All of MECH 327, MECH 375",
-        "postreqs": ""
+        "title": "Energy Conversion Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 327",
+            "MECH 375"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 473",
-        "coreqs": "",
-        "prereqs": "MECH 375",
-        "postreqs": ""
+        "title": "Heating, Ventilating and Air Conditioning",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 375"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 477",
-        "coreqs": "",
-        "prereqs": "All of MECH 327, MECH 375, MECH 380",
-        "postreqs": ""
+        "title": "Aerospace Propulsion",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 327",
+            "MECH 375",
+            "MECH 380"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 478",
-        "coreqs": "",
-        "prereqs": "MECH 327",
-        "postreqs": ""
+        "title": "Internal Combustion Engines",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 327"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 479",
-        "coreqs": "",
-        "prereqs": "MECH 380",
-        "postreqs": ""
+        "title": "Introduction to Computational Fluid Dynamics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 380"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 481",
-        "coreqs": "",
-        "prereqs": "MECH 380",
-        "postreqs": ""
+        "title": "Aerodynamics of Aircraft I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 380"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 484",
-        "coreqs": "MECH 481",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Aircraft Design: Aerodynamics",
+        "credits": 3,
+        "coreqs": [
+            "MECH 481"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 485",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Aircraft Design: Structures",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 488",
-        "coreqs": "",
-        "prereqs": "One of MECH 380, CIVL 315 or permission of instructor",
-        "postreqs": ""
+        "title": "Introduction to Ship Hydrodynamics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 380",
+            "CIVL 315"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 489",
-        "coreqs": "",
-        "prereqs": "All of MECH 375, MECH 380",
-        "postreqs": ""
+        "title": "Experimental Thermofluids",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 375",
+            "MECH 380"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 491",
-        "coreqs": "One of MECH 392, MANU 380",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Computer-Aided Manufacturing",
+        "credits": 3,
+        "coreqs": [
+            "MECH 392",
+            "MANU 380"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 493",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing and at least 80% average in third-year courses and permission of instructor",
-        "postreqs": ""
+        "title": "Introduction to Academic Research",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 495",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Industrial Engineering",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 496",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Engineering Management",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 497",
-        "coreqs": "",
-        "prereqs": "Third-year standing",
-        "postreqs": ""
+        "title": "Research Skills and Data Analysis",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 498",
-        "coreqs": "MECH 497",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Research Communication",
+        "credits": 3,
+        "coreqs": [
+            "MECH 497"
+        ],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 500",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Emerging Topics in Mechanical Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 501",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Thermodynamics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 502",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Fluid Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 503",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Linear Elasticity",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 506",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Linear Vibrations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 507",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Analytical Dynamics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 509",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Controls",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 512",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Experimental Methods in Mechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 514",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Linear FEA in Solids and Heat Transfer",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 515",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Emerging Topics in Applied Mechanics",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 520",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Control Sensors and Actuators",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 521",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Fundamentals of Microelectromechanical Systems",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 526",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Mechatronic System Design Project I",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 527",
-        "coreqs": "",
-        "prereqs": "One of MECH 551, MECH 526",
-        "postreqs": ""
+        "title": "Mechatronic System Design Project II",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 551",
+            "MECH 526"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 529",
-        "coreqs": "",
-        "prereqs": "Prior undergraduate coursework in dynamics, vibration, or electrical circuits",
-        "postreqs": ""
+        "title": "Modelling of Dynamic Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 530",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Emerging Topics in Biomedical Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 533",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Biofluids",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 535",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Orthopaedic Biomechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 536",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Fundamentals of Injury Biomechanics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 540",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 541",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Computer Control of Multi-Axis Machines",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 542",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "CAD/CAM Principles and Practice",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 544",
-        "coreqs": "",
-        "prereqs": "All of MECH 392, MECH 466",
-        "postreqs": ""
+        "title": "Machine Tool Structures and Vibrations",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 392",
+            "MECH 466"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 562",
-        "coreqs": "",
-        "prereqs": "Completion of MECH 466, MECH 468, ELEC 341, or equivalent is recommended",
-        "postreqs": ""
+        "title": "Multivariable Feedback Control",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 466",
+            "MECH 468",
+            "ELEC 341"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 563",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Robotics: Kinematics, Dynamics and Control",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 570",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Emerging Topics in Thermofluids",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 572",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Convection Heat Transfer",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 576",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Combustion",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 577",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Fuel Cell Systems",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 578",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Internal Combustion Engines",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 581",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Low Speed Aerodynamics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 582",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Experimental Fluid Mechanics",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 586",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Turbulent Shear Flow",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 587",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Computational Fluid Dynamics",
+        "credits": 4,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 588",
-        "coreqs": "",
-        "prereqs": "One of MECH 510, MECH 587",
-        "postreqs": ""
+        "title": "Advanced Topics in Computational Fluid Dynamics",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [
+            "MECH 510",
+            "MECH 587"
+        ],
+        "postreqs": []
     },
     {
         "name": "MECH 590",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Special Topics in Mechanical Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 591",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Directed Studies in Mechanical Engineering",
+        "credits": 1,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 597",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Project for M.Eng. Studies",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 598",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Research Seminar",
+        "credits": 2,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 599",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Thesis",
+        "credits": 6,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 698",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Seminar",
+        "credits": 3,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     },
     {
         "name": "MECH 699",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
+        "title": "Doctoral Dissertation",
+        "credits": 0,
+        "coreqs": [],
+        "prereqs": [],
+        "postreqs": []
     }
 ]
