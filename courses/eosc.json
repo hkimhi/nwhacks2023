@@ -1,0 +1,812 @@
+[
+    {
+        "name": "EOSC 110",
+        "coreqs": "EOSC 111 is recommended",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 111",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 112",
+        "coreqs": "EOSC 111 is recommended",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 114",
+        "coreqs": "EOSC 111 is recommended",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 116",
+        "coreqs": "EOSC 111 is recommended",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 118",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 210",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 211",
+        "coreqs": "",
+        "prereqs": "One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 212",
+        "coreqs": "",
+        "prereqs": "Second-year standing in science or engineering",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 213",
+        "coreqs": "",
+        "prereqs": "One of MATH 200, MATH 253 and one of MATH 152, MATH 221, MATH 223 and one of APSC 160, CPSC 103, CPSC 110, EOSC 211",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 220",
+        "coreqs": "",
+        "prereqs": "One of CHEM 110, CHEM 111, CHEM 120, CHEM 121, SCIE 001",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 221",
+        "coreqs": "",
+        "prereqs": "EOSC 220",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 222",
+        "coreqs": "",
+        "prereqs": "Second-year standing in Science",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 223",
+        "coreqs": "EOSC 221",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 240",
+        "coreqs": "CIVL 210",
+        "prereqs": "EOSC 210",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 250",
+        "coreqs": "MATH 200",
+        "prereqs": "One of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 256",
+        "coreqs": "",
+        "prereqs": "Either (a) one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157;  or (b) SCIE 001",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 270",
+        "coreqs": "",
+        "prereqs": "One of SCIE 001, CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 154",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 310",
+        "coreqs": "",
+        "prereqs": "Second-year standing",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 311",
+        "coreqs": "",
+        "prereqs": "Second-year standing",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 314",
+        "coreqs": "",
+        "prereqs": "Second-year standing",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 315",
+        "coreqs": "",
+        "prereqs": "Second-year standing\n",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 320",
+        "coreqs": "",
+        "prereqs": "EOSC 221 and one of EOSC 210, EOSC 222",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 321",
+        "coreqs": "",
+        "prereqs": "EOSC 221",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 322",
+        "coreqs": "",
+        "prereqs": "EOSC 221",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 323",
+        "coreqs": "",
+        "prereqs": "All of EOSC 221, EOSC 223 and one of EOSC 210, EOSC 222",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 325",
+        "coreqs": "",
+        "prereqs": "3rd year standing in Science, Land and Food Systems or Forestry; and\n",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 326",
+        "coreqs": "",
+        "prereqs": "Biology 100-level and third-year standing in Science",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 327",
+        "coreqs": "CHEM 205",
+        "prereqs": "EOSC 220",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 328",
+        "coreqs": "",
+        "prereqs": "All of EOSC 323, EOSC 330 and one of EOSC 321, EOSC 322",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 329",
+        "coreqs": "",
+        "prereqs": "One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 330",
+        "coreqs": "",
+        "prereqs": "One of GEOB 103, EOSC 110, EOSC 210",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 331",
+        "coreqs": "",
+        "prereqs": "EOSC 221",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 332",
+        "coreqs": "",
+        "prereqs": "EOSC 323 or permission of the instructor",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 333",
+        "coreqs": "",
+        "prereqs": "EOSC 221",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 340",
+        "coreqs": "",
+        "prereqs": "Either (a) SCIE 001 or (b) one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 154 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 350",
+        "coreqs": "",
+        "prereqs": "One of MATH 200, MATH 253 and third-year standing or higher in Science or Applied Science",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 352",
+        "coreqs": "",
+        "prereqs": "One of EOSC 250, MATH 317",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 353",
+        "coreqs": "",
+        "prereqs": "EOSC 352",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 354",
+        "coreqs": "",
+        "prereqs": "Either (a) SCIE 001 or (b) one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 355",
+        "coreqs": "",
+        "prereqs": "Either (a) SCIE 001 or (b) one of MATH 101, MATH 103, MATH 105, MATH 121;  and one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 154 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 372",
+        "coreqs": "",
+        "prereqs": "Either (a) SCIE 001 or (b) one of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 154 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 153, PHYS 157",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 373",
+        "coreqs": "",
+        "prereqs": "EOSC 372",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 398",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 399",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 410",
+        "coreqs": "",
+        "prereqs": "One of STAT 200, BIOL 300 and one of MATH 200, EOSC 250 and EOSC 211 and one of EOSC 212, ENVR 300 and one of CPSC 203, CPSC 210",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 420",
+        "coreqs": "",
+        "prereqs": "All of EOSC 220, EOSC 221",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 421",
+        "coreqs": "",
+        "prereqs": "EOSC 320 or permission of instructor",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 422",
+        "coreqs": "",
+        "prereqs": "EOSC 323",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 424",
+        "coreqs": "",
+        "prereqs": "EOSC 331",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 425",
+        "coreqs": "",
+        "prereqs": "EOSC 222",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 426",
+        "coreqs": "",
+        "prereqs": "One of BIOL 111, BIOL 112, BIOL 121, CHEM 110, CHEM 111, CHEM 120, CHEM 121, EOSC 110, EOSC 112",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 428",
+        "coreqs": "",
+        "prereqs": "One of EOSC 325, EOSC 329",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 429",
+        "coreqs": "",
+        "prereqs": "One of EOSC 325, EOSC 329",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 430",
+        "coreqs": "One of EOSC 325, EOSC 329",
+        "prereqs": "One of CHEM 123, CHEM 130, CHEM 154, SCIE 001",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 431",
+        "coreqs": "",
+        "prereqs": "EOSC 429",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 432",
+        "coreqs": "EOSC 320",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 433",
+        "coreqs": "",
+        "prereqs": "All of EOSC 329, CIVL 210, MINE 303",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 434",
+        "coreqs": "",
+        "prereqs": "All of EOSC 329, EOSC 330, CIVL 210",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 442",
+        "coreqs": "",
+        "prereqs": "EOSC 340 and one of CPSC 103, CPSC 110, CPSC 301, EOSC 211, MATH 210, PHYS 210 and one of STAT 200, STAT 201, STAT 251, BIOL 300",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 445",
+        "coreqs": "",
+        "prereqs": "Fourth-year standing in Geological Engineering",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 447",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 448",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 449",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 450",
+        "coreqs": "",
+        "prereqs": "One of PHYS 312, MATH 316, MATH 257 and one of PHYS 102, PHYS 108, PHYS 118, PHYS 158, SCIE 001",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 453",
+        "coreqs": "",
+        "prereqs": "One of PHYS 312, MATH 316, MATH 257",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 454",
+        "coreqs": "",
+        "prereqs": "All of EOSC 352, EOSC 353, EOSC 450 and one of PHYS 301, PHYS 354",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 470",
+        "coreqs": "",
+        "prereqs": "One of EOSC 372, EOSC 373",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 471",
+        "coreqs": "",
+        "prereqs": "EOSC 211 and one of ATSC 201, EOSC 372, GEOB 200 and one of SCIE 001, PHYS 101, PHYS 107, PHYS 117, PHYS 153, PHYS 157",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 472",
+        "coreqs": "",
+        "prereqs": "EOSC 373",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 473",
+        "coreqs": "",
+        "prereqs": "One of EOSC 372, EOSC 373",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 474",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 475",
+        "coreqs": "",
+        "prereqs": "A minimum of 6 credits of third-year level life science courses",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 478",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 490",
+        "coreqs": "",
+        "prereqs": "Third-year standing",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 498",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 499",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 510",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 511",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 512",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 513",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 514",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 515",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 516",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 520",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 521",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 522",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 523",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 524",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 525",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 526",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 528",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 529",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 530",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 531",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 532",
+        "coreqs": "",
+        "prereqs": "EOSC 533",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 533",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 534",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 535",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 536",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 538",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 539",
+        "coreqs": "",
+        "prereqs": "Completion of a course in Economic Geology\n",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 540",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 541",
+        "coreqs": "",
+        "prereqs": "Either (a) EOSC 430 or (b) EOSC 540;  and EOSC 533",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 542",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 543",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 544",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 545",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 546",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 547",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 548",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 549",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 550",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 552",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 554",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 555",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 556",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 561",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 562",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 570",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 571",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 573",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 575",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 576",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 578",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 579",
+        "coreqs": "",
+        "prereqs": "EOSC 512",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 582",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 583",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 584",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 585",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 595",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 598",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 599",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 649",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EOSC 699",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    }
+]

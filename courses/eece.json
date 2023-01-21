@@ -1,0 +1,170 @@
+[
+    {
+        "name": "EECE 500",
+        "coreqs": "",
+        "prereqs": "Enrolment in the PhD degree program in ECE",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 501",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 502",
+        "coreqs": "",
+        "prereqs": "by permission of the instructor",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 510",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 541",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 549",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 550",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 553",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 554",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 555",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 560",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 561",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 562",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 563",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 564",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 565",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 566",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 567",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 568",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 569",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 570",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 571",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 581",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 585",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 589",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 597",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 599",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "EECE 699",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    }
+]

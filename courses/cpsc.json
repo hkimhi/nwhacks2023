@@ -1,672 +1,666 @@
 [
     {
-        "name": "CIVL 201",
-        "coreqs": "CIVL 203",
-        "prereqs": "One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 203",
-        "coreqs": "CIVL 201",
-        "prereqs": "One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 204",
-        "coreqs": "",
-        "prereqs": "CHEM 154",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 210",
-        "coreqs": "EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280",
-        "prereqs": "One of CIVL 230, MECH 260",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 215",
-        "coreqs": "",
-        "prereqs": "All of PHYS 170, MATH 101",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 230",
-        "coreqs": "",
-        "prereqs": "All of PHYS 170, MATH 101",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 231",
-        "coreqs": "",
-        "prereqs": "All of MATH 152, CIVL 203, CIVL 230",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 235",
+        "name": "CPSC 100",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 250",
+        "name": "CPSC 103",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 300",
+        "name": "CPSC 107",
         "coreqs": "",
-        "prereqs": "CIVL 203",
+        "prereqs": "CPSC 103",
         "postreqs": ""
     },
     {
-        "name": "CIVL 301",
-        "coreqs": "",
-        "prereqs": "All of MATH 152, CIVL 201, STAT 251",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 302",
-        "coreqs": "",
-        "prereqs": "CIVL 201",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 303",
-        "coreqs": "",
-        "prereqs": "All of CIVL 201, CIVL 210, CIVL 215, CIVL 231, MATH 256",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 305",
+        "name": "CPSC 110",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 311",
-        "coreqs": "",
-        "prereqs": "CIVL 210",
+        "name": "CPSC 121",
+        "coreqs": "One of CPSC 107, CPSC 110",
+        "prereqs": "Principles of Mathematics 12 or Pre-calculus 12",
         "postreqs": ""
     },
     {
-        "name": "CIVL 315",
+        "name": "CPSC 203",
         "coreqs": "",
-        "prereqs": "All of CIVL 203, CIVL 215, MATH 256",
+        "prereqs": "One of CPSC 103, CPSC 110, EOSC 211, MATH 210, PHYS 210, COMM 337",
         "postreqs": ""
     },
     {
-        "name": "CIVL 316",
+        "name": "CPSC 210",
         "coreqs": "",
-        "prereqs": "All of CIVL 203, CIVL 215",
+        "prereqs": "One of CPSC 107, CPSC 110",
         "postreqs": ""
     },
     {
-        "name": "CIVL 320",
+        "name": "CPSC 213",
         "coreqs": "",
-        "prereqs": "All of APSC 278, APSC 279",
+        "prereqs": "All of CPSC 121, CPSC 210",
         "postreqs": ""
     },
     {
-        "name": "CIVL 331",
+        "name": "CPSC 221",
         "coreqs": "",
-        "prereqs": "CIVL 231",
+        "prereqs": "One of CPSC 210, CPEN 221 and one of CPSC 121, MATH 220",
         "postreqs": ""
     },
     {
-        "name": "CIVL 332",
+        "name": "CPSC 259",
         "coreqs": "",
-        "prereqs": "All of CIVL 231, MATH 152",
+        "prereqs": "APSC 160",
         "postreqs": ""
     },
     {
-        "name": "CIVL 340",
+        "name": "CPSC 261",
         "coreqs": "",
-        "prereqs": "STAT 251",
+        "prereqs": "One of EECE 259, CPEN 211 and one of EECE 210, CPEN 221",
         "postreqs": ""
     },
     {
-        "name": "CIVL 402",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 403",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing required",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 404",
-        "coreqs": "",
-        "prereqs": "CIVL 204",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 406",
-        "coreqs": "",
-        "prereqs": "CIVL 305",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 407",
-        "coreqs": "",
-        "prereqs": "CHEM 154",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 408",
-        "coreqs": "",
-        "prereqs": "All of CIVL 210, CIVL 315, CIVL 316",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 409",
-        "coreqs": "",
-        "prereqs": "All of CIVL 315, CIVL 316",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 410",
-        "coreqs": "",
-        "prereqs": "CIVL 311",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 411",
-        "coreqs": "",
-        "prereqs": "CIVL 311",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 413",
-        "coreqs": "",
-        "prereqs": "CIVL 311",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 415",
-        "coreqs": "",
-        "prereqs": "All of CIVL 315, CIVL 316, STAT 251",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 416",
-        "coreqs": "",
-        "prereqs": "All of CIVL 316, MATH 256",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 417",
-        "coreqs": "",
-        "prereqs": "CIVL 316 and one of EOSC 213, MATH 256",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 418",
-        "coreqs": "",
-        "prereqs": "CIVL 316",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 420",
-        "coreqs": "",
-        "prereqs": "CIVL 320",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 422",
-        "coreqs": "",
-        "prereqs": "CIVL 320",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 425",
-        "coreqs": "",
-        "prereqs": "Fourth-year standing",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 426",
+        "name": "CPSC 298",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 430",
+        "name": "CPSC 299",
         "coreqs": "",
-        "prereqs": "CIVL 332",
+        "prereqs": "CPSC 298",
         "postreqs": ""
     },
     {
-        "name": "CIVL 432",
+        "name": "CPSC 301",
         "coreqs": "",
-        "prereqs": "All of CIVL 331, CIVL 332",
+        "prereqs": "Third-year standing or higher",
         "postreqs": ""
     },
     {
-        "name": "CIVL 433",
+        "name": "CPSC 302",
         "coreqs": "",
-        "prereqs": "CIVL 430",
+        "prereqs": "One of CPSC 103, CPSC 110, CPEN 221, EOSC 211, PHYS 210 and one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223",
         "postreqs": ""
     },
     {
-        "name": "CIVL 435",
+        "name": "CPSC 303",
         "coreqs": "",
-        "prereqs": "CIVL 332",
+        "prereqs": "One of CPSC 103, CPSC 110, CPEN 221, EOSC 211, PHYS 210 and one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223",
         "postreqs": ""
     },
     {
-        "name": "CIVL 436",
+        "name": "CPSC 304",
         "coreqs": "",
-        "prereqs": "CIVL 332",
+        "prereqs": "CPSC 221",
         "postreqs": ""
     },
     {
-        "name": "CIVL 437",
+        "name": "CPSC 310",
         "coreqs": "",
-        "prereqs": "One of CIVL 332, MECH 360",
+        "prereqs": "All of CPSC 213, CPSC 221",
         "postreqs": ""
     },
     {
-        "name": "CIVL 439",
+        "name": "CPSC 311",
         "coreqs": "",
-        "prereqs": "One of CIVL 331, WOOD 386",
+        "prereqs": "CPSC 210",
         "postreqs": ""
     },
     {
-        "name": "CIVL 440",
+        "name": "CPSC 312",
         "coreqs": "",
-        "prereqs": "CIVL 340",
+        "prereqs": "One of CPSC 210, CPEN 221",
         "postreqs": ""
     },
     {
-        "name": "CIVL 441",
+        "name": "CPSC 313",
         "coreqs": "",
-        "prereqs": "CIVL 340",
+        "prereqs": "All of CPSC 213, CPSC 221",
         "postreqs": ""
     },
     {
-        "name": "CIVL 445",
+        "name": "CPSC 314",
         "coreqs": "",
-        "prereqs": "CIVL 203 and fourth-year standing",
+        "prereqs": "CPSC 221 and one of MATH 200, MATH 217, MATH 226, MATH 253 and one of MATH 152, MATH 221, MATH 223",
         "postreqs": ""
     },
     {
-        "name": "CIVL 446",
+        "name": "CPSC 317",
         "coreqs": "",
-        "prereqs": "CIVL 445",
+        "prereqs": "All of CPSC 213, CPSC 221",
         "postreqs": ""
     },
     {
-        "name": "CIVL 475",
+        "name": "CPSC 319",
         "coreqs": "",
-        "prereqs": "One of APSC 261, APSC 262, APSC 263, CIVL 250, CIVL 302",
+        "prereqs": "CPSC 310",
         "postreqs": ""
     },
     {
-        "name": "CIVL 478",
+        "name": "CPSC 320",
         "coreqs": "",
-        "prereqs": "Fourth-year standing",
+        "prereqs": "CPSC 221 and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above",
         "postreqs": ""
     },
     {
-        "name": "CIVL 492",
+        "name": "CPSC 322",
         "coreqs": "",
-        "prereqs": "",
+        "prereqs": "CPSC 221",
         "postreqs": ""
     },
     {
-        "name": "CIVL 498",
+        "name": "CPSC 330",
         "coreqs": "",
-        "prereqs": "",
+        "prereqs": "Either (a) one of CPSC 203, CPSC 210, CPEN 221 or (b) MATH 210 and one of CPSC 107, CPSC 110",
         "postreqs": ""
     },
     {
-        "name": "CIVL 504",
+        "name": "CPSC 340",
         "coreqs": "",
-        "prereqs": "",
+        "prereqs": "CPSC 221 and one of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254 and one of STAT 241, STAT 251, ECON 325, ECON 327, MATH 302, STAT 302, MATH 318",
         "postreqs": ""
     },
     {
-        "name": "CIVL 505",
+        "name": "CPSC 344",
         "coreqs": "",
-        "prereqs": "",
+        "prereqs": "One of CPSC 210, CPEN 221",
         "postreqs": ""
     },
     {
-        "name": "CIVL 506",
-        "coreqs": "",
-        "prereqs": "",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 507",
+        "name": "CPSC 349",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 508",
+        "name": "CPSC 368",
+        "coreqs": "",
+        "prereqs": "One of CPSC 203, CPSC 210, CPEN 221",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 398",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 509",
+        "name": "CPSC 399",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 510",
+        "name": "CPSC 402",
+        "coreqs": "",
+        "prereqs": "One of CPSC 302, CPSC 303, MATH 307",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 404",
+        "coreqs": "",
+        "prereqs": "CPSC 304 and one of CPSC 213, CPSC 261, CPEN 212",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 406",
+        "coreqs": "",
+        "prereqs": "One of CPSC 302, CPSC 303, MATH 307",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 410",
+        "coreqs": "",
+        "prereqs": "Either (a) CPSC 310 or (b) all of CPEN 321, CPEN 331",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 411",
+        "coreqs": "",
+        "prereqs": "All of CPSC 213, CPSC 221, CPSC 311",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 415",
+        "coreqs": "",
+        "prereqs": "One of CPSC 313, CPEN 331",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 416",
+        "coreqs": "",
+        "prereqs": "One of CPSC 313, CPEN 331 and one of CPSC 317, ELEC 331",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 417",
+        "coreqs": "",
+        "prereqs": "All of CPSC 313, CPSC 317 and one of STAT 200, STAT 201, STAT 241, STAT 251",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 418",
+        "coreqs": "",
+        "prereqs": "CPSC 320 and one of CPSC 261, CPSC 313, CPEN 212, CPEN 411",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 420",
+        "coreqs": "",
+        "prereqs": "CPSC 320",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 421",
+        "coreqs": "",
+        "prereqs": "CPSC 221",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 422",
+        "coreqs": "",
+        "prereqs": "CPSC 322",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 424",
+        "coreqs": "",
+        "prereqs": "CPSC 320 and one of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 425",
+        "coreqs": "",
+        "prereqs": "All of CPSC 221, MATH 200, MATH 221",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 426",
+        "coreqs": "",
+        "prereqs": "CPSC 314",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 427",
+        "coreqs": "",
+        "prereqs": "CPSC 221 and one of MATH 200, MATH 217, MATH 226, MATH 253 and one of MATH 152, MATH 221, MATH 223",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 430",
+        "coreqs": "",
+        "prereqs": "3 credits of Computer Science and at least third-year standing",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 436",
+        "coreqs": "",
+        "prereqs": "Third-year standing in a Computer Science or Computer Engineering specialization, and permission of the department",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 440",
+        "coreqs": "",
+        "prereqs": "All of CPSC 320, CPSC 340",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 444",
+        "coreqs": "",
+        "prereqs": "CPSC 344 and one of STAT 200, STAT 201, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, GEOG 374, KIN  206, KIN  371, POLI 380, PSYC 218, PSYC 278, PSYC 366, SOCI 328",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 445",
+        "coreqs": "",
+        "prereqs": "CPSC 320 and either BMEG 250 or six credits of BIOL beyond BIOL 111",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 447",
+        "coreqs": "",
+        "prereqs": "One of CPSC 310, CPEN 321",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 448",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 511",
+        "name": "CPSC 449",
+        "coreqs": "",
+        "prereqs": "CPSC 349",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 455",
+        "coreqs": "",
+        "prereqs": "One of CPSC 310, CPEN 321",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 490",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 513",
+        "name": "CPSC 491",
+        "coreqs": "",
+        "prereqs": "All of CPSC 221, CPSC 310, CPSC 344 and Third-year standing",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 499",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 516",
+        "name": "CPSC 500",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 517",
+        "name": "CPSC 501",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 518",
+        "name": "CPSC 502",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 519",
-        "coreqs": "",
-        "prereqs": "STAT 251",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 520",
+        "name": "CPSC 503",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 521",
+        "name": "CPSC 504",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 522",
+        "name": "CPSC 505",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 523",
+        "name": "CPSC 506",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 524",
+        "name": "CPSC 507",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 526",
+        "name": "CPSC 508",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 528",
-        "coreqs": "",
-        "prereqs": "CIVL 420",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 529",
+        "name": "CPSC 509",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 537",
+        "name": "CPSC 511",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 538",
-        "coreqs": "",
-        "prereqs": "CIVL 537",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 539",
+        "name": "CPSC 513",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 540",
+        "name": "CPSC 514",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 541",
+        "name": "CPSC 515",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 542",
+        "name": "CPSC 516",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 543",
+        "name": "CPSC 517",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 546",
+        "name": "CPSC 519",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 547",
+        "name": "CPSC 520",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 548",
+        "name": "CPSC 521",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 551",
+        "name": "CPSC 522",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 555",
+        "name": "CPSC 524",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 556",
-        "coreqs": "",
-        "prereqs": "CIVL 301",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 558",
+        "name": "CPSC 525",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 559",
+        "name": "CPSC 526",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 561",
+        "name": "CPSC 527",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 562",
-        "coreqs": "",
-        "prereqs": "One of CIVL 407, CHBE 364",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 564",
+        "name": "CPSC 529",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 565",
+        "name": "CPSC 530",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 566",
+        "name": "CPSC 531",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 569",
+        "name": "CPSC 532",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 570",
-        "coreqs": "",
-        "prereqs": "CIVL 311",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 574",
-        "coreqs": "",
-        "prereqs": "CIVL 570",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 575",
+        "name": "CPSC 533",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 579",
-        "coreqs": "",
-        "prereqs": "CIVL 311",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 580",
+        "name": "CPSC 534",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 581",
-        "coreqs": "",
-        "prereqs": "CIVL 570",
-        "postreqs": ""
-    },
-    {
-        "name": "CIVL 582",
+        "name": "CPSC 535",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 583",
+        "name": "CPSC 536",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 584",
+        "name": "CPSC 537",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 586",
+        "name": "CPSC 538",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 589",
+        "name": "CPSC 539",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 592",
+        "name": "CPSC 540",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 597",
+        "name": "CPSC 542",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 598",
+        "name": "CPSC 543",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 599",
+        "name": "CPSC 544",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
     },
     {
-        "name": "CIVL 699",
+        "name": "CPSC 545",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 546",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 547",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 548",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 549",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 550",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 554",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 564",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 589",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 590",
+        "coreqs": "",
+        "prereqs": "",
+        "postreqs": ""
+    },
+    {
+        "name": "CPSC 649",
         "coreqs": "",
         "prereqs": "",
         "postreqs": ""
