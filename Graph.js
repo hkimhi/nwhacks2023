@@ -17,21 +17,46 @@ anychart.onDocumentReady(function () {
 
       chart.listen('click', function(e) {
         var tag = e.domTarget.tag;
-
-        // var name = e.domTarget.id;
-        // var credits = e.domTarget.credits;
-        // var title = e.domTarget.title;
-        // var desc = e.domTarget.desc;
-
         if(tag) {
           console.log(`Clicked ${tag.type} with ID ${tag.id}`);
 
           if(tag.type == 'node') {
             console.log(tag);
-            document.getElementById('course-title').innerHTML = tag.id;
+            
+            var node;
+            for(let i = 0; i < data['nodes'].length; i++) {
+              if(data['nodes'][i]['id'] == tag.id) {
+                node = data['nodes'][i];
+              }
+            }
+
+            document.getElementById('course-name').innerHTML = `${node.id} (${node.credits}) - ${node.title}`
+            document.getElementById('course-desc').innerHTML = node.desc; 
           }
         }
       })
+
+      document.body.addEventListener('keypress', function(e) {
+        // check if the element is an `input` element and the key is `enter`
+        if(e.target.nodeName === "INPUT" && e.key === 'Enter') {
+          var name = e.target.value;
+          var node;
+          var found = false;
+          for(let i = 0; i < data['nodes'].length; i++) {
+            if(data['nodes'][i]['id'] == name) {
+              node = data['nodes'][i]
+              found = true;
+              break;
+            }
+          }
+
+          if(found) {
+            console.log(`Found course with id: ${name}`);
+            document.getElementById('course-name').innerHTML = `${node.id} (${node.credits}) - ${node.title}`
+            document.getElementById('course-desc').innerHTML = node.desc; 
+          }
+        }
+      });
 
       chart.data(data);
       chart.title().enabled(true).text("UBC Coursemap");
@@ -39,7 +64,6 @@ anychart.onDocumentReady(function () {
       var edgeConfig = {
         normal: {stroke: {thickness: 2, color: 'orange'}},
         hovered: {stroke: {thickness: 4, color: 'blue'}},
-        // tooltip: {enabled:true, format: 'edge id: {%id}'}
         tooltip: {enabled:true, format: '{%from} --> {%to}'}
       };
       var nodeConfig = {

@@ -7,8 +7,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 700,
-        "y": 0,
+        "x": 501,
+        "y": -445,
         "group": "math"
     },
     {
@@ -19,8 +19,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 699,
-        "y": 3,
+        "x": 501,
+        "y": -442,
         "group": "math"
     },
     {
@@ -31,8 +31,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 699,
-        "y": 7,
+        "x": 501,
+        "y": -438,
         "group": "math"
     },
     {
@@ -43,8 +43,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 699,
-        "y": 10,
+        "x": 500,
+        "y": -435,
         "group": "math"
     },
     {
@@ -55,8 +55,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 698,
-        "y": 14,
+        "x": 500,
+        "y": -431,
         "group": "math"
     },
     {
@@ -67,8 +67,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 698,
-        "y": 17,
+        "x": 499,
+        "y": -427,
         "group": "math"
     },
     {
@@ -79,8 +79,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 697,
-        "y": 21,
+        "x": 499,
+        "y": -424,
         "group": "math"
     },
     {
@@ -91,8 +91,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 696,
-        "y": 25,
+        "x": 498,
+        "y": -420,
         "group": "math"
     },
     {
@@ -103,8 +103,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 695,
-        "y": 28,
+        "x": 497,
+        "y": -417,
         "group": "math"
     },
     {
@@ -117,8 +117,8 @@
         ],
         "prereqs": [],
         "postreqs": [],
-        "x": 694,
-        "y": 31,
+        "x": 496,
+        "y": -413,
         "group": "math"
     },
     {
@@ -129,8 +129,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 693,
-        "y": 35,
+        "x": 495,
+        "y": -410,
         "group": "math"
     },
     {
@@ -141,8 +141,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 692,
-        "y": 38,
+        "x": 493,
+        "y": -407,
         "group": "math"
     },
     {
@@ -153,8 +153,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 690,
-        "y": 41,
+        "x": 492,
+        "y": -403,
         "group": "math"
     },
     {
@@ -165,8 +165,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 689,
-        "y": 45,
+        "x": 490,
+        "y": -400,
         "group": "math"
     },
     {
@@ -193,8 +193,8 @@
             "MATH 223"
         ],
         "postreqs": [],
-        "x": 687,
-        "y": 48,
+        "x": 488,
+        "y": -397,
         "group": "math"
     },
     {
@@ -217,8 +217,8 @@
             "MATH 254"
         ],
         "postreqs": [],
-        "x": 685,
-        "y": 51,
+        "x": 487,
+        "y": -394,
         "group": "math"
     },
     {
@@ -237,8 +237,8 @@
             "MATH 223"
         ],
         "postreqs": [],
-        "x": 683,
-        "y": 54,
+        "x": 485,
+        "y": -391,
         "group": "math"
     },
     {
@@ -249,8 +249,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 681,
-        "y": 57,
+        "x": 483,
+        "y": -388,
         "group": "math"
     },
     {
@@ -261,8 +261,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 679,
-        "y": 60,
+        "x": 481,
+        "y": -385,
         "group": "math"
     },
     {
@@ -273,8 +273,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 677,
-        "y": 63,
+        "x": 478,
+        "y": -382,
         "group": "math"
     },
     {
@@ -293,8 +293,8 @@
             "MATH 223"
         ],
         "postreqs": [],
-        "x": 675,
-        "y": 66,
+        "x": 476,
+        "y": -379,
         "group": "math"
     },
     {
@@ -305,8 +305,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 672,
-        "y": 68,
+        "x": 474,
+        "y": -377,
         "group": "math"
     },
     {
@@ -317,8 +317,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 670,
-        "y": 71,
+        "x": 471,
+        "y": -374,
         "group": "math"
     },
     {
@@ -329,8 +329,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 667,
-        "y": 73,
+        "x": 468,
+        "y": -372,
         "group": "math"
     },
     {
@@ -347,8 +347,8 @@
             "MECH 225"
         ],
         "postreqs": [],
-        "x": 664,
-        "y": 76,
+        "x": 466,
+        "y": -369,
         "group": "math"
     },
     {
@@ -371,8 +371,8 @@
             "MATH 254"
         ],
         "postreqs": [],
-        "x": 661,
-        "y": 78,
+        "x": 463,
+        "y": -367,
         "group": "math"
     },
     {
@@ -395,8 +395,8 @@
             "MATH 263"
         ],
         "postreqs": [],
-        "x": 659,
-        "y": 80,
+        "x": 460,
+        "y": -365,
         "group": "math"
     },
     {
@@ -407,8 +407,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 656,
-        "y": 82,
+        "x": 457,
+        "y": -363,
         "group": "math"
     },
     {
@@ -425,8 +425,8 @@
             "MECH 224"
         ],
         "postreqs": [],
-        "x": 653,
-        "y": 84,
+        "x": 454,
+        "y": -361,
         "group": "math"
     },
     {
@@ -443,8 +443,8 @@
             "ELEC 211"
         ],
         "postreqs": [],
-        "x": 650,
-        "y": 86,
+        "x": 451,
+        "y": -359,
         "group": "math"
     },
     {
@@ -465,8 +465,8 @@
             "MATH 317"
         ],
         "postreqs": [],
-        "x": 646,
-        "y": 88,
+        "x": 448,
+        "y": -357,
         "group": "math"
     },
     {
@@ -479,20 +479,18 @@
             "MATH 257",
             "MATH 316",
             "MATH 358",
-            "MECH 358",
-            "PHYS 312"
+            "MECH 358"
         ],
         "prereqs": [
             "MATH 256",
             "MATH 257",
             "MATH 316",
             "MATH 358",
-            "MECH 358",
-            "PHYS 312"
+            "MECH 358"
         ],
         "postreqs": [],
-        "x": 643,
-        "y": 89,
+        "x": 445,
+        "y": -355,
         "group": "math"
     },
     {
@@ -503,8 +501,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 640,
-        "y": 91,
+        "x": 441,
+        "y": -354,
         "group": "math"
     },
     {
@@ -515,8 +513,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 637,
-        "y": 92,
+        "x": 438,
+        "y": -352,
         "group": "math"
     },
     {
@@ -529,20 +527,18 @@
             "MATH 257",
             "MATH 316",
             "MATH 358",
-            "MECH 358",
-            "PHYS 312"
+            "MECH 358"
         ],
         "prereqs": [
             "MATH 256",
             "MATH 257",
             "MATH 316",
             "MATH 358",
-            "MECH 358",
-            "PHYS 312"
+            "MECH 358"
         ],
         "postreqs": [],
-        "x": 633,
-        "y": 94,
+        "x": 435,
+        "y": -351,
         "group": "math"
     },
     {
@@ -553,8 +549,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 630,
-        "y": 95,
+        "x": 431,
+        "y": -350,
         "group": "math"
     },
     {
@@ -565,8 +561,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 626,
-        "y": 96,
+        "x": 428,
+        "y": -349,
         "group": "math"
     },
     {
@@ -577,8 +573,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 623,
-        "y": 97,
+        "x": 424,
+        "y": -348,
         "group": "math"
     },
     {
@@ -589,8 +585,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 619,
-        "y": 98,
+        "x": 421,
+        "y": -347,
         "group": "math"
     },
     {
@@ -601,8 +597,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 616,
-        "y": 98,
+        "x": 417,
+        "y": -347,
         "group": "math"
     },
     {
@@ -613,8 +609,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 612,
-        "y": 99,
+        "x": 414,
+        "y": -346,
         "group": "math"
     },
     {
@@ -625,8 +621,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 609,
-        "y": 99,
+        "x": 410,
+        "y": -346,
         "group": "math"
     },
     {
@@ -637,8 +633,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 605,
-        "y": 99,
+        "x": 406,
+        "y": -346,
         "group": "math"
     },
     {
@@ -651,20 +647,18 @@
             "MATH 257",
             "MATH 316",
             "MATH 358",
-            "MECH 358",
-            "PHYS 312"
+            "MECH 358"
         ],
         "prereqs": [
             "MATH 256",
             "MATH 257",
             "MATH 316",
             "MATH 358",
-            "MECH 358",
-            "PHYS 312"
+            "MECH 358"
         ],
         "postreqs": [],
-        "x": 601,
-        "y": 99,
+        "x": 403,
+        "y": -345,
         "group": "math"
     },
     {
@@ -675,8 +669,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 598,
-        "y": 99,
+        "x": 399,
+        "y": -345,
         "group": "math"
     },
     {
@@ -687,8 +681,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 594,
-        "y": 99,
+        "x": 396,
+        "y": -346,
         "group": "math"
     },
     {
@@ -699,8 +693,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 590,
-        "y": 99,
+        "x": 392,
+        "y": -346,
         "group": "math"
     },
     {
@@ -711,8 +705,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 587,
-        "y": 99,
+        "x": 388,
+        "y": -346,
         "group": "math"
     },
     {
@@ -723,8 +717,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 583,
-        "y": 98,
+        "x": 385,
+        "y": -347,
         "group": "math"
     },
     {
@@ -735,8 +729,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 580,
-        "y": 98,
+        "x": 381,
+        "y": -347,
         "group": "math"
     },
     {
@@ -747,8 +741,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 576,
-        "y": 97,
+        "x": 378,
+        "y": -348,
         "group": "math"
     },
     {
@@ -759,8 +753,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 573,
-        "y": 96,
+        "x": 374,
+        "y": -349,
         "group": "math"
     },
     {
@@ -771,8 +765,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 569,
-        "y": 95,
+        "x": 371,
+        "y": -350,
         "group": "math"
     },
     {
@@ -783,8 +777,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 566,
-        "y": 94,
+        "x": 367,
+        "y": -351,
         "group": "math"
     },
     {
@@ -795,8 +789,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 562,
-        "y": 92,
+        "x": 364,
+        "y": -352,
         "group": "math"
     },
     {
@@ -807,8 +801,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 559,
-        "y": 91,
+        "x": 361,
+        "y": -354,
         "group": "math"
     },
     {
@@ -819,8 +813,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 556,
-        "y": 89,
+        "x": 357,
+        "y": -355,
         "group": "math"
     },
     {
@@ -831,8 +825,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 553,
-        "y": 88,
+        "x": 354,
+        "y": -357,
         "group": "math"
     },
     {
@@ -843,8 +837,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 550,
-        "y": 86,
+        "x": 351,
+        "y": -359,
         "group": "math"
     },
     {
@@ -855,8 +849,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 546,
-        "y": 84,
+        "x": 348,
+        "y": -361,
         "group": "math"
     },
     {
@@ -867,8 +861,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 543,
-        "y": 82,
+        "x": 345,
+        "y": -363,
         "group": "math"
     },
     {
@@ -879,8 +873,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 540,
-        "y": 80,
+        "x": 342,
+        "y": -365,
         "group": "math"
     },
     {
@@ -891,8 +885,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 538,
-        "y": 78,
+        "x": 339,
+        "y": -367,
         "group": "math"
     },
     {
@@ -903,8 +897,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 535,
-        "y": 76,
+        "x": 336,
+        "y": -369,
         "group": "math"
     },
     {
@@ -919,8 +913,8 @@
             "MATH 420"
         ],
         "postreqs": [],
-        "x": 532,
-        "y": 73,
+        "x": 334,
+        "y": -372,
         "group": "math"
     },
     {
@@ -931,8 +925,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 529,
-        "y": 71,
+        "x": 331,
+        "y": -374,
         "group": "math"
     },
     {
@@ -943,8 +937,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 527,
-        "y": 68,
+        "x": 328,
+        "y": -377,
         "group": "math"
     },
     {
@@ -955,8 +949,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 524,
-        "y": 66,
+        "x": 326,
+        "y": -379,
         "group": "math"
     },
     {
@@ -967,8 +961,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 522,
-        "y": 63,
+        "x": 324,
+        "y": -382,
         "group": "math"
     },
     {
@@ -979,8 +973,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 520,
-        "y": 60,
+        "x": 321,
+        "y": -385,
         "group": "math"
     },
     {
@@ -991,8 +985,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 518,
-        "y": 57,
+        "x": 319,
+        "y": -388,
         "group": "math"
     },
     {
@@ -1003,8 +997,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 516,
-        "y": 54,
+        "x": 317,
+        "y": -391,
         "group": "math"
     },
     {
@@ -1015,8 +1009,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 514,
-        "y": 51,
+        "x": 315,
+        "y": -394,
         "group": "math"
     },
     {
@@ -1027,8 +1021,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 512,
-        "y": 48,
+        "x": 313,
+        "y": -397,
         "group": "math"
     },
     {
@@ -1039,8 +1033,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 510,
-        "y": 45,
+        "x": 312,
+        "y": -400,
         "group": "math"
     },
     {
@@ -1051,8 +1045,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 509,
-        "y": 41,
+        "x": 310,
+        "y": -403,
         "group": "math"
     },
     {
@@ -1063,8 +1057,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 507,
-        "y": 38,
+        "x": 309,
+        "y": -407,
         "group": "math"
     },
     {
@@ -1075,8 +1069,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 506,
-        "y": 35,
+        "x": 307,
+        "y": -410,
         "group": "math"
     },
     {
@@ -1087,8 +1081,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 505,
-        "y": 31,
+        "x": 306,
+        "y": -413,
         "group": "math"
     },
     {
@@ -1099,8 +1093,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 504,
-        "y": 28,
+        "x": 305,
+        "y": -417,
         "group": "math"
     },
     {
@@ -1115,8 +1109,8 @@
             "MATH 320"
         ],
         "postreqs": [],
-        "x": 503,
-        "y": 25,
+        "x": 304,
+        "y": -420,
         "group": "math"
     },
     {
@@ -1127,8 +1121,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 502,
-        "y": 21,
+        "x": 303,
+        "y": -424,
         "group": "math"
     },
     {
@@ -1139,8 +1133,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 501,
-        "y": 17,
+        "x": 303,
+        "y": -427,
         "group": "math"
     },
     {
@@ -1154,8 +1148,8 @@
         ],
         "prereqs": [],
         "postreqs": [],
-        "x": 501,
-        "y": 14,
+        "x": 302,
+        "y": -431,
         "group": "math"
     },
     {
@@ -1166,8 +1160,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 500,
-        "y": 10,
+        "x": 302,
+        "y": -435,
         "group": "math"
     },
     {
@@ -1178,8 +1172,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 500,
-        "y": 7,
+        "x": 301,
+        "y": -438,
         "group": "math"
     },
     {
@@ -1190,8 +1184,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 500,
-        "y": 3,
+        "x": 301,
+        "y": -442,
         "group": "math"
     },
     {
@@ -1202,8 +1196,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 500,
-        "y": 0,
+        "x": 301,
+        "y": -445,
         "group": "math"
     },
     {
@@ -1214,8 +1208,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 500,
-        "y": -3,
+        "x": 301,
+        "y": -449,
         "group": "math"
     },
     {
@@ -1226,8 +1220,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 500,
-        "y": -7,
+        "x": 301,
+        "y": -453,
         "group": "math"
     },
     {
@@ -1238,8 +1232,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 500,
-        "y": -10,
+        "x": 302,
+        "y": -456,
         "group": "math"
     },
     {
@@ -1250,8 +1244,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 501,
-        "y": -14,
+        "x": 302,
+        "y": -460,
         "group": "math"
     },
     {
@@ -1262,8 +1256,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 501,
-        "y": -17,
+        "x": 303,
+        "y": -463,
         "group": "math"
     },
     {
@@ -1274,8 +1268,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 502,
-        "y": -21,
+        "x": 303,
+        "y": -467,
         "group": "math"
     },
     {
@@ -1286,8 +1280,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 503,
-        "y": -25,
+        "x": 304,
+        "y": -470,
         "group": "math"
     },
     {
@@ -1298,8 +1292,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 504,
-        "y": -28,
+        "x": 305,
+        "y": -474,
         "group": "math"
     },
     {
@@ -1310,8 +1304,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 505,
-        "y": -31,
+        "x": 306,
+        "y": -477,
         "group": "math"
     },
     {
@@ -1322,8 +1316,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 506,
-        "y": -35,
+        "x": 307,
+        "y": -481,
         "group": "math"
     },
     {
@@ -1334,8 +1328,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 507,
-        "y": -38,
+        "x": 309,
+        "y": -484,
         "group": "math"
     },
     {
@@ -1346,8 +1340,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 509,
-        "y": -41,
+        "x": 310,
+        "y": -487,
         "group": "math"
     },
     {
@@ -1358,8 +1352,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 510,
-        "y": -45,
+        "x": 312,
+        "y": -491,
         "group": "math"
     },
     {
@@ -1370,8 +1364,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 512,
-        "y": -48,
+        "x": 313,
+        "y": -494,
         "group": "math"
     },
     {
@@ -1382,8 +1376,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 514,
-        "y": -51,
+        "x": 315,
+        "y": -497,
         "group": "math"
     },
     {
@@ -1394,8 +1388,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 516,
-        "y": -54,
+        "x": 317,
+        "y": -500,
         "group": "math"
     },
     {
@@ -1406,8 +1400,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 518,
-        "y": -57,
+        "x": 319,
+        "y": -503,
         "group": "math"
     },
     {
@@ -1418,8 +1412,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 520,
-        "y": -60,
+        "x": 321,
+        "y": -506,
         "group": "math"
     },
     {
@@ -1430,8 +1424,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 522,
-        "y": -63,
+        "x": 324,
+        "y": -509,
         "group": "math"
     },
     {
@@ -1442,8 +1436,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 524,
-        "y": -66,
+        "x": 326,
+        "y": -511,
         "group": "math"
     },
     {
@@ -1454,8 +1448,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 527,
-        "y": -68,
+        "x": 328,
+        "y": -514,
         "group": "math"
     },
     {
@@ -1466,8 +1460,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 529,
-        "y": -71,
+        "x": 331,
+        "y": -517,
         "group": "math"
     },
     {
@@ -1478,8 +1472,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 532,
-        "y": -73,
+        "x": 334,
+        "y": -519,
         "group": "math"
     },
     {
@@ -1490,8 +1484,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 535,
-        "y": -76,
+        "x": 336,
+        "y": -522,
         "group": "math"
     },
     {
@@ -1502,8 +1496,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 538,
-        "y": -78,
+        "x": 339,
+        "y": -524,
         "group": "math"
     },
     {
@@ -1514,8 +1508,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 540,
-        "y": -80,
+        "x": 342,
+        "y": -526,
         "group": "math"
     },
     {
@@ -1526,8 +1520,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 543,
-        "y": -82,
+        "x": 345,
+        "y": -528,
         "group": "math"
     },
     {
@@ -1538,8 +1532,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 546,
-        "y": -84,
+        "x": 348,
+        "y": -530,
         "group": "math"
     },
     {
@@ -1550,8 +1544,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 550,
-        "y": -86,
+        "x": 351,
+        "y": -532,
         "group": "math"
     },
     {
@@ -1562,8 +1556,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 553,
-        "y": -88,
+        "x": 354,
+        "y": -534,
         "group": "math"
     },
     {
@@ -1574,8 +1568,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 556,
-        "y": -89,
+        "x": 357,
+        "y": -535,
         "group": "math"
     },
     {
@@ -1586,8 +1580,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 559,
-        "y": -91,
+        "x": 361,
+        "y": -537,
         "group": "math"
     },
     {
@@ -1598,8 +1592,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 562,
-        "y": -92,
+        "x": 364,
+        "y": -538,
         "group": "math"
     },
     {
@@ -1610,8 +1604,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 566,
-        "y": -94,
+        "x": 367,
+        "y": -540,
         "group": "math"
     },
     {
@@ -1622,8 +1616,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 569,
-        "y": -95,
+        "x": 371,
+        "y": -541,
         "group": "math"
     },
     {
@@ -1634,8 +1628,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 573,
-        "y": -96,
+        "x": 374,
+        "y": -542,
         "group": "math"
     },
     {
@@ -1646,8 +1640,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 576,
-        "y": -97,
+        "x": 378,
+        "y": -543,
         "group": "math"
     },
     {
@@ -1658,8 +1652,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 580,
-        "y": -98,
+        "x": 381,
+        "y": -543,
         "group": "math"
     },
     {
@@ -1670,8 +1664,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 583,
-        "y": -98,
+        "x": 385,
+        "y": -544,
         "group": "math"
     },
     {
@@ -1682,8 +1676,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 587,
-        "y": -99,
+        "x": 388,
+        "y": -545,
         "group": "math"
     },
     {
@@ -1694,8 +1688,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 590,
-        "y": -99,
+        "x": 392,
+        "y": -545,
         "group": "math"
     },
     {
@@ -1706,8 +1700,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 594,
-        "y": -99,
+        "x": 396,
+        "y": -545,
         "group": "math"
     },
     {
@@ -1718,8 +1712,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 598,
-        "y": -99,
+        "x": 399,
+        "y": -545,
         "group": "math"
     },
     {
@@ -1730,8 +1724,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 601,
-        "y": -99,
+        "x": 403,
+        "y": -545,
         "group": "math"
     },
     {
@@ -1742,8 +1736,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 605,
-        "y": -99,
+        "x": 406,
+        "y": -545,
         "group": "math"
     },
     {
@@ -1754,8 +1748,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 609,
-        "y": -99,
+        "x": 410,
+        "y": -545,
         "group": "math"
     },
     {
@@ -1766,8 +1760,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 612,
-        "y": -99,
+        "x": 414,
+        "y": -545,
         "group": "math"
     },
     {
@@ -1778,8 +1772,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 616,
-        "y": -98,
+        "x": 417,
+        "y": -544,
         "group": "math"
     },
     {
@@ -1790,8 +1784,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 619,
-        "y": -98,
+        "x": 421,
+        "y": -543,
         "group": "math"
     },
     {
@@ -1802,8 +1796,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 623,
-        "y": -97,
+        "x": 424,
+        "y": -543,
         "group": "math"
     },
     {
@@ -1814,8 +1808,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 626,
-        "y": -96,
+        "x": 428,
+        "y": -542,
         "group": "math"
     },
     {
@@ -1826,8 +1820,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 630,
-        "y": -95,
+        "x": 431,
+        "y": -541,
         "group": "math"
     },
     {
@@ -1838,8 +1832,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 633,
-        "y": -94,
+        "x": 435,
+        "y": -540,
         "group": "math"
     },
     {
@@ -1850,8 +1844,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 637,
-        "y": -92,
+        "x": 438,
+        "y": -538,
         "group": "math"
     },
     {
@@ -1862,8 +1856,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 640,
-        "y": -91,
+        "x": 441,
+        "y": -537,
         "group": "math"
     },
     {
@@ -1874,8 +1868,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 643,
-        "y": -89,
+        "x": 445,
+        "y": -535,
         "group": "math"
     },
     {
@@ -1886,8 +1880,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 646,
-        "y": -88,
+        "x": 448,
+        "y": -534,
         "group": "math"
     },
     {
@@ -1898,8 +1892,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 650,
-        "y": -86,
+        "x": 451,
+        "y": -532,
         "group": "math"
     },
     {
@@ -1910,8 +1904,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 653,
-        "y": -84,
+        "x": 454,
+        "y": -530,
         "group": "math"
     },
     {
@@ -1922,8 +1916,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 656,
-        "y": -82,
+        "x": 457,
+        "y": -528,
         "group": "math"
     },
     {
@@ -1934,8 +1928,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 659,
-        "y": -80,
+        "x": 460,
+        "y": -526,
         "group": "math"
     },
     {
@@ -1946,8 +1940,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 661,
-        "y": -78,
+        "x": 463,
+        "y": -524,
         "group": "math"
     },
     {
@@ -1958,8 +1952,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 664,
-        "y": -76,
+        "x": 466,
+        "y": -522,
         "group": "math"
     },
     {
@@ -1970,8 +1964,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 667,
-        "y": -73,
+        "x": 468,
+        "y": -519,
         "group": "math"
     },
     {
@@ -1982,8 +1976,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 670,
-        "y": -71,
+        "x": 471,
+        "y": -517,
         "group": "math"
     },
     {
@@ -1994,8 +1988,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 672,
-        "y": -68,
+        "x": 474,
+        "y": -514,
         "group": "math"
     },
     {
@@ -2006,8 +2000,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 675,
-        "y": -66,
+        "x": 476,
+        "y": -511,
         "group": "math"
     },
     {
@@ -2018,8 +2012,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 677,
-        "y": -63,
+        "x": 478,
+        "y": -509,
         "group": "math"
     },
     {
@@ -2030,8 +2024,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 679,
-        "y": -60,
+        "x": 481,
+        "y": -506,
         "group": "math"
     },
     {
@@ -2042,8 +2036,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 681,
-        "y": -57,
+        "x": 483,
+        "y": -503,
         "group": "math"
     },
     {
@@ -2054,8 +2048,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 683,
-        "y": -54,
+        "x": 485,
+        "y": -500,
         "group": "math"
     },
     {
@@ -2066,8 +2060,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 685,
-        "y": -51,
+        "x": 487,
+        "y": -497,
         "group": "math"
     },
     {
@@ -2078,8 +2072,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 687,
-        "y": -48,
+        "x": 488,
+        "y": -494,
         "group": "math"
     },
     {
@@ -2090,8 +2084,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 689,
-        "y": -45,
+        "x": 490,
+        "y": -491,
         "group": "math"
     },
     {
@@ -2102,8 +2096,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 690,
-        "y": -41,
+        "x": 492,
+        "y": -487,
         "group": "math"
     },
     {
@@ -2114,8 +2108,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 692,
-        "y": -38,
+        "x": 493,
+        "y": -484,
         "group": "math"
     },
     {
@@ -2126,8 +2120,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 693,
-        "y": -35,
+        "x": 495,
+        "y": -481,
         "group": "math"
     },
     {
@@ -2138,8 +2132,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 694,
-        "y": -31,
+        "x": 496,
+        "y": -477,
         "group": "math"
     },
     {
@@ -2150,8 +2144,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 695,
-        "y": -28,
+        "x": 497,
+        "y": -474,
         "group": "math"
     },
     {
@@ -2162,8 +2156,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 696,
-        "y": -25,
+        "x": 498,
+        "y": -470,
         "group": "math"
     },
     {
@@ -2174,8 +2168,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 697,
-        "y": -21,
+        "x": 499,
+        "y": -467,
         "group": "math"
     },
     {
@@ -2186,8 +2180,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 698,
-        "y": -17,
+        "x": 499,
+        "y": -463,
         "group": "math"
     },
     {
@@ -2198,8 +2192,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 698,
-        "y": -14,
+        "x": 500,
+        "y": -460,
         "group": "math"
     },
     {
@@ -2210,8 +2204,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 699,
-        "y": -10,
+        "x": 500,
+        "y": -456,
         "group": "math"
     },
     {
@@ -2222,8 +2216,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 699,
-        "y": -7,
+        "x": 501,
+        "y": -453,
         "group": "math"
     },
     {
@@ -2234,8 +2228,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 699,
-        "y": -3,
+        "x": 501,
+        "y": -449,
         "group": "math"
     }
 ]

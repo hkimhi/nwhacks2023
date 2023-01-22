@@ -7,8 +7,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 99,
-        "y": -600,
+        "x": 37,
+        "y": -596,
         "group": "cpsc"
     },
     {
@@ -19,8 +19,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 99,
-        "y": -594,
+        "x": 37,
+        "y": -591,
         "group": "cpsc"
     },
     {
@@ -31,8 +31,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 99,
-        "y": -588,
+        "x": 36,
+        "y": -585,
         "group": "cpsc"
     },
     {
@@ -43,8 +43,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 98,
-        "y": -583,
+        "x": 35,
+        "y": -579,
         "group": "cpsc"
     },
     {
@@ -61,8 +61,8 @@
             "CPSC 110"
         ],
         "postreqs": [],
-        "x": 97,
-        "y": -577,
+        "x": 34,
+        "y": -574,
         "group": "cpsc"
     },
     {
@@ -73,8 +73,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 96,
-        "y": -572,
+        "x": 33,
+        "y": -568,
         "group": "cpsc"
     },
     {
@@ -85,8 +85,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 94,
-        "y": -566,
+        "x": 31,
+        "y": -563,
         "group": "cpsc"
     },
     {
@@ -97,8 +97,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 92,
-        "y": -561,
+        "x": 29,
+        "y": -558,
         "group": "cpsc"
     },
     {
@@ -109,8 +109,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 89,
-        "y": -556,
+        "x": 27,
+        "y": -552,
         "group": "cpsc"
     },
     {
@@ -121,8 +121,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 87,
-        "y": -551,
+        "x": 24,
+        "y": -547,
         "group": "cpsc"
     },
     {
@@ -133,8 +133,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 84,
-        "y": -546,
+        "x": 21,
+        "y": -543,
         "group": "cpsc"
     },
     {
@@ -145,8 +145,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 81,
-        "y": -541,
+        "x": 18,
+        "y": -538,
         "group": "cpsc"
     },
     {
@@ -157,8 +157,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 77,
-        "y": -537,
+        "x": 15,
+        "y": -533,
         "group": "cpsc"
     },
     {
@@ -169,8 +169,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 74,
-        "y": -532,
+        "x": 11,
+        "y": -529,
         "group": "cpsc"
     },
     {
@@ -181,8 +181,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 70,
-        "y": -528,
+        "x": 7,
+        "y": -525,
         "group": "cpsc"
     },
     {
@@ -193,8 +193,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 66,
-        "y": -524,
+        "x": 3,
+        "y": -521,
         "group": "cpsc"
     },
     {
@@ -205,8 +205,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 61,
-        "y": -521,
+        "x": -1,
+        "y": -518,
         "group": "cpsc"
     },
     {
@@ -217,8 +217,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 57,
-        "y": -517,
+        "x": -5,
+        "y": -514,
         "group": "cpsc"
     },
     {
@@ -229,8 +229,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 52,
-        "y": -514,
+        "x": -10,
+        "y": -511,
         "group": "cpsc"
     },
     {
@@ -241,8 +241,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 47,
-        "y": -512,
+        "x": -15,
+        "y": -508,
         "group": "cpsc"
     },
     {
@@ -253,8 +253,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 42,
-        "y": -509,
+        "x": -20,
+        "y": -506,
         "group": "cpsc"
     },
     {
@@ -265,8 +265,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 37,
-        "y": -507,
+        "x": -25,
+        "y": -503,
         "group": "cpsc"
     },
     {
@@ -277,8 +277,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 31,
-        "y": -505,
+        "x": -30,
+        "y": -501,
         "group": "cpsc"
     },
     {
@@ -289,8 +289,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 26,
-        "y": -503,
+        "x": -36,
+        "y": -500,
         "group": "cpsc"
     },
     {
@@ -301,8 +301,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 21,
-        "y": -502,
+        "x": -41,
+        "y": -498,
         "group": "cpsc"
     },
     {
@@ -313,8 +313,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 15,
-        "y": -501,
+        "x": -47,
+        "y": -497,
         "group": "cpsc"
     },
     {
@@ -325,8 +325,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 9,
-        "y": -500,
+        "x": -52,
+        "y": -497,
         "group": "cpsc"
     },
     {
@@ -337,8 +337,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 4,
-        "y": -500,
+        "x": -58,
+        "y": -496,
         "group": "cpsc"
     },
     {
@@ -349,8 +349,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -1,
-        "y": -500,
+        "x": -64,
+        "y": -496,
         "group": "cpsc"
     },
     {
@@ -361,8 +361,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -7,
-        "y": -500,
+        "x": -69,
+        "y": -496,
         "group": "cpsc"
     },
     {
@@ -373,8 +373,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -12,
-        "y": -500,
+        "x": -75,
+        "y": -497,
         "group": "cpsc"
     },
     {
@@ -385,8 +385,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -18,
-        "y": -501,
+        "x": -81,
+        "y": -498,
         "group": "cpsc"
     },
     {
@@ -397,8 +397,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -23,
-        "y": -502,
+        "x": -86,
+        "y": -499,
         "group": "cpsc"
     },
     {
@@ -409,8 +409,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -29,
-        "y": -504,
+        "x": -91,
+        "y": -501,
         "group": "cpsc"
     },
     {
@@ -421,8 +421,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -34,
-        "y": -506,
+        "x": -97,
+        "y": -502,
         "group": "cpsc"
     },
     {
@@ -433,8 +433,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -39,
-        "y": -508,
+        "x": -102,
+        "y": -505,
         "group": "cpsc"
     },
     {
@@ -445,8 +445,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -45,
-        "y": -510,
+        "x": -107,
+        "y": -507,
         "group": "cpsc"
     },
     {
@@ -457,8 +457,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -50,
-        "y": -513,
+        "x": -112,
+        "y": -510,
         "group": "cpsc"
     },
     {
@@ -469,8 +469,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -54,
-        "y": -516,
+        "x": -117,
+        "y": -513,
         "group": "cpsc"
     },
     {
@@ -481,8 +481,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -59,
-        "y": -519,
+        "x": -122,
+        "y": -516,
         "group": "cpsc"
     },
     {
@@ -493,8 +493,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -63,
-        "y": -523,
+        "x": -126,
+        "y": -519,
         "group": "cpsc"
     },
     {
@@ -505,8 +505,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -68,
-        "y": -526,
+        "x": -130,
+        "y": -523,
         "group": "cpsc"
     },
     {
@@ -517,8 +517,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -72,
-        "y": -530,
+        "x": -134,
+        "y": -527,
         "group": "cpsc"
     },
     {
@@ -529,8 +529,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -75,
-        "y": -535,
+        "x": -138,
+        "y": -531,
         "group": "cpsc"
     },
     {
@@ -541,8 +541,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -79,
-        "y": -539,
+        "x": -142,
+        "y": -536,
         "group": "cpsc"
     },
     {
@@ -553,8 +553,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -82,
-        "y": -544,
+        "x": -145,
+        "y": -540,
         "group": "cpsc"
     },
     {
@@ -565,8 +565,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -85,
-        "y": -548,
+        "x": -148,
+        "y": -545,
         "group": "cpsc"
     },
     {
@@ -577,8 +577,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -88,
-        "y": -553,
+        "x": -151,
+        "y": -550,
         "group": "cpsc"
     },
     {
@@ -589,8 +589,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -91,
-        "y": -558,
+        "x": -153,
+        "y": -555,
         "group": "cpsc"
     },
     {
@@ -601,8 +601,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -93,
-        "y": -564,
+        "x": -156,
+        "y": -560,
         "group": "cpsc"
     },
     {
@@ -613,8 +613,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -95,
-        "y": -569,
+        "x": -157,
+        "y": -566,
         "group": "cpsc"
     },
     {
@@ -625,8 +625,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -96,
-        "y": -574,
+        "x": -159,
+        "y": -571,
         "group": "cpsc"
     },
     {
@@ -637,8 +637,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -98,
-        "y": -580,
+        "x": -160,
+        "y": -577,
         "group": "cpsc"
     },
     {
@@ -649,8 +649,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -99,
-        "y": -585,
+        "x": -161,
+        "y": -582,
         "group": "cpsc"
     },
     {
@@ -661,8 +661,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -99,
-        "y": -591,
+        "x": -162,
+        "y": -588,
         "group": "cpsc"
     },
     {
@@ -673,8 +673,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -99,
-        "y": -597,
+        "x": -162,
+        "y": -593,
         "group": "cpsc"
     },
     {
@@ -685,8 +685,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -99,
-        "y": -602,
+        "x": -162,
+        "y": -599,
         "group": "cpsc"
     },
     {
@@ -697,8 +697,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -99,
-        "y": -608,
+        "x": -162,
+        "y": -605,
         "group": "cpsc"
     },
     {
@@ -709,8 +709,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -99,
-        "y": -614,
+        "x": -161,
+        "y": -610,
         "group": "cpsc"
     },
     {
@@ -721,8 +721,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -98,
-        "y": -619,
+        "x": -160,
+        "y": -616,
         "group": "cpsc"
     },
     {
@@ -733,8 +733,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -96,
-        "y": -625,
+        "x": -159,
+        "y": -621,
         "group": "cpsc"
     },
     {
@@ -745,8 +745,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -95,
-        "y": -630,
+        "x": -157,
+        "y": -627,
         "group": "cpsc"
     },
     {
@@ -757,8 +757,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -93,
-        "y": -635,
+        "x": -156,
+        "y": -632,
         "group": "cpsc"
     },
     {
@@ -769,8 +769,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -91,
-        "y": -641,
+        "x": -153,
+        "y": -637,
         "group": "cpsc"
     },
     {
@@ -781,8 +781,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -88,
-        "y": -646,
+        "x": -151,
+        "y": -642,
         "group": "cpsc"
     },
     {
@@ -793,8 +793,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -85,
-        "y": -651,
+        "x": -148,
+        "y": -647,
         "group": "cpsc"
     },
     {
@@ -805,8 +805,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -82,
-        "y": -655,
+        "x": -145,
+        "y": -652,
         "group": "cpsc"
     },
     {
@@ -817,8 +817,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -79,
-        "y": -660,
+        "x": -142,
+        "y": -657,
         "group": "cpsc"
     },
     {
@@ -829,8 +829,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -75,
-        "y": -664,
+        "x": -138,
+        "y": -661,
         "group": "cpsc"
     },
     {
@@ -841,8 +841,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -72,
-        "y": -669,
+        "x": -134,
+        "y": -665,
         "group": "cpsc"
     },
     {
@@ -853,8 +853,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -68,
-        "y": -673,
+        "x": -130,
+        "y": -669,
         "group": "cpsc"
     },
     {
@@ -865,8 +865,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -63,
-        "y": -676,
+        "x": -126,
+        "y": -673,
         "group": "cpsc"
     },
     {
@@ -877,8 +877,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -59,
-        "y": -680,
+        "x": -122,
+        "y": -677,
         "group": "cpsc"
     },
     {
@@ -889,8 +889,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -54,
-        "y": -683,
+        "x": -117,
+        "y": -680,
         "group": "cpsc"
     },
     {
@@ -901,8 +901,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -50,
-        "y": -686,
+        "x": -112,
+        "y": -683,
         "group": "cpsc"
     },
     {
@@ -913,8 +913,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -45,
-        "y": -689,
+        "x": -107,
+        "y": -686,
         "group": "cpsc"
     },
     {
@@ -925,8 +925,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -39,
-        "y": -691,
+        "x": -102,
+        "y": -688,
         "group": "cpsc"
     },
     {
@@ -937,8 +937,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -34,
-        "y": -693,
+        "x": -97,
+        "y": -690,
         "group": "cpsc"
     },
     {
@@ -949,8 +949,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -29,
-        "y": -695,
+        "x": -91,
+        "y": -692,
         "group": "cpsc"
     },
     {
@@ -961,8 +961,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -23,
-        "y": -697,
+        "x": -86,
+        "y": -693,
         "group": "cpsc"
     },
     {
@@ -973,8 +973,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -18,
-        "y": -698,
+        "x": -81,
+        "y": -695,
         "group": "cpsc"
     },
     {
@@ -985,8 +985,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -12,
-        "y": -699,
+        "x": -75,
+        "y": -695,
         "group": "cpsc"
     },
     {
@@ -997,8 +997,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -7,
-        "y": -699,
+        "x": -69,
+        "y": -696,
         "group": "cpsc"
     },
     {
@@ -1009,8 +1009,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -1,
-        "y": -699,
+        "x": -64,
+        "y": -696,
         "group": "cpsc"
     },
     {
@@ -1021,8 +1021,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 4,
-        "y": -699,
+        "x": -58,
+        "y": -696,
         "group": "cpsc"
     },
     {
@@ -1033,8 +1033,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 9,
-        "y": -699,
+        "x": -52,
+        "y": -696,
         "group": "cpsc"
     },
     {
@@ -1045,8 +1045,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 15,
-        "y": -698,
+        "x": -47,
+        "y": -695,
         "group": "cpsc"
     },
     {
@@ -1057,8 +1057,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 21,
-        "y": -697,
+        "x": -41,
+        "y": -694,
         "group": "cpsc"
     },
     {
@@ -1069,8 +1069,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 26,
-        "y": -696,
+        "x": -36,
+        "y": -693,
         "group": "cpsc"
     },
     {
@@ -1081,8 +1081,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 31,
-        "y": -694,
+        "x": -30,
+        "y": -691,
         "group": "cpsc"
     },
     {
@@ -1093,8 +1093,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 37,
-        "y": -692,
+        "x": -25,
+        "y": -689,
         "group": "cpsc"
     },
     {
@@ -1105,8 +1105,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 42,
-        "y": -690,
+        "x": -20,
+        "y": -687,
         "group": "cpsc"
     },
     {
@@ -1117,8 +1117,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 47,
-        "y": -687,
+        "x": -15,
+        "y": -684,
         "group": "cpsc"
     },
     {
@@ -1129,8 +1129,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 52,
-        "y": -685,
+        "x": -10,
+        "y": -681,
         "group": "cpsc"
     },
     {
@@ -1141,8 +1141,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 57,
-        "y": -682,
+        "x": -5,
+        "y": -678,
         "group": "cpsc"
     },
     {
@@ -1153,8 +1153,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 61,
-        "y": -678,
+        "x": -1,
+        "y": -675,
         "group": "cpsc"
     },
     {
@@ -1165,8 +1165,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 66,
-        "y": -675,
+        "x": 3,
+        "y": -671,
         "group": "cpsc"
     },
     {
@@ -1177,8 +1177,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 70,
-        "y": -671,
+        "x": 7,
+        "y": -667,
         "group": "cpsc"
     },
     {
@@ -1189,8 +1189,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 74,
-        "y": -667,
+        "x": 11,
+        "y": -663,
         "group": "cpsc"
     },
     {
@@ -1201,8 +1201,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 77,
-        "y": -662,
+        "x": 15,
+        "y": -659,
         "group": "cpsc"
     },
     {
@@ -1213,8 +1213,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 81,
-        "y": -658,
+        "x": 18,
+        "y": -655,
         "group": "cpsc"
     },
     {
@@ -1225,8 +1225,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 84,
-        "y": -653,
+        "x": 21,
+        "y": -650,
         "group": "cpsc"
     },
     {
@@ -1237,8 +1237,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 87,
-        "y": -648,
+        "x": 24,
+        "y": -645,
         "group": "cpsc"
     },
     {
@@ -1249,8 +1249,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 89,
-        "y": -643,
+        "x": 27,
+        "y": -640,
         "group": "cpsc"
     },
     {
@@ -1261,8 +1261,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 92,
-        "y": -638,
+        "x": 29,
+        "y": -635,
         "group": "cpsc"
     },
     {
@@ -1273,8 +1273,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 94,
-        "y": -633,
+        "x": 31,
+        "y": -630,
         "group": "cpsc"
     },
     {
@@ -1285,8 +1285,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 96,
-        "y": -627,
+        "x": 33,
+        "y": -624,
         "group": "cpsc"
     },
     {
@@ -1297,8 +1297,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 97,
-        "y": -622,
+        "x": 34,
+        "y": -619,
         "group": "cpsc"
     },
     {
@@ -1309,8 +1309,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 98,
-        "y": -616,
+        "x": 35,
+        "y": -613,
         "group": "cpsc"
     },
     {
@@ -1321,8 +1321,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 99,
-        "y": -611,
+        "x": 36,
+        "y": -608,
         "group": "cpsc"
     },
     {
@@ -1333,8 +1333,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 99,
-        "y": -605,
+        "x": 37,
+        "y": -602,
         "group": "cpsc"
     }
 ]

@@ -7,8 +7,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -500,
-        "y": 0,
+        "x": -486,
+        "y": 124,
         "group": "manu"
     },
     {
@@ -19,8 +19,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -504,
-        "y": 30,
+        "x": -491,
+        "y": 155,
         "group": "manu"
     },
     {
@@ -28,11 +28,15 @@
         "title": "Thermodynamics",
         "credits": 3,
         "desc": "Thermodynamic system and properties, thermodynamic processes; work and heat interactions. Conservation of energy and First Law, internal energy and enthalpy, the Second Law and entropy, application to manufacturing processes. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: All of MATH 101, MATH 152, PHYS 158.\nCorequisite: MATH 255.\n",
-        "coreqs": [],
-        "prereqs": [],
+        "coreqs": [
+            "MATH 255"
+        ],
+        "prereqs": [
+            "MATH 255"
+        ],
         "postreqs": [],
-        "x": -519,
-        "y": 58,
+        "x": -505,
+        "y": 183,
         "group": "manu"
     },
     {
@@ -40,11 +44,15 @@
         "title": "Machine Dynamics",
         "credits": 3,
         "desc": "Classifications of mechanisms, velocity, acceleration and force analysis, graphical and computer-oriented vector and matrix methods, balancing, flywheels, gears, gear trains, cams. This course is not eligible for Credit/D/Fail grading. [3-0-2*]\nPrerequisite: All of MATH 101, MATH 152, PHYS 158, PHYS 170.\nCorequisite: MATH 255.\n",
-        "coreqs": [],
-        "prereqs": [],
+        "coreqs": [
+            "MATH 255"
+        ],
+        "prereqs": [
+            "MATH 255"
+        ],
         "postreqs": [],
-        "x": -541,
-        "y": 80,
+        "x": -528,
+        "y": 205,
         "group": "manu"
     },
     {
@@ -55,8 +63,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -569,
-        "y": 95,
+        "x": -555,
+        "y": 219,
         "group": "manu"
     },
     {
@@ -67,8 +75,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -600,
-        "y": 100,
+        "x": -586,
+        "y": 224,
         "group": "manu"
     },
     {
@@ -79,8 +87,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -630,
-        "y": 95,
+        "x": -617,
+        "y": 219,
         "group": "manu"
     },
     {
@@ -91,8 +99,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -658,
-        "y": 80,
+        "x": -645,
+        "y": 205,
         "group": "manu"
     },
     {
@@ -103,8 +111,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -680,
-        "y": 58,
+        "x": -667,
+        "y": 183,
         "group": "manu"
     },
     {
@@ -119,8 +127,8 @@
             "MANU 330"
         ],
         "postreqs": [],
-        "x": -695,
-        "y": 30,
+        "x": -681,
+        "y": 155,
         "group": "manu"
     },
     {
@@ -131,8 +139,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -700,
-        "y": 0,
+        "x": -686,
+        "y": 124,
         "group": "manu"
     },
     {
@@ -143,8 +151,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -695,
-        "y": -30,
+        "x": -681,
+        "y": 93,
         "group": "manu"
     },
     {
@@ -155,8 +163,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -680,
-        "y": -58,
+        "x": -667,
+        "y": 65,
         "group": "manu"
     },
     {
@@ -167,8 +175,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -658,
-        "y": -80,
+        "x": -645,
+        "y": 43,
         "group": "manu"
     },
     {
@@ -179,8 +187,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -630,
-        "y": -95,
+        "x": -617,
+        "y": 29,
         "group": "manu"
     },
     {
@@ -191,8 +199,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -600,
-        "y": -99,
+        "x": -586,
+        "y": 24,
         "group": "manu"
     },
     {
@@ -203,8 +211,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -569,
-        "y": -95,
+        "x": -555,
+        "y": 29,
         "group": "manu"
     },
     {
@@ -215,8 +223,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -541,
-        "y": -80,
+        "x": -528,
+        "y": 43,
         "group": "manu"
     },
     {
@@ -231,8 +239,8 @@
             "MANU 430"
         ],
         "postreqs": [],
-        "x": -519,
-        "y": -58,
+        "x": -505,
+        "y": 65,
         "group": "manu"
     },
     {
@@ -243,8 +251,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -504,
-        "y": -30,
+        "x": -491,
+        "y": 93,
         "group": "manu"
     }
 ]

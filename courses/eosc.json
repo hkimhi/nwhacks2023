@@ -198,8 +198,12 @@
         "title": "Fields and Fluxes",
         "credits": 3,
         "desc": "Application of classical theory of scalar and vector fields to geophysical sciences. Conductive, convective and radiative energy flux, gravitation, electrostatics, and magnetostatics. Gauss' and Stokes' theorems. [3-0-0]\nPrerequisite: One of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157.\nCorequisite: MATH 200. One of PHYS 108, 118, 158 is recommended.\n",
-        "coreqs": [],
-        "prereqs": [],
+        "coreqs": [
+            "MATH 200"
+        ],
+        "prereqs": [
+            "MATH 200"
+        ],
         "postreqs": [],
         "x": 630,
         "y": -165,

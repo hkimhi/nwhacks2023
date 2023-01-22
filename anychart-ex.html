@@ -15,8 +15,7 @@
       }
 
       #container {
-        max-width: 110%;
-        min-width: 60%;
+        width: 80%;
         height: 100%;
         margin: 0;
         padding: 0;
@@ -24,7 +23,7 @@
       }
 
       #sidebar {
-        width: 39%;
+        width: 19%;
         height: 100%;
         float: left;
         border-right: solid black;
@@ -33,15 +32,24 @@
       #title {
         text-align: center;
       }
+
+      .course-info {
+        padding-left: 2%; 
+      }
+
+      #course-search {
+        padding: 4px;
+        margin: 8px;
+        width: 80%;
+      }
     </style>
   </head>
   <body>
     <div id="sidebar">
-      <!-- <p>HELLO</p> -->
       <h1 id="title">Course Information</h1>
-      <p id="course-title">Course</p>
-      <p id="course-credits">Credits</p>
-      <p id="course-desc">Description</p>
+      <input id="course-search" type="text" placeholder="Search courses...">
+      <p class='course-info', id="course-name">Course</p>
+      <p class='course-info' id="course-desc">Description</p>
     </div>
     <div id="container"></div>
     <script src="./Graph.js" type="module" script></script>

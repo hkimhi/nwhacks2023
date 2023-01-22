@@ -11,8 +11,8 @@
             "CIVL 203"
         ],
         "postreqs": [],
-        "x": -324,
-        "y": 424,
+        "x": -199,
+        "y": 519,
         "group": "civl"
     },
     {
@@ -27,8 +27,8 @@
             "CIVL 201"
         ],
         "postreqs": [],
-        "x": -324,
-        "y": 429,
+        "x": -200,
+        "y": 525,
         "group": "civl"
     },
     {
@@ -39,8 +39,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -324,
-        "y": 435,
+        "x": -200,
+        "y": 530,
         "group": "civl"
     },
     {
@@ -49,22 +49,18 @@
         "credits": 4,
         "desc": "Soil classification, principle of effective stress, analysis of seepage, filter criteria, introduction to shear strength and slope stability analysis. This course is not eligible for Credit/D/Fail grading. [3-2*-1]\nPrerequisite: One of CIVL 230, MECH 260.\nCorequisite: EOSC 210 and one of CHBE 251, CIVL 215, EOSC 329, MECH 280.\n",
         "coreqs": [
-            "EOSC 210",
             "CHBE 251",
             "CIVL 215",
-            "EOSC 329",
             "MECH 280"
         ],
         "prereqs": [
-            "EOSC 210",
             "CHBE 251",
             "CIVL 215",
-            "EOSC 329",
             "MECH 280"
         ],
         "postreqs": [],
-        "x": -325,
-        "y": 441,
+        "x": -201,
+        "y": 536,
         "group": "civl"
     },
     {
@@ -75,8 +71,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -326,
-        "y": 446,
+        "x": -202,
+        "y": 541,
         "group": "civl"
     },
     {
@@ -87,8 +83,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -328,
-        "y": 451,
+        "x": -203,
+        "y": 547,
         "group": "civl"
     },
     {
@@ -99,8 +95,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -329,
-        "y": 457,
+        "x": -205,
+        "y": 552,
         "group": "civl"
     },
     {
@@ -111,8 +107,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -331,
-        "y": 462,
+        "x": -207,
+        "y": 557,
         "group": "civl"
     },
     {
@@ -123,8 +119,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -334,
-        "y": 467,
+        "x": -209,
+        "y": 563,
         "group": "civl"
     },
     {
@@ -135,8 +131,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -336,
-        "y": 472,
+        "x": -212,
+        "y": 567,
         "group": "civl"
     },
     {
@@ -147,8 +143,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -339,
-        "y": 477,
+        "x": -215,
+        "y": 572,
         "group": "civl"
     },
     {
@@ -159,8 +155,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -342,
-        "y": 482,
+        "x": -218,
+        "y": 577,
         "group": "civl"
     },
     {
@@ -171,8 +167,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -346,
-        "y": 486,
+        "x": -221,
+        "y": 581,
         "group": "civl"
     },
     {
@@ -183,8 +179,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -349,
-        "y": 490,
+        "x": -225,
+        "y": 586,
         "group": "civl"
     },
     {
@@ -195,8 +191,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -353,
-        "y": 494,
+        "x": -229,
+        "y": 590,
         "group": "civl"
     },
     {
@@ -207,8 +203,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -357,
-        "y": 498,
+        "x": -233,
+        "y": 594,
         "group": "civl"
     },
     {
@@ -219,8 +215,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -361,
-        "y": 502,
+        "x": -237,
+        "y": 597,
         "group": "civl"
     },
     {
@@ -231,8 +227,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -366,
-        "y": 505,
+        "x": -242,
+        "y": 601,
         "group": "civl"
     },
     {
@@ -243,8 +239,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -371,
-        "y": 508,
+        "x": -246,
+        "y": 604,
         "group": "civl"
     },
     {
@@ -255,8 +251,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -375,
-        "y": 511,
+        "x": -251,
+        "y": 607,
         "group": "civl"
     },
     {
@@ -267,8 +263,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -380,
-        "y": 514,
+        "x": -256,
+        "y": 609,
         "group": "civl"
     },
     {
@@ -279,8 +275,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -385,
-        "y": 516,
+        "x": -261,
+        "y": 612,
         "group": "civl"
     },
     {
@@ -291,8 +287,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -391,
-        "y": 518,
+        "x": -266,
+        "y": 614,
         "group": "civl"
     },
     {
@@ -303,8 +299,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -396,
-        "y": 520,
+        "x": -272,
+        "y": 615,
         "group": "civl"
     },
     {
@@ -315,8 +311,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -402,
-        "y": 521,
+        "x": -277,
+        "y": 617,
         "group": "civl"
     },
     {
@@ -327,8 +323,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -407,
-        "y": 522,
+        "x": -283,
+        "y": 618,
         "group": "civl"
     },
     {
@@ -339,8 +335,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -413,
-        "y": 523,
+        "x": -288,
+        "y": 618,
         "group": "civl"
     },
     {
@@ -351,8 +347,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -418,
-        "y": 524,
+        "x": -294,
+        "y": 619,
         "group": "civl"
     },
     {
@@ -363,8 +359,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -424,
-        "y": 524,
+        "x": -299,
+        "y": 619,
         "group": "civl"
     },
     {
@@ -375,8 +371,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -429,
-        "y": 524,
+        "x": -305,
+        "y": 619,
         "group": "civl"
     },
     {
@@ -387,8 +383,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -435,
-        "y": 523,
+        "x": -311,
+        "y": 618,
         "group": "civl"
     },
     {
@@ -399,8 +395,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -441,
-        "y": 522,
+        "x": -316,
+        "y": 618,
         "group": "civl"
     },
     {
@@ -411,8 +407,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -446,
-        "y": 521,
+        "x": -322,
+        "y": 617,
         "group": "civl"
     },
     {
@@ -423,8 +419,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -451,
-        "y": 520,
+        "x": -327,
+        "y": 615,
         "group": "civl"
     },
     {
@@ -435,8 +431,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -457,
-        "y": 518,
+        "x": -333,
+        "y": 614,
         "group": "civl"
     },
     {
@@ -447,8 +443,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -462,
-        "y": 516,
+        "x": -338,
+        "y": 612,
         "group": "civl"
     },
     {
@@ -459,8 +455,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -467,
-        "y": 514,
+        "x": -343,
+        "y": 609,
         "group": "civl"
     },
     {
@@ -471,8 +467,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -472,
-        "y": 511,
+        "x": -348,
+        "y": 607,
         "group": "civl"
     },
     {
@@ -483,8 +479,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -477,
-        "y": 508,
+        "x": -353,
+        "y": 604,
         "group": "civl"
     },
     {
@@ -495,8 +491,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -482,
-        "y": 505,
+        "x": -357,
+        "y": 601,
         "group": "civl"
     },
     {
@@ -507,8 +503,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -486,
-        "y": 502,
+        "x": -362,
+        "y": 597,
         "group": "civl"
     },
     {
@@ -519,8 +515,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -490,
-        "y": 498,
+        "x": -366,
+        "y": 594,
         "group": "civl"
     },
     {
@@ -531,8 +527,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -494,
-        "y": 494,
+        "x": -370,
+        "y": 590,
         "group": "civl"
     },
     {
@@ -543,8 +539,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -498,
-        "y": 490,
+        "x": -374,
+        "y": 586,
         "group": "civl"
     },
     {
@@ -555,8 +551,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -502,
-        "y": 486,
+        "x": -378,
+        "y": 581,
         "group": "civl"
     },
     {
@@ -567,8 +563,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -505,
-        "y": 482,
+        "x": -381,
+        "y": 577,
         "group": "civl"
     },
     {
@@ -579,8 +575,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -508,
-        "y": 477,
+        "x": -384,
+        "y": 572,
         "group": "civl"
     },
     {
@@ -591,8 +587,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -511,
-        "y": 472,
+        "x": -387,
+        "y": 567,
         "group": "civl"
     },
     {
@@ -603,8 +599,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -514,
-        "y": 467,
+        "x": -390,
+        "y": 563,
         "group": "civl"
     },
     {
@@ -615,8 +611,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -516,
-        "y": 462,
+        "x": -392,
+        "y": 557,
         "group": "civl"
     },
     {
@@ -627,8 +623,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -518,
-        "y": 457,
+        "x": -394,
+        "y": 552,
         "group": "civl"
     },
     {
@@ -639,8 +635,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -520,
-        "y": 451,
+        "x": -396,
+        "y": 547,
         "group": "civl"
     },
     {
@@ -651,8 +647,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -521,
-        "y": 446,
+        "x": -397,
+        "y": 541,
         "group": "civl"
     },
     {
@@ -663,8 +659,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -522,
-        "y": 441,
+        "x": -398,
+        "y": 536,
         "group": "civl"
     },
     {
@@ -675,8 +671,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -523,
-        "y": 435,
+        "x": -399,
+        "y": 530,
         "group": "civl"
     },
     {
@@ -687,8 +683,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -524,
-        "y": 429,
+        "x": -399,
+        "y": 525,
         "group": "civl"
     },
     {
@@ -699,8 +695,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -524,
-        "y": 424,
+        "x": -399,
+        "y": 519,
         "group": "civl"
     },
     {
@@ -711,8 +707,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -524,
-        "y": 418,
+        "x": -399,
+        "y": 514,
         "group": "civl"
     },
     {
@@ -723,8 +719,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -523,
-        "y": 413,
+        "x": -399,
+        "y": 508,
         "group": "civl"
     },
     {
@@ -735,8 +731,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -522,
-        "y": 407,
+        "x": -398,
+        "y": 502,
         "group": "civl"
     },
     {
@@ -747,8 +743,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -521,
-        "y": 402,
+        "x": -397,
+        "y": 497,
         "group": "civl"
     },
     {
@@ -759,8 +755,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -520,
-        "y": 396,
+        "x": -396,
+        "y": 491,
         "group": "civl"
     },
     {
@@ -771,8 +767,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -518,
-        "y": 391,
+        "x": -394,
+        "y": 486,
         "group": "civl"
     },
     {
@@ -783,8 +779,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -516,
-        "y": 385,
+        "x": -392,
+        "y": 481,
         "group": "civl"
     },
     {
@@ -795,8 +791,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -514,
-        "y": 380,
+        "x": -390,
+        "y": 476,
         "group": "civl"
     },
     {
@@ -807,8 +803,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -511,
-        "y": 375,
+        "x": -387,
+        "y": 471,
         "group": "civl"
     },
     {
@@ -819,8 +815,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -508,
-        "y": 371,
+        "x": -384,
+        "y": 466,
         "group": "civl"
     },
     {
@@ -831,8 +827,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -505,
-        "y": 366,
+        "x": -381,
+        "y": 461,
         "group": "civl"
     },
     {
@@ -843,8 +839,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -502,
-        "y": 361,
+        "x": -378,
+        "y": 457,
         "group": "civl"
     },
     {
@@ -855,8 +851,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -498,
-        "y": 357,
+        "x": -374,
+        "y": 452,
         "group": "civl"
     },
     {
@@ -867,8 +863,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -494,
-        "y": 353,
+        "x": -370,
+        "y": 448,
         "group": "civl"
     },
     {
@@ -879,8 +875,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -490,
-        "y": 349,
+        "x": -366,
+        "y": 445,
         "group": "civl"
     },
     {
@@ -891,8 +887,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -486,
-        "y": 346,
+        "x": -362,
+        "y": 441,
         "group": "civl"
     },
     {
@@ -903,8 +899,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -482,
-        "y": 342,
+        "x": -357,
+        "y": 438,
         "group": "civl"
     },
     {
@@ -915,8 +911,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -477,
-        "y": 339,
+        "x": -353,
+        "y": 434,
         "group": "civl"
     },
     {
@@ -927,8 +923,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -472,
-        "y": 336,
+        "x": -348,
+        "y": 432,
         "group": "civl"
     },
     {
@@ -939,8 +935,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -467,
-        "y": 334,
+        "x": -343,
+        "y": 429,
         "group": "civl"
     },
     {
@@ -951,8 +947,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -462,
-        "y": 331,
+        "x": -338,
+        "y": 427,
         "group": "civl"
     },
     {
@@ -963,8 +959,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -457,
-        "y": 329,
+        "x": -333,
+        "y": 425,
         "group": "civl"
     },
     {
@@ -975,8 +971,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -451,
-        "y": 328,
+        "x": -327,
+        "y": 423,
         "group": "civl"
     },
     {
@@ -987,8 +983,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -446,
-        "y": 326,
+        "x": -322,
+        "y": 422,
         "group": "civl"
     },
     {
@@ -999,8 +995,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -441,
-        "y": 325,
+        "x": -316,
+        "y": 421,
         "group": "civl"
     },
     {
@@ -1011,8 +1007,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -435,
-        "y": 324,
+        "x": -311,
+        "y": 420,
         "group": "civl"
     },
     {
@@ -1023,8 +1019,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -429,
-        "y": 324,
+        "x": -305,
+        "y": 419,
         "group": "civl"
     },
     {
@@ -1035,8 +1031,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -424,
-        "y": 324,
+        "x": -299,
+        "y": 419,
         "group": "civl"
     },
     {
@@ -1047,8 +1043,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -418,
-        "y": 324,
+        "x": -294,
+        "y": 419,
         "group": "civl"
     },
     {
@@ -1059,8 +1055,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -413,
-        "y": 324,
+        "x": -288,
+        "y": 420,
         "group": "civl"
     },
     {
@@ -1071,8 +1067,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -407,
-        "y": 325,
+        "x": -283,
+        "y": 421,
         "group": "civl"
     },
     {
@@ -1083,8 +1079,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -402,
-        "y": 326,
+        "x": -277,
+        "y": 422,
         "group": "civl"
     },
     {
@@ -1095,8 +1091,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -396,
-        "y": 328,
+        "x": -272,
+        "y": 423,
         "group": "civl"
     },
     {
@@ -1107,8 +1103,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -391,
-        "y": 329,
+        "x": -266,
+        "y": 425,
         "group": "civl"
     },
     {
@@ -1119,8 +1115,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -385,
-        "y": 331,
+        "x": -261,
+        "y": 427,
         "group": "civl"
     },
     {
@@ -1131,8 +1127,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -380,
-        "y": 334,
+        "x": -256,
+        "y": 429,
         "group": "civl"
     },
     {
@@ -1143,8 +1139,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -375,
-        "y": 336,
+        "x": -251,
+        "y": 432,
         "group": "civl"
     },
     {
@@ -1155,8 +1151,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -371,
-        "y": 339,
+        "x": -246,
+        "y": 434,
         "group": "civl"
     },
     {
@@ -1167,8 +1163,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -366,
-        "y": 342,
+        "x": -242,
+        "y": 438,
         "group": "civl"
     },
     {
@@ -1179,8 +1175,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -361,
-        "y": 346,
+        "x": -237,
+        "y": 441,
         "group": "civl"
     },
     {
@@ -1191,8 +1187,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -357,
-        "y": 349,
+        "x": -233,
+        "y": 445,
         "group": "civl"
     },
     {
@@ -1203,8 +1199,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -353,
-        "y": 353,
+        "x": -229,
+        "y": 448,
         "group": "civl"
     },
     {
@@ -1215,8 +1211,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -349,
-        "y": 357,
+        "x": -225,
+        "y": 452,
         "group": "civl"
     },
     {
@@ -1227,8 +1223,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -346,
-        "y": 361,
+        "x": -221,
+        "y": 457,
         "group": "civl"
     },
     {
@@ -1239,8 +1235,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -342,
-        "y": 366,
+        "x": -218,
+        "y": 461,
         "group": "civl"
     },
     {
@@ -1251,8 +1247,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -339,
-        "y": 371,
+        "x": -215,
+        "y": 466,
         "group": "civl"
     },
     {
@@ -1263,8 +1259,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -336,
-        "y": 375,
+        "x": -212,
+        "y": 471,
         "group": "civl"
     },
     {
@@ -1275,8 +1271,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -334,
-        "y": 380,
+        "x": -209,
+        "y": 476,
         "group": "civl"
     },
     {
@@ -1287,8 +1283,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -331,
-        "y": 385,
+        "x": -207,
+        "y": 481,
         "group": "civl"
     },
     {
@@ -1299,8 +1295,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -329,
-        "y": 391,
+        "x": -205,
+        "y": 486,
         "group": "civl"
     },
     {
@@ -1311,8 +1307,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -328,
-        "y": 396,
+        "x": -203,
+        "y": 491,
         "group": "civl"
     },
     {
@@ -1323,8 +1319,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -326,
-        "y": 402,
+        "x": -202,
+        "y": 497,
         "group": "civl"
     },
     {
@@ -1335,8 +1331,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -325,
-        "y": 407,
+        "x": -201,
+        "y": 502,
         "group": "civl"
     },
     {
@@ -1347,8 +1343,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -324,
-        "y": 413,
+        "x": -200,
+        "y": 508,
         "group": "civl"
     },
     {
@@ -1359,8 +1355,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -324,
-        "y": 418,
+        "x": -200,
+        "y": 514,
         "group": "civl"
     }
 ]

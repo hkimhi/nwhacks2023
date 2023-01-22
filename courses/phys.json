@@ -16,24 +16,8 @@
         "title": "Energy and Waves",
         "credits": 3,
         "desc": "Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction. [3-3*-1*]\nPrerequisite: One of PHYS 12, PHYS 100.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
-        "coreqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
-        "prereqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -463,
         "y": 210,
@@ -44,18 +28,8 @@
         "title": "Electricity, Light and Radiation",
         "credits": 3,
         "desc": "Introduction to optics, electricity and magnetism, electric circuits, radioactivity, including biological applications. [3-3*-1*]\nPrerequisite: One of PHYS 101, PHYS 107.\nCorequisite: One of MATH 101, MATH 103, MATH 105, MATH 121.\n",
-        "coreqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121"
-        ],
-        "prereqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -464,
         "y": 216,
@@ -66,22 +40,8 @@
         "title": "Enriched Physics 1 (lecture)",
         "credits": 3,
         "desc": "Classical mechanics including conservation laws, angular momentum of rigid bodies and simple harmonic motion, wave phenomena, with an introduction to special relativity, quantum mechanics, nuclear physics, statistical mechanics and solid state physics. [3-0-1]\nPrerequisite: Either (a) a score more than 85% in all of PHYS 12, MATH 12 or (b) a score more than 85% in all of PHYS 12, PREC 12 or (c) a score more than 85% in all of PHYS 12, CALC 12 or (d) a score more than 85% in PHYS 100. PHYS 12 = Physics 12; MATH 12 = Principles of Mathematics 12; PREC 12 = Pre-Calculus 12; CALC 12 = Calculus 12.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 120, MATH 180, MATH 184.\n",
-        "coreqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
-        "prereqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -465,
         "y": 221,
@@ -92,22 +52,8 @@
         "title": "Enriched Physics 1",
         "credits": 3,
         "desc": "Classical mechanics including conservation laws, angular momentum of rigid bodies and simple harmonic motion, wave phenomena, with an introduction to special relativity, quantum mechanics, nuclear physics, statistical mechanics and solid state physics. [3-3*-1*]\nPrerequisite: Either (a) a score of 85% or higher in all of PHYS 12, MATH 12 or (b) a score of 85% or higher in all of PHYS 12, PREC 12 or (c) a score of 85% or higher in all of PHYS 12, CALC 12 or (d) a score of 85% or higher in PHYS 100. MATH 12 = Principles of Mathematics 12; PREC 12 = Pre-Calculus 12; CALC 12 = Calculus 12; PHYS 12 = Physics 12.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 120, MATH 180, MATH 184.\n",
-        "coreqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
-        "prereqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -466,
         "y": 227,
@@ -118,18 +64,8 @@
         "title": "Enriched Physics II",
         "credits": 3,
         "desc": "Electricity and magnetism, electrical circuits, induction, electromagnetic waves, Maxwell's equations and applications. [3-0-1]\nPrerequisite: Either (a) one of PHYS 106, PHYS 107 or (b) a score of 85% or higher in one of PHYS 101, PHYS 117, PHYS 131.\nCorequisite: One of MATH 101, MATH 103, MATH 105, MATH 121.\n",
-        "coreqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121"
-        ],
-        "prereqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -467,
         "y": 232,
@@ -140,14 +76,8 @@
         "title": "Enriched Experimental Physics",
         "credits": 1,
         "desc": "A laboratory course accompanying PHYS 108 with emphasis on data collection and analysis and experimental techniques. [0-3-0]\nPrerequisite: PHYS 107.\nCorequisite: One of PHYS 108, PHYS 118.\n",
-        "coreqs": [
-            "PHYS 108",
-            "PHYS 118"
-        ],
-        "prereqs": [
-            "PHYS 108",
-            "PHYS 118"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -469,
         "y": 237,
@@ -158,24 +88,8 @@
         "title": "Dynamics and Waves",
         "credits": 3,
         "desc": "Kinematics including curvilinear motion. Forces and Newton's laws of motion. Work-energy theorem, conservation of energy. Conservation of momentum, collisions. Torque, rotational dynamics, angular momentum. Oscillations and waves. [3-0-2]\nPrerequisite: One of PHYS 12, PHYS 100.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
-        "coreqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
-        "prereqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -471,
         "y": 242,
@@ -186,18 +100,8 @@
         "title": "Electricity, Light and Radiation",
         "credits": 3,
         "desc": "Optics, electricity and magnetism, electric circuits, radioactivity, including biological applications. [3-0-1]\nPrerequisite: One of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\nCorequisite: One of MATH 101, MATH 103, MATH 105, MATH 121.\n",
-        "coreqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121"
-        ],
-        "prereqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -473,
         "y": 247,
@@ -208,24 +112,8 @@
         "title": "Experimental Physics Lab I",
         "credits": 1,
         "desc": "Introductory laboratory course, with emphasis on data collection, data analysis techniques, and scientific reasoning. [0-3-0]\nPrerequisite: One of PHYS 12, PHYS 100.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
-        "coreqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
-        "prereqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -475,
         "y": 252,
@@ -248,24 +136,8 @@
         "title": "Energy and Waves (Lecture)",
         "credits": 3,
         "desc": "Fluids, harmonic oscillator, travelling waves, standing waves, sound, and interference of light waves, including diffraction. [3-0-1]\nPrerequisite: One of PHYS 12, PHYS 100.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
-        "coreqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
-        "prereqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -481,
         "y": 262,
@@ -276,24 +148,8 @@
         "title": "Elements of Physics",
         "credits": 6,
         "desc": "Thermometry, thermal properties of matter, heat, oscillations, waves, sound, wave optics; geometrical optics, elementary electricity and magnetism, simple DC and AC circuits. [3-0-1; 3-3-1]\nPrerequisite: One of PHYS 12, PHYS 100.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
-        "coreqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
-        "prereqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -484,
         "y": 266,
@@ -304,24 +160,8 @@
         "title": "Introductory Physics for Engineers I",
         "credits": 3,
         "desc": "Heat, thermodynamics, oscillations, waves, and sound. [3-0-1]\nPrerequisite: One of PHYS 12, PHYS 100.\nCorequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
-        "coreqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
-        "prereqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -488,
         "y": 270,
@@ -332,18 +172,8 @@
         "title": "Introductory Physics for Engineers II",
         "credits": 3,
         "desc": "Electricity and magnetism, DC and AC circuits, optics. [3-0-1]\nPrerequisite: PHYS 157.\nCorequisite: One of MATH 101, MATH 103, MATH 105, MATH 121.\n",
-        "coreqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121"
-        ],
-        "prereqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -492,
         "y": 274,
@@ -354,14 +184,8 @@
         "title": "Introductory Physics Laboratory for Engineers",
         "credits": 1,
         "desc": "A laboratory course with emphasis on experimental design, measurement and analysis techniques. [0-3-0]\nPrerequisite: One of PHYS 12, PHYS 100.\nCorequisite: One of PHYS 157, PHYS 158.\n",
-        "coreqs": [
-            "PHYS 157",
-            "PHYS 158"
-        ],
-        "prereqs": [
-            "PHYS 157",
-            "PHYS 158"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -496,
         "y": 278,
@@ -372,18 +196,8 @@
         "title": "Mechanics I",
         "credits": 3,
         "desc": "Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics:  Newton's second law, friction, impulse, momentum, work and energy. [3-0-1]\nPrerequisite: One of PHYS 12, PHYS 100 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\nCorequisite: One of MATH 101, MATH 103, MATH 105, MATH 121.\n",
-        "coreqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121"
-        ],
-        "prereqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -500,
         "y": 282,
@@ -463,12 +277,10 @@
         "credits": 3,
         "desc": "Introduction to UNIX/Linux; software tools for processing, fitting and displaying data; numerical methods and application in the physical sciences. [2-3-0]\nPrerequisite: One of PHYS 102, PHYS 108, PHYS 118, PHYS 158, PHYS 153, SCIE 001.\nCorequisite: One of MATH 152, MATH 221, MATH 223.\n",
         "coreqs": [
-            "MATH 152",
             "MATH 221",
             "MATH 223"
         ],
         "prereqs": [
-            "MATH 152",
             "MATH 221",
             "MATH 223"
         ],
@@ -1172,12 +984,8 @@
         "title": "Condensed Matter Physics II",
         "credits": 3,
         "desc": "Interacting electrons, electron-phonon interaction, Hubbard model, magnetism, superconductivity, use of Green functions. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: PHYS 502.\nCorequisite: PHYS 500.\n",
-        "coreqs": [
-            "PHYS 500"
-        ],
-        "prereqs": [
-            "PHYS 500"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -618,
         "y": 121,
@@ -1356,12 +1164,8 @@
         "title": "Elementary Particle Physics",
         "credits": 2,
         "desc": " This course is not eligible for Credit/D/Fail grading.\nPrerequisite: All of PHYS 508, PHYS 505.\nCorequisite: PHYS 508.\n",
-        "coreqs": [
-            "PHYS 508"
-        ],
-        "prereqs": [
-            "PHYS 508"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
         "x": -539,
         "y": 108,

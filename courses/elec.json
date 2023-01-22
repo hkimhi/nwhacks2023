@@ -4,8 +4,16 @@
         "title": "Circuit Analysis I",
         "credits": 4,
         "desc": "The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits. This course is not eligible for Credit/D/Fail grading. [4-2*-2*]\nPrerequisite: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.\nCorequisite: One of MATH 255, MATH 256, MATH 265.\n",
-        "coreqs": [],
-        "prereqs": [],
+        "coreqs": [
+            "MATH 255",
+            "MATH 256",
+            "MATH 265"
+        ],
+        "prereqs": [
+            "MATH 255",
+            "MATH 256",
+            "MATH 265"
+        ],
         "postreqs": [],
         "x": 700,
         "y": 0,
@@ -28,7 +36,10 @@
         "title": "Basic Circuit Analysis",
         "credits": 3,
         "desc": "Ideal passive elements and sources; Kirchhoff's Laws; DC circuits; natural and complete response of first order circuits; operational amplifiers; impedance; phasors; complex power. Not open to students in Electrical and Computer Engineering. This course is not eligible for Credit/D/Fail grading. [3-2*-1]\nCorequisite: One of MATH 255, MATH 256.\n",
-        "coreqs": [],
+        "coreqs": [
+            "MATH 255",
+            "MATH 256"
+        ],
         "prereqs": [],
         "postreqs": [],
         "x": 698,
@@ -40,8 +51,14 @@
         "title": "Linear Circuits",
         "credits": 4,
         "desc": "Basic concepts and analysis techniques in the context of electric and electronic circuits including Bode plots and the Laplace transform. Treatment of RLC circuits, phasors, op-amps. Introduction to nonlinear circuit elements, diodes, BJT, FET circuits. This course is not eligible for Credit/D/Fail grading. [4-0-1]\nPrerequisite: MATH 152 and one of PHYS 108, PHYS 118, PHYS 158.\nCorequisite: One of MATH 256, MATH 255.\n",
-        "coreqs": [],
-        "prereqs": [],
+        "coreqs": [
+            "MATH 256",
+            "MATH 255"
+        ],
+        "prereqs": [
+            "MATH 256",
+            "MATH 255"
+        ],
         "postreqs": [],
         "x": 697,
         "y": 21,
@@ -66,8 +83,12 @@
         "title": "Engineering Electromagnetics",
         "credits": 2,
         "desc": "Electrostatics, electric currents, dielectrics, capacitance, electrostatic potential, magnetostatics. This course is not eligible for Credit/D/Fail grading. [2-0-1]\nPrerequisite: One of MATH 263, MATH 253 and one of PHYS 108, PHYS 118, PHYS 158.\nCorequisite: MATH 264.\n",
-        "coreqs": [],
-        "prereqs": [],
+        "coreqs": [
+            "MATH 264"
+        ],
+        "prereqs": [
+            "MATH 264"
+        ],
         "postreqs": [],
         "x": 693,
         "y": 34,
