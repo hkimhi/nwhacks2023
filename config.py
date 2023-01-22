@@ -22,8 +22,8 @@ COLS = ["name", "desc", "prereqs", "coreqs"]
 # CODES
 # The course codes of the subjects we are interested in scraping from the UBC website
 # Case-insensitive
-CODES = ["ELEC", "CPEN", "ENPH", "CHBE", "BMEG", "ENVE", "CIVL", "IGEN", "MANU",
-         "MECH", "MINE", "MTRL", "MATH", "CPSC", "PHYS", "APSC", "EECE", "EOSC"]
+# CODES = ["MATH", "ELEC", "CPEN", "ENPH", "CHBE", "BMEG", "ENVE", "CIVL", "PHYS", "IGEN", "MANU", "MECH", "MINE", "MTRL", "CPSC", "APSC", "EECE", "EOSC"]
+CODES = ["ELEC", "CPEN", "ENPH", "CHBE", "BMEG", "ENVE", "CIVL", "IGEN", "MANU", "MECH", "MINE", "MTRL", "CPSC", "APSC", "EECE", "EOSC"]
 
 # BASE_LINK
 # The url from which we can scrape data after formatting the string with the correct code

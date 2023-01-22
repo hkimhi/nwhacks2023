@@ -7,8 +7,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 483,
-        "y": 321,
+        "x": 524,
+        "y": 424,
         "group": "enph"
     },
     {
@@ -19,8 +19,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 463,
-        "y": 380,
+        "x": 505,
+        "y": 483,
         "group": "enph"
     },
     {
@@ -31,8 +31,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 413,
-        "y": 416,
+        "x": 455,
+        "y": 519,
         "group": "enph"
     },
     {
@@ -43,8 +43,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 352,
-        "y": 416,
+        "x": 393,
+        "y": 519,
         "group": "enph"
     },
     {
@@ -52,13 +52,11 @@
         "title": "Laboratory Techniques in Physics",
         "credits": 2,
         "desc": "Some of the experiments will be based on the lecture material for PHYS 301. Other techniques and subjects will also be covered. [0-3-0]\nCorequisite: PHYS 301.\n",
-        "coreqs": [
-            "PHYS 301"
-        ],
+        "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 302,
-        "y": 380,
+        "x": 343,
+        "y": 483,
         "group": "enph"
     },
     {
@@ -69,8 +67,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 283,
-        "y": 321,
+        "x": 324,
+        "y": 424,
         "group": "enph"
     },
     {
@@ -81,8 +79,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 302,
-        "y": 262,
+        "x": 343,
+        "y": 365,
         "group": "enph"
     },
     {
@@ -93,8 +91,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 352,
-        "y": 226,
+        "x": 393,
+        "y": 329,
         "group": "enph"
     },
     {
@@ -105,8 +103,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 413,
-        "y": 226,
+        "x": 455,
+        "y": 329,
         "group": "enph"
     },
     {
@@ -117,8 +115,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 463,
-        "y": 262,
+        "x": 505,
+        "y": 365,
         "group": "enph"
     }
 ]

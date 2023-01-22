@@ -11,8 +11,8 @@
             "IGEN 230"
         ],
         "postreqs": [],
-        "x": -283,
-        "y": 321,
+        "x": -454,
+        "y": 229,
         "group": "igen"
     },
     {
@@ -23,8 +23,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -312,
-        "y": 392,
+        "x": -483,
+        "y": 300,
         "group": "igen"
     },
     {
@@ -35,8 +35,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -383,
-        "y": 421,
+        "x": -554,
+        "y": 329,
         "group": "igen"
     },
     {
@@ -47,8 +47,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -453,
-        "y": 392,
+        "x": -625,
+        "y": 300,
         "group": "igen"
     },
     {
@@ -59,8 +59,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -483,
-        "y": 321,
+        "x": -654,
+        "y": 229,
         "group": "igen"
     },
     {
@@ -71,8 +71,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -453,
-        "y": 250,
+        "x": -625,
+        "y": 158,
         "group": "igen"
     },
     {
@@ -83,8 +83,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -383,
-        "y": 221,
+        "x": -554,
+        "y": 129,
         "group": "igen"
     },
     {
@@ -95,8 +95,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -312,
-        "y": 250,
+        "x": -483,
+        "y": 158,
         "group": "igen"
     }
 ]

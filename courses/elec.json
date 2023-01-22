@@ -4,18 +4,10 @@
         "title": "Circuit Analysis I",
         "credits": 4,
         "desc": "The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits. This course is not eligible for Credit/D/Fail grading. [4-2*-2*]\nPrerequisite: MATH 101 and one of PHYS 108, PHYS 118, PHYS 158.\nCorequisite: One of MATH 255, MATH 256, MATH 265.\n",
-        "coreqs": [
-            "MATH 255",
-            "MATH 256",
-            "MATH 265"
-        ],
-        "prereqs": [
-            "MATH 255",
-            "MATH 256",
-            "MATH 265"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
-        "x": 600,
+        "x": 700,
         "y": 0,
         "group": "elec"
     },
@@ -27,7 +19,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 599,
+        "x": 699,
         "y": 7,
         "group": "elec"
     },
@@ -36,13 +28,10 @@
         "title": "Basic Circuit Analysis",
         "credits": 3,
         "desc": "Ideal passive elements and sources; Kirchhoff's Laws; DC circuits; natural and complete response of first order circuits; operational amplifiers; impedance; phasors; complex power. Not open to students in Electrical and Computer Engineering. This course is not eligible for Credit/D/Fail grading. [3-2*-1]\nCorequisite: One of MATH 255, MATH 256.\n",
-        "coreqs": [
-            "MATH 255",
-            "MATH 256"
-        ],
+        "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 598,
+        "x": 698,
         "y": 14,
         "group": "elec"
     },
@@ -51,16 +40,10 @@
         "title": "Linear Circuits",
         "credits": 4,
         "desc": "Basic concepts and analysis techniques in the context of electric and electronic circuits including Bode plots and the Laplace transform. Treatment of RLC circuits, phasors, op-amps. Introduction to nonlinear circuit elements, diodes, BJT, FET circuits. This course is not eligible for Credit/D/Fail grading. [4-0-1]\nPrerequisite: MATH 152 and one of PHYS 108, PHYS 118, PHYS 158.\nCorequisite: One of MATH 256, MATH 255.\n",
-        "coreqs": [
-            "MATH 256",
-            "MATH 255"
-        ],
-        "prereqs": [
-            "MATH 256",
-            "MATH 255"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
-        "x": 597,
+        "x": 697,
         "y": 21,
         "group": "elec"
     },
@@ -74,7 +57,7 @@
         ],
         "prereqs": [],
         "postreqs": [],
-        "x": 595,
+        "x": 695,
         "y": 28,
         "group": "elec"
     },
@@ -83,14 +66,10 @@
         "title": "Engineering Electromagnetics",
         "credits": 2,
         "desc": "Electrostatics, electric currents, dielectrics, capacitance, electrostatic potential, magnetostatics. This course is not eligible for Credit/D/Fail grading. [2-0-1]\nPrerequisite: One of MATH 263, MATH 253 and one of PHYS 108, PHYS 118, PHYS 158.\nCorequisite: MATH 264.\n",
-        "coreqs": [
-            "MATH 264"
-        ],
-        "prereqs": [
-            "MATH 264"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
-        "x": 593,
+        "x": 693,
         "y": 34,
         "group": "elec"
     },
@@ -102,7 +81,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 590,
+        "x": 690,
         "y": 41,
         "group": "elec"
     },
@@ -116,7 +95,7 @@
         ],
         "prereqs": [],
         "postreqs": [],
-        "x": 587,
+        "x": 687,
         "y": 47,
         "group": "elec"
     },
@@ -128,7 +107,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 584,
+        "x": 684,
         "y": 54,
         "group": "elec"
     },
@@ -140,7 +119,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 580,
+        "x": 680,
         "y": 59,
         "group": "elec"
     },
@@ -156,7 +135,7 @@
         ],
         "prereqs": [],
         "postreqs": [],
-        "x": 575,
+        "x": 675,
         "y": 65,
         "group": "elec"
     },
@@ -168,7 +147,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 570,
+        "x": 670,
         "y": 70,
         "group": "elec"
     },
@@ -180,7 +159,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 565,
+        "x": 665,
         "y": 75,
         "group": "elec"
     },
@@ -192,7 +171,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 559,
+        "x": 659,
         "y": 80,
         "group": "elec"
     },
@@ -204,7 +183,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 554,
+        "x": 654,
         "y": 84,
         "group": "elec"
     },
@@ -216,7 +195,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 547,
+        "x": 647,
         "y": 87,
         "group": "elec"
     },
@@ -228,7 +207,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 541,
+        "x": 641,
         "y": 90,
         "group": "elec"
     },
@@ -240,7 +219,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 534,
+        "x": 634,
         "y": 93,
         "group": "elec"
     },
@@ -252,7 +231,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 528,
+        "x": 628,
         "y": 95,
         "group": "elec"
     },
@@ -264,7 +243,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 521,
+        "x": 621,
         "y": 97,
         "group": "elec"
     },
@@ -276,7 +255,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 514,
+        "x": 614,
         "y": 98,
         "group": "elec"
     },
@@ -288,7 +267,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 507,
+        "x": 607,
         "y": 99,
         "group": "elec"
     },
@@ -300,7 +279,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 500,
+        "x": 600,
         "y": 100,
         "group": "elec"
     },
@@ -312,7 +291,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 492,
+        "x": 592,
         "y": 99,
         "group": "elec"
     },
@@ -324,7 +303,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 485,
+        "x": 585,
         "y": 98,
         "group": "elec"
     },
@@ -336,7 +315,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 478,
+        "x": 578,
         "y": 97,
         "group": "elec"
     },
@@ -348,7 +327,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 471,
+        "x": 571,
         "y": 95,
         "group": "elec"
     },
@@ -360,7 +339,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 465,
+        "x": 565,
         "y": 93,
         "group": "elec"
     },
@@ -372,7 +351,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 458,
+        "x": 558,
         "y": 90,
         "group": "elec"
     },
@@ -388,7 +367,7 @@
             "ELEC 401"
         ],
         "postreqs": [],
-        "x": 452,
+        "x": 552,
         "y": 87,
         "group": "elec"
     },
@@ -400,7 +379,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 445,
+        "x": 545,
         "y": 84,
         "group": "elec"
     },
@@ -412,7 +391,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 440,
+        "x": 540,
         "y": 80,
         "group": "elec"
     },
@@ -424,7 +403,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 434,
+        "x": 534,
         "y": 75,
         "group": "elec"
     },
@@ -436,7 +415,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 429,
+        "x": 529,
         "y": 70,
         "group": "elec"
     },
@@ -448,7 +427,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 424,
+        "x": 524,
         "y": 65,
         "group": "elec"
     },
@@ -460,7 +439,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 419,
+        "x": 519,
         "y": 59,
         "group": "elec"
     },
@@ -472,7 +451,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 415,
+        "x": 515,
         "y": 54,
         "group": "elec"
     },
@@ -484,7 +463,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 412,
+        "x": 512,
         "y": 47,
         "group": "elec"
     },
@@ -496,7 +475,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 409,
+        "x": 509,
         "y": 41,
         "group": "elec"
     },
@@ -508,7 +487,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 406,
+        "x": 506,
         "y": 34,
         "group": "elec"
     },
@@ -520,7 +499,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 404,
+        "x": 504,
         "y": 28,
         "group": "elec"
     },
@@ -532,7 +511,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 402,
+        "x": 502,
         "y": 21,
         "group": "elec"
     },
@@ -544,7 +523,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 401,
+        "x": 501,
         "y": 14,
         "group": "elec"
     },
@@ -556,7 +535,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 400,
+        "x": 500,
         "y": 7,
         "group": "elec"
     },
@@ -568,7 +547,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 400,
+        "x": 500,
         "y": 0,
         "group": "elec"
     },
@@ -580,7 +559,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 400,
+        "x": 500,
         "y": -7,
         "group": "elec"
     },
@@ -592,7 +571,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 401,
+        "x": 501,
         "y": -14,
         "group": "elec"
     },
@@ -604,7 +583,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 402,
+        "x": 502,
         "y": -21,
         "group": "elec"
     },
@@ -616,7 +595,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 404,
+        "x": 504,
         "y": -28,
         "group": "elec"
     },
@@ -628,7 +607,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 406,
+        "x": 506,
         "y": -34,
         "group": "elec"
     },
@@ -646,7 +625,7 @@
             "MTRL 478"
         ],
         "postreqs": [],
-        "x": 409,
+        "x": 509,
         "y": -41,
         "group": "elec"
     },
@@ -658,7 +637,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 412,
+        "x": 512,
         "y": -47,
         "group": "elec"
     },
@@ -670,7 +649,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 415,
+        "x": 515,
         "y": -54,
         "group": "elec"
     },
@@ -682,7 +661,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 419,
+        "x": 519,
         "y": -59,
         "group": "elec"
     },
@@ -694,7 +673,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 424,
+        "x": 524,
         "y": -65,
         "group": "elec"
     },
@@ -706,7 +685,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 429,
+        "x": 529,
         "y": -70,
         "group": "elec"
     },
@@ -718,7 +697,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 434,
+        "x": 534,
         "y": -75,
         "group": "elec"
     },
@@ -730,7 +709,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 440,
+        "x": 540,
         "y": -80,
         "group": "elec"
     },
@@ -742,7 +721,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 445,
+        "x": 545,
         "y": -84,
         "group": "elec"
     },
@@ -754,7 +733,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 452,
+        "x": 552,
         "y": -87,
         "group": "elec"
     },
@@ -766,7 +745,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 458,
+        "x": 558,
         "y": -90,
         "group": "elec"
     },
@@ -778,7 +757,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 465,
+        "x": 565,
         "y": -93,
         "group": "elec"
     },
@@ -790,7 +769,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 471,
+        "x": 571,
         "y": -95,
         "group": "elec"
     },
@@ -802,7 +781,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 478,
+        "x": 578,
         "y": -97,
         "group": "elec"
     },
@@ -814,7 +793,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 485,
+        "x": 585,
         "y": -98,
         "group": "elec"
     },
@@ -826,7 +805,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 492,
+        "x": 592,
         "y": -99,
         "group": "elec"
     },
@@ -838,7 +817,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 500,
+        "x": 600,
         "y": -100,
         "group": "elec"
     },
@@ -850,7 +829,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 507,
+        "x": 607,
         "y": -99,
         "group": "elec"
     },
@@ -862,7 +841,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 514,
+        "x": 614,
         "y": -98,
         "group": "elec"
     },
@@ -874,7 +853,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 521,
+        "x": 621,
         "y": -97,
         "group": "elec"
     },
@@ -886,7 +865,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 528,
+        "x": 628,
         "y": -95,
         "group": "elec"
     },
@@ -898,7 +877,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 534,
+        "x": 634,
         "y": -93,
         "group": "elec"
     },
@@ -910,7 +889,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 541,
+        "x": 641,
         "y": -90,
         "group": "elec"
     },
@@ -922,7 +901,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 547,
+        "x": 647,
         "y": -87,
         "group": "elec"
     },
@@ -934,7 +913,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 554,
+        "x": 654,
         "y": -84,
         "group": "elec"
     },
@@ -946,7 +925,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 559,
+        "x": 659,
         "y": -80,
         "group": "elec"
     },
@@ -958,7 +937,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 565,
+        "x": 665,
         "y": -75,
         "group": "elec"
     },
@@ -970,7 +949,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 570,
+        "x": 670,
         "y": -70,
         "group": "elec"
     },
@@ -982,7 +961,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 575,
+        "x": 675,
         "y": -65,
         "group": "elec"
     },
@@ -994,7 +973,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 580,
+        "x": 680,
         "y": -59,
         "group": "elec"
     },
@@ -1006,7 +985,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 584,
+        "x": 684,
         "y": -54,
         "group": "elec"
     },
@@ -1018,7 +997,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 587,
+        "x": 687,
         "y": -47,
         "group": "elec"
     },
@@ -1030,7 +1009,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 590,
+        "x": 690,
         "y": -41,
         "group": "elec"
     },
@@ -1042,7 +1021,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 593,
+        "x": 693,
         "y": -34,
         "group": "elec"
     },
@@ -1054,7 +1033,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 595,
+        "x": 695,
         "y": -28,
         "group": "elec"
     },
@@ -1066,7 +1045,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 597,
+        "x": 697,
         "y": -21,
         "group": "elec"
     },
@@ -1078,7 +1057,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 598,
+        "x": 698,
         "y": -14,
         "group": "elec"
     },
@@ -1090,7 +1069,7 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 599,
+        "x": 699,
         "y": -7,
         "group": "elec"
     }

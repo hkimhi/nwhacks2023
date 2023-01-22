@@ -14,13 +14,33 @@ anychart.onDocumentReady(function () {
        */
       // EDGES
       var chart = anychart.graph();
+
+      chart.listen('click', function(e) {
+        var tag = e.domTarget.tag;
+
+        // var name = e.domTarget.id;
+        // var credits = e.domTarget.credits;
+        // var title = e.domTarget.title;
+        // var desc = e.domTarget.desc;
+
+        if(tag) {
+          console.log(`Clicked ${tag.type} with ID ${tag.id}`);
+
+          if(tag.type == 'node') {
+            console.log(tag);
+            document.getElementById('course-title').innerHTML = tag.id;
+          }
+        }
+      })
+
       chart.data(data);
-      // chart.title().enabled(true).text("UBC Coursemap");
+      chart.title().enabled(true).text("UBC Coursemap");
 
       var edgeConfig = {
         normal: {stroke: {thickness: 2, color: 'orange'}},
         hovered: {stroke: {thickness: 4, color: 'blue'}},
-        tooltip: {enabled:true, format: 'edge id: {%id}'}
+        // tooltip: {enabled:true, format: 'edge id: {%id}'}
+        tooltip: {enabled:true, format: '{%from} --> {%to}'}
       };
       var nodeConfig = {
         normal: {stroke: {thickness: 2, color: "#F3F3F5"}, fill: "#F0F0F0"},
@@ -45,6 +65,7 @@ anychart.onDocumentReady(function () {
       // chart.layout().iterationCount(0); // set circle shape
       chart.layout().type('fixed');
       chart.interactivity().nodes(false); // disallow moving nodes
+      // chart.nodes().interactivity().selectionMode('singleSelect');
       // chart.interactivity().enabled(false);
 
       chart.container("container").draw();

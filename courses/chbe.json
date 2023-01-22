@@ -11,8 +11,8 @@
             "CHBE 220"
         ],
         "postreqs": [],
-        "x": 350,
-        "y": 433,
+        "x": 329,
+        "y": 554,
         "group": "chbe"
     },
     {
@@ -27,8 +27,8 @@
             "CHBE 201"
         ],
         "postreqs": [],
-        "x": 349,
-        "y": 439,
+        "x": 329,
+        "y": 560,
         "group": "chbe"
     },
     {
@@ -39,8 +39,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 349,
-        "y": 445,
+        "x": 328,
+        "y": 566,
         "group": "chbe"
     },
     {
@@ -48,15 +48,11 @@
         "title": "Computational Methods",
         "credits": 3,
         "desc": "Mathematical formulation of chemical and biological engineering problems; standard techniques of numerical analysis and their application to chemical, environmental and biotechnological systems; program development; use of commercial numerical analysis software. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nPrerequisite: APSC 160.\nCorequisite: MATH 256.\n",
-        "coreqs": [
-            "MATH 256"
-        ],
-        "prereqs": [
-            "MATH 256"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
-        "x": 348,
-        "y": 451,
+        "x": 327,
+        "y": 573,
         "group": "chbe"
     },
     {
@@ -67,8 +63,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 346,
-        "y": 457,
+        "x": 326,
+        "y": 579,
         "group": "chbe"
     },
     {
@@ -79,8 +75,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 345,
-        "y": 463,
+        "x": 324,
+        "y": 585,
         "group": "chbe"
     },
     {
@@ -91,8 +87,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 342,
-        "y": 469,
+        "x": 322,
+        "y": 591,
         "group": "chbe"
     },
     {
@@ -100,15 +96,11 @@
         "title": "Transport Phenomena I",
         "credits": 3,
         "desc": "Fluid Mechanics. Momentum-transfer in fluids in laminar and turbulent flow; microscopic and macroscopic material; momentum and energy balances; rheology; dimensional analysis; flow in conduits; pumps; fluid metering. This course is not eligible for Credit/D/Fail grading. [3-0-2*]\nPrerequisite: PHYS 170.\nCorequisite: MATH 256.\n",
-        "coreqs": [
-            "MATH 256"
-        ],
-        "prereqs": [
-            "MATH 256"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
-        "x": 340,
-        "y": 475,
+        "x": 320,
+        "y": 596,
         "group": "chbe"
     },
     {
@@ -123,8 +115,8 @@
         ],
         "prereqs": [],
         "postreqs": [],
-        "x": 337,
-        "y": 481,
+        "x": 317,
+        "y": 602,
         "group": "chbe"
     },
     {
@@ -138,8 +130,8 @@
         ],
         "prereqs": [],
         "postreqs": [],
-        "x": 334,
-        "y": 486,
+        "x": 314,
+        "y": 607,
         "group": "chbe"
     },
     {
@@ -156,8 +148,8 @@
             "CHBE 251"
         ],
         "postreqs": [],
-        "x": 330,
-        "y": 491,
+        "x": 310,
+        "y": 613,
         "group": "chbe"
     },
     {
@@ -168,8 +160,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 327,
-        "y": 496,
+        "x": 306,
+        "y": 618,
         "group": "chbe"
     },
     {
@@ -180,8 +172,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 322,
-        "y": 501,
+        "x": 302,
+        "y": 622,
         "group": "chbe"
     },
     {
@@ -192,8 +184,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 318,
-        "y": 505,
+        "x": 298,
+        "y": 627,
         "group": "chbe"
     },
     {
@@ -204,8 +196,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 313,
-        "y": 510,
+        "x": 293,
+        "y": 631,
         "group": "chbe"
     },
     {
@@ -216,8 +208,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 308,
-        "y": 513,
+        "x": 288,
+        "y": 635,
         "group": "chbe"
     },
     {
@@ -228,8 +220,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 303,
-        "y": 517,
+        "x": 283,
+        "y": 638,
         "group": "chbe"
     },
     {
@@ -240,8 +232,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 298,
-        "y": 520,
+        "x": 277,
+        "y": 641,
         "group": "chbe"
     },
     {
@@ -258,8 +250,8 @@
             "CHBE 352"
         ],
         "postreqs": [],
-        "x": 292,
-        "y": 523,
+        "x": 272,
+        "y": 644,
         "group": "chbe"
     },
     {
@@ -272,8 +264,8 @@
         ],
         "prereqs": [],
         "postreqs": [],
-        "x": 286,
-        "y": 525,
+        "x": 266,
+        "y": 647,
         "group": "chbe"
     },
     {
@@ -288,8 +280,8 @@
             "CHBE 381"
         ],
         "postreqs": [],
-        "x": 280,
-        "y": 528,
+        "x": 260,
+        "y": 649,
         "group": "chbe"
     },
     {
@@ -306,8 +298,8 @@
             "CHBE 356"
         ],
         "postreqs": [],
-        "x": 274,
-        "y": 529,
+        "x": 254,
+        "y": 651,
         "group": "chbe"
     },
     {
@@ -318,8 +310,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 268,
-        "y": 531,
+        "x": 248,
+        "y": 652,
         "group": "chbe"
     },
     {
@@ -330,8 +322,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 262,
-        "y": 532,
+        "x": 242,
+        "y": 653,
         "group": "chbe"
     },
     {
@@ -348,8 +340,8 @@
             "CHBE 355"
         ],
         "postreqs": [],
-        "x": 256,
-        "y": 532,
+        "x": 235,
+        "y": 654,
         "group": "chbe"
     },
     {
@@ -360,8 +352,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 250,
-        "y": 533,
+        "x": 229,
+        "y": 654,
         "group": "chbe"
     },
     {
@@ -372,8 +364,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 243,
-        "y": 532,
+        "x": 223,
+        "y": 654,
         "group": "chbe"
     },
     {
@@ -384,8 +376,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 237,
-        "y": 532,
+        "x": 217,
+        "y": 653,
         "group": "chbe"
     },
     {
@@ -396,8 +388,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 231,
-        "y": 531,
+        "x": 210,
+        "y": 652,
         "group": "chbe"
     },
     {
@@ -408,8 +400,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 225,
-        "y": 529,
+        "x": 204,
+        "y": 651,
         "group": "chbe"
     },
     {
@@ -428,8 +420,8 @@
             "CHBE 485"
         ],
         "postreqs": [],
-        "x": 219,
-        "y": 528,
+        "x": 198,
+        "y": 649,
         "group": "chbe"
     },
     {
@@ -446,8 +438,8 @@
             "CHBE 481"
         ],
         "postreqs": [],
-        "x": 213,
-        "y": 525,
+        "x": 192,
+        "y": 647,
         "group": "chbe"
     },
     {
@@ -464,8 +456,8 @@
             "CHBE 471"
         ],
         "postreqs": [],
-        "x": 207,
-        "y": 523,
+        "x": 187,
+        "y": 644,
         "group": "chbe"
     },
     {
@@ -476,8 +468,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 201,
-        "y": 520,
+        "x": 181,
+        "y": 641,
         "group": "chbe"
     },
     {
@@ -488,8 +480,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 196,
-        "y": 517,
+        "x": 176,
+        "y": 638,
         "group": "chbe"
     },
     {
@@ -500,8 +492,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 191,
-        "y": 513,
+        "x": 170,
+        "y": 635,
         "group": "chbe"
     },
     {
@@ -512,8 +504,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 186,
-        "y": 510,
+        "x": 165,
+        "y": 631,
         "group": "chbe"
     },
     {
@@ -524,8 +516,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 181,
-        "y": 505,
+        "x": 161,
+        "y": 627,
         "group": "chbe"
     },
     {
@@ -536,8 +528,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 177,
-        "y": 501,
+        "x": 156,
+        "y": 622,
         "group": "chbe"
     },
     {
@@ -548,8 +540,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 172,
-        "y": 496,
+        "x": 152,
+        "y": 618,
         "group": "chbe"
     },
     {
@@ -560,8 +552,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 169,
-        "y": 491,
+        "x": 148,
+        "y": 613,
         "group": "chbe"
     },
     {
@@ -572,8 +564,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 165,
-        "y": 486,
+        "x": 145,
+        "y": 607,
         "group": "chbe"
     },
     {
@@ -584,8 +576,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 162,
-        "y": 481,
+        "x": 141,
+        "y": 602,
         "group": "chbe"
     },
     {
@@ -596,8 +588,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 159,
-        "y": 475,
+        "x": 139,
+        "y": 596,
         "group": "chbe"
     },
     {
@@ -608,8 +600,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 157,
-        "y": 469,
+        "x": 136,
+        "y": 591,
         "group": "chbe"
     },
     {
@@ -620,8 +612,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 154,
-        "y": 463,
+        "x": 134,
+        "y": 585,
         "group": "chbe"
     },
     {
@@ -632,8 +624,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 153,
-        "y": 457,
+        "x": 132,
+        "y": 579,
         "group": "chbe"
     },
     {
@@ -644,8 +636,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 151,
-        "y": 451,
+        "x": 131,
+        "y": 573,
         "group": "chbe"
     },
     {
@@ -656,8 +648,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 150,
-        "y": 445,
+        "x": 130,
+        "y": 566,
         "group": "chbe"
     },
     {
@@ -668,8 +660,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 150,
-        "y": 439,
+        "x": 129,
+        "y": 560,
         "group": "chbe"
     },
     {
@@ -680,8 +672,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 150,
-        "y": 433,
+        "x": 129,
+        "y": 554,
         "group": "chbe"
     },
     {
@@ -692,8 +684,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 150,
-        "y": 426,
+        "x": 129,
+        "y": 548,
         "group": "chbe"
     },
     {
@@ -704,8 +696,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 150,
-        "y": 420,
+        "x": 130,
+        "y": 541,
         "group": "chbe"
     },
     {
@@ -716,8 +708,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 151,
-        "y": 414,
+        "x": 131,
+        "y": 535,
         "group": "chbe"
     },
     {
@@ -728,8 +720,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 153,
-        "y": 408,
+        "x": 132,
+        "y": 529,
         "group": "chbe"
     },
     {
@@ -740,8 +732,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 154,
-        "y": 402,
+        "x": 134,
+        "y": 523,
         "group": "chbe"
     },
     {
@@ -752,8 +744,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 157,
-        "y": 396,
+        "x": 136,
+        "y": 517,
         "group": "chbe"
     },
     {
@@ -764,8 +756,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 159,
-        "y": 390,
+        "x": 139,
+        "y": 511,
         "group": "chbe"
     },
     {
@@ -776,8 +768,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 162,
-        "y": 384,
+        "x": 141,
+        "y": 506,
         "group": "chbe"
     },
     {
@@ -788,8 +780,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 165,
-        "y": 379,
+        "x": 145,
+        "y": 500,
         "group": "chbe"
     },
     {
@@ -800,8 +792,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 169,
-        "y": 374,
+        "x": 148,
+        "y": 495,
         "group": "chbe"
     },
     {
@@ -812,8 +804,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 172,
-        "y": 369,
+        "x": 152,
+        "y": 490,
         "group": "chbe"
     },
     {
@@ -824,8 +816,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 177,
-        "y": 364,
+        "x": 156,
+        "y": 485,
         "group": "chbe"
     },
     {
@@ -836,8 +828,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 181,
-        "y": 360,
+        "x": 161,
+        "y": 481,
         "group": "chbe"
     },
     {
@@ -848,8 +840,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 186,
-        "y": 355,
+        "x": 165,
+        "y": 477,
         "group": "chbe"
     },
     {
@@ -860,8 +852,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 191,
-        "y": 352,
+        "x": 170,
+        "y": 473,
         "group": "chbe"
     },
     {
@@ -872,8 +864,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 196,
-        "y": 348,
+        "x": 176,
+        "y": 469,
         "group": "chbe"
     },
     {
@@ -884,8 +876,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 201,
-        "y": 345,
+        "x": 181,
+        "y": 466,
         "group": "chbe"
     },
     {
@@ -896,8 +888,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 207,
-        "y": 342,
+        "x": 187,
+        "y": 463,
         "group": "chbe"
     },
     {
@@ -908,8 +900,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 213,
-        "y": 340,
+        "x": 192,
+        "y": 461,
         "group": "chbe"
     },
     {
@@ -920,8 +912,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 219,
-        "y": 337,
+        "x": 198,
+        "y": 459,
         "group": "chbe"
     },
     {
@@ -932,8 +924,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 225,
-        "y": 336,
+        "x": 204,
+        "y": 457,
         "group": "chbe"
     },
     {
@@ -944,8 +936,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 231,
-        "y": 334,
+        "x": 210,
+        "y": 456,
         "group": "chbe"
     },
     {
@@ -956,8 +948,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 237,
-        "y": 333,
+        "x": 217,
+        "y": 455,
         "group": "chbe"
     },
     {
@@ -968,8 +960,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 243,
-        "y": 333,
+        "x": 223,
+        "y": 454,
         "group": "chbe"
     },
     {
@@ -980,8 +972,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 250,
-        "y": 333,
+        "x": 229,
+        "y": 454,
         "group": "chbe"
     },
     {
@@ -992,8 +984,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 256,
-        "y": 333,
+        "x": 235,
+        "y": 454,
         "group": "chbe"
     },
     {
@@ -1004,8 +996,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 262,
-        "y": 333,
+        "x": 242,
+        "y": 455,
         "group": "chbe"
     },
     {
@@ -1016,8 +1008,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 268,
-        "y": 334,
+        "x": 248,
+        "y": 456,
         "group": "chbe"
     },
     {
@@ -1028,8 +1020,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 274,
-        "y": 336,
+        "x": 254,
+        "y": 457,
         "group": "chbe"
     },
     {
@@ -1040,8 +1032,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 280,
-        "y": 337,
+        "x": 260,
+        "y": 459,
         "group": "chbe"
     },
     {
@@ -1052,8 +1044,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 286,
-        "y": 340,
+        "x": 266,
+        "y": 461,
         "group": "chbe"
     },
     {
@@ -1064,8 +1056,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 292,
-        "y": 342,
+        "x": 272,
+        "y": 463,
         "group": "chbe"
     },
     {
@@ -1076,8 +1068,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 298,
-        "y": 345,
+        "x": 277,
+        "y": 466,
         "group": "chbe"
     },
     {
@@ -1088,8 +1080,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 303,
-        "y": 348,
+        "x": 283,
+        "y": 469,
         "group": "chbe"
     },
     {
@@ -1100,8 +1092,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 308,
-        "y": 352,
+        "x": 288,
+        "y": 473,
         "group": "chbe"
     },
     {
@@ -1112,8 +1104,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 313,
-        "y": 355,
+        "x": 293,
+        "y": 477,
         "group": "chbe"
     },
     {
@@ -1124,8 +1116,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 318,
-        "y": 360,
+        "x": 298,
+        "y": 481,
         "group": "chbe"
     },
     {
@@ -1136,8 +1128,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 322,
-        "y": 364,
+        "x": 302,
+        "y": 485,
         "group": "chbe"
     },
     {
@@ -1148,8 +1140,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 327,
-        "y": 369,
+        "x": 306,
+        "y": 490,
         "group": "chbe"
     },
     {
@@ -1160,8 +1152,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 330,
-        "y": 374,
+        "x": 310,
+        "y": 495,
         "group": "chbe"
     },
     {
@@ -1172,8 +1164,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 334,
-        "y": 379,
+        "x": 314,
+        "y": 500,
         "group": "chbe"
     },
     {
@@ -1184,8 +1176,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 337,
-        "y": 384,
+        "x": 317,
+        "y": 506,
         "group": "chbe"
     },
     {
@@ -1196,8 +1188,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 340,
-        "y": 390,
+        "x": 320,
+        "y": 511,
         "group": "chbe"
     },
     {
@@ -1208,8 +1200,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 342,
-        "y": 396,
+        "x": 322,
+        "y": 517,
         "group": "chbe"
     },
     {
@@ -1220,8 +1212,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 345,
-        "y": 402,
+        "x": 324,
+        "y": 523,
         "group": "chbe"
     },
     {
@@ -1232,8 +1224,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 346,
-        "y": 408,
+        "x": 326,
+        "y": 529,
         "group": "chbe"
     },
     {
@@ -1244,8 +1236,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 348,
-        "y": 414,
+        "x": 327,
+        "y": 535,
         "group": "chbe"
     },
     {
@@ -1256,8 +1248,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 349,
-        "y": 420,
+        "x": 328,
+        "y": 541,
         "group": "chbe"
     },
     {
@@ -1268,8 +1260,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 349,
-        "y": 426,
+        "x": 329,
+        "y": 548,
         "group": "chbe"
     }
 ]

@@ -63,7 +63,7 @@ def scrape(IGNORE_CACHE):
         for i in range(num):
             course_dict = course_descs[i]
             R = 100
-            L = 500
+            L = 600
             course_dict['x'] = int(L * np.cos(2*np.pi*j/float(len(CODES))) + R * np.cos(2*np.pi*i / float(num)))
             course_dict['y'] = int(L * np.sin(2*np.pi*j/float(len(CODES))) + R * np.sin(2*np.pi*i / float(num)))
             course_dict['group'] = code.lower()

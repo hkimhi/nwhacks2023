@@ -11,8 +11,8 @@
             "BMEG 102"
         ],
         "postreqs": [],
-        "x": 186,
-        "y": 492,
+        "x": 100,
+        "y": 600,
         "group": "bmeg"
     },
     {
@@ -27,8 +27,8 @@
             "BMEG 101"
         ],
         "postreqs": [],
-        "x": 185,
-        "y": 506,
+        "x": 99,
+        "y": 613,
         "group": "bmeg"
     },
     {
@@ -39,8 +39,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 183,
-        "y": 519,
+        "x": 96,
+        "y": 626,
         "group": "bmeg"
     },
     {
@@ -51,8 +51,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 178,
-        "y": 532,
+        "x": 91,
+        "y": 639,
         "group": "bmeg"
     },
     {
@@ -63,8 +63,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 172,
-        "y": 544,
+        "x": 85,
+        "y": 651,
         "group": "bmeg"
     },
     {
@@ -72,15 +72,11 @@
         "title": "Circuits and Electromagnetics with Application to Biomedical Engineering",
         "credits": 4,
         "desc": "Electromagnetic phenomena in the  body; bioinstrumentation; electrostatic and electromagnetic fields, forces, capacitance and inductance; bio-effects of electromagnetic fields; and modelling electrical components of physiological and biomedical systems. This course is not eligible for Credit/D/Fail grading. [4-0-2*]\nPrerequisite: All of PHYS 158, MATH 253, MATH 256.\nCorequisite: MATH 264.\n",
-        "coreqs": [
-            "MATH 264"
-        ],
-        "prereqs": [
-            "MATH 264"
-        ],
+        "coreqs": [],
+        "prereqs": [],
         "postreqs": [],
-        "x": 164,
-        "y": 555,
+        "x": 77,
+        "y": 663,
         "group": "bmeg"
     },
     {
@@ -91,8 +87,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 155,
-        "y": 565,
+        "x": 68,
+        "y": 673,
         "group": "bmeg"
     },
     {
@@ -103,8 +99,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 144,
-        "y": 574,
+        "x": 57,
+        "y": 681,
         "group": "bmeg"
     },
     {
@@ -115,8 +111,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 132,
-        "y": 581,
+        "x": 46,
+        "y": 688,
         "group": "bmeg"
     },
     {
@@ -127,8 +123,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 120,
-        "y": 586,
+        "x": 33,
+        "y": 694,
         "group": "bmeg"
     },
     {
@@ -139,8 +135,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 107,
-        "y": 590,
+        "x": 20,
+        "y": 697,
         "group": "bmeg"
     },
     {
@@ -151,8 +147,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 93,
-        "y": 592,
+        "x": 6,
+        "y": 699,
         "group": "bmeg"
     },
     {
@@ -163,8 +159,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 79,
-        "y": 592,
+        "x": -6,
+        "y": 699,
         "group": "bmeg"
     },
     {
@@ -175,8 +171,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 66,
-        "y": 590,
+        "x": -20,
+        "y": 697,
         "group": "bmeg"
     },
     {
@@ -187,8 +183,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 53,
-        "y": 586,
+        "x": -33,
+        "y": 694,
         "group": "bmeg"
     },
     {
@@ -199,8 +195,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 40,
-        "y": 581,
+        "x": -46,
+        "y": 688,
         "group": "bmeg"
     },
     {
@@ -211,8 +207,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 29,
-        "y": 574,
+        "x": -57,
+        "y": 681,
         "group": "bmeg"
     },
     {
@@ -223,8 +219,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 18,
-        "y": 565,
+        "x": -68,
+        "y": 673,
         "group": "bmeg"
     },
     {
@@ -235,8 +231,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 9,
-        "y": 555,
+        "x": -77,
+        "y": 663,
         "group": "bmeg"
     },
     {
@@ -247,8 +243,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 1,
-        "y": 544,
+        "x": -85,
+        "y": 651,
         "group": "bmeg"
     },
     {
@@ -259,8 +255,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -4,
-        "y": 532,
+        "x": -91,
+        "y": 639,
         "group": "bmeg"
     },
     {
@@ -271,8 +267,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -9,
-        "y": 519,
+        "x": -96,
+        "y": 626,
         "group": "bmeg"
     },
     {
@@ -283,8 +279,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -12,
-        "y": 506,
+        "x": -99,
+        "y": 613,
         "group": "bmeg"
     },
     {
@@ -295,8 +291,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -13,
-        "y": 492,
+        "x": -99,
+        "y": 600,
         "group": "bmeg"
     },
     {
@@ -307,8 +303,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -12,
-        "y": 478,
+        "x": -99,
+        "y": 586,
         "group": "bmeg"
     },
     {
@@ -319,8 +315,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -9,
-        "y": 465,
+        "x": -96,
+        "y": 573,
         "group": "bmeg"
     },
     {
@@ -331,8 +327,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": -4,
-        "y": 452,
+        "x": -91,
+        "y": 560,
         "group": "bmeg"
     },
     {
@@ -343,8 +339,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 1,
-        "y": 440,
+        "x": -85,
+        "y": 548,
         "group": "bmeg"
     },
     {
@@ -355,8 +351,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 9,
-        "y": 429,
+        "x": -77,
+        "y": 536,
         "group": "bmeg"
     },
     {
@@ -367,8 +363,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 18,
-        "y": 419,
+        "x": -68,
+        "y": 526,
         "group": "bmeg"
     },
     {
@@ -379,8 +375,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 29,
-        "y": 410,
+        "x": -57,
+        "y": 518,
         "group": "bmeg"
     },
     {
@@ -391,8 +387,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 40,
-        "y": 403,
+        "x": -46,
+        "y": 511,
         "group": "bmeg"
     },
     {
@@ -403,8 +399,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 53,
-        "y": 398,
+        "x": -33,
+        "y": 505,
         "group": "bmeg"
     },
     {
@@ -415,8 +411,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 66,
-        "y": 394,
+        "x": -20,
+        "y": 502,
         "group": "bmeg"
     },
     {
@@ -427,8 +423,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 79,
-        "y": 392,
+        "x": -6,
+        "y": 500,
         "group": "bmeg"
     },
     {
@@ -439,8 +435,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 93,
-        "y": 392,
+        "x": 6,
+        "y": 500,
         "group": "bmeg"
     },
     {
@@ -451,8 +447,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 107,
-        "y": 394,
+        "x": 20,
+        "y": 502,
         "group": "bmeg"
     },
     {
@@ -463,8 +459,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 120,
-        "y": 398,
+        "x": 33,
+        "y": 505,
         "group": "bmeg"
     },
     {
@@ -475,8 +471,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 132,
-        "y": 403,
+        "x": 46,
+        "y": 511,
         "group": "bmeg"
     },
     {
@@ -487,8 +483,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 144,
-        "y": 410,
+        "x": 57,
+        "y": 518,
         "group": "bmeg"
     },
     {
@@ -499,8 +495,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 155,
-        "y": 419,
+        "x": 68,
+        "y": 526,
         "group": "bmeg"
     },
     {
@@ -511,8 +507,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 164,
-        "y": 429,
+        "x": 77,
+        "y": 536,
         "group": "bmeg"
     },
     {
@@ -523,8 +519,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 172,
-        "y": 440,
+        "x": 85,
+        "y": 548,
         "group": "bmeg"
     },
     {
@@ -535,8 +531,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 178,
-        "y": 452,
+        "x": 91,
+        "y": 560,
         "group": "bmeg"
     },
     {
@@ -547,8 +543,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 183,
-        "y": 465,
+        "x": 96,
+        "y": 573,
         "group": "bmeg"
     },
     {
@@ -559,8 +555,8 @@
         "coreqs": [],
         "prereqs": [],
         "postreqs": [],
-        "x": 185,
-        "y": 478,
+        "x": 99,
+        "y": 586,
         "group": "bmeg"
     }
 ]
