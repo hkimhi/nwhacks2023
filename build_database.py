@@ -10,41 +10,42 @@ import json
 #       4) coreqs
 #       5) postreqs
 
-if(BUILD_DATABASE):
-    with open("courses.json", "w") as outfile:
-        outfile.write('[\n')
+def build_database(BUILD_DATABASE):
+    if(BUILD_DATABASE):
+        with open("courses.json", "w") as outfile:
+            outfile.write('[\n')
 
-        for code in CODES:
-            filepath = FILEPATH.format(code.lower())
-            with open(filepath) as infile:
-                text = infile.read()
-                # drop the square brackets at the start and end
-                text = text[2:len(text)-2] + ',\n'
+            for i in range(len(CODES)):
+                code = CODES[i]
+                filepath = FILEPATH.format(code.lower())
+                with open(filepath) as infile:
+                    text = infile.read()
+                    # drop the square brackets at the start and end
+                    text = text[2:len(text)-2]
+                    if i != len(CODES) - 1:
+                        text += ','
+                    text += '\n'
 
-                outfile.write(text)
+                    outfile.write(text)
+            
+            outfile.write(']')
+
+    with open("courses.json") as infile:
+        all_courses = json.load(infile)
+
+        for course in all_courses:
+            prereqs = course['prereqs']
+
+            for curr_course in all_courses:
+                if(curr_course['name'] in prereqs):
+                    curr_course['postreqs'].append(course['name'])
         
-        outfile.write(']')
+        # Serializing and writing json
+        courses_json = json.dumps(all_courses, indent=4)
+        with open("courses.json", "w") as outfile:
+            outfile.write(courses_json)
 
-with open("courses.json") as infile:
-    all_courses = json.load(infile)
+    print("Finished building database!")
 
-    for course in all_courses:
-        prereqs = course['prereqs']
-
-        for curr_course in all_courses:
-            if(curr_course['name'] in prereqs):
-                curr_course['postreqs'].append(course['name'])
-        
-        # for curr_course in all_courses:
-        #     if(curr_course['name'] in matches):
-        #         if(curr_course['postreqs'] == ''):
-        #             curr_course['postreqs'] = course['name']
-        #         else:
-        #             curr_course['postreqs'] += f", {course['name']}"
-
-    # postreqs should be added back, update courses.json file
-    
-    # Serializing and writing json
-    courses_json = json.dumps(all_courses, indent=4)
-    with open("courses.json", "w") as outfile:
-        outfile.write(courses_json)
+if __name__ == '__main__':
+    build_database(BUILD_DATABASE)
