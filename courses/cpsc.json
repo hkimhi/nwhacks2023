@@ -6,7 +6,10 @@
         "desc": "Meaning and impact of computational thinking. Solving problems using computational thinking, testing, debugging. How computers work. No prior computing experience required. Not for students with existing credit for or exemption from CPSC 107, CPSC 110 or APSC 160. [3-1-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 1.0,
+        "y": 0.0,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 103",
@@ -15,7 +18,10 @@
         "desc": "Computation as a tool for systematic problem solving in non-computer-science disciplines. Introductory programming skills. Not for credit for students who have credit for, or exemption from, or are concurrently taking CPSC 110 or APSC 160. No programming experience expected. [3-0-1]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9983983492623831,
+        "y": 0.05657504918379235,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 107",
@@ -23,10 +29,11 @@
         "credits": 3,
         "desc": "Fundamental computation and program structures. Continuing systematic program design from CPSC 103. [3-2-0]\nPrerequisite: CPSC 103.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 103"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.9935985276197029,
+        "y": 0.11296887142907285,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 110",
@@ -35,7 +42,10 @@
         "desc": "Fundamental program and computation structures. Introductory programming skills. Computation as a tool for information processing, simulation and modelling, and interacting with the world. [3-3-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9856159103477085,
+        "y": 0.16900082032184907,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 121",
@@ -46,8 +56,14 @@
             "CPSC 107",
             "CPSC 110"
         ],
-        "prereqs": [],
-        "postreqs": []
+        "prereqs": [
+            "CPSC 107",
+            "CPSC 110"
+        ],
+        "postreqs": [],
+        "x": 0.9744760681760832,
+        "y": 0.2244914086375726,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 203",
@@ -55,15 +71,11 @@
         "credits": 3,
         "desc": "Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search. Not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221. [3-0-1]\nPrerequisite: One of CPSC 103, CPSC 110, EOSC 211, MATH 210, PHYS 210, COMM 337.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 103",
-            "CPSC 110",
-            "EOSC 211",
-            "MATH 210",
-            "PHYS 210",
-            "COMM 337"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.9602146853776895,
+        "y": 0.27926288329283006,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 210",
@@ -71,11 +83,11 @@
         "credits": 4,
         "desc": "Design, development, and analysis of robust software components. Topics such as software design, computational models, data structures, debugging, and testing. [3-2-0]\nPrerequisite: One of CPSC 107, CPSC 110.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 107",
-            "CPSC 110"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.9428774454610842,
+        "y": 0.33313979474205757,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 213",
@@ -83,11 +95,11 @@
         "credits": 4,
         "desc": "Software architecture, operating systems, and I/O architectures.  Relationships between application software, operating systems, and computing hardware; critical sections, deadlock avoidance, and performance; principles and operation of disks and networks. [3-3-0]\nPrerequisite: All of CPSC 121, CPSC 210.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 121",
-            "CPSC 210"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.9225198848324687,
+        "y": 0.38594955899532873,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 221",
@@ -95,13 +107,11 @@
         "credits": 4,
         "desc": "Design and analysis of basic algorithms and data structures; algorithm analysis methods, searching and sorting algorithms, basic data structures, graphs and concurrency. [3-2-0]\nPrerequisite: One of CPSC 210, CPEN 221 and one of CPSC 121, MATH 220.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 210",
-            "CPEN 221",
-            "CPSC 121",
-            "MATH 220"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.8992072148958368,
+        "y": 0.43752301045690434,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 259",
@@ -109,10 +119,11 @@
         "credits": 4,
         "desc": "Advanced procedural programming.  Fundamental algorithms for sorting and searching.  Data structures including lists, trees, and hash tables.  Introduction to scripting languages and file input/output. [3-2-0]\nPrerequisite: APSC 160.\n",
         "coreqs": [],
-        "prereqs": [
-            "APSC 160"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.8730141131611882,
+        "y": 0.48769494381363454,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 261",
@@ -120,13 +131,11 @@
         "credits": 4,
         "desc": "Software architecture, operating systems, and I/O architectures.  Relationships between application software, operating systems, and computing hardware; critical sections, deadlock avoidance, and performance; principles and operation of disks and networks. [3-2-1]\nPrerequisite: One of EECE 259, CPEN 211 and one of EECE 210, CPEN 221.\n",
         "coreqs": [],
-        "prereqs": [
-            "EECE 259",
-            "CPEN 211",
-            "EECE 210",
-            "CPEN 221"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.8440244840299503,
+        "y": 0.5363046432373825,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 298",
@@ -135,7 +144,10 @@
         "desc": "Approved and supervised technical work experience in the computing industry for a minimum of 3.5 months. Normally taken during Winter Session of second year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Computer Science. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.812331190023886,
+        "y": 0.5831963972062733,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 299",
@@ -143,10 +155,11 @@
         "credits": 3,
         "desc": "Approved and supervised technical work experience in the computing industry for a minimum of 3.5 months. Normally taken during the summer following the second year. Technical report required. Restricted to students admitted to the Co-operative Education. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: CPSC 298.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 298"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.7780357543184395,
+        "y": 0.6282199972956423,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 301",
@@ -155,7 +168,10 @@
         "desc": "Basic concepts, tools, and techniques for working with scientific data at larger scales, higher speeds, and lower costs that would otherwise be impossible. Applications and examples drawn from the life sciences. No prior computing background is required. Not for credit for students who have credit for any of the following: APSC 160, Computer Science AP, IB Computer Science, EOSC 211, or 3 credits of CPSC beyond CPSC 101. [3-2-0]\nPrerequisite: Third-year standing or higher.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7412480355334001,
+        "y": 0.6712312193409028,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 302",
@@ -163,22 +179,11 @@
         "credits": 3,
         "desc": "Numerical techniques for basic mathematical processes involving no discretization, and their analysis. Solution of linear systems, including analysis of round-off errors; norms and condition number; introduction to iterative techniques in linear algebra, including eigenvalue problems; solution to nonlinear equations. [3-0-0]\nPrerequisite: One of CPSC 103, CPSC 110, CPEN 221, EOSC 211, PHYS 210 and one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 103",
-            "CPSC 110",
-            "CPEN 221",
-            "EOSC 211",
-            "PHYS 210",
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121",
-            "SCIE 001",
-            "MATH 152",
-            "MATH 221",
-            "MATH 223"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.7020858758226225,
+        "y": 0.7120922854310254,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 303",
@@ -186,22 +191,11 @@
         "credits": 3,
         "desc": "Numerical techniques for basic mathematical processes involving discretization, and their analysis. Interpolation and approximation, including splines and least squares data fitting; numerical differentiation and integration; introduction to numerical initial value ordinary differential equations. [3-0-0]\nPrerequisite: One of CPSC 103, CPSC 110, CPEN 221, EOSC 211, PHYS 210 and one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 103",
-            "CPSC 110",
-            "CPEN 221",
-            "EOSC 211",
-            "PHYS 210",
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121",
-            "SCIE 001",
-            "MATH 152",
-            "MATH 221",
-            "MATH 223"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.6606747233900815,
+        "y": 0.7506723052527243,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 304",
@@ -209,10 +203,11 @@
         "credits": 3,
         "desc": "Overview of database systems, ER models, logical database design and normalization, formal relational query languages, SQL and other commercial languages,data warehouses, special topics. [3-0-1]\nPrerequisite: CPSC 221.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 221"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.6171472306414552,
+        "y": 0.78684769537159,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 310",
@@ -220,11 +215,11 @@
         "credits": 4,
         "desc": "Specification, design, validation, evolution and construction of modern software systems, within the context of socially and professionally relevant domains such as ethics, intellectual property, and information security. [3-2-0]\nPrerequisite: All of CPSC 213, CPSC 221.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 213",
-            "CPSC 221"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.5716428292584786,
+        "y": 0.8205025751070875,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 311",
@@ -232,10 +227,11 @@
         "credits": 3,
         "desc": "Comparative study of advanced programming language features. Statement types, data types, variable binding, parameter passing mechanisms. Methods for syntactic and semantic description of programming languages. [3-0-1]\nPrerequisite: CPSC 210.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 210"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.5243072835572317,
+        "y": 0.8515291377333113,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 312",
@@ -243,11 +239,11 @@
         "credits": 3,
         "desc": "Principles of symbolic computing, using languages based upon first-order logic and the lambda calculus. Algorithms for implementing such languages. Applications to artificial intelligence and knowledge representation. [3-0-0]\nPrerequisite: One of CPSC 210, CPEN 221.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 210",
-            "CPEN 221"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.47529222356108997,
+        "y": 0.8798279958164293,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 313",
@@ -255,11 +251,11 @@
         "credits": 3,
         "desc": "Instruction sets, pipelining, code optimization, caching, virtual memory management, dynamically linked libraries, exception processing, execution time of programs. [3-0-1]\nPrerequisite: All of CPSC 213, CPSC 221.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 213",
-            "CPSC 221"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.42475465928404793,
+        "y": 0.9053084995825966,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 314",
@@ -267,17 +263,11 @@
         "credits": 3,
         "desc": "Human vision and colour; geometric transformations; algorithms for 2-D and 3-D graphics; hardware and system architectures; shading and lighting; animation. [3-1-0]\nPrerequisite: CPSC 221 and one of MATH 200, MATH 217, MATH 226, MATH 253 and one of MATH 152, MATH 221, MATH 223.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 221",
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 152",
-            "MATH 221",
-            "MATH 223"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.3728564777803086,
+        "y": 0.9278890272965093,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 317",
@@ -285,11 +275,11 @@
         "credits": 3,
         "desc": "Computer networking, basic communication protocols, network infrastructure and routing.  Common application-level protocols and principles associated with developing distributed applications. [3-0-1]\nPrerequisite: All of CPSC 213, CPSC 221.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 213",
-            "CPSC 221"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.31976392457124536,
+        "y": 0.9474972467204298,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 319",
@@ -297,10 +287,11 @@
         "credits": 4,
         "desc": "The design, implementation, and test of a large software system, using a team approach. [3-0-2]\nPrerequisite: CPSC 310.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 310"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.2656470711108765,
+        "y": 0.9640703468161506,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 320",
@@ -308,12 +299,11 @@
         "credits": 3,
         "desc": "Systematic study of basic concepts and techniques in the design and analysis of algorithms, illustrated from various problem areas. Topics include: models of computation; choice of data structures; graph-theoretic, algebraic, and text processing algorithms. [3-0-1]\nPrerequisite: CPSC 221 and at least 3 credits from COMM 291, BIOL 300, MATH or STAT at 200 level or above.\nEquivalency: EECE 320.\r\n\t",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 221",
-            "COMM 291",
-            "BIOL 300"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.21067926999572642,
+        "y": 0.9775552389476861,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 322",
@@ -321,10 +311,11 @@
         "credits": 3,
         "desc": "Problem-solving and planning; state/action models and graph searching. Natural language understanding Computational vision. Applications of artificial intelligence. [3-0-0]\nPrerequisite: CPSC 221.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 221"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.1550365996641978,
+        "y": 0.9879087269401781,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 330",
@@ -332,15 +323,11 @@
         "credits": 3,
         "desc": "Application of machine learning tools, with an emphasis on solving practical problems. Data cleaning, feature extraction, supervised and unsupervised machine learning, reproducible workflows, and communicating results. [3-0-1]\nPrerequisite: Either (a) one of CPSC 203, CPSC 210, CPEN 221 or (b) MATH 210 and one of CPSC 107, CPSC 110.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 203",
-            "CPSC 210",
-            "CPEN 221",
-            "MATH 210",
-            "CPSC 107",
-            "CPSC 110"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.09889730036424964,
+        "y": 0.995097645450266,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 340",
@@ -348,25 +335,11 @@
         "credits": 3,
         "desc": "Models of algorithms for dimensionality reduction, nonlinear regression, classification, clustering and unsupervised learning; applications to computer graphics, computer games, bio-informatics, information retrieval, e-commerce, databases, computer vision and artificial intelligence. [3-0-1]\nPrerequisite: CPSC 221 and one of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254 and one of STAT 241, STAT 251, ECON 325, ECON 327, MATH 302, STAT 302, MATH 318.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 221",
-            "MATH 152",
-            "MATH 221",
-            "MATH 223",
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254",
-            "STAT 241",
-            "STAT 251",
-            "ECON 325",
-            "ECON 327",
-            "MATH 302",
-            "STAT 302",
-            "MATH 318"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.04244120319614846,
+        "y": 0.9990989662046814,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 344",
@@ -374,11 +347,11 @@
         "credits": 3,
         "desc": "Basic tools and techniques, teaching a systematic approach to interface design, task analysis, analytic and empirical evaluation methods. [2-2-2]\nPrerequisite: One of CPSC 210, CPEN 221.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 210",
-            "CPEN 221"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.014150845940762075,
+        "y": 0.9998998717667489,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 349",
@@ -387,7 +360,10 @@
         "desc": "Students will attend a series of research seminars presented by faculty members, produce a thesis proposal, and choose their honours thesis supervisor. Available to Honours students. Majors students with satisfactory standing may also be permitted to enrol. [1-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.07069756565199475,
+        "y": 0.9974977965944997,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 368",
@@ -395,12 +371,11 @@
         "credits": 3,
         "desc": "Overview of relational and non-relational database systems, role and usage of a database when querying data, data modelling, query languages, and query optimization. [3-0-1]\nPrerequisite: One of CPSC 203, CPSC 210, CPEN 221.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 203",
-            "CPSC 210",
-            "CPEN 221"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.12701781974687854,
+        "y": 0.991900435258877,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 398",
@@ -409,7 +384,10 @@
         "desc": "Approved and supervised technical work experience in the computing industry for a minimum of 3.5 months. Normally taken during the summer following the third year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Computer Science. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.18293119747238656,
+        "y": 0.9831257177957042,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 399",
@@ -418,7 +396,10 @@
         "desc": "Approved and supervised technical work experience in the computing industry for a minimum of 3.5 months. Normally taken during the fall term of the fourth year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Computer Science. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.23825859142316502,
+        "y": 0.9712017522703763,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 402",
@@ -426,12 +407,11 @@
         "credits": 3,
         "desc": "Investigation of the practical techniques of computational linear algebra. Orthogonal transformations and their application to the solution of linear equations, the eigenproblem, and linear least squares. Complete solution of the symmetric eigenproblem, including bisection and the QR method. Refinements of these techniques for sparse matrices. [3-0-0]\nPrerequisite: One of CPSC 302, CPSC 303, MATH 307.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 302",
-            "CPSC 303",
-            "MATH 307"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.2928227712765503,
+        "y": 0.956166734739251,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 404",
@@ -439,13 +419,11 @@
         "credits": 3,
         "desc": "Physical database design, indexing, relational query processing and optimization, transaction processing, concurrency control, crash recovery, data warehouses, data cubes, views, special topics. [3-0-0]\nPrerequisite: CPSC 304 and one of CPSC 213, CPSC 261, CPEN 212.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 304",
-            "CPSC 213",
-            "CPSC 261",
-            "CPEN 212"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.3464489515147236,
+        "y": 0.9380688268961658,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 406",
@@ -453,12 +431,11 @@
         "credits": 3,
         "desc": "Formulation and analysis of algorithms for continuous and discrete optimization problems; linear, nonlinear, network, dynamic, and integer optimization; large-scale problems; software packages and their implementation; duality theory and sensitivity. [3-0]\nPrerequisite: One of CPSC 302, CPSC 303, MATH 307.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 302",
-            "CPSC 303",
-            "MATH 307"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.39896535131541633,
+        "y": 0.9169660017960134,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 410",
@@ -466,12 +443,11 @@
         "credits": 3,
         "desc": "Specification, design, construction and validation of multi-version software systems. [3-0-0]\nPrerequisite: Either (a) CPSC 310 or (b) all of CPEN 321, CPEN 331.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 310",
-            "CPEN 321",
-            "CPEN 331"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.4502037448176734,
+        "y": 0.8929258581495685,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 411",
@@ -479,12 +455,11 @@
         "credits": 3,
         "desc": "A practical introduction to lexical analysis, syntactic analysis, type-checking, code generation and optimization. This will be used to design and implement a compiler for a small language. [3-0-0]\nPrerequisite: All of CPSC 213, CPSC 221, CPSC 311.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 213",
-            "CPSC 221",
-            "CPSC 311"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.4999999999999998,
+        "y": 0.8660254037844387,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 415",
@@ -492,11 +467,11 @@
         "credits": 3,
         "desc": "Process synchronization and communication schemes, including message-passing and concepts of monitor and serializer. Virtual memory systems management and the problem of information sharing in such systems. The working set principle. Traps and interrupt handling. Elementary queuing theory and its application such as process scheduling, system balancing and load control. File systems and operating system design methodologies. [3-0-0]\nPrerequisite: One of CPSC 313, CPEN 331.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 313",
-            "CPEN 331"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.5481946044447097,
+        "y": 0.8363508089657762,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 416",
@@ -504,13 +479,11 @@
         "credits": 3,
         "desc": "Concepts and design of distributed systems. Communication architecture and models for interprocess communication. Process migration, naming, distributed file systems, fault tolerance, and concurrency control. [3-0-0]\nPrerequisite: One of CPSC 313, CPEN 331 and one of CPSC 317, ELEC 331.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 313",
-            "CPEN 331",
-            "CPSC 317",
-            "ELEC 331"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.5946331763042866,
+        "y": 0.8039971303669405,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 417",
@@ -518,15 +491,11 @@
         "credits": 3,
         "desc": "Network protocols and architecture including internetworking, the Internet, layered communication protocols, routing, flow and congestion control, network performance, wired and wireless data communication. [3-0]\nPrerequisite: All of CPSC 313, CPSC 317 and one of STAT 200, STAT 201, STAT 241, STAT 251.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 313",
-            "CPSC 317",
-            "STAT 200",
-            "STAT 201",
-            "STAT 241",
-            "STAT 251"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.6391669588329847,
+        "y": 0.769068006574317,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 418",
@@ -534,14 +503,11 @@
         "credits": 3,
         "desc": "Algorithms, architectures, and programming paradigms for parallel computation.  Shared memory, message passing, and data parallel architectures and programming models.  Parallel algorithms including reduce, scan, and sorting networks.  Reasoning about the correctness of parallel programs.  Performance analysis and measurement for parallel programs. [3-0-0]\nPrerequisite: CPSC 320 and one of CPSC 261, CPSC 313, CPEN 212, CPEN 411.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 320",
-            "CPSC 261",
-            "CPSC 313",
-            "CPEN 212",
-            "CPEN 411"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.6816532968995327,
+        "y": 0.7316753261016784,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 420",
@@ -549,10 +515,11 @@
         "credits": 3,
         "desc": "The study of advanced topics in the design and analysis of algorithms and associated data structures. Topics include algorithms for graph-theoretic; algebraic and geometric problems; algorithms on nonsequential models; complexity issues; approximation algorithms. [3-0-0]\nPrerequisite: CPSC 320.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 320"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.7219560939545244,
+        "y": 0.6919388689775462,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 421",
@@ -560,10 +527,11 @@
         "credits": 3,
         "desc": "Characterizations of computability (using machines, languages and functions). Universality, equivalence and Church's thesis. Unsolvable problems. Restricted models of computation. Finite automata, grammars and formal languages. [3-0-0]\nPrerequisite: CPSC 221. CPSC 320 is recommended.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 221"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.7599462479886973,
+        "y": 0.6499859230536469,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 422",
@@ -571,10 +539,11 @@
         "credits": 3,
         "desc": "Principles and techniques underlying the design, implementation and evaluation of intelligent computational systems. Applications of artificial intelligence to natural language understanding, image understanding and computer-based expert and advisor systems. Advanced symbolic programming methodology. [3-0-0]\nPrerequisite: CPSC 322.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 322"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.7955020650855897,
+        "y": 0.6059508762635484,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 424",
@@ -582,17 +551,11 @@
         "credits": 3,
         "desc": "Digital representation of curves and surfaces, including splines, subdivision surfaces and meshes. Principles, algorithms and mathematical foundations for  geometry representation in computer graphics, computer vision, fabrication, CAD/CAM, and medical imaging. Algorithms for acquisition, creation, representation, and processing of 3D shapes. [3-0-1]\nPrerequisite: CPSC 320 and one of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 320",
-            "MATH 152",
-            "MATH 221",
-            "MATH 223",
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.8285096492438421,
+        "y": 0.5599747861375954,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 425",
@@ -600,12 +563,11 @@
         "credits": 3,
         "desc": "Introduction to the processing and interpretation of images.  Image sensing, sampling, and filtering.  Algorithms for colour analysis, texture description, stereo imaging, motion interpretation, 3D shape recovery, and recognition. [3-0-0]\nPrerequisite: All of CPSC 221, MATH 200, MATH 221.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 221",
-            "MATH 200",
-            "MATH 221"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.8588632672204258,
+        "y": 0.5122049279531147,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 426",
@@ -613,10 +575,11 @@
         "credits": 3,
         "desc": "Motion in computer graphics for characters and their environments. Keyframing, inverse kinematics, particle systems, rigid body dynamics, contact and collision, controller-based active motion, motion capture. [3-0-0]\nPrerequisite: CPSC 314.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 314"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.8864656872260988,
+        "y": 0.4627943229672989,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 427",
@@ -624,17 +587,11 @@
         "credits": 3,
         "desc": "Video game programming techniques and technologies, including rendering, animation, interaction, game AI, real-time software development for games; start-to-finish simple video-game design and implementation. [3-0-1]\nPrerequisite: CPSC 221 and one of MATH 200, MATH 217, MATH 226, MATH 253 and one of MATH 152, MATH 221, MATH 223.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 221",
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 152",
-            "MATH 221",
-            "MATH 223"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9112284903881356,
+        "y": 0.4119012482439928,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 430",
@@ -643,7 +600,10 @@
         "desc": "Impact of computer technology on society; historical perspectives; social and economic consequences of large-scale information processing systems and automatic control; legal and ethical problems in computer applications. Computers and the individual: machine versus human capabilities, fact and fancy; problematic interface between man and machine. [3-0-0]\nPrerequisite: 3 credits of Computer Science and at least third-year standing.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9330723539826372,
+        "y": 0.3596887296445362,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 436",
@@ -652,7 +612,10 @@
         "desc": "Selected topics in a specific area within Computer Science. May be taken more than once for credit with permission of the department. \nPrerequisite: Third-year standing in a Computer Science or Computer Engineering specialization, and permission of the department.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9519273055291265,
+        "y": 0.30632401960678335,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 440",
@@ -660,11 +623,11 @@
         "credits": 3,
         "desc": "Advanced machine learning techniques focusing on probabilistic models. Deep learning and differentiable programming, exponential families and Bayesian inference, probabilistic graphical models and other generative models, Monte Carlo and variational inference methods. [3-0-1]\nPrerequisite: All of CPSC 320, CPSC 340.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 320",
-            "CPSC 340"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9677329469334988,
+        "y": 0.2519780613851254,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 444",
@@ -672,26 +635,11 @@
         "credits": 3,
         "desc": "Design and evaluation methodologies and theories; formal models of the user including visual, motor, and information processing; advanced evaluation methods including laboratory experiments and field studies; HCI research frontiers. [2-2-2]\nPrerequisite: CPSC 344 and one of STAT 200, STAT 201, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, GEOG 374, KIN  206, KIN  371, POLI 380, PSYC 218, PSYC 278, PSYC 366, SOCI 328.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 344",
-            "STAT 200",
-            "STAT 201",
-            "STAT 203",
-            "STAT 241",
-            "STAT 251",
-            "BIOL 300",
-            "COMM 291",
-            "ECON 325",
-            "ECON 327",
-            "FRST 231",
-            "GEOG 374",
-            "POLI 380",
-            "PSYC 218",
-            "PSYC 278",
-            "PSYC 366",
-            "SOCI 328"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9804386479613267,
+        "y": 0.1968249414677051,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 445",
@@ -699,12 +647,11 @@
         "credits": 3,
         "desc": "Sequence alignment, phylogenetic tree reconstruction, prediction of RNA and protein structure, gene finding and sequence annotation, gene expression, and biomolecular computing. [3-0-0]\nPrerequisite: CPSC 320 and either BMEG 250 or six credits of BIOL beyond BIOL 111.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 320",
-            "BMEG 250",
-            "BIOL 111"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9900037084217638,
+        "y": 0.14104133192491933,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 447",
@@ -712,11 +659,11 @@
         "credits": 3,
         "desc": "Design and implementation of static and interactive visualizations. Selection of appropriate visualization methods for given combinations of data type and intended analysis task. Assessment of visual representations according to design and perceptual principles. [3-0-0]\nPrerequisite: One of CPSC 310, CPEN 321.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 310",
-            "CPEN 321"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9963974885425265,
+        "y": 0.0848059244755095,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 448",
@@ -725,7 +672,10 @@
         "desc": "Open ordinarily to students in Computer Science with at least a 72% average and permission of the department.  The course may consist of supervised reading, participation in a seminar, and one or more programming projects. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9995995071183217,
+        "y": 0.02829885808311783,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 449",
@@ -733,10 +683,11 @@
         "credits": 6,
         "desc": "Under supervision of a faculty member, students investigate a research topic and prepare a thesis. \nPrerequisite: CPSC 349.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 349"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9995995071183217,
+        "y": -0.028298858083118033,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 455",
@@ -744,11 +695,11 @@
         "credits": 3,
         "desc": "Hands-on project, mentored by industry experts, integrating skills relevant to early career in the computing industry: technical skills, communication, teamwork, networking and portfolio building. [2.5-2-0]\nPrerequisite: One of CPSC 310, CPEN 321.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 310",
-            "CPEN 321"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9963974885425265,
+        "y": -0.08480592447550882,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 490",
@@ -757,7 +708,10 @@
         "desc": "Self-directed, collaborative studies, in a group-learning environment, initiated and coordinated by senior undergraduate students with the supervision of a faculty advisor. Course structure, enrolment and delivery methods will comply with the \"Handbook for Student Directed Seminars\". [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9900037084217638,
+        "y": -0.14104133192491952,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 491",
@@ -765,12 +719,11 @@
         "credits": 6,
         "desc": "Design and implementation of interactive digital media systems using modern processes and tools. Projects provided by external clients or vetted entrepreneurial pitches are developed by interdisciplinary teams composed of one CPSC 491 student and multiple Master of Digital Media students. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: All of CPSC 221, CPSC 310, CPSC 344 and Third-year standing.\n",
         "coreqs": [],
-        "prereqs": [
-            "CPSC 221",
-            "CPSC 310",
-            "CPSC 344"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9804386479613267,
+        "y": -0.1968249414677053,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 499",
@@ -779,7 +732,10 @@
         "desc": "Approved and supervised technical work experience in the computing industry for a minimum of 3.5 months. Normally taken during the summer following the fourth year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Computer Science. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.967732946933499,
+        "y": -0.25197806138512474,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 500",
@@ -788,7 +744,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9519273055291264,
+        "y": -0.30632401960678357,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 501",
@@ -797,7 +756,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9330723539826374,
+        "y": -0.3596887296445355,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 502",
@@ -806,7 +768,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9112284903881357,
+        "y": -0.4119012482439926,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 503",
@@ -815,7 +780,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8864656872260986,
+        "y": -0.46279432296729905,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 504",
@@ -824,7 +792,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8588632672204262,
+        "y": -0.5122049279531141,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 505",
@@ -833,7 +804,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8285096492438422,
+        "y": -0.5599747861375953,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 506",
@@ -842,7 +816,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.79550206508559,
+        "y": -0.6059508762635482,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 507",
@@ -851,7 +828,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.7599462479886975,
+        "y": -0.6499859230536468,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 508",
@@ -860,7 +840,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.7219560939545246,
+        "y": -0.6919388689775461,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 509",
@@ -869,7 +852,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.6816532968995329,
+        "y": -0.7316753261016783,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 511",
@@ -878,7 +864,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.6391669588329849,
+        "y": -0.7690680065743168,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 513",
@@ -887,7 +876,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.5946331763042865,
+        "y": -0.8039971303669406,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 514",
@@ -896,7 +888,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.5481946044447102,
+        "y": -0.8363508089657758,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 515",
@@ -905,7 +900,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.5000000000000004,
+        "y": -0.8660254037844384,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 516",
@@ -914,7 +912,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.4502037448176736,
+        "y": -0.8929258581495684,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 517",
@@ -923,7 +924,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.39896535131541655,
+        "y": -0.9169660017960133,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 519",
@@ -932,7 +936,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.3464489515147236,
+        "y": -0.9380688268961658,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 520",
@@ -941,7 +948,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.2928227712765503,
+        "y": -0.956166734739251,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 521",
@@ -950,7 +960,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.23825859142316483,
+        "y": -0.9712017522703763,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 522",
@@ -959,7 +972,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.18293119747238726,
+        "y": -0.9831257177957041,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 524",
@@ -968,7 +984,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.1270178197468792,
+        "y": -0.9919004352588768,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 525",
@@ -977,7 +996,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.070697565651995,
+        "y": -0.9974977965944997,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 526",
@@ -986,7 +1008,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.014150845940761431,
+        "y": -0.9998998717667489,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 527",
@@ -995,7 +1020,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.04244120319614822,
+        "y": -0.9990989662046815,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 529",
@@ -1004,7 +1032,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.09889730036424983,
+        "y": -0.995097645450266,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 530",
@@ -1013,7 +1044,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.1550365996641971,
+        "y": -0.9879087269401782,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 531",
@@ -1022,7 +1056,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.21067926999572573,
+        "y": -0.9775552389476864,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 532",
@@ -1031,7 +1068,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.2656470711108758,
+        "y": -0.9640703468161508,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 533",
@@ -1040,7 +1080,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.3197639245712458,
+        "y": -0.9474972467204296,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 534",
@@ -1049,7 +1092,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.3728564777803084,
+        "y": -0.9278890272965095,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 535",
@@ -1058,7 +1104,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.4247546592840477,
+        "y": -0.9053084995825967,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 536",
@@ -1067,7 +1116,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.4752922235610892,
+        "y": -0.8798279958164298,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 537",
@@ -1076,7 +1128,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.5243072835572311,
+        "y": -0.8515291377333117,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 538",
@@ -1085,7 +1140,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.571642829258479,
+        "y": -0.8205025751070874,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 539",
@@ -1094,7 +1152,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.6171472306414555,
+        "y": -0.7868476953715897,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 540",
@@ -1103,7 +1164,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.6606747233900812,
+        "y": -0.7506723052527245,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 542",
@@ -1112,7 +1176,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7020858758226224,
+        "y": -0.7120922854310257,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 543",
@@ -1121,7 +1188,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7412480355333995,
+        "y": -0.6712312193409035,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 544",
@@ -1130,7 +1200,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7780357543184395,
+        "y": -0.6282199972956423,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 545",
@@ -1139,7 +1212,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.812331190023886,
+        "y": -0.5831963972062733,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 546",
@@ -1148,7 +1224,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8440244840299505,
+        "y": -0.5363046432373823,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 547",
@@ -1157,7 +1236,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8730141131611879,
+        "y": -0.487694943813635,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 548",
@@ -1166,7 +1248,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8992072148958367,
+        "y": -0.4375230104569046,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 549",
@@ -1175,7 +1260,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9225198848324689,
+        "y": -0.3859495589953281,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 550",
@@ -1184,7 +1272,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9428774454610841,
+        "y": -0.3331397947420577,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 554",
@@ -1193,7 +1284,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9602146853776895,
+        "y": -0.27926288329283006,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 564",
@@ -1202,7 +1296,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9744760681760832,
+        "y": -0.22449140863757247,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 589",
@@ -1211,7 +1308,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9856159103477083,
+        "y": -0.16900082032184968,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 590",
@@ -1220,7 +1320,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9935985276197029,
+        "y": -0.11296887142907333,
+        "group": "cpsc"
     },
     {
         "name": "CPSC 649",
@@ -1229,6 +1332,9 @@
         "desc": "\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9983983492623831,
+        "y": -0.05657504918379184,
+        "group": "cpsc"
     }
 ]

@@ -6,7 +6,10 @@
         "desc": "Derivatives of elementary functions. Applications and modelling: graphing, optimization. Consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: High-school calculus and a score of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 1.0,
+        "y": 0.0,
+        "group": "math"
     },
     {
         "name": "MATH 101",
@@ -14,16 +17,11 @@
         "credits": 3,
         "desc": "The definite integral, integration techniques, applications, modelling, infinite series. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.999348095389677,
+        "y": 0.03610241322993642,
+        "group": "math"
     },
     {
         "name": "MATH 102",
@@ -32,7 +30,10 @@
         "desc": "Functions, derivatives, optimization, growth and decay, discrete probability. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: High-school calculus and a score of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9973932315179498,
+        "y": 0.07215775580061608,
+        "group": "math"
     },
     {
         "name": "MATH 103",
@@ -40,16 +41,11 @@
         "credits": 3,
         "desc": "Antiderivatives and definite integrals, infinite series, applications to probability and dynamical systems. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.9941379571543596,
+        "y": 0.10811901842394177,
+        "group": "math"
     },
     {
         "name": "MATH 104",
@@ -58,7 +54,10 @@
         "desc": "Derivatives and rates of change, exponential and trigonometric functions, Newton's method, Taylor polynomials, maxima and minima, and graphing. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: High-school calculus and a score of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9895865165556373,
+        "y": 0.14393931447411912,
+        "group": "math"
     },
     {
         "name": "MATH 105",
@@ -66,16 +65,11 @@
         "credits": 3,
         "desc": "Antiderivatives, the definite integral, techniques of integration, infinite series, partial derivatives, maxima and minima with constraints, discrete and continuous random variables. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.9837448439320028,
+        "y": 0.17957194111887162,
+        "group": "math"
     },
     {
         "name": "MATH 110",
@@ -84,7 +78,10 @@
         "desc": "Topics as for MATH 100, but including relevant topics from algebra, geometry, functions, trigonometry, logarithms, and exponentials. [3-0-1.5; 3-0-1.5]\nPrerequisite: A grade of 65% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9766205557100867,
+        "y": 0.21497044021102407,
+        "group": "math"
     },
     {
         "name": "MATH 120",
@@ -93,7 +90,10 @@
         "desc": "Limits, derivatives, Mean Value Theorem and applications, elementary functions, optimization, Taylor series, approximation. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [4-0-0]\nPrerequisite: High-school calculus and one of (a) a score of 95% or higher in BC Principles of Mathematics 12 or Pre-calculus 12; or (b) permission from the Mathematics Department Head.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9682229406025633,
+        "y": 0.250088658861063,
+        "group": "math"
     },
     {
         "name": "MATH 121",
@@ -101,15 +101,11 @@
         "credits": 4,
         "desc": "Definite integrals and the Fundamental Theorem of Calculus, techniques and applications of integration, infinite series. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [4-0-0]\nPrerequisite: Either (a) a score of 68% or higher in MATH 120 or (b) a score of 80% or higher in one of MATH 100, MATH 102, MATH 104, MATH 180, MATH 184 or (c) a score of 5 in AP Calculus AB.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 120",
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 180",
-            "MATH 184"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.9585629474974413,
+        "y": 0.2848808096116999,
+        "group": "math"
     },
     {
         "name": "MATH 152",
@@ -120,7 +116,10 @@
             "MATH 101"
         ],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9476531711828025,
+        "y": 0.31930153013598,
+        "group": "math"
     },
     {
         "name": "MATH 180",
@@ -129,7 +128,10 @@
         "desc": "Topics as for Math 100; intended for students with no previous knowledge of Calculus. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. Not for credit for students with AP Calculus AB, AP Calculus BC, or a passing score on the UBC-SFU-UVIC-UNBC Calculus Challenge Examination. [3-0-1.5]\nPrerequisite: A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.935507835925601,
+        "y": 0.35330594238110236,
+        "group": "math"
     },
     {
         "name": "MATH 184",
@@ -138,7 +140,10 @@
         "desc": "Topics as for Math 104; intended for students with no previous knowledge of Calculus. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. Not for credit for students with AP Calculus AB, AP Calculus BC, or a passing score on the UBC-SFU-UVIC-UNBC Calculus Challenge Examination. [3-0-1.5]\nPrerequisite: A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9221427769259332,
+        "y": 0.38684971108083915,
+        "group": "math"
     },
     {
         "name": "MATH 190",
@@ -147,7 +152,10 @@
         "desc": "Functions, derivatives, integrals, curve sketching growth functions, volume calculations.  Only for credit in the Faculty of Forestry.  Students with credit for MATH 100, 102, 104, 120, 180, or 184 cannot in the same term or later terms obtain credit for MATH 190. [3-0-2]\nPrerequisite: Principles of Mathematics 12 or Pre-calculus 12 and registration in the B.S.F. or B.Sc.N. programs.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.907575419670957,
+        "y": 0.4198891015602646,
+        "group": "math"
     },
     {
         "name": "MATH 200",
@@ -155,14 +163,11 @@
         "credits": 3,
         "desc": "Analytic geometry in 2 and 3 dimensions, partial and directional derivatives, chain rule, maxima and minima, second derivative test, Lagrange multipliers, multiple integrals with applications. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121",
-            "SCIE 001"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.8918247572153822,
+        "y": 0.4523810367574269,
+        "group": "math"
     },
     {
         "name": "MATH 210",
@@ -179,13 +184,18 @@
             "MATH 223"
         ],
         "prereqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121",
-            "SCIE 001"
+            "MATH 215",
+            "MATH 255",
+            "MATH 256",
+            "MATH 258",
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8749113254181496,
+        "y": 0.4842831533876195,
+        "group": "math"
     },
     {
         "name": "MATH 215",
@@ -200,16 +210,16 @@
             "MATH 254"
         ],
         "prereqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121",
-            "SCIE 001",
-            "MATH 152",
-            "MATH 221",
-            "MATH 223"
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8568571761675893,
+        "y": 0.5155538571770217,
+        "group": "math"
     },
     {
         "name": "MATH 217",
@@ -222,19 +232,14 @@
             "MATH 223"
         ],
         "prereqs": [
-            "PHYS 102",
-            "PHYS 108",
-            "PHYS 118",
-            "PHYS 153",
-            "PHYS 158",
-            "SCIE 001",
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121",
-            "SCIE 001"
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8376858486299648,
+        "y": 0.5461523770936969,
+        "group": "math"
     },
     {
         "name": "MATH 220",
@@ -242,19 +247,11 @@
         "credits": 3,
         "desc": "Sets and functions; induction; cardinality;  properties of the real numbers; sequences, series, and limits. Logic, structure, style, and clarity of proofs emphasized throughout. [3-0-0]\nPrerequisite: Either (a) a score of 64% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001 or (b) one of MATH 121, MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "SCIE 001",
-            "MATH 121",
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.8174223385588918,
+        "y": 0.5760388185052397,
+        "group": "math"
     },
     {
         "name": "MATH 221",
@@ -262,22 +259,11 @@
         "credits": 3,
         "desc": "Systems of linear equations, operations on matrices, determinants, eigenvalues and eigenvectors, diagonalization of symmetric matrices. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: Either (a) a score of 64% or higher in one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 or (b) one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 or (c) advanced credit for MATH 100.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 100",
-            "MATH 102",
-            "MATH 104",
-            "MATH 110",
-            "MATH 120",
-            "MATH 180",
-            "MATH 184",
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121",
-            "SCIE 001",
-            "MATH 100"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.7960930657056438,
+        "y": 0.6051742151937652,
+        "group": "math"
     },
     {
         "name": "MATH 223",
@@ -285,14 +271,11 @@
         "credits": 3,
         "desc": "Matrices, eigenvectors, diagonalization, orthogonality, linear systems, applications. Intended for Honours students. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: Either (a) MATH 121 or (b) a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, SCIE 001.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 121",
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "SCIE 001"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.7737258393728363,
+        "y": 0.6335205801604237,
+        "group": "math"
     },
     {
         "name": "MATH 226",
@@ -305,13 +288,14 @@
             "MATH 223"
         ],
         "prereqs": [
-            "MATH 121",
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "SCIE 001"
+            "MATH 152",
+            "MATH 221",
+            "MATH 223"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7503498221564024,
+        "y": 0.6610409551532003,
+        "group": "math"
     },
     {
         "name": "MATH 227",
@@ -319,10 +303,11 @@
         "credits": 3,
         "desc": "Parametrization of curves and surfaces; line and surface integrals; theorems of Green, Gauss, Stokes; applications to physics and/or introduction to differential forms. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: A score of 68% or higher in MATH 226.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 226"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.7259954919231308,
+        "y": 0.6876994588534233,
+        "group": "math"
     },
     {
         "name": "MATH 230",
@@ -331,7 +316,10 @@
         "desc": "Difference equations, number theory, counting.  Intended primarily for students not in the Faculty of Science who wish to have some exposure to mathematical thinking.  Students who obtain credit for MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184, or SCIE 001 cannot in the same year or in later years obtain credit for MATH 230. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: Principles of Mathematics 11.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7006946020733426,
+        "y": 0.7134613336581599,
+        "group": "math"
     },
     {
         "name": "MATH 253",
@@ -339,14 +327,11 @@
         "credits": 3,
         "desc": "Partial and directional derivatives; maxima and minima; Lagrange multipliers and second derivative test; multiple integrals and applications. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121",
-            "SCIE 001"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.674480140140514,
+        "y": 0.7382929909974986,
+        "group": "math"
     },
     {
         "name": "MATH 254",
@@ -358,12 +343,13 @@
             "MECH 225"
         ],
         "prereqs": [
-            "MATH 101",
-            "MATH 152",
-            "MATH 221",
-            "MATH 223"
+            "MECH 222",
+            "MECH 225"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.6473862847818277,
+        "y": 0.7621620551276365,
+        "group": "math"
     },
     {
         "name": "MATH 255",
@@ -378,16 +364,16 @@
             "MATH 254"
         ],
         "prereqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121",
-            "SCIE 001",
-            "MATH 152",
-            "MATH 221",
-            "MATH 223"
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 254"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.619448361215723,
+        "y": 0.7850374053426723,
+        "group": "math"
     },
     {
         "name": "MATH 256",
@@ -402,16 +388,16 @@
             "MATH 263"
         ],
         "prereqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121",
-            "SCIE 001",
-            "MATH 152",
-            "MATH 221",
-            "MATH 223"
+            "MATH 200",
+            "MATH 217",
+            "MATH 226",
+            "MATH 253",
+            "MATH 263"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.590702795164551,
+        "y": 0.8068892165500704,
+        "group": "math"
     },
     {
         "name": "MATH 257",
@@ -419,13 +405,11 @@
         "credits": 3,
         "desc": "Introduction to partial differential equations; Fourier series; the heat, wave and potential equations; boundary-value problems; numerical methods. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 215, MATH 255, MATH 256, MATH 258.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 215",
-            "MATH 255",
-            "MATH 256",
-            "MATH 258"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.5611870653623824,
+        "y": 0.8276889981568906,
+        "group": "math"
     },
     {
         "name": "MATH 258",
@@ -437,12 +421,13 @@
             "MECH 224"
         ],
         "prereqs": [
-            "MATH 101",
-            "MATH 152",
-            "MATH 221",
-            "MATH 223"
+            "MECH 221",
+            "MECH 224"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.5309396546898868,
+        "y": 0.8474096312160865,
+        "group": "math"
     },
     {
         "name": "MATH 264",
@@ -454,13 +439,13 @@
             "ELEC 211"
         ],
         "prereqs": [
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254"
+            "BMEG 220",
+            "ELEC 211"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.4999999999999999,
+        "y": 0.8660254037844387,
+        "group": "math"
     },
     {
         "name": "MATH 300",
@@ -474,13 +459,15 @@
             "MATH 317"
         ],
         "prereqs": [
-            "MATH 200",
             "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254"
+            "MATH 227",
+            "MATH 254",
+            "MATH 317"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.46840844069979015,
+        "y": 0.8835120444460229,
+        "group": "math"
     },
     {
         "name": "MATH 301",
@@ -496,14 +483,17 @@
             "PHYS 312"
         ],
         "prereqs": [
-            "MATH 300",
-            "MATH 305",
-            "MATH 215",
-            "MATH 255",
             "MATH 256",
-            "MATH 258"
+            "MATH 257",
+            "MATH 316",
+            "MATH 358",
+            "MECH 358",
+            "PHYS 312"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.4362061661555676,
+        "y": 0.8998467539575066,
+        "group": "math"
     },
     {
         "name": "MATH 302",
@@ -511,14 +501,11 @@
         "credits": 3,
         "desc": "Basic notions of probability, random variables, expectation and conditional expectation, limit theorems.   Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.\nEquivalency: STAT 302.\r\n\t",
         "coreqs": [],
-        "prereqs": [
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.40343516198980856,
+        "y": 0.9150082349740121,
+        "group": "math"
     },
     {
         "name": "MATH 303",
@@ -526,11 +513,11 @@
         "credits": 3,
         "desc": "Discrete-time Markov chains, Poisson processes, continuous time Markov chains, renewal theory. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 302, STAT 302.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 302",
-            "STAT 302"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.37013815533991434,
+        "y": 0.9289767198167914,
+        "group": "math"
     },
     {
         "name": "MATH 305",
@@ -546,17 +533,17 @@
             "PHYS 312"
         ],
         "prereqs": [
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254",
-            "MATH 215",
-            "MATH 255",
             "MATH 256",
-            "MATH 258"
+            "MATH 257",
+            "MATH 316",
+            "MATH 358",
+            "MECH 358",
+            "PHYS 312"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.33635855915017504,
+        "y": 0.9417339962465081,
+        "group": "math"
     },
     {
         "name": "MATH 307",
@@ -564,17 +551,11 @@
         "credits": 3,
         "desc": "Applications of linear algebra to problems in science and engineering; use of computer algebra systems for solving problems in linear algebra. [3-0-0]\nPrerequisite: One of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 152",
-            "MATH 221",
-            "MATH 223",
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.3021404155695727,
+        "y": 0.9532634312085227,
+        "group": "math"
     },
     {
         "name": "MATH 308",
@@ -582,15 +563,11 @@
         "credits": 3,
         "desc": "Classical plane geometry, solid geometry, spherical trigonometry, polyhedra, linear and affine transformations. Linear algebra proofs are used. It is suggested that MATH 307 be taken concurrently. [3-0-0]\nPrerequisite: Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 152",
-            "MATH 221",
-            "MATH 220",
-            "MATH 226",
-            "CPSC 121",
-            "MATH 223"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.26752833852922075,
+        "y": 0.963549992519223,
+        "group": "math"
     },
     {
         "name": "MATH 309",
@@ -598,15 +575,11 @@
         "credits": 3,
         "desc": "Topics chosen by the instructor. These may include conic sections, projective configuration, convexity, non-Euclidean geometries, fractal geometry, combinatorial problems of points in the plane. [3-0-0]\nPrerequisite: Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 152",
-            "MATH 221",
-            "MATH 220",
-            "MATH 226",
-            "CPSC 121",
-            "MATH 223"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.2325674555743105,
+        "y": 0.9725802684651232,
+        "group": "math"
     },
     {
         "name": "MATH 310",
@@ -614,14 +587,11 @@
         "credits": 3,
         "desc": "Linear spaces, duality, linear mappings, matrices, determinant and trace, spectral theory, Euclidean structure. Consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 152",
-            "MATH 221",
-            "MATH 220",
-            "MATH 226",
-            "CPSC 121"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.19730334902640026,
+        "y": 0.9803424852891802,
+        "group": "math"
     },
     {
         "name": "MATH 312",
@@ -629,13 +599,11 @@
         "credits": 3,
         "desc": "Euclidean algorithm, congruences, Fermat's theorem, applications. Some diophantine equations. Distribution of the prime numbers. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. \nPrerequisite: One of MATH 220, MATH 223, MATH 226, CPSC 121 and 9 additional credits of mathematics courses.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 220",
-            "MATH 223",
-            "MATH 226",
-            "CPSC 121"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.16178199655276485,
+        "y": 0.9868265225415261,
+        "group": "math"
     },
     {
         "name": "MATH 313",
@@ -643,10 +611,11 @@
         "credits": 3,
         "desc": "Topics chosen by the instructor. These might include: division algorithms, group theory, continued fractions, primality testing, factoring.  Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: MATH 312.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 312"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.1260497112202894,
+        "y": 0.9920239262746043,
+        "group": "math"
     },
     {
         "name": "MATH 316",
@@ -654,13 +623,11 @@
         "credits": 3,
         "desc": "Power series methods (ordinary and regular singular points, Bessel's equation); boundary value problems and separation of variables (Fourier series and other orthogonal series), applications to the vibrating string, heat flow, potentials. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 215, MATH 255, MATH 256, MATH 258.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 215",
-            "MATH 255",
-            "MATH 256",
-            "MATH 258"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.0901530811120654,
+        "y": 0.9959279200655042,
+        "group": "math"
     },
     {
         "name": "MATH 317",
@@ -668,12 +635,11 @@
         "credits": 3,
         "desc": "Parametrizations, inverse and implicit functions, integrals with respect to length and area; grad, div, and curl, theorems of Green, Gauss, and Stokes. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 200, MATH 226, MATH 253. One of MATH 152, MATH 221, MATH 223 is recommended.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 200",
-            "MATH 226",
-            "MATH 253"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.05413890858541761,
+        "y": 0.9985334138511238,
+        "group": "math"
     },
     {
         "name": "MATH 318",
@@ -689,15 +655,17 @@
             "PHYS 312"
         ],
         "prereqs": [
-            "MATH 152",
-            "MATH 221",
-            "MATH 223",
-            "MATH 215",
-            "MATH 255",
             "MATH 256",
-            "MATH 258"
+            "MATH 257",
+            "MATH 316",
+            "MATH 358",
+            "MECH 358",
+            "PHYS 312"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.018054149250560435,
+        "y": 0.9998370105646412,
+        "group": "math"
     },
     {
         "name": "MATH 319",
@@ -705,12 +673,11 @@
         "credits": 3,
         "desc": "Ideas and methods of real analysis and their application. Countability and topology of the reals; convergence, continuity and differentiability of functions; metric spaces. Please consult the Faculty of Science credit exclusion list: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: Either (a) a score of 68% or higher in MATH 220 or (b) a score of 55% or higher in one of MATH 223, MATH 226.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 220",
-            "MATH 223",
-            "MATH 226"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.018054149250560314,
+        "y": 0.9998370105646412,
+        "group": "math"
     },
     {
         "name": "MATH 320",
@@ -718,16 +685,11 @@
         "credits": 3,
         "desc": "The real number system; real Euclidean n-space; open, closed, compact, and connected sets; Bolzano-Weierstrass theorem; sequences and series. Continuity and uniform continuity. Differentiability and mean-value theorems. [3-0-0]\nPrerequisite: Either (a) a score of 68% or higher in MATH 226 or (b) one of MATH 200, MATH 217, MATH 226, MATH 253, MATH 254 and a score of 80% or higher in MATH 220.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 226",
-            "MATH 200",
-            "MATH 217",
-            "MATH 226",
-            "MATH 253",
-            "MATH 254",
-            "MATH 220"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.054138908585417485,
+        "y": 0.9985334138511238,
+        "group": "math"
     },
     {
         "name": "MATH 321",
@@ -735,10 +697,11 @@
         "credits": 3,
         "desc": "The Riemann or Riemann-Stieltjes integrals. Sequences and series of functions, uniform convergence. Approximation of continuous functions by polynomials. Fourier series. Functions from Rm to Rn, inverse and implicit function theorems. [3-0-0]\nPrerequisite: MATH 320.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 320"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.09015308111206506,
+        "y": 0.9959279200655042,
+        "group": "math"
     },
     {
         "name": "MATH 322",
@@ -746,15 +709,11 @@
         "credits": 3,
         "desc": "Groups, cosets, homomorphisms, group actions, p-groups, Sylow theorems, composition series, finitely generated Abelian groups. [3-0-0]\nPrerequisite: Either (a) a score of 68% or higher in one of MATH 223, MATH 310 or (b) one of MATH 152, MATH 221, MATH 223 and a score of 80% or higher in MATH 220.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 223",
-            "MATH 310",
-            "MATH 152",
-            "MATH 221",
-            "MATH 223",
-            "MATH 220"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.12604971122028952,
+        "y": 0.9920239262746043,
+        "group": "math"
     },
     {
         "name": "MATH 323",
@@ -762,10 +721,11 @@
         "credits": 3,
         "desc": "Rings, ideals, unique factorization, Euclidean rings, fields, polynomial rings, modules; structure theory of modules over a principal ideal domain. [3-0-0]\nPrerequisite: MATH 322.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 322"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.16178199655276473,
+        "y": 0.9868265225415261,
+        "group": "math"
     },
     {
         "name": "MATH 335",
@@ -774,7 +734,10 @@
         "desc": "Intensive course with required tutorial. Combinatorics, probability, geometry and elementary number theory. Not for credit in the Faculty of Science. Students who obtain credit at UBC for any other mathematics course cannot in the same or later years obtain credit for MATH 335. Please consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-2]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.19730334902639993,
+        "y": 0.9803424852891802,
+        "group": "math"
     },
     {
         "name": "MATH 340",
@@ -782,12 +745,11 @@
         "credits": 3,
         "desc": "Linear programming problems, dual problems, the simplex algorithm, solution of primal and dual problems, sensitivity analysis. Additional topics chosen from: Karmarkar's algorithm, non-linear programming, game theory, applications. [3-0-0]\nPrerequisite: One of MATH 152, MATH 221, MATH 223.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 152",
-            "MATH 221",
-            "MATH 223"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.23256745557431038,
+        "y": 0.9725802684651232,
+        "group": "math"
     },
     {
         "name": "MATH 341",
@@ -795,13 +757,11 @@
         "credits": 3,
         "desc": "Introduction to ideas and methods of discrete mathematics and their application. [3-0-0]\nPrerequisite: One of MATH 220, MATH 223, MATH 226, CPSC 121.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 220",
-            "MATH 223",
-            "MATH 226",
-            "CPSC 121"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.26752833852922064,
+        "y": 0.963549992519223,
+        "group": "math"
     },
     {
         "name": "MATH 342",
@@ -809,15 +769,11 @@
         "credits": 3,
         "desc": "Error-correcting codes via abstract and linear algebra.  Emphasis on proofs and computation.  Finite fields, Hamming distance and error-correction, upper and lower bounds on the size of a code, linear codes, groups and cosets, encoding and decoding schemes. [3-0-0]\nPrerequisite: Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 152",
-            "MATH 221",
-            "MATH 220",
-            "MATH 226",
-            "CPSC 121",
-            "MATH 223"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.30214041556957283,
+        "y": 0.9532634312085226,
+        "group": "math"
     },
     {
         "name": "MATH 344",
@@ -825,15 +781,11 @@
         "credits": 3,
         "desc": "Introduction to mathematical game theory and its applications. [3-0-0]\nPrerequisite: Either (a) one of MATH 152, MATH 221 and one of MATH 220, MATH 226, CPSC 121;  or (b) MATH 223.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 152",
-            "MATH 221",
-            "MATH 220",
-            "MATH 226",
-            "CPSC 121",
-            "MATH 223"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.33635855915017515,
+        "y": 0.9417339962465081,
+        "group": "math"
     },
     {
         "name": "MATH 345",
@@ -841,13 +793,11 @@
         "credits": 3,
         "desc": "Phase plane methods, bifurcation and stability theory, limit-cycle behavior and chaos for nonlinear differential equations with applications to the sciences.  Assignments involve the use of computers. [3-1-0]\nPrerequisite: A score of 68% or higher in one of MATH 215, MATH 255, MATH 256, MATH 258.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 215",
-            "MATH 255",
-            "MATH 256",
-            "MATH 258"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.37013815533991423,
+        "y": 0.9289767198167915,
+        "group": "math"
     },
     {
         "name": "MATH 358",
@@ -855,11 +805,11 @@
         "credits": 3,
         "desc": "Fourier series; auto- and cross-correlation; power spectra;  discrete Fourier transform; boundary-value problems; numerical methods; partial differential equations; heat, wave, Laplace, Poisson, and wave equations.  Applications to mechanical engineering and practical computing applications emphasized.  Credit will be granted for only one of MECH 358 or MATH 358. [3-2*-0]\nPrerequisite: All of MECH 224, MECH 225.\nEquivalency: MECH 358.\r\n\t",
         "coreqs": [],
-        "prereqs": [
-            "MECH 224",
-            "MECH 225"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.40343516198980844,
+        "y": 0.9150082349740122,
+        "group": "math"
     },
     {
         "name": "MATH 360",
@@ -867,14 +817,11 @@
         "credits": 3,
         "desc": "Principles of model selection and basic modelling techniques in biology, earth science, chemistry and physics. Optimization, dynamical systems and stochastic processes. Preference will be given to Combined Major in Science students, or to students in Year 3 or higher. [3-0-0]\nPrerequisite: One of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 101",
-            "MATH 103",
-            "MATH 105",
-            "MATH 121",
-            "SCIE 001"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.4362061661555675,
+        "y": 0.8998467539575066,
+        "group": "math"
     },
     {
         "name": "MATH 361",
@@ -882,14 +829,11 @@
         "credits": 3,
         "desc": "Mathematical modelling of basic biological processes in ecology, physiology, neuroscience and genetics. Dynamic behavior of difference equations, differential equations, and partial differential equations, explained with reference to concrete biological examples. [3-0-0]\nPrerequisite: One of BIOL 301, MATH 215, MATH 255, MATH 256, MATH 258.\n",
         "coreqs": [],
-        "prereqs": [
-            "BIOL 301",
-            "MATH 215",
-            "MATH 255",
-            "MATH 256",
-            "MATH 258"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.46840844069979004,
+        "y": 0.8835120444460229,
+        "group": "math"
     },
     {
         "name": "MATH 398",
@@ -898,7 +842,10 @@
         "desc": "Approved and supervised technical work experience involving mathematics in industry for a minimum of 3.5 months. Technical report required. Restricted to students admitted to the Mathematics Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.5000000000000002,
+        "y": 0.8660254037844385,
+        "group": "math"
     },
     {
         "name": "MATH 399",
@@ -906,10 +853,11 @@
         "credits": 3,
         "desc": "Approved and supervised technical work experience involving mathematics in industry for a minimum of 3.5 months. Technical report required. Restricted to students admitted to the Mathematics Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: MATH 398.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 398"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.5309396546898869,
+        "y": 0.8474096312160865,
+        "group": "math"
     },
     {
         "name": "MATH 400",
@@ -917,17 +865,11 @@
         "credits": 3,
         "desc": "Separation of variables, first order equations, Sturm-Liouville theory, integral transform methods. [3-0-0]\nPrerequisite: One of MATH 300, MATH 305 and one of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 300",
-            "MATH 305",
-            "MATH 256",
-            "MATH 257",
-            "MATH 316",
-            "MATH 358",
-            "MECH 358",
-            "PHYS 312"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.5611870653623823,
+        "y": 0.8276889981568906,
+        "group": "math"
     },
     {
         "name": "MATH 401",
@@ -935,16 +877,11 @@
         "credits": 3,
         "desc": "Green's functions for partial differential equations. Calculus of variations. Eigenfunction expansions. Rayleigh-Ritz and finite element methods.  See Faculty of Science credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: Either (a) a score of 80% or higher in one of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312 or (b) MATH 400.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 256",
-            "MATH 257",
-            "MATH 316",
-            "MATH 358",
-            "MECH 358",
-            "PHYS 312",
-            "MATH 400"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.5907027951645509,
+        "y": 0.8068892165500705,
+        "group": "math"
     },
     {
         "name": "MATH 402",
@@ -952,11 +889,11 @@
         "credits": 3,
         "desc": "Classical variational problems; necessary conditions of Euler, Weierstrass, Legendre, and Jacobi; Erdmann corner conditions, transversality, convex Lagrangians, fields of extremals, sufficient conditions for optimality, numerical methods; applications to classical mechanics, engineering and economics. [3-0-0]\nPrerequisite: A score of 68% or higher in one of MATH 301, MATH 320.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 301",
-            "MATH 320"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.6194483612157227,
+        "y": 0.7850374053426725,
+        "group": "math"
     },
     {
         "name": "MATH 403",
@@ -964,11 +901,11 @@
         "credits": 3,
         "desc": "Dynamical systems; stability by Liapunov's direct method; controllability and eigenvalue assignment for autonomous linear systems; linear-quadratic regulator, time optimal control, Pontryagin maximum principle, dynamic programming; applications in engineering, economics and resource management. [3-0-0]\nPrerequisite: A score of 68% or higher in one of MATH 301, MATH 320. MATH 402 is recommended.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 301",
-            "MATH 320"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.6473862847818276,
+        "y": 0.7621620551276365,
+        "group": "math"
     },
     {
         "name": "MATH 404",
@@ -979,10 +916,12 @@
             "MATH 420"
         ],
         "prereqs": [
-            "MATH 300",
-            "MATH 321"
+            "MATH 420"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.6744801401405138,
+        "y": 0.7382929909974988,
+        "group": "math"
     },
     {
         "name": "MATH 405",
@@ -990,15 +929,11 @@
         "credits": 3,
         "desc": "Interpolation, numerical integration, numerical solution of ordinary and partial differential equations. Practical computational methods emphasized and basic theory developed through simple models. See Faculty of Science credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414. [3-0-0]\nPrerequisite: One of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 256",
-            "MATH 257",
-            "MATH 316",
-            "MATH 358",
-            "MECH 358",
-            "PHYS 312"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.7006946020733423,
+        "y": 0.7134613336581601,
+        "group": "math"
     },
     {
         "name": "MATH 406",
@@ -1006,18 +941,11 @@
         "credits": 3,
         "desc": "Variational and Green's function methods for ordinary and partial differential equations, introduction to finite difference, finite element and boundary element methods.  See Faculty of Science Credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414 [3-0-0]\nPrerequisite: One of MATH 307, CPSC 302 and either (a) a score of 80% or higher in one of MATH 256, MATH 257, MATH 316, MATH 358, MECH 358, PHYS 312 or (b) MATH 400.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 307",
-            "CPSC 302",
-            "MATH 256",
-            "MATH 257",
-            "MATH 316",
-            "MATH 358",
-            "MECH 358",
-            "PHYS 312",
-            "MATH 400"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.7259954919231308,
+        "y": 0.6876994588534233,
+        "group": "math"
     },
     {
         "name": "MATH 412",
@@ -1025,11 +953,11 @@
         "credits": 3,
         "desc": "Topics include decompositions of linear operators, multi linear algebra, bilinear forms, metric spaces. [3-0-0]\nPrerequisite: A score of 68% or higher in all of MATH 320, MATH 322.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 320",
-            "MATH 322"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.7503498221564023,
+        "y": 0.6610409551532004,
+        "group": "math"
     },
     {
         "name": "MATH 414",
@@ -1038,7 +966,10 @@
         "desc": "Students will prepare material illustrating ideas and applications of mathematics and present it to audiences outside the University. Intended for third or fourth year Mathematics students and Math/Science Education students. [2-0-0; 1-0-0] or [3-0-0]\nPrerequisite: 24 credits in MATH.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.7737258393728363,
+        "y": 0.6335205801604237,
+        "group": "math"
     },
     {
         "name": "MATH 418",
@@ -1046,10 +977,11 @@
         "credits": 3,
         "desc": "Probability spaces, random variables, distributions, expectation, conditional probabilities, convergence of random variables, generating and characteristic functions, weak and strong laws of large numbers, central limit theorem. [3-0-0]\nPrerequisite: A score of 68% or higher in MATH 321.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 321"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.7960930657056438,
+        "y": 0.6051742151937651,
+        "group": "math"
     },
     {
         "name": "MATH 419",
@@ -1057,10 +989,11 @@
         "credits": 3,
         "desc": "Random walks, Markov chains, branching processes, Poisson processes, continuous time Markov chains, martingales, Brownian motion. [3-0-0]\nPrerequisite: MATH 418.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 418"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.8174223385588918,
+        "y": 0.5760388185052397,
+        "group": "math"
     },
     {
         "name": "MATH 420",
@@ -1068,10 +1001,11 @@
         "credits": 3,
         "desc": "Sigma-algebras, Lebesgue measure, Borel measures, measurable functions, integration, convergence theorems, Lp spaces, Holder and Minkowski inequalities, Lebesgue and/or Radon-Nikodym differentiation. [3-0-0]\nPrerequisite: A score of 68% or higher in MATH 321.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 321"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.8376858486299646,
+        "y": 0.5461523770936971,
+        "group": "math"
     },
     {
         "name": "MATH 421",
@@ -1079,10 +1013,11 @@
         "credits": 3,
         "desc": "Banach spaces, linear operators, bounded and compact operators, strong, weak, and weak* topology.  Hahn-Banach, open mapping, and closed graph theorems.  Hilbert spaces, symmetric and self-adjoint operators, spectral theory for bounded operators. [3-0-0]\nPrerequisite: MATH 420.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 420"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.8568571761675893,
+        "y": 0.5155538571770216,
+        "group": "math"
     },
     {
         "name": "MATH 422",
@@ -1090,10 +1025,11 @@
         "credits": 3,
         "desc": "Field extensions, the Galois correspondence, finite fields, insolvability in radicals, ruler and compass constructions, additional topics chosen by instructor. [3-0-0]\nPrerequisite: MATH 323.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 323"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.8749113254181496,
+        "y": 0.4842831533876195,
+        "group": "math"
     },
     {
         "name": "MATH 423",
@@ -1101,12 +1037,11 @@
         "credits": 3,
         "desc": "Commutative algebra; homological algebra or representation theory of finite groups. [3-0-0]\nPrerequisite: MATH 323 and a score of 68% or higher in one of MATH 412, MATH 422.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 323",
-            "MATH 412",
-            "MATH 422"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.8918247572153822,
+        "y": 0.452381036757427,
+        "group": "math"
     },
     {
         "name": "MATH 424",
@@ -1114,17 +1049,11 @@
         "credits": 3,
         "desc": "The differential geometry of curves and surfaces in three-dimensional Euclidean space. Mean curvature and Gaussian curvature. Geodesics. Gauss's Theorema Egregium. [3-0-0]\nPrerequisite: Either (a) a score of 68% or higher in MATH 223 or (b) a score of 80% or higher in one of MATH 152, MATH 221;  and either (a) a score of 68% or higher in MATH 227 or (b) a score of 80% or higher in one of MATH 217, MATH 254, MATH 264, MATH 317.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 223",
-            "MATH 152",
-            "MATH 221",
-            "MATH 227",
-            "MATH 217",
-            "MATH 254",
-            "MATH 264",
-            "MATH 317"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9075754196709569,
+        "y": 0.4198891015602648,
+        "group": "math"
     },
     {
         "name": "MATH 425",
@@ -1132,10 +1061,11 @@
         "credits": 3,
         "desc": "Riemannian manifolds, tensors and differential forms, curvature and geodesics. [3-0-0]\nPrerequisite: MATH 424.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 424"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9221427769259329,
+        "y": 0.3868497110808396,
+        "group": "math"
     },
     {
         "name": "MATH 425",
@@ -1143,18 +1073,11 @@
         "credits": 3,
         "desc": "Smooth manifolds, smooth maps, immersions and submersions, vector fields, vector bundles, tangent and cotangent bundles, tensors and differential forms, orientation of manifolds, integration of forms, and selected topics. [3-0-0]\nPrerequisite: One of MATH 221, MATH 223 and one of MATH 217, MATH 227, MATH 254, MATH 264, MATH 317 and one of MATH 319, MATH 320.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 221",
-            "MATH 223",
-            "MATH 217",
-            "MATH 227",
-            "MATH 254",
-            "MATH 264",
-            "MATH 317",
-            "MATH 319",
-            "MATH 320"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9355078359256009,
+        "y": 0.35330594238110247,
+        "group": "math"
     },
     {
         "name": "MATH 426",
@@ -1162,11 +1085,11 @@
         "credits": 3,
         "desc": "General topology, combinatorial topology, fundamental group and covering spaces, topics chosen by the instructor. [3-0-0]\nPrerequisite: A score of 68% or higher in all of MATH 321, MATH 322.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 321",
-            "MATH 322"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9476531711828023,
+        "y": 0.3193015301359802,
+        "group": "math"
     },
     {
         "name": "MATH 427",
@@ -1174,10 +1097,11 @@
         "credits": 3,
         "desc": "Homology theory, homotopy theory, manifolds, and other topics chosen by the instructor. [3-0-0]\nPrerequisite: MATH 426.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 426"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9585629474974413,
+        "y": 0.28488080961169987,
+        "group": "math"
     },
     {
         "name": "MATH 428",
@@ -1188,15 +1112,12 @@
             "MATH 320"
         ],
         "prereqs": [
-            "MATH 215",
-            "MATH 255",
-            "MATH 256",
-            "MATH 258",
-            "PHYS 216",
-            "PHYS 306",
-            "ENPH 270"
+            "MATH 320"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9682229406025633,
+        "y": 0.2500886588610631,
+        "group": "math"
     },
     {
         "name": "MATH 430",
@@ -1205,7 +1126,10 @@
         "desc": "The student should consult the Mathematics Department for the particular topics offered in a given year. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9766205557100867,
+        "y": 0.21497044021102427,
+        "group": "math"
     },
     {
         "name": "MATH 432",
@@ -1214,7 +1138,10 @@
         "desc": "The student should consult the Mathematics Department for the particular topics offered in a given year. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9837448439320027,
+        "y": 0.17957194111887198,
+        "group": "math"
     },
     {
         "name": "MATH 437",
@@ -1226,7 +1153,10 @@
             "MATH 322"
         ],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9895865165556373,
+        "y": 0.14393931447411915,
+        "group": "math"
     },
     {
         "name": "MATH 440",
@@ -1234,11 +1164,11 @@
         "credits": 3,
         "desc": "The residue theorem, the argument principle, conformal mapping, the maximum modulus principle, harmonic functions, representation of functions by integrals, series, and products. Other topics at the discretion of the instructor. [3-0-0]\nPrerequisite: MATH 300 and a score of 68% or higher in MATH 320.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 300",
-            "MATH 320"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9941379571543596,
+        "y": 0.10811901842394192,
+        "group": "math"
     },
     {
         "name": "MATH 441",
@@ -1246,10 +1176,11 @@
         "credits": 3,
         "desc": "Formulation of real-world optimization problems using techniques such as linear programming, network flows, integer programming, dynamic programming. Solution by appropriate software. [3-0-0]\nPrerequisite: MATH 340.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 340"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9973932315179498,
+        "y": 0.07215775580061637,
+        "group": "math"
     },
     {
         "name": "MATH 442",
@@ -1257,13 +1188,11 @@
         "credits": 3,
         "desc": "Graph theory, emphasizing trees, tree growing algorithms, and proof techniques. Other topics chosen from shortest paths, maximum flows, minimum cost flows, matchings, and graph colouring. [3-0-0]\nPrerequisite: 3rd year standing and one of MATH 220, MATH 223, MATH 226 or CPSC 221.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 220",
-            "MATH 223",
-            "MATH 226",
-            "CPSC 221"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.999348095389677,
+        "y": 0.03610241322993641,
+        "group": "math"
     },
     {
         "name": "MATH 443",
@@ -1271,13 +1200,11 @@
         "credits": 3,
         "desc": "Introductory course in mostly non-algorithmic topics including: planarity and Kuratowski's theorem, graph colouring, graph minors, random graphs, cycles in graphs, Ramsey theory, extremal graph theory. Proofs emphasized. Intended for Honours students. [3-0-0]\nPrerequisite: A score of 68% or higher in one of MATH 220, MATH 223, MATH 226, CPSC 121. And 6 credits of MATH numbered 300 or above.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 220",
-            "MATH 223",
-            "MATH 226",
-            "CPSC 121"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -1.0,
+        "y": 1.2246467991473532e-16,
+        "group": "math"
     },
     {
         "name": "MATH 444",
@@ -1285,11 +1212,11 @@
         "credits": 3,
         "desc": "Current research topics in pure and applied mathematics are explored at the undergraduate level.  Technical communication and research skills are developed. [3-0-0]\nPrerequisite: One of MATH 220, MATH 226 and 6 credits of MATH courses numbered 300 or higher.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 220",
-            "MATH 226"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.999348095389677,
+        "y": -0.03610241322993617,
+        "group": "math"
     },
     {
         "name": "MATH 446",
@@ -1298,7 +1225,10 @@
         "desc": "Historical development of concepts and techniques in areas chosen from Geometry, Number Theory, Algebra, Calculus, Probability, Analysis. The focus is on historically significant writings of important contributors and on famous problems of Mathematics. [3-0-0]\nPrerequisite: 21 credits of MATH.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9973932315179498,
+        "y": -0.07215775580061613,
+        "group": "math"
     },
     {
         "name": "MATH 448",
@@ -1307,7 +1237,10 @@
         "desc": "Introduction to the methods of mathematical research through an exploration of a mathematical topic under the supervision of a faculty member.  Written report required. [3-0-0]\nPrerequisite: Third- or fourth-year standing and permission of the Department Head.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9941379571543596,
+        "y": -0.10811901842394168,
+        "group": "math"
     },
     {
         "name": "MATH 449",
@@ -1316,7 +1249,10 @@
         "desc": "Independent reading by Honours students in Mathematics under the direction of a faculty member. Written report required. \nPrerequisite: Permission of the Department Head\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9895865165556373,
+        "y": -0.1439393144741189,
+        "group": "math"
     },
     {
         "name": "MATH 450",
@@ -1324,10 +1260,11 @@
         "credits": 3,
         "desc": "Asymptotic expansions. Asymptotic evaluation of integrals; WKBJ methods. Regular and singular expansions. Boundary layer theory; matched asymptotic expansions. Multiple scale techniques. [3-0-0]\nPrerequisite: MATH 400.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 400"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9837448439320028,
+        "y": -0.1795719411188713,
+        "group": "math"
     },
     {
         "name": "MATH 462",
@@ -1335,11 +1272,11 @@
         "credits": 3,
         "desc": "Development and analysis of mathematical models for complex systems in ecology, evolution, cell biology, neurophysiology, and other biological and medical disciplines. [3-0-0]\nPrerequisite: One of MATH 361, MATH 345.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 361",
-            "MATH 345"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9766205557100868,
+        "y": -0.2149704402110236,
+        "group": "math"
     },
     {
         "name": "MATH 498",
@@ -1347,10 +1284,11 @@
         "credits": 3,
         "desc": "Approved and supervised technical work experience involving mathematics in industry for a minimum of 3 1/2 months. Technical report required. Restricted to students admitted to the Mathematics Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: MATH 399.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 399"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9682229406025632,
+        "y": -0.2500886588610633,
+        "group": "math"
     },
     {
         "name": "MATH 499",
@@ -1358,10 +1296,11 @@
         "credits": 3,
         "desc": "Approved and supervised technical work experience involving mathematics in industry for a minimum of 3 1/2 months. Technical report required. Restricted to students admitted to the Mathematics Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: MATH 498.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 498"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9585629474974412,
+        "y": -0.28488080961170004,
+        "group": "math"
     },
     {
         "name": "MATH 501",
@@ -1370,7 +1309,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9476531711828025,
+        "y": -0.31930153013597995,
+        "group": "math"
     },
     {
         "name": "MATH 502",
@@ -1379,7 +1321,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.935507835925601,
+        "y": -0.35330594238110224,
+        "group": "math"
     },
     {
         "name": "MATH 503",
@@ -1388,7 +1333,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9221427769259333,
+        "y": -0.38684971108083893,
+        "group": "math"
     },
     {
         "name": "MATH 507",
@@ -1397,7 +1345,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.907575419670957,
+        "y": -0.4198891015602646,
+        "group": "math"
     },
     {
         "name": "MATH 508",
@@ -1406,7 +1357,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8918247572153823,
+        "y": -0.4523810367574268,
+        "group": "math"
     },
     {
         "name": "MATH 510",
@@ -1415,7 +1369,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8749113254181498,
+        "y": -0.4842831533876193,
+        "group": "math"
     },
     {
         "name": "MATH 511",
@@ -1424,7 +1381,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8568571761675894,
+        "y": -0.5155538571770214,
+        "group": "math"
     },
     {
         "name": "MATH 512",
@@ -1433,7 +1393,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.837685848629965,
+        "y": -0.5461523770936966,
+        "group": "math"
     },
     {
         "name": "MATH 513",
@@ -1442,7 +1405,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8174223385588917,
+        "y": -0.5760388185052399,
+        "group": "math"
     },
     {
         "name": "MATH 514",
@@ -1451,7 +1417,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.7960930657056436,
+        "y": -0.6051742151937652,
+        "group": "math"
     },
     {
         "name": "MATH 515",
@@ -1460,7 +1429,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.7737258393728362,
+        "y": -0.6335205801604238,
+        "group": "math"
     },
     {
         "name": "MATH 516",
@@ -1469,7 +1441,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.7503498221564024,
+        "y": -0.6610409551532002,
+        "group": "math"
     },
     {
         "name": "MATH 517",
@@ -1478,7 +1453,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.7259954919231311,
+        "y": -0.6876994588534231,
+        "group": "math"
     },
     {
         "name": "MATH 519",
@@ -1487,7 +1465,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.7006946020733428,
+        "y": -0.7134613336581597,
+        "group": "math"
     },
     {
         "name": "MATH 520",
@@ -1496,7 +1477,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.674480140140514,
+        "y": -0.7382929909974986,
+        "group": "math"
     },
     {
         "name": "MATH 521",
@@ -1505,7 +1489,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.6473862847818275,
+        "y": -0.7621620551276366,
+        "group": "math"
     },
     {
         "name": "MATH 522",
@@ -1514,7 +1501,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.6194483612157229,
+        "y": -0.7850374053426724,
+        "group": "math"
     },
     {
         "name": "MATH 523",
@@ -1523,7 +1513,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.5907027951645512,
+        "y": -0.8068892165500703,
+        "group": "math"
     },
     {
         "name": "MATH 525",
@@ -1532,7 +1525,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.5611870653623825,
+        "y": -0.8276889981568905,
+        "group": "math"
     },
     {
         "name": "MATH 526",
@@ -1541,7 +1537,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.5309396546898864,
+        "y": -0.8474096312160868,
+        "group": "math"
     },
     {
         "name": "MATH 527",
@@ -1550,7 +1549,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.4999999999999996,
+        "y": -0.8660254037844388,
+        "group": "math"
     },
     {
         "name": "MATH 528",
@@ -1559,7 +1561,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.4684084406997899,
+        "y": -0.883512044446023,
+        "group": "math"
     },
     {
         "name": "MATH 529",
@@ -1568,7 +1573,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.4362061661555673,
+        "y": -0.8998467539575067,
+        "group": "math"
     },
     {
         "name": "MATH 530",
@@ -1577,7 +1585,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.40343516198980844,
+        "y": -0.9150082349740122,
+        "group": "math"
     },
     {
         "name": "MATH 532",
@@ -1586,7 +1597,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.37013815533991445,
+        "y": -0.9289767198167914,
+        "group": "math"
     },
     {
         "name": "MATH 533",
@@ -1595,7 +1609,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.3363585591501754,
+        "y": -0.941733996246508,
+        "group": "math"
     },
     {
         "name": "MATH 534",
@@ -1604,7 +1621,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.30214041556957305,
+        "y": -0.9532634312085226,
+        "group": "math"
     },
     {
         "name": "MATH 535",
@@ -1613,7 +1633,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.2675283385292213,
+        "y": -0.9635499925192228,
+        "group": "math"
     },
     {
         "name": "MATH 537",
@@ -1622,7 +1645,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.23256745557431105,
+        "y": -0.972580268465123,
+        "group": "math"
     },
     {
         "name": "MATH 538",
@@ -1631,7 +1657,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.19730334902640081,
+        "y": -0.9803424852891801,
+        "group": "math"
     },
     {
         "name": "MATH 539",
@@ -1640,7 +1669,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.16178199655276476,
+        "y": -0.9868265225415261,
+        "group": "math"
     },
     {
         "name": "MATH 541",
@@ -1649,7 +1681,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.12604971122028952,
+        "y": -0.9920239262746043,
+        "group": "math"
     },
     {
         "name": "MATH 542",
@@ -1658,7 +1693,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.09015308111206552,
+        "y": -0.9959279200655042,
+        "group": "math"
     },
     {
         "name": "MATH 543",
@@ -1667,7 +1705,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.05413890858541795,
+        "y": -0.9985334138511238,
+        "group": "math"
     },
     {
         "name": "MATH 544",
@@ -1676,7 +1717,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.018054149250561004,
+        "y": -0.9998370105646412,
+        "group": "math"
     },
     {
         "name": "MATH 545",
@@ -1685,7 +1729,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.018054149250560637,
+        "y": -0.9998370105646412,
+        "group": "math"
     },
     {
         "name": "MATH 546",
@@ -1693,11 +1740,11 @@
         "credits": 3,
         "desc": " This course is not eligible for Credit/D/Fail grading.\nPrerequisite: All of MATH 544, MATH 545.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 544",
-            "MATH 545"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.05413890858541758,
+        "y": -0.9985334138511238,
+        "group": "math"
     },
     {
         "name": "MATH 547",
@@ -1706,7 +1753,10 @@
         "desc": "Optimal control of systems governed by ordinary differential equations. The control problem will be carefully stated, and existence results and necessary conditions will be established. Hamilton-Jacobi-Bellman theory will be introduced. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.09015308111206516,
+        "y": -0.9959279200655042,
+        "group": "math"
     },
     {
         "name": "MATH 548",
@@ -1714,11 +1764,11 @@
         "credits": 3,
         "desc": " This course is not eligible for Credit/D/Fail grading.\nPrerequisite: All of MATH 544, MATH 545.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 544",
-            "MATH 545"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.12604971122028916,
+        "y": -0.9920239262746043,
+        "group": "math"
     },
     {
         "name": "MATH 549",
@@ -1727,7 +1777,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.1617819965527644,
+        "y": -0.9868265225415263,
+        "group": "math"
     },
     {
         "name": "MATH 550",
@@ -1736,7 +1789,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.19730334902640045,
+        "y": -0.9803424852891801,
+        "group": "math"
     },
     {
         "name": "MATH 551",
@@ -1744,10 +1800,11 @@
         "credits": 3,
         "desc": " This course is not eligible for Credit/D/Fail grading.\nPrerequisite: MATH 550. Ordinary and partial differential equations (MATH 400 or equivalent).\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 550"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.2325674555743107,
+        "y": -0.9725802684651231,
+        "group": "math"
     },
     {
         "name": "MATH 552",
@@ -1755,15 +1812,11 @@
         "credits": 3,
         "desc": "Ideas, methods and applications of bifurcation theory and dynamical systems: differential and difference equations, local bifurcations, perturbation methods, chaos. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: One of MATH 215, MATH 255, MATH 256 and one of MATH 256, MATH 257, MATH 316.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 215",
-            "MATH 255",
-            "MATH 256",
-            "MATH 256",
-            "MATH 257",
-            "MATH 316"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.267528338529221,
+        "y": -0.9635499925192229,
+        "group": "math"
     },
     {
         "name": "MATH 553",
@@ -1771,10 +1824,11 @@
         "credits": 3,
         "desc": "Topics from: hyperbolic invariant sets and symbolic dynamics, global bifurcations, local bifurcations for partial differential equations, multiple bifurcations, bifurcations and symmetry, applications. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: MATH 552.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 552"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.3021404155695727,
+        "y": -0.9532634312085227,
+        "group": "math"
     },
     {
         "name": "MATH 554",
@@ -1783,7 +1837,10 @@
         "desc": "Dimensional analysis, modelling, and invariance. Lie groups of transformations, infinitesimal transformations. Applications to ordinary and partial differential equations. No knowledge of group theory will be assumed. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: Elementary courses in differential equations and linear algebra.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.33635855915017504,
+        "y": -0.9417339962465081,
+        "group": "math"
     },
     {
         "name": "MATH 555",
@@ -1792,7 +1849,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.3701381553399141,
+        "y": -0.9289767198167915,
+        "group": "math"
     },
     {
         "name": "MATH 556",
@@ -1801,7 +1861,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.4034351619898081,
+        "y": -0.9150082349740123,
+        "group": "math"
     },
     {
         "name": "MATH 557",
@@ -1809,10 +1872,11 @@
         "credits": 3,
         "desc": "Classical and recent results in linear and nonlinear waves. Geometrical acoustics and kinematic waves; large amplitude waves in weakly stratified media; small amplitude waves in strongly stratified media. Dispersive waves; group velocity; applications. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: MATH 400 and some knowledge of either fluid mechanics or elasticity.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 400"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.4362061661555678,
+        "y": -0.8998467539575065,
+        "group": "math"
     },
     {
         "name": "MATH 559",
@@ -1821,7 +1885,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.4684084406997903,
+        "y": -0.8835120444460228,
+        "group": "math"
     },
     {
         "name": "MATH 560",
@@ -1830,7 +1897,10 @@
         "desc": "Mathematical methods in modelling biological processes, at levels from cell biochemistry to community ecology. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.5000000000000001,
+        "y": -0.8660254037844386,
+        "group": "math"
     },
     {
         "name": "MATH 561",
@@ -1839,7 +1909,10 @@
         "desc": "Mathematical models for disease spread in populations.  Within-host infectious disease dynamics.  Models of the immune system and immune cells. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.5309396546898868,
+        "y": -0.8474096312160865,
+        "group": "math"
     },
     {
         "name": "MATH 562",
@@ -1848,7 +1921,10 @@
         "desc": "Formulation and analysis of models of excitable media.  FitzHugh-Nagumo model, ionic models of membrane excitability (e.g., Hodgkin-Huxley), calcium excitability, bursting phenomena. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.5611870653623823,
+        "y": -0.8276889981568907,
+        "group": "math"
     },
     {
         "name": "MATH 563",
@@ -1857,7 +1933,10 @@
         "desc": "Concepts and techniques for modelling cellular and subcellular dynamics in biological systems.  Topics may include complex biochemical systems, biopolymers in cell motility and division, continuum mechanics, and membrane dynamics. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.5907027951645509,
+        "y": -0.8068892165500705,
+        "group": "math"
     },
     {
         "name": "MATH 564",
@@ -1866,7 +1945,10 @@
         "desc": "Mathematical models of evolution and evolutionary game theory. Stochastic dynamics in finite populations, dynamics in spatially structured populations, and adaptive dynamics. Applications include the origin of species and the problem of cooperation. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.6194483612157226,
+        "y": -0.7850374053426726,
+        "group": "math"
     },
     {
         "name": "MATH 566",
@@ -1875,7 +1957,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.6473862847818272,
+        "y": -0.7621620551276368,
+        "group": "math"
     },
     {
         "name": "MATH 567",
@@ -1884,7 +1969,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.6744801401405135,
+        "y": -0.7382929909974991,
+        "group": "math"
     },
     {
         "name": "MATH 589",
@@ -1893,7 +1981,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7006946020733419,
+        "y": -0.7134613336581606,
+        "group": "math"
     },
     {
         "name": "MATH 590",
@@ -1902,7 +1993,10 @@
         "desc": "Presentation and discussion of recent results in the mathematical literature. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7259954919231308,
+        "y": -0.6876994588534233,
+        "group": "math"
     },
     {
         "name": "MATH 591",
@@ -1911,7 +2005,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7503498221564022,
+        "y": -0.6610409551532004,
+        "group": "math"
     },
     {
         "name": "MATH 592",
@@ -1920,7 +2017,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.773725839372836,
+        "y": -0.6335205801604241,
+        "group": "math"
     },
     {
         "name": "MATH 599",
@@ -1929,7 +2029,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7960930657056434,
+        "y": -0.6051742151937656,
+        "group": "math"
     },
     {
         "name": "MATH 600",
@@ -1938,7 +2041,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8174223385588915,
+        "y": -0.5760388185052402,
+        "group": "math"
     },
     {
         "name": "MATH 601",
@@ -1947,7 +2053,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8376858486299649,
+        "y": -0.5461523770936969,
+        "group": "math"
     },
     {
         "name": "MATH 602",
@@ -1956,7 +2065,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8568571761675893,
+        "y": -0.5155538571770217,
+        "group": "math"
     },
     {
         "name": "MATH 603",
@@ -1965,7 +2077,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8749113254181496,
+        "y": -0.4842831533876196,
+        "group": "math"
     },
     {
         "name": "MATH 604",
@@ -1974,7 +2089,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8918247572153821,
+        "y": -0.45238103675742714,
+        "group": "math"
     },
     {
         "name": "MATH 605",
@@ -1983,7 +2101,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9075754196709569,
+        "y": -0.41988910156026493,
+        "group": "math"
     },
     {
         "name": "MATH 606",
@@ -1992,7 +2113,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9221427769259329,
+        "y": -0.3868497110808397,
+        "group": "math"
     },
     {
         "name": "MATH 607",
@@ -2001,7 +2125,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9355078359256007,
+        "y": -0.35330594238110297,
+        "group": "math"
     },
     {
         "name": "MATH 608",
@@ -2010,7 +2137,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9476531711828022,
+        "y": -0.3193015301359807,
+        "group": "math"
     },
     {
         "name": "MATH 609",
@@ -2019,7 +2149,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9585629474974413,
+        "y": -0.2848808096117,
+        "group": "math"
     },
     {
         "name": "MATH 610",
@@ -2028,7 +2161,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9682229406025633,
+        "y": -0.2500886588610632,
+        "group": "math"
     },
     {
         "name": "MATH 612",
@@ -2037,7 +2173,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9766205557100867,
+        "y": -0.21497044021102438,
+        "group": "math"
     },
     {
         "name": "MATH 613",
@@ -2046,7 +2185,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9837448439320027,
+        "y": -0.1795719411188721,
+        "group": "math"
     },
     {
         "name": "MATH 615",
@@ -2055,7 +2197,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9895865165556372,
+        "y": -0.1439393144741197,
+        "group": "math"
     },
     {
         "name": "MATH 616",
@@ -2064,7 +2209,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9941379571543596,
+        "y": -0.1081190184239416,
+        "group": "math"
     },
     {
         "name": "MATH 620",
@@ -2073,7 +2221,10 @@
         "desc": "Advanced study under the direction of a faculty member may be arranged in special situations. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9973932315179498,
+        "y": -0.07215775580061605,
+        "group": "math"
     },
     {
         "name": "MATH 649",
@@ -2082,6 +2233,9 @@
         "desc": "\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.999348095389677,
+        "y": -0.03610241322993653,
+        "group": "math"
     }
 ]

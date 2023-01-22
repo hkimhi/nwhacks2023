@@ -6,7 +6,10 @@
         "desc": "An introduction to the engineering profession including: roles and responsibilities of the engineer, the engineering disciplines, sustainability, an introduction to the engineering design process, introduction and application of the relevant foundational scientific principles, prototyping, engineering graphics, technical communication, and engineering ethics. This course is not eligible for Credit/D/Fail grading. [2-2-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 1.0,
+        "y": 0.0,
+        "group": "apsc"
     },
     {
         "name": "APSC 101",
@@ -14,10 +17,11 @@
         "credits": 3,
         "desc": "An introduction to the engineering profession including: the engineering design process, sustainability, prototype testing, introduction and application of the relevant foundational scientific principles, team functioning, engineering graphics, and technical communication. This course is not eligible for Credit/D/Fail grading. [2-2-0]\nPrerequisite: APSC 100.\n",
         "coreqs": [],
-        "prereqs": [
-            "APSC 100"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.9945218953682733,
+        "y": 0.10452846326765346,
+        "group": "apsc"
     },
     {
         "name": "APSC 107",
@@ -26,7 +30,10 @@
         "desc": "An introduction to Engineering Co-op including: completion of preemployment workshops, career skills toolkits, networking opportunities, interview training, individual coaching sessions, and job search skills. Restricted to students meeting the requirements of the Faculty of Applied Science Co-operative Education Program. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9781476007338057,
+        "y": 0.20791169081775931,
+        "group": "apsc"
     },
     {
         "name": "APSC 110",
@@ -35,7 +42,10 @@
         "desc": "Supervised, technical work integrated learning experience in a public or private organization for a minimum of three months. Formal co-op assignments required. Restricted to undergraduate students meeting the requirements of the Faculty of Applied Science and the Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9510565162951535,
+        "y": 0.3090169943749474,
+        "group": "apsc"
     },
     {
         "name": "APSC 122",
@@ -44,7 +54,10 @@
         "desc": "Non-credit course designed to introduce students to Engineering. Information on the Faculty, the profession and the particular skills and type of work done by practising engineers in different disciplines. [1-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9135454576426009,
+        "y": 0.40673664307580015,
+        "group": "apsc"
     },
     {
         "name": "APSC 150",
@@ -53,7 +66,10 @@
         "desc": "Application of scientific principles and technical knowledge to practical problems. Introduction to the engineering design process and to engineering graphics. This course is not eligible for Credit/D/Fail grading. [3-4-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8660254037844387,
+        "y": 0.49999999999999994,
+        "group": "apsc"
     },
     {
         "name": "APSC 151",
@@ -62,7 +78,10 @@
         "desc": "Orthographic projection, technical sketching, development of the ability to visualize in three dimensions. Standards and conventions of engineering drawing, graphical presentation of engineering data. Micro-computer based graphics aids. Engineering geometry and the solution of space problems. This course is not eligible for Credit/D/Fail grading. [1-0-4]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8090169943749475,
+        "y": 0.5877852522924731,
+        "group": "apsc"
     },
     {
         "name": "APSC 160",
@@ -71,7 +90,10 @@
         "desc": "Analysis and simulation, laboratory data acquisition and processing, measurement interfaces, engineering tools, computer systems organization, programming languages. Credit will only be given for one of: APSC 160, CPSC 301, or EOSC 211. This course is not eligible for Credit/D/Fail grading. [3-2-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7431448254773942,
+        "y": 0.6691306063588582,
+        "group": "apsc"
     },
     {
         "name": "APSC 172",
@@ -80,7 +102,10 @@
         "desc": "Functions, limits, differentiation, applications of derivatives, integration, applications of definite integrals. This course is not eligible for Credit/D/Fail grading. [3-0-1]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.6691306063588582,
+        "y": 0.7431448254773941,
+        "group": "apsc"
     },
     {
         "name": "APSC 173",
@@ -88,10 +113,11 @@
         "credits": 3,
         "desc": "Integrals and transcendental functions, techniques of integration, applications of integration, polar coordinates, infinite sequences and series, vectors and the geometry of space, and partial derivatives. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: APSC 172.\n",
         "coreqs": [],
-        "prereqs": [
-            "APSC 172"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.5877852522924731,
+        "y": 0.8090169943749475,
+        "group": "apsc"
     },
     {
         "name": "APSC 176",
@@ -100,7 +126,10 @@
         "desc": "Purpose, audience, content, format, and tone are studied, as are team-based report writings and presentations. Community Service Learning projects are integrated into existing assignments. An LPI level 5 is required for registration in this course. This course is not eligible for Credit/D/Fail grading. [2-0-2]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.5000000000000001,
+        "y": 0.8660254037844386,
+        "group": "apsc"
     },
     {
         "name": "APSC 178",
@@ -111,9 +140,12 @@
             "APSC 173"
         ],
         "prereqs": [
-            "APSC 172"
+            "APSC 173"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.4067366430758004,
+        "y": 0.9135454576426009,
+        "group": "apsc"
     },
     {
         "name": "APSC 179",
@@ -122,7 +154,10 @@
         "desc": "Systems of linear equations, Gaussian elimination, engineering application of linear algebra, matrix operations, special matrices, determinants, vector space, orthogonality, eigenvalues and eigenvectors, linear transformation. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.30901699437494745,
+        "y": 0.9510565162951535,
+        "group": "apsc"
     },
     {
         "name": "APSC 180",
@@ -131,7 +166,10 @@
         "desc": "Force vectors, Cartesian coordinate system, free body diagram, dot and cross products, forces equilibrium of particles, force and moment equilibrium of rigid bodies, analysis of trusses, frames and machines, friction, wedges, pulleys, and belts. Applications of linear algebra in statics. This course is not eligible for Credit/D/Fail grading. [3-0-2]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.20791169081775923,
+        "y": 0.9781476007338057,
+        "group": "apsc"
     },
     {
         "name": "APSC 182",
@@ -140,7 +178,10 @@
         "desc": "Thermometry, states of matter and phase change, ideal and real gases, 1st law of thermodynamics, 2nd law of thermodynamics, liquids, solutions. This course is not eligible for Credit/D/Fail grading. [2-2*-2*]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.10452846326765346,
+        "y": 0.9945218953682733,
+        "group": "apsc"
     },
     {
         "name": "APSC 183",
@@ -149,7 +190,10 @@
         "desc": "Atomic structures and bonding, solid crystals, chemical equilibrium, reactions in gas phase and in aqueous solutions, acid-base and redox reactions, kinetics of chemical reactions, thermochemistry, electrochemistry. This course is not eligible for Credit/D/Fail grading. [2-2*-2*]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 2.83276944882399e-16,
+        "y": 1.0,
+        "group": "apsc"
     },
     {
         "name": "APSC 201",
@@ -157,16 +201,11 @@
         "credits": 3,
         "desc": "Written and oral communication in engineering. Report preparation, business correspondence, and oral presentation of technical material. Credit will be granted for only one of BMEG 201, CHBE 201, CIVL 203, CPEN 281, ELEC 281, IGEN 201, MANU 201, MECH 226, MTRL 201, or APSC 201. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.\n",
         "coreqs": [],
-        "prereqs": [
-            "APSC 176",
-            "ENGL 110",
-            "ENGL 111",
-            "ENGL 112",
-            "ENGL 120",
-            "ENGL 121",
-            "WRDS 150"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.10452846326765333,
+        "y": 0.9945218953682734,
+        "group": "apsc"
     },
     {
         "name": "APSC 202",
@@ -177,14 +216,12 @@
             "ENPH 259"
         ],
         "prereqs": [
-            "APSC 176",
-            "ENGL 110",
-            "ENGL 111",
-            "ENGL 112",
-            "ENGL 120",
-            "ENGL 121"
+            "ENPH 259"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.20791169081775934,
+        "y": 0.9781476007338057,
+        "group": "apsc"
     },
     {
         "name": "APSC 203",
@@ -195,9 +232,12 @@
             "ENPH 253"
         ],
         "prereqs": [
-            "APSC 202"
+            "ENPH 253"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.30901699437494734,
+        "y": 0.9510565162951536,
+        "group": "apsc"
     },
     {
         "name": "APSC 210",
@@ -205,10 +245,11 @@
         "credits": 6,
         "desc": "Supervised, technical work integrated learning experience in a public or private organization for a minimum of three months. Formal co-op assignments required. Restricted to students meeting the requirements of the Faculty of Applied Science and the Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: APSC 110.\n",
         "coreqs": [],
-        "prereqs": [
-            "APSC 110"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.40673664307580004,
+        "y": 0.913545457642601,
+        "group": "apsc"
     },
     {
         "name": "APSC 211",
@@ -217,7 +258,10 @@
         "desc": "Supervised, technical work integrated learning experience in a public or private organization for a minimum of three months. Formal co-op assignments required. Restricted to students meeting the requirements of the Faculty of Applied Science and the Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.4999999999999998,
+        "y": 0.8660254037844387,
+        "group": "apsc"
     },
     {
         "name": "APSC 212",
@@ -226,7 +270,10 @@
         "desc": "Supervised, technical work integrated learning experience in a public or private organization for a minimum of three months. Formal co-op assignments required. Restricted to students meeting the requirements of the Faculty of Applied Science and the Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.587785252292473,
+        "y": 0.8090169943749475,
+        "group": "apsc"
     },
     {
         "name": "APSC 261",
@@ -235,7 +282,10 @@
         "desc": "The course deals with the influence of technology on the social, political, economic, and environmental aspects of society. The specific subject matter varies from year to year. Examples of subjects considered include, resources, energy, nuclear power, technology, the effects of technology on the family, education, agriculture, international policy and others. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.6691306063588579,
+        "y": 0.7431448254773945,
+        "group": "apsc"
     },
     {
         "name": "APSC 262",
@@ -244,7 +294,10 @@
         "desc": "The course deals with the influence of technology on the social, political, economic and environmental aspects of society. The subject matter varies from year to year and differs from APSC 261. It may be taken as a continuation of APSC 261 or taken independently. Examples of subjects considered include pollution, work place health hazards, social impact of computers, problem solving, green revolution, technology and the third world, engineering ethics and others. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.743144825477394,
+        "y": 0.6691306063588583,
+        "group": "apsc"
     },
     {
         "name": "APSC 263",
@@ -253,7 +306,10 @@
         "desc": "Environmental, economic, political, and social aspects of appropriate technologies in the developing world. Appropriate technology and infrastructure, trade and finance, transportation, energy, water access, communication, health, and gender. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8090169943749473,
+        "y": 0.5877852522924732,
+        "group": "apsc"
     },
     {
         "name": "APSC 278",
@@ -262,7 +318,10 @@
         "desc": "Atomic bonding; crystal structures and imperfections; properties of metals, ceramics, polymers, wood, concrete and fibre composite materials; selection of materials; corrosion; mechanical testing and heat treatment. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8660254037844387,
+        "y": 0.49999999999999994,
+        "group": "apsc"
     },
     {
         "name": "APSC 279",
@@ -275,7 +334,10 @@
         "prereqs": [
             "APSC 278"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.913545457642601,
+        "y": 0.40673664307580004,
+        "group": "apsc"
     },
     {
         "name": "APSC 310",
@@ -284,7 +346,10 @@
         "desc": "Supervised, technical work integrated learning experience in a public or private organization for a minimum of three months. Formal co-op assignments required. Restricted to students meeting the requirements of the Faculty of Applied Science and the Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9510565162951535,
+        "y": 0.3090169943749475,
+        "group": "apsc"
     },
     {
         "name": "APSC 311",
@@ -293,7 +358,10 @@
         "desc": "Supervised, technical work integrated learning experience in a public or private organization for a minimum of three months. Formal co-op assignments required. Restricted to students meeting the requirements of the Faculty of Applied Science and the Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9781476007338057,
+        "y": 0.20791169081775931,
+        "group": "apsc"
     },
     {
         "name": "APSC 312",
@@ -302,7 +370,10 @@
         "desc": "Supervised, technical work integrated learning experience in a public or private organization for a minimum of three months. Formal co-op assignments required. Restricted to students meeting the requirements of the Faculty of Applied Science and the Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9945218953682734,
+        "y": 0.10452846326765329,
+        "group": "apsc"
     },
     {
         "name": "APSC 331",
@@ -311,7 +382,10 @@
         "desc": "Intermediate level engineering design project involving material in the curriculum of the Integrated Engineering program. For students in the Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. [1-4-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -1.0,
+        "y": 5.66553889764798e-16,
+        "group": "apsc"
     },
     {
         "name": "APSC 332",
@@ -319,10 +393,11 @@
         "credits": 3,
         "desc": "Intermediate level engineering design project involving material in the curriculum of the Integrated Engineering program. For students in the Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. [1-4-0]\nPrerequisite: APSC 331.\n",
         "coreqs": [],
-        "prereqs": [
-            "APSC 331"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9945218953682734,
+        "y": -0.10452846326765305,
+        "group": "apsc"
     },
     {
         "name": "APSC 364",
@@ -331,7 +406,10 @@
         "desc": "The role and function of common infrastructures, and the impact of various technological solutions on people, the economy, and the environment. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: Third-year standing.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9781476007338057,
+        "y": -0.20791169081775907,
+        "group": "apsc"
     },
     {
         "name": "APSC 366",
@@ -340,7 +418,10 @@
         "desc": "An introduction to engineering for the non-specialist. A case-studies approach includes examples from sustainability-related technology, consumer products, structures, and energy conversion. [3-0-1]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9510565162951536,
+        "y": -0.3090169943749473,
+        "group": "apsc"
     },
     {
         "name": "APSC 367",
@@ -349,7 +430,10 @@
         "desc": "An interdisciplinary study of best practice, politics, and ethics associated with technical solutions to humanitarian assistance within Canada and abroad; examines policies used in aid and development contexts with emphasis on the application of engineering. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: Restricted to students with a Major, Combined Major, Honours, Honours with, or Minor specialization in Political Science or International Relations, or at least 3rd year standing in any BASc program.\nEquivalency: POLI 371.\r\n\t",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9135454576426009,
+        "y": -0.4067366430758002,
+        "group": "apsc"
     },
     {
         "name": "APSC 377",
@@ -358,7 +442,10 @@
         "desc": "The evolution and contemporary significance of nuclear weapons and arms control policy and technology from the perspective of the physical and life sciences and the social sciences and humanities. \nPrerequisite: Third-year standing in B.A. or B.Sc. programs, or second-year standing in B.A.Sc. program.\nEquivalency: POLI 377.\r\n\t",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8660254037844388,
+        "y": -0.4999999999999997,
+        "group": "apsc"
     },
     {
         "name": "APSC 380",
@@ -367,7 +454,10 @@
         "desc": "An introductory course intended for potential users of microcomputers in real time or non-computational engineering applications. Topics include: perspective on applications and costs; basic microcomputer hardware; principles of microcomputer operation; introduction to microcomputer programming and software design tools; input-output devices including transducers, analog-to-digital converters, digital-to-analog converters; input-output methods and interface characteristics; selected case studies such as direct digital controllers and sensor-based systems. Limited enrolment. Restricted to engineering students not taking Electrical or Computer Engineering. This course is not eligible for Credit/D/Fail grading. [2-3*-2*]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8090169943749476,
+        "y": -0.587785252292473,
+        "group": "apsc"
     },
     {
         "name": "APSC 383",
@@ -376,7 +466,10 @@
         "desc": "Systematic approach and use of tools for prototyping.  Using software, electronics, and physical components for practical advancement of initiatives in innovation, product development market identification, and problem solving. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.7431448254773942,
+        "y": -0.6691306063588582,
+        "group": "apsc"
     },
     {
         "name": "APSC 402",
@@ -385,7 +478,10 @@
         "desc": "Multi-disciplinary course in which students, individually and in groups, examine, integrate and apply subject-specific knowledge through the lens of language and the framework of the language sciences, with a focus on themes of real-world importance. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: Fourth-year standing or permission of the instructor.\nEquivalency: ASTU 402, FRST 402, LFS 402, LLED 402, PHAR 402..\r\n\t",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.6691306063588585,
+        "y": -0.743144825477394,
+        "group": "apsc"
     },
     {
         "name": "APSC 410",
@@ -394,7 +490,10 @@
         "desc": "Supervised, technical work integrated learning experience in a public or private organization for a minimum of three months. Formal co-op assignments required. Restricted to students meeting the requirements of the Faculty of Applied Science and the Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.5877852522924732,
+        "y": -0.8090169943749473,
+        "group": "apsc"
     },
     {
         "name": "APSC 411",
@@ -403,7 +502,10 @@
         "desc": "Supervised, technical work integrated learning experience in a public or private organization for a minimum of three months. Formal co-op assignments required. Restricted to students meeting the requirements of the Faculty of Applied Science and the Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.5000000000000004,
+        "y": -0.8660254037844384,
+        "group": "apsc"
     },
     {
         "name": "APSC 412",
@@ -412,7 +514,10 @@
         "desc": "Supervised, technical work integrated learning experience in a public or private organization for a minimum of three months. Formal co-op assignments required. Restricted to students meeting the requirements of the Faculty of Applied Science and the Co-operative Education Program. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.4067366430758009,
+        "y": -0.9135454576426005,
+        "group": "apsc"
     },
     {
         "name": "APSC 440",
@@ -421,7 +526,10 @@
         "desc": "Management topics are presented from the perspective of technology-based industrial practice; project management, marketing and marketing planning, product development and commercialization, introduction to quality management, teamwork and effective individual participation. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: Fourth-year standing in Engineering.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.30901699437494756,
+        "y": -0.9510565162951535,
+        "group": "apsc"
     },
     {
         "name": "APSC 450",
@@ -430,7 +538,10 @@
         "desc": "Legislation affecting the practice of engineering; ethical principles and responsibilities. Management of engineering enterprises; labour relations, safety and environmental legislation. Restricted to engineering undergraduate students in the final year of their program. This course is not eligible for Credit/D/Fail grading. [2-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.2079116908177598,
+        "y": -0.9781476007338056,
+        "group": "apsc"
     },
     {
         "name": "APSC 461",
@@ -439,7 +550,10 @@
         "desc": "Introduction to concepts, theory, and practice of engineering leadership, including characteristics; individual and cultural differences, service and management contexts; managing change, conflicts, and crises; real-world ethics and core values. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: Completion of third year.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.10452846326765423,
+        "y": -0.9945218953682733,
+        "group": "apsc"
     },
     {
         "name": "APSC 462",
@@ -447,10 +561,11 @@
         "credits": 3,
         "desc": "International service learning (ISL) placement in which concepts, theory, and practice of engineering leadership are applied by working with a community organization on appropriate technology projects. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: APSC 461 and registration with the Go Global ISL program and successful completion of Go Global program requirements.\n",
         "coreqs": [],
-        "prereqs": [
-            "APSC 461"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -1.8369701987210297e-16,
+        "y": -1.0,
+        "group": "apsc"
     },
     {
         "name": "APSC 486",
@@ -459,7 +574,10 @@
         "desc": "Teams comprising students in APSC 486 and COMM 486 create a business plan and a prototype or engineering solution of a novel product, process, or process component. This course is not eligible for Credit/D/Fail grading. [1-4-0; 1-4-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.10452846326765299,
+        "y": -0.9945218953682734,
+        "group": "apsc"
     },
     {
         "name": "APSC 496",
@@ -468,7 +586,10 @@
         "desc": "Projects involving students from several departments. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.20791169081775943,
+        "y": -0.9781476007338056,
+        "group": "apsc"
     },
     {
         "name": "APSC 498",
@@ -477,7 +598,10 @@
         "desc": "Requires approval of a Department Head or Program Director. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.30901699437494723,
+        "y": -0.9510565162951536,
+        "group": "apsc"
     },
     {
         "name": "APSC 510",
@@ -486,7 +610,10 @@
         "desc": "Work in a technological setting on commercial and managerial aspects of an industrial project. A required internship to be taken at the end of the first year of the M.Eng. (Advanced Technology Management) program. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.40673664307579976,
+        "y": -0.9135454576426011,
+        "group": "apsc"
     },
     {
         "name": "APSC 511",
@@ -495,7 +622,10 @@
         "desc": "Student reports on internship, guest speakers from industry, preparation of group projects, joint study of industrial reports. Required of students enrolled in the M.Eng. (Advanced Technology Management) program. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.5000000000000001,
+        "y": -0.8660254037844386,
+        "group": "apsc"
     },
     {
         "name": "APSC 512",
@@ -504,7 +634,10 @@
         "desc": "Nature of knowledge and intellectual property. Value creation through knowledge and competitive advantage of knowledge. Copyrights, patents, trademarks, and licenses. Negotiation of deals and contracts involving knowledge and technology transfer or commercialization. Market assessments and valuations. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.5877852522924729,
+        "y": -0.8090169943749476,
+        "group": "apsc"
     },
     {
         "name": "APSC 520",
@@ -513,7 +646,10 @@
         "desc": "Supervised, technical paid work experience with a public or private organization for a minimum of 12 weeks full-time. Co-op assignment(s) required. Restricted to graduate degree students meeting requirement(s) of the Faculty of Applied Science and the Co-operative Education program. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.6691306063588585,
+        "y": -0.743144825477394,
+        "group": "apsc"
     },
     {
         "name": "APSC 521",
@@ -522,7 +658,10 @@
         "desc": "Supervised, technical paid work experience with a public or private organization for a minimum of 12 weeks full-time. Co-op assignment(s) required. Restricted to graduate degree students meeting requirement(s) of the Faculty of Applied Science and the Co-operative Education program. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7431448254773942,
+        "y": -0.6691306063588581,
+        "group": "apsc"
     },
     {
         "name": "APSC 522",
@@ -531,7 +670,10 @@
         "desc": "Supervised, technical paid work experience with a public or private organization for a minimum of 12 weeks full-time. Co-op assignment(s) required. Restricted to graduate degree students meeting requirement(s) of the Faculty of Applied Science and the Co-operative Education program. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8090169943749473,
+        "y": -0.5877852522924734,
+        "group": "apsc"
     },
     {
         "name": "APSC 540",
@@ -540,7 +682,10 @@
         "desc": "Issues and case studies in creating and running ventures, with a particular emphasis on exploring applied science projects through a new venture lens, strategic planning, finance and risk. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8660254037844388,
+        "y": -0.49999999999999967,
+        "group": "apsc"
     },
     {
         "name": "APSC 541",
@@ -549,7 +694,10 @@
         "desc": "A broad introduction to the entrepreneurial process, for engineers who would like to form or grow a technology company, and those with a general interest in the field. Key factors of new venture creation are identified and evaluated. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.913545457642601,
+        "y": -0.40673664307580015,
+        "group": "apsc"
     },
     {
         "name": "APSC 542",
@@ -558,7 +706,10 @@
         "desc": "The meaning of and process of leading; tools for self, team and societal leadership. Character attributes, purposeful behaviors, strategies for enhancing personal performance, establishing effective teams, and transformational societal change. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9510565162951535,
+        "y": -0.3090169943749476,
+        "group": "apsc"
     },
     {
         "name": "APSC 597",
@@ -567,7 +718,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9781476007338057,
+        "y": -0.20791169081775898,
+        "group": "apsc"
     },
     {
         "name": "APSC 598",
@@ -576,6 +730,9 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9945218953682733,
+        "y": -0.10452846326765342,
+        "group": "apsc"
     }
 ]

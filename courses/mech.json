@@ -8,21 +8,12 @@
             "MECH 221"
         ],
         "prereqs": [
-            "APSC 160",
-            "MATH 101",
-            "MATH 152",
-            "PHYS 158",
-            "PHYS 170",
-            "APSC 100",
-            "APSC 150",
-            "APSC 151",
-            "BMEG 102",
-            "PHYS 159",
-            "APSC 176",
-            "ENGL 112",
-            "WRDS 150"
+            "MECH 221"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 1.0,
+        "y": 0.0,
+        "group": "mech"
     },
     {
         "name": "MECH 221",
@@ -34,17 +25,13 @@
             "MECH 224"
         ],
         "prereqs": [
-            "MATH 101",
-            "MATH 152",
-            "PHYS 158",
-            "PHYS 170",
-            "BMEG 102",
-            "PHYS 159",
-            "APSC 176",
-            "ENGL 112",
-            "WRDS 150"
+            "MECH 220",
+            "MECH 224"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.998507803482828,
+        "y": 0.05460921519211002,
+        "group": "mech"
     },
     {
         "name": "MECH 222",
@@ -56,10 +43,13 @@
             "MECH 225"
         ],
         "prereqs": [
-            "MECH 220",
-            "MECH 221"
+            "MECH 223",
+            "MECH 225"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9940356672322036,
+        "y": 0.10905545502278971,
+        "group": "mech"
     },
     {
         "name": "MECH 223",
@@ -70,10 +60,12 @@
             "MECH 222"
         ],
         "prereqs": [
-            "MECH 220",
-            "MECH 221"
+            "MECH 222"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.986596937860402,
+        "y": 0.16317623051314215,
+        "group": "mech"
     },
     {
         "name": "MECH 224",
@@ -84,7 +76,10 @@
             "MECH 221"
         ],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9762138154595446,
+        "y": 0.21681002399778068,
+        "group": "mech"
     },
     {
         "name": "MECH 225",
@@ -95,7 +90,10 @@
             "MECH 222"
         ],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9629172873477992,
+        "y": 0.2697967711570243,
+        "group": "mech"
     },
     {
         "name": "MECH 226",
@@ -111,11 +109,17 @@
             "MECH 225"
         ],
         "prereqs": [
-            "ENGL 112",
-            "WRDS 150",
-            "APSC 176"
+            "MECH 220",
+            "MECH 221",
+            "MECH 222",
+            "MECH 223",
+            "MECH 224",
+            "MECH 225"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9467470355910438,
+        "y": 0.3219783387117383,
+        "group": "mech"
     },
     {
         "name": "MECH 227",
@@ -123,13 +127,11 @@
         "credits": 5,
         "desc": "Written and oral communication. Preparation of design, business correspondence, verbal, online and visual presentation of technical material. Focus on the linguistic structure and style of technical communication. Restricted to students in Mechanical Engineering. Credit will be granted for only one of MECH 226 or MECH 227. This course is not eligible for Credit/D/Fail grading. [3-0-4]\nPrerequisite: MECH 220 and one of APSC 176, ENGL 112, WRDS 150.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 220",
-            "APSC 176",
-            "ENGL 112",
-            "WRDS 150"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.9277513185759845,
+        "y": 0.3731989963551914,
+        "group": "mech"
     },
     {
         "name": "MECH 230",
@@ -140,21 +142,12 @@
             "MECH 221"
         ],
         "prereqs": [
-            "APSC 160",
-            "MATH 101",
-            "MATH 152",
-            "PHYS 158",
-            "PHYS 170",
-            "APSC 100",
-            "APSC 150",
-            "APSC 151",
-            "BMEG 102",
-            "PHYS 159",
-            "APSC 176",
-            "ENGL 112",
-            "WRDS 150"
+            "MECH 221"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9059868269881636,
+        "y": 0.4233058815134978,
+        "group": "mech"
     },
     {
         "name": "MECH 231",
@@ -162,10 +155,11 @@
         "credits": 2,
         "desc": "Machine shop practice, electronic circuit construction and troubleshooting. This course is not eligible for Credit/D/Fail grading. [0-2-2]\nPrerequisite: MECH 230.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 230"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.8815185146246717,
+        "y": 0.4721494555476185,
+        "group": "mech"
     },
     {
         "name": "MECH 232",
@@ -176,21 +170,12 @@
             "MECH 221"
         ],
         "prereqs": [
-            "APSC 160",
-            "MATH 101",
-            "MATH 152",
-            "PHYS 158",
-            "PHYS 170",
-            "APSC 100",
-            "APSC 150",
-            "APSC 151",
-            "BMEG 102",
-            "PHYS 159",
-            "APSC 176",
-            "ENGL 112",
-            "WRDS 150"
+            "MECH 221"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8544194045464886,
+        "y": 0.5195839500354336,
+        "group": "mech"
     },
     {
         "name": "MECH 233",
@@ -198,10 +183,11 @@
         "credits": 5,
         "desc": "Intermediate design methodology, synthesis and analysis. Design project representing mechanical mechanism design and thermofluid systems. [1-8-0]\nPrerequisite: MECH 232.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 232"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.8247703711489686,
+        "y": 0.5654678018020058,
+        "group": "mech"
     },
     {
         "name": "MECH 234",
@@ -209,10 +195,11 @@
         "credits": 1,
         "desc": "Electronic circuit construction and troubleshooting. This course is not eligible for Credit/D/Fail grading. [0-1-1]\nPrerequisite: MECH 230.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 230"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.7926598988008583,
+        "y": 0.6096640753997344,
+        "group": "mech"
     },
     {
         "name": "MECH 235",
@@ -220,10 +207,11 @@
         "credits": 1,
         "desc": "Machine shop practice. This course is not eligible for Credit/D/Fail grading. [0-1-1]\nPrerequisite: MECH 234.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 234"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.7581838177721628,
+        "y": 0.6520408717775503,
+        "group": "mech"
     },
     {
         "name": "MECH 260",
@@ -231,14 +219,11 @@
         "credits": 3,
         "desc": "Statically determinate frames and trusses; normal and shear stresses and strains; shear force and bending moment diagrams; theory of beam bending, torsion of circular rods; transformation of stress and strain in two and three dimensions, Mohr's circle; yield and ultimate failure criteria. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: Either (a) all of MATH 101, PHYS 170 or (b) all of APSC 172, APSC 173, APSC 180.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 101",
-            "PHYS 170",
-            "APSC 172",
-            "APSC 173",
-            "APSC 180"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.7214450182389557,
+        "y": 0.6924717219195257,
+        "group": "mech"
     },
     {
         "name": "MECH 280",
@@ -246,20 +231,11 @@
         "credits": 3,
         "desc": "Fluid properties; statics; kinematics, dynamics, energy, and momentum principles for control volumes; dimensional analysis and similarity; laminar and turbulent flow; pipe flow; principles of centrifugal pumps. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: All of MATH 152, PHYS 170 and one of MATH 217, MATH 253;  and either (a) PHYS 131 and one of PHYS 108, PHYS 118;  or (b) PHYS 153 or (c) all of PHYS 157, PHYS 158, PHYS 159.\n",
         "coreqs": [],
-        "prereqs": [
-            "MATH 152",
-            "PHYS 170",
-            "MATH 217",
-            "MATH 253",
-            "PHYS 131",
-            "PHYS 108",
-            "PHYS 118",
-            "PHYS 153",
-            "PHYS 157",
-            "PHYS 158",
-            "PHYS 159"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.6825531432186541,
+        "y": 0.730835964278124,
+        "group": "mech"
     },
     {
         "name": "MECH 305",
@@ -267,13 +243,11 @@
         "credits": 6,
         "desc": "The use of probability and statistical methods for engineering applications. Mechanics of materials, heat transfer, and fluid dynamics. Instrumentation, data acquisition, and data manipulation using modern computational tools. This course is not eligible for Credit/D/Fail grading. [3-5-1*]\nPrerequisite: All of MECH 220, MECH 223, MECH 224, MECH 225.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 220",
-            "MECH 223",
-            "MECH 224",
-            "MECH 225"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.6416242613521611,
+        "y": 0.7670191048756828,
+        "group": "mech"
     },
     {
         "name": "MECH 306",
@@ -281,13 +255,11 @@
         "credits": 4,
         "desc": "The use of probability and statistical methods for engineering applications. Mechanics of materials and heat transfer. Instrumentation, data acquisition, and data manipulation using modern computational tools. Common mechanical devices. For students in the Mechatronics Option only. This course is not eligible for Credit/D/Fail grading. [3-3*-1*]\nPrerequisite: All of MECH 220, MECH 223, MECH 224, MECH 225.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 220",
-            "MECH 223",
-            "MECH 224",
-            "MECH 225"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.5987805205094225,
+        "y": 0.8009131589994417,
+        "group": "mech"
     },
     {
         "name": "MECH 325",
@@ -298,10 +270,12 @@
             "MECH 360"
         ],
         "prereqs": [
-            "MECH 223",
-            "MECH 260"
+            "MECH 360"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.5541497832521748,
+        "y": 0.8324169734703681,
+        "group": "mech"
     },
     {
         "name": "MECH 327",
@@ -309,15 +283,11 @@
         "credits": 3,
         "desc": "Air standard and vapor cycles; first and second law of cycles. Exergy. Gas mixtures.  Energy conservation. Equilibrium. Reacting systems. Application to thermofluid systems such as power plants. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: Either (a) MECH 225 or (b) one of CHBE 241, ENPH 257 and one of CHBE 251, CIVL 215, MECH 280.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 225",
-            "CHBE 241",
-            "ENPH 257",
-            "CHBE 251",
-            "CIVL 215",
-            "MECH 280"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.507865245241806,
+        "y": 0.861436528524,
+        "group": "mech"
     },
     {
         "name": "MECH 328",
@@ -325,10 +295,11 @@
         "credits": 3,
         "desc": "Applying the design process, making educated assumptions and decisions, and working in teams to provide a new mechanical design. Weekly lecture discussing product development and various factors affecting the design. This course is not eligible for Credit/D/Fail grading. [1-4-1]\nPrerequisite: MECH 223. (And third year standing in Mechanical Engineering)\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 223"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.4600650377311522,
+        "y": 0.8878852184023752,
+        "group": "mech"
     },
     {
         "name": "MECH 329",
@@ -336,12 +307,11 @@
         "credits": 3,
         "desc": "Selection of material properties for mechanical design. Metals and alloys, ceramics, polymers, composites and other hybrid materials. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: Either (a) MECH 224 or (b) all of APSC 278, MECH 260.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 224",
-            "APSC 278",
-            "MECH 260"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.4108918153265481,
+        "y": 0.9116841098196534,
+        "group": "mech"
     },
     {
         "name": "MECH 358",
@@ -349,11 +319,11 @@
         "credits": 3,
         "desc": "Fourier series; auto- and cross-correlation; power spectra; discrete Fourier transform; boundary-value problems; numerical methods; partial differential equations; heat, wave, Laplace, Poisson, and wave equations.  Applications to mechanical engineering and practical computing emphasized.  Credit will be granted for only one of MECH 358 and MATH 358. This course is not eligible for Credit/D/Fail grading. [3-1-0]\nPrerequisite: All of MECH 224, MECH 225.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 224",
-            "MECH 225"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.3604923302504149,
+        "y": 0.9327621775300635,
+        "group": "mech"
     },
     {
         "name": "MECH 360",
@@ -361,11 +331,11 @@
         "credits": 3,
         "desc": "Beam deflections, singularity functions; use of tabulated solutions; column buckling; Castigliano's theorem, statically indeterminate beams, bending of beams with asymmetric cross-sections, shear centre; principal stresses and stress invariants in three dimensions. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: One of MECH 224, MECH 260.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 224",
-            "MECH 260"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.30901699437494745,
+        "y": 0.9510565162951535,
+        "group": "mech"
     },
     {
         "name": "MECH 366",
@@ -373,13 +343,11 @@
         "credits": 3,
         "desc": "Modelling of mechanical, electrical, thermal, fluid elements and mixed mechatronic systems. Signal processing, signal conditioning. Sensors, data acquisition systems, actuators. This course is not eligible for Credit/D/Fail grading. [2-2-0]\nPrerequisite: All of MECH 220, MECH 223, MECH 224, MECH 225.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 220",
-            "MECH 223",
-            "MECH 224",
-            "MECH 225"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.2566194303339737,
+        "y": 0.9665125286177447,
+        "group": "mech"
     },
     {
         "name": "MECH 368",
@@ -387,17 +355,11 @@
         "credits": 3,
         "desc": "Industrial measurement needs including: architecture of electronic instrumentation systems; electrical representation of physical quantities; sensors and actuators; analog signal processing using linear and non-linear circuits; computer based readout including programming for user-interface and data acquisition. This course is not eligible for Credit/D/Fail grading. [2-2-1]\nPrerequisite: Either (a) two of MECH 220, MECH 224, ELEC 203 or (b) two of MECH 220, MECH 224, EECE 263 or (c) all of MANU 230, ELEC 203.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 220",
-            "MECH 224",
-            "ELEC 203",
-            "MECH 220",
-            "MECH 224",
-            "EECE 263",
-            "MANU 230",
-            "ELEC 203"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.20345601305263375,
+        "y": 0.9790840876823229,
+        "group": "mech"
     },
     {
         "name": "MECH 375",
@@ -405,16 +367,11 @@
         "credits": 3,
         "desc": "Steady and transient conduction. Radiation heat transfer. Convective heat and mass transfer in pipes and from external surfaces. Design of heat exchangers. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: Either (a) MECH 225 or (b) one of CHBE 241, ENPH 257, PHYS 203 and one of CHBE 251, CIVL 215, MECH 280.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 225",
-            "CHBE 241",
-            "ENPH 257",
-            "PHYS 203",
-            "CHBE 251",
-            "CIVL 215",
-            "MECH 280"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.1496854030631443,
+        "y": 0.9887336750155847,
+        "group": "mech"
     },
     {
         "name": "MECH 380",
@@ -422,17 +379,11 @@
         "credits": 3,
         "desc": "Review of principles, compressible flow, potential flow, simple laminar viscous flow, boundary layers, flow around bluff bodies. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: Either (a) MECH 225 or (b) MATH 255 and one of CHBE 251, CIVL 215, MECH 280 and one of CHBE 241, ENPH 257, PHYS 203.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 225",
-            "MATH 255",
-            "CHBE 251",
-            "CIVL 215",
-            "MECH 280",
-            "CHBE 241",
-            "ENPH 257",
-            "PHYS 203"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.09546807299941021,
+        "y": 0.9954324924563088,
+        "group": "mech"
     },
     {
         "name": "MECH 386",
@@ -440,10 +391,11 @@
         "credits": 3,
         "desc": "Analysis of piping networks. Review of pumps, turbines and hydraulic motors. Flow measurement devices such as flow meters and transducers for measuring velocity and pressure. Multiphase flows. Introduction to turbulence, mixing and buoyancy driven flows. This course is not eligible for Credit/D/Fail grading. [3-1-0]\nPrerequisite: MECH 380.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 380"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.04096582868361421,
+        "y": 0.9991605481003865,
+        "group": "mech"
     },
     {
         "name": "MECH 392",
@@ -452,7 +404,10 @@
         "desc": "Manufacturing characteristics of materials and their control. Metal forming processes, plastic deformations, rolling, forging, drawing, extrusion, sheet metal forming. Machining processes and machine tools, turning, milling, drilling, grinding. Metal fabrication, welding and casting. An introduction to process planning. This course is not eligible for Credit/D/Fail grading. [2-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.013658673765951078,
+        "y": 0.9999067159645221,
+        "group": "mech"
     },
     {
         "name": "MECH 400",
@@ -461,7 +416,10 @@
         "desc": "Professionalism, ethical frameworks, decolonization, equity, diversity, inclusion, law. Obligations of the engineer. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: Fourth-year standing in B.A.Sc.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.06824241336467088,
+        "y": 0.9976687691905392,
+        "group": "mech"
     },
     {
         "name": "MECH 410",
@@ -470,7 +428,10 @@
         "desc": "Lectures and readings on specialized topics of current interest in Mechanical Engineering. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.12262249078029834,
+        "y": 0.9924533866912015,
+        "group": "mech"
     },
     {
         "name": "MECH 420",
@@ -478,14 +439,11 @@
         "credits": 3,
         "desc": "Measurement of motion, stress, force, torque, temperature, flow and pressure; principles of sensors and signal conditioning methods; selection and sizing of actuators. This course is not eligible for Credit/D/Fail grading. [2-2-0]\nPrerequisite: All of MECH 360, MECH 463, MECH 366 and one of ELEC 343, EECE 376.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 360",
-            "MECH 463",
-            "MECH 366",
-            "ELEC 343",
-            "EECE 376"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.17663661448858736,
+        "y": 0.9842761332177115,
+        "group": "mech"
     },
     {
         "name": "MECH 421",
@@ -496,9 +454,12 @@
             "MECH 420"
         ],
         "prereqs": [
-            "MECH 366"
+            "MECH 420"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.23012358511498635,
+        "y": 0.9731614129083754,
+        "group": "mech"
     },
     {
         "name": "MECH 422",
@@ -506,15 +467,11 @@
         "credits": 3,
         "desc": "Fundamentals of MEMS (MicroElectroMechanical Systems). Microfabrication of MEMS with solid-state technology. LIGA and micro injection molding. Physics of MEMS. Operational principles of various MEMS devices. This course is not eligible for Credit/D/Fail grading. [3-1-0]\nPrerequisite: One of ELEC 302, EECE 363, ELEC 344, EECE 365 and all of MECH 360, MECH 463.\n",
         "coreqs": [],
-        "prereqs": [
-            "ELEC 302",
-            "EECE 363",
-            "ELEC 344",
-            "EECE 365",
-            "MECH 360",
-            "MECH 463"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.28292377651693007,
+        "y": 0.9591423964570632,
+        "group": "mech"
     },
     {
         "name": "MECH 423",
@@ -525,11 +482,12 @@
             "CPEN 333"
         ],
         "prereqs": [
-            "MECH 366",
-            "ELEC 302",
-            "CPEN 312"
+            "CPEN 333"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.33487961217098594,
+        "y": 0.9422609221188206,
+        "group": "mech"
     },
     {
         "name": "MECH 426",
@@ -540,10 +498,12 @@
             "MECH 360"
         ],
         "prereqs": [
-            "MECH 223",
-            "MECH 260"
+            "MECH 360"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.38583603544313533,
+        "y": 0.9225673708480718,
+        "group": "mech"
     },
     {
         "name": "MECH 430",
@@ -552,7 +512,10 @@
         "desc": "The use of probability and statistical methods for engineering applications. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.4356409723387091,
+        "y": 0.900120515942051,
+        "group": "mech"
     },
     {
         "name": "MECH 431",
@@ -561,7 +524,10 @@
         "desc": "Discounted cash flows. Sources of funds, cost of capital. Effects of depreciation, taxes, inflation. Evaluation and comparison of economic models for engineering projects. Replacement decisions. Public project analysis. Risk analysis. Project control, inventory analysis, simulation. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.48414578535096053,
+        "y": 0.8749873476381825,
+        "group": "mech"
     },
     {
         "name": "MECH 433",
@@ -569,15 +535,11 @@
         "credits": 3,
         "desc": "Review of principles, Navier-Stokes equations, biorheology, circulatory biofluid mechanics, synovial fluid in joints, biofluid dynamics of the human brain, respiratory biofluid mechanics, flow and pressure measurement techniques in human body. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: Either (a) MECH 225 or (b) one of MATH 255, MATH 256 and one of CHBE 251, CIVL 215, MECH 280.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 225",
-            "MATH 255",
-            "MATH 256",
-            "CHBE 251",
-            "CIVL 215",
-            "MECH 280"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.5312057170538032,
+        "y": 0.8472428731888837,
+        "group": "mech"
     },
     {
         "name": "MECH 435",
@@ -585,12 +547,11 @@
         "credits": 3,
         "desc": "Musculoskeletal anatomy. Muscle and joint loads. Muscle mechanics. Musculoskeletal dynamics. Gait. Tissue mechanics of tendon, ligament, articular cartilage, and bone. Biomaterials. Application examples in orthopaedics including joint replacement and fracture fixation. Students who have received credit for BMEG 230 or 330 cannot also receive credit for MECH 435. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: Either (a) MECH 221 or (b) all of APSC 278, MECH 260.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 221",
-            "APSC 278",
-            "MECH 260"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.5766803221148671,
+        "y": 0.8169698930104421,
+        "group": "mech"
     },
     {
         "name": "MECH 436",
@@ -598,12 +559,11 @@
         "credits": 3,
         "desc": "Introduction to injury biomechanics. Anatomy. Impact experiments. Multi-body dynamic simulation and finite element analysis. Skull, face, brain, spine, eye, pelvis, abdomen, and extremity injury. Anthropomorphic test devices, seat belts, airbags, child restraints, and helmets. Credit cannot be obtained for both MECH 436 and MECH 536. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: MECH 360 and one of MECH 224, BMEG 330.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 360",
-            "MECH 224",
-            "BMEG 330"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.6204338864395677,
+        "y": 0.7842587535740316,
+        "group": "mech"
     },
     {
         "name": "MECH 439",
@@ -612,7 +572,10 @@
         "desc": "Seminar in Biomechanics research. This course is not eligible for Credit/D/Fail grading. [1-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.6623358321953078,
+        "y": 0.7492070777763309,
+        "group": "mech"
     },
     {
         "name": "MECH 445",
@@ -620,11 +583,11 @@
         "credits": 3,
         "desc": "Energy system architecture and electrochemical energy conversion: fuel cell thermodynamics and electrochemistry; Proton Exchange Membrane Fuel Cells (PMFCs) and Solid Oxide Fuel Cells (SOFCSs); hydrogen production, storage, and distribution. Credit cannot be obtained for both MECH 445 and MECH 577. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: All of MECH 327, MECH 375.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 327",
-            "MECH 375"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.7022611075070471,
+        "y": 0.7119194735944337,
+        "group": "mech"
     },
     {
         "name": "MECH 453",
@@ -632,12 +595,11 @@
         "credits": 6,
         "desc": "A capstone course to provide students experience in the design/development of practical mechanical and aerospace devices. Projects are provided by local industry and engineering research laboratories. Credit will be granted for only one of MECH 453, MECH 454, MECH 457, MECH 458, MECH 459, or APSC 496. This course is not eligible for Credit/D/Fail grading. [1-2-2; 1-2-2]\nPrerequisite: All of MECH 327, MECH 328, MECH 360 and fourth-year standing in the Aerospace Option.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 327",
-            "MECH 328",
-            "MECH 360"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.7400905596612516,
+        "y": 0.6725072218945276,
+        "group": "mech"
     },
     {
         "name": "MECH 454",
@@ -645,13 +607,11 @@
         "credits": 6,
         "desc": "A capstone course to provide students experience in the design/development of practical mechanical and thermofluids devices. Projects are provided by local industry and engineering research laboratories. Credit will be granted for only one of MECH 453, MECH 454, MECH 457, MECH 458, MECH 459, or APSC 496. This course is not eligible for Credit/D/Fail grading. [1-2-2; 1-2-2]\nPrerequisite: All of MECH 325, MECH 327, MECH 328, MECH 360 and fourth-year standing in the Thermofluids Option.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 325",
-            "MECH 327",
-            "MECH 328",
-            "MECH 360"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.7757112907044197,
+        "y": 0.631087944326053,
+        "group": "mech"
     },
     {
         "name": "MECH 457",
@@ -663,12 +623,13 @@
             "MECH 426"
         ],
         "prereqs": [
-            "MECH 325",
-            "MECH 328",
-            "MECH 329",
-            "MECH 360"
+            "MECH 327",
+            "MECH 426"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8090169943749473,
+        "y": 0.5877852522924732,
+        "group": "mech"
     },
     {
         "name": "MECH 458",
@@ -676,12 +637,11 @@
         "credits": 6,
         "desc": "A capstone design program designed to give students experience in the design/development of practical mechanical and mechatronics devices. Projects are provided by local industry and engineering research laboratories. Credit will be granted for only one of MECH 453, MECH 454, MECH 457, MECH 458, MECH 459, or APSC 496. This course is not eligible for Credit/D/Fail grading. [1-2-2; 1-2-2]\nPrerequisite: All of MECH 325, MECH 328, MECH 360 and fourth-year standing in the Mechatronics Option.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 325",
-            "MECH 328",
-            "MECH 360"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.8399082733627965,
+        "y": 0.5427283780462616,
+        "group": "mech"
     },
     {
         "name": "MECH 459",
@@ -692,11 +652,12 @@
             "MECH 426"
         ],
         "prereqs": [
-            "MECH 325",
-            "MECH 328",
-            "MECH 360"
+            "MECH 426"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8682929359501336,
+        "y": 0.49605178900906827,
+        "group": "mech"
     },
     {
         "name": "MECH 460",
@@ -704,10 +665,11 @@
         "credits": 3,
         "desc": "Axisymmetric membrane stresses in thin shells of revolution, stresses in thick-walled cylinders and rotating disks, beams on elastic foundations, axisymmetric bending of cylindrical shells, axisymmetric bending of circular plates. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: MECH 360.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 360"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.8940862711476512,
+        "y": 0.447894786468082,
+        "group": "mech"
     },
     {
         "name": "MECH 462",
@@ -715,13 +677,11 @@
         "credits": 3,
         "desc": "Theory and element selection. Virtual work and weighted residual formulation. Linear elastic analysis. Heat transfer analysis. Isoparametic elements. Development of computer programs for simple problems. Utilization of existing computer packages. Application to mechanical engineering problems. This course is not eligible for Credit/D/Fail grading. [2-3*-0]\nPrerequisite: Either (a) all of MECH 360, MECH 375 or (b) all of MECH 360, MTRL 264.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 360",
-            "MECH 375",
-            "MECH 360",
-            "MTRL 264"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.917211301505453,
+        "y": 0.3984010898462414,
+        "group": "mech"
     },
     {
         "name": "MECH 463",
@@ -729,11 +689,11 @@
         "credits": 4,
         "desc": "Theory of vibration of mechanical systems. Undamped 1 degree of freedom vibration, forced vibrations and resonance, damping, multiple degree of freedom systems, mode shapes and orthogonality, continuous systems, vibration measuring instruments and frequency spectrum analysis. This course is not eligible for Credit/D/Fail grading. [3-2*-1]\nPrerequisite: One of MECH 224, MECH 260.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 224",
-            "MECH 260"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9375990128440203,
+        "y": 0.347718407786989,
+        "group": "mech"
     },
     {
         "name": "MECH 464",
@@ -745,7 +705,10 @@
             "MECH 467"
         ],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.955188560219648,
+        "y": 0.2959979973336235,
+        "group": "mech"
     },
     {
         "name": "MECH 466",
@@ -753,23 +716,11 @@
         "credits": 4,
         "desc": "Process and system characteristics; transient response; the closed loop; block diagrams and transfer functions; control actions; stability; Nyquist diagrams; Bode diagrams; root locus methods; frequency response; system compensation; nonlinear control systems; digital computer control. Laboratory experiments to support the lecture content. Credit cannot be obtained for both MECH 466 and MECH 467. This course is not eligible for Credit/D/Fail grading. [3-3*-0]\nPrerequisite: Either (a) all of MECH 220, MECH 221, MECH 463 or (b) all of MATH 255, MECH 463 and one of ELEC 201, ELEC 202, ELEC 204, EECE 251, EECE 253;  or (c) all of ELEC 204, ELEC 221, ENPH 270, MATH 255.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 220",
-            "MECH 221",
-            "MECH 463",
-            "MATH 255",
-            "MECH 463",
-            "ELEC 201",
-            "ELEC 202",
-            "ELEC 204",
-            "EECE 251",
-            "EECE 253",
-            "ELEC 204",
-            "ELEC 221",
-            "ENPH 270",
-            "MATH 255"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9699274495096712,
+        "y": 0.2433942125188357,
+        "group": "mech"
     },
     {
         "name": "MECH 467",
@@ -777,11 +728,11 @@
         "credits": 4,
         "desc": "Block diagrams and transfer functions, continuous and discrete domain transformations, feedback control system characteristics, control design in both continuous and discrete domain, absolute and relative stability, laboratory examples of Mechatronic systems design. Credit cannot be obtained for both MECH 466 and MECH 467. This course is not eligible for Credit/D/Fail grading. [3-2*-2]\nPrerequisite: One of MECH 366, MANU 386.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 366",
-            "MANU 386"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9817716940755585,
+        "y": 0.19006404371160748,
+        "group": "mech"
     },
     {
         "name": "MECH 468",
@@ -793,7 +744,10 @@
             "MECH 466"
         ],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9906859460363308,
+        "y": 0.13616664909624665,
+        "group": "mech"
     },
     {
         "name": "MECH 469",
@@ -802,7 +756,10 @@
         "desc": "Modelling of mechanical, electrical, fluid, and thermal systems; analytical models; model representations such as linear and bond graphs; response analysis; digital simulation. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9966436017605296,
+        "y": 0.08186287968181301,
+        "group": "mech"
     },
     {
         "name": "MECH 470",
@@ -810,11 +767,11 @@
         "credits": 3,
         "desc": "Energy supply and demand. Energy conversion chain. Electrical power generation using thermal power plants, renewable energy, and fuel cells. Rankine cycle steam power. Brayton cycle gas turbine power plants, intercooling, reheat, and regeneration. Internal combustion engines. Exhaust gas after treatment. Combined and binary cycles. Nuclear power. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: All of MECH 327, MECH 375.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 327",
-            "MECH 375"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9996268812619107,
+        "y": 0.027314799259486072,
+        "group": "mech"
     },
     {
         "name": "MECH 473",
@@ -822,10 +779,11 @@
         "credits": 3,
         "desc": "Principles of air conditioning; psychometrics and refrigeration. Heat transfer through building materials. Estimation of heating and cooling loads including the use of current software. System design. Ground, air and water source heat pumps. This course is not eligible for Credit/D/Fail grading. [3-0-1]\nPrerequisite: MECH 375.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 375"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9996268812619107,
+        "y": -0.027314799259485826,
+        "group": "mech"
     },
     {
         "name": "MECH 477",
@@ -833,12 +791,11 @@
         "credits": 3,
         "desc": "Cycle analysis of jet engines, thermodynamic cycles, mechanics and thermodynamics of combustion, components and the performance characteristics of chemical rockets. The detailed analysis of operating characteristics of turbojet, turbofan, turboprop, afterburning, and ramjet propulsion systems. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: All of MECH 327, MECH 375, MECH 380.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 327",
-            "MECH 375",
-            "MECH 380"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9966436017605296,
+        "y": -0.08186287968181277,
+        "group": "mech"
     },
     {
         "name": "MECH 478",
@@ -846,10 +803,11 @@
         "credits": 3,
         "desc": "Analysis of spark and compression ignition engines. Calculation of fuel economy, power, and emission. Practical and regulatory considerations in engine design. Engine emission and control systems. Credit will be granted for only one of MECH 478 or MECH 578. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: MECH 327.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 327"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9906859460363308,
+        "y": -0.1361666490962464,
+        "group": "mech"
     },
     {
         "name": "MECH 479",
@@ -857,10 +815,11 @@
         "credits": 3,
         "desc": "Techniques for numerical solution of ordinary and partial differential equations, including an introduction to the finite difference, finite volume and finite element approaches. Simulation of laminar and turbulent flows, including common turbulent models. Validation techniques. This course is not eligible for Credit/D/Fail grading. [3-1-0]\nPrerequisite: MECH 380.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 380"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9817716940755586,
+        "y": -0.19006404371160723,
+        "group": "mech"
     },
     {
         "name": "MECH 481",
@@ -868,10 +827,11 @@
         "credits": 3,
         "desc": "Analysis of airfoils and wings. Potential flow, thin airfoil theory, lifting line analysis of wings. Predicting viscous drag. Numerical methods for analysis and design of airfoils and wings. Use of wind tunnels for experimental study of aerodynamics. This course is not eligible for Credit/D/Fail grading. [3-1*-0]\nPrerequisite: MECH 380.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 380"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9699274495096712,
+        "y": -0.24339421251883545,
+        "group": "mech"
     },
     {
         "name": "MECH 484",
@@ -882,7 +842,10 @@
             "MECH 481"
         ],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.955188560219648,
+        "y": -0.29599799733362364,
+        "group": "mech"
     },
     {
         "name": "MECH 485",
@@ -891,7 +854,10 @@
         "desc": "Structural components of aircraft, introduction to the finite element method, bending and buckling of thin plates. Design of aircraft wing and fuselage structures, moments of inertia for complex shapes. This course is not eligible for Credit/D/Fail grading. [3-0-1]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9375990128440204,
+        "y": -0.34771840778698876,
+        "group": "mech"
     },
     {
         "name": "MECH 488",
@@ -899,11 +865,11 @@
         "credits": 3,
         "desc": "Ship terminology, lines plans, ship hydrostatics, transverse and longitudinal stability of ships, dimensional analysis, ship resistance prediction; ship propulsion methods, propeller selection and design. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of MECH 380, CIVL 315 or permission of instructor.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 380",
-            "CIVL 315"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.9172113015054532,
+        "y": -0.3984010898462412,
+        "group": "mech"
     },
     {
         "name": "MECH 489",
@@ -911,11 +877,11 @@
         "credits": 4,
         "desc": "Experimental uncertainty. Design of experiments. Test facilities. Temperature and pressure measurement techniques and instrumentation. Velocity and flow rate measurement techniques. Flow visualization. Case studies of industrial and research experimental practice. Credit will be granted for only one of MECH 489 or MECH 582. This course is not eligible for Credit/D/Fail grading. [3-2-0]\nPrerequisite: All of MECH 375, MECH 380.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 375",
-            "MECH 380"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.8940862711476513,
+        "y": -0.4478947864680818,
+        "group": "mech"
     },
     {
         "name": "MECH 491",
@@ -927,7 +893,10 @@
             "MANU 380"
         ],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8682929359501337,
+        "y": -0.4960517890090681,
+        "group": "mech"
     },
     {
         "name": "MECH 493",
@@ -936,7 +905,10 @@
         "desc": "Research project directed by a faculty member in Mechanical Engineeing. This course is not eligible for Credit/D/Fail grading. [0-5-1]\nPrerequisite: Fourth-year standing and at least 80% average in third-year courses and permission of instructor.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8399082733627964,
+        "y": -0.5427283780462617,
+        "group": "mech"
     },
     {
         "name": "MECH 495",
@@ -945,7 +917,10 @@
         "desc": "Organizational structure. Manufacturing systems and group technology. Classification and coding. Scheduling and sequencing of operations. Forecasting. Quality control for variables and attributes. Plant location. System reliability analysis. Advanced manufacturing automation concepts. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.8090169943749476,
+        "y": -0.587785252292473,
+        "group": "mech"
     },
     {
         "name": "MECH 496",
@@ -954,7 +929,10 @@
         "desc": "Organization structures. Management styles. Cost systems and control. Financial statements; accounting procedures. Budgets and performance control. Project management. Human resources management. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.7757112907044201,
+        "y": -0.6310879443260524,
+        "group": "mech"
     },
     {
         "name": "MECH 497",
@@ -963,7 +941,10 @@
         "desc": "Research environment, funding and dissemination systems; literature reviews and critically evaluating papers; creating research questions; research ethics, data security and research records; equity, diversity, and inclusion in research. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: Third-year standing.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.7400905596612518,
+        "y": -0.6725072218945274,
+        "group": "mech"
     },
     {
         "name": "MECH 498",
@@ -974,7 +955,10 @@
             "MECH 497"
         ],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.7022611075070473,
+        "y": -0.7119194735944336,
+        "group": "mech"
     },
     {
         "name": "MECH 500",
@@ -983,7 +967,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.662335832195308,
+        "y": -0.7492070777763307,
+        "group": "mech"
     },
     {
         "name": "MECH 501",
@@ -992,7 +979,10 @@
         "desc": "Thermodynamic principles, Maxwell relations, availability, irreversibility, and equilibrium. Introduction to statistical mechanics. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.6204338864395682,
+        "y": -0.7842587535740312,
+        "group": "mech"
     },
     {
         "name": "MECH 502",
@@ -1001,7 +991,10 @@
         "desc": "Governing equations; viscous incompressible flow, incompressible potential flow; incompressible boundary layers, stability and turbulence; compressible potential flow. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.5766803221148672,
+        "y": -0.816969893010442,
+        "group": "mech"
     },
     {
         "name": "MECH 503",
@@ -1010,7 +1003,10 @@
         "desc": "Stress and strain in three dimensions, fundamental field equations of linear elasticity; equilibrium, compatibility, Hooke's law; Papkovitch-Neuber solution, plane stress and plane strain; torsion, torsion of thin-walled members with warping restraint; plate theory. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.5312057170538034,
+        "y": -0.8472428731888836,
+        "group": "mech"
     },
     {
         "name": "MECH 506",
@@ -1019,7 +1015,10 @@
         "desc": "Transient and steady state vibration analysis of continuous and discrete mechanical systems. Lagrange's equation and Hamilton's Principle. Measurement of vibration. Machinery health monitoring. Frequency domain analysis. Experimental modal analysis. Vibration of rotating machinery. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.4841457853509603,
+        "y": -0.8749873476381826,
+        "group": "mech"
     },
     {
         "name": "MECH 507",
@@ -1028,7 +1027,10 @@
         "desc": "Newtonian mechanics; generalized co-ordinates and analytical mechanics; Lagrange equations; Hamilton's Principle; rotational motion and rigid body dynamics; Gyroscopic motion; phase space, equilibrium, and stability of motion; stability characteristics of autonomous systems; Hamilton-Jacobi method; applications. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.4356409723387097,
+        "y": -0.9001205159420507,
+        "group": "mech"
     },
     {
         "name": "MECH 509",
@@ -1037,7 +1039,10 @@
         "desc": "State space model; stability; controlability; observability; Kalman decomposition; state feedback; oberver; linear quadratic regulator; Kalman filter. Credit will be granted for only one of MECH 468 or 509. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.38583603544313577,
+        "y": -0.9225673708480716,
+        "group": "mech"
     },
     {
         "name": "MECH 512",
@@ -1046,7 +1051,10 @@
         "desc": "Operating principles of transducers for measuring typical quantities; the construction of transducers and factors controlling their measurement accuracy; electronic signal conditioning equipment and computerized data acquisition system. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.3348796121709864,
+        "y": -0.9422609221188204,
+        "group": "mech"
     },
     {
         "name": "MECH 514",
@@ -1055,7 +1063,10 @@
         "desc": "Theory and element selection.  Virtual work and weighted residual formulation.  Linear elastic analysis.  Heat transfer analysis.  Isoparametic elements.  Computer program development.  Utilization of existing computer packages.  Credit is given for one of MECH 514 and MECH 462. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.28292377651693007,
+        "y": -0.9591423964570632,
+        "group": "mech"
     },
     {
         "name": "MECH 515",
@@ -1064,7 +1075,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.23012358511498723,
+        "y": -0.9731614129083752,
+        "group": "mech"
     },
     {
         "name": "MECH 520",
@@ -1073,7 +1087,10 @@
         "desc": "Review of control, instrumentation and design. Performance specification of control components, component matching, error analysis. Operating principles, analysis, modelling, design considerations of control sensors and actuators such as analog sensors for motion measurement, digital transducers, stepper motors, DC motors, induction motors, synchronous motors, and hydraulic actuators. Control techniques pertaining to actuators. Applications. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.17663661448858717,
+        "y": -0.9842761332177116,
+        "group": "mech"
     },
     {
         "name": "MECH 521",
@@ -1082,7 +1099,10 @@
         "desc": "Micro-fabrication of MEMS: solid-state technology and other micromachining techniques. Engineering principles of various MEMS devices. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.12262249078029815,
+        "y": -0.9924533866912015,
+        "group": "mech"
     },
     {
         "name": "MECH 526",
@@ -1091,7 +1111,10 @@
         "desc": "The design, analysis, manufacturability, instrumentation and computer control of a selected dynamic machinery assembly will be studied. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.06824241336467135,
+        "y": -0.9976687691905392,
+        "group": "mech"
     },
     {
         "name": "MECH 527",
@@ -1099,11 +1122,11 @@
         "credits": 3,
         "desc": "The full assembly, instrumentation, computer and electronic interfacing, and testing of a dynamic machine. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: One of MECH 551, MECH 526.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 551",
-            "MECH 526"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.013658673765951325,
+        "y": -0.999906715964522,
+        "group": "mech"
     },
     {
         "name": "MECH 529",
@@ -1112,7 +1135,10 @@
         "desc": "Advanced modelling of mechanical, electrical, fluid, thermal and multi-domain systems; inter-domain analogies; analytical models in time and frequency domains; modelling tools; response analysis; digital simulation; practical project. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: Prior undergraduate coursework in dynamics, vibration, or electrical circuits.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.04096582868361418,
+        "y": -0.9991605481003865,
+        "group": "mech"
     },
     {
         "name": "MECH 530",
@@ -1121,7 +1147,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.09546807299940929,
+        "y": -0.9954324924563089,
+        "group": "mech"
     },
     {
         "name": "MECH 533",
@@ -1130,7 +1159,10 @@
         "desc": "Principles, biorheology, circulatory biofluid mechanics, synovial fluid in joints, biofluid dynamics of the human brain, respiratory biofluid mechanics, flow and pressure measurement techniques in the human body. Credit will be granted for only one of MECH 433 or 533. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.14968540306314448,
+        "y": -0.9887336750155847,
+        "group": "mech"
     },
     {
         "name": "MECH 535",
@@ -1139,7 +1171,10 @@
         "desc": "Musculoskeletal anatomy. Static and dynamic analysis of the musculoskeletal system. Gait. Musculoskeletal tissue mechanics. Biomaterials. Advanced study of relevant problems in orthopaedics, including joint replacement, fracture fixation, and spinal disorders. Credit given for only one of MECH 435 and MECH 535. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.2034560130526333,
+        "y": -0.979084087682323,
+        "group": "mech"
     },
     {
         "name": "MECH 536",
@@ -1148,7 +1183,10 @@
         "desc": "Introduction to injury biomechanics. Anatomy. Impact experiments. Multi-body dynamic simulation and finite element analysis. Skull, face, brain, eye, pelvis, abdomen, and extremity injury. Anthropomorphic test devices, seat belts, airbags, child restraints, and helmets. Credit cannot be obtained for both MECH436 and MECH536. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.2566194303339733,
+        "y": -0.9665125286177448,
+        "group": "mech"
     },
     {
         "name": "MECH 540",
@@ -1157,7 +1195,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.30901699437494723,
+        "y": -0.9510565162951536,
+        "group": "mech"
     },
     {
         "name": "MECH 541",
@@ -1166,7 +1207,10 @@
         "desc": "Digital control laws for servo drives; state space and transfer function models of feed drives; tracking errors; trajectory generation of multi-axis machines; contouring analysis of multi-axes servo drives; real time linear and circular interpolation methods supported by laboratory applications. Credit will be granted for only one of MECH 467 or MECH 541. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.36049233025041383,
+        "y": -0.932762177530064,
+        "group": "mech"
     },
     {
         "name": "MECH 542",
@@ -1175,7 +1219,10 @@
         "desc": "3D geometric modelling; parametric representation of curves and surfaces; CNC machine tool programming; milling operations and setup; tool path generation for three- and five-axis sculptured surface machining. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.4108918153265483,
+        "y": -0.9116841098196533,
+        "group": "mech"
     },
     {
         "name": "MECH 544",
@@ -1183,11 +1230,11 @@
         "credits": 3,
         "desc": "Review of metal cutting mechanics, milling, static deformations of machine tools. Machine tool vibrations, forced and self excited vibrations in machining, chatter, stability. Sensors for machine tool monitoring and adaptive control. Sensor assisted intelligent machining techniques. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: All of MECH 392, MECH 466.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 392",
-            "MECH 466"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.46006503773115237,
+        "y": -0.8878852184023751,
+        "group": "mech"
     },
     {
         "name": "MECH 562",
@@ -1195,12 +1242,11 @@
         "credits": 3,
         "desc": "Well-posedness and internal stability of feedback systems, performance limitations, uncertainty, LFT representations, robust stability and robust performance, model reduction, linear matrix inequalities, H- infinity control, multi-objective control, mu-analysis and synthesis, H-infinity gain- scheduling, control applications. Credit will be granted for only one of MECH 562, EECE 508, or ELEC 572. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: Completion of MECH 466, MECH 468, ELEC 341, or equivalent is recommended.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 466",
-            "MECH 468",
-            "ELEC 341"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.5078652452418055,
+        "y": -0.8614365285240002,
+        "group": "mech"
     },
     {
         "name": "MECH 563",
@@ -1209,7 +1255,10 @@
         "desc": "Definitions and classification Kinematics: homogeneous transformations, manipulator kinematic equations, forward and inverse kinematic solution methods, differential kinematic equations, motion trajectories. Dynamics: Lagrange-Euler formulations, Newton-Euler formulation. Control: methods, robot control hierarchy, control of single joint and multiple link manipulators, advanced control methods. Credit will be granted for only one of ELEC 442, EECE 571R, EECE 589, MECH 464, or MECH 563. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.5541497832521746,
+        "y": -0.8324169734703684,
+        "group": "mech"
     },
     {
         "name": "MECH 570",
@@ -1218,7 +1267,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.5987805205094224,
+        "y": -0.8009131589994418,
+        "group": "mech"
     },
     {
         "name": "MECH 572",
@@ -1227,7 +1279,10 @@
         "desc": "Governing equations for laminar and turbulent flow. Forced convection in internal and external flow. Free, and combined free and forced convection. Heat transfer at high velocities, in rarefied gases and in two-phase flow. Mass transfer. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.6416242613521611,
+        "y": -0.7670191048756828,
+        "group": "mech"
     },
     {
         "name": "MECH 576",
@@ -1236,7 +1291,10 @@
         "desc": "Thermodynamics of combustion, stoichiometry, heat of formation and reaction. Equilibrium composition and adiabatic flame temperature. Chemical kinetics of combustion. Flames in premixed gases; laminar and turbulent flame propagation. Diffusion flames, pollutant emissions and combustion in IC engines. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.6825531432186542,
+        "y": -0.730835964278124,
+        "group": "mech"
     },
     {
         "name": "MECH 577",
@@ -1245,7 +1303,10 @@
         "desc": "Energy system architecture and electrochemical energy conversion; fuel cell thermodynamics and electrochemistry; Proton Exchange Membrane Fuel Cells (PMFCs) and Solid Oxide Fuel Cells (SOFCSs); hydrogen production, storage, and distribution. Credit cannot be received for both MECH 445 and MECH 577. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7214450182389559,
+        "y": -0.6924717219195254,
+        "group": "mech"
     },
     {
         "name": "MECH 578",
@@ -1254,7 +1315,10 @@
         "desc": "Analysis of spark and compression ignition engines. Calculation of fuel economy, power and emission. Practical and regulatory considerations in engine design. Numerical engine modelling and analysis. Credit will be granted for only one of MECH 478 or MECH 578. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7581838177721625,
+        "y": -0.6520408717775507,
+        "group": "mech"
     },
     {
         "name": "MECH 581",
@@ -1263,7 +1327,10 @@
         "desc": "Circulation, vorticity and Kelvin's Theorem. Potential flow theory and the Kutta-Joukowski Law 2D Vortex Panel. Method. Laminar and turbulent boundary layer computations. Lifting line theory. Vortex Lattice Method. High lift devices. Total airplane drag. Credit cannot be obtained for both MECH 581 and MECH 481. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7926598988008581,
+        "y": -0.6096640753997348,
+        "group": "mech"
     },
     {
         "name": "MECH 582",
@@ -1272,7 +1339,10 @@
         "desc": "Modelling Test facilities. Wind tunnel force measurement. Theory of conventional and modern manometry. Classical velocimetry. Hotwire anemometry. Theory and application of laser Doppler velocimetry. Particle image velocimetry. Flow visualization techniques. Thermometry. Credit will not be given for both MECH 489 and MECH 582. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8247703711489685,
+        "y": -0.5654678018020061,
+        "group": "mech"
     },
     {
         "name": "MECH 586",
@@ -1281,7 +1351,10 @@
         "desc": "The basic equations of fluid motion; introduction to hydro-dynamic stability; Reynolds' equations; energy equations for turbulent motion; intermittency; similarity near a solid boundary and in free turbulence; approximate methods for predicting the growth of turbulent boundary layers and free symmetrical shear flows. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8544194045464886,
+        "y": -0.5195839500354336,
+        "group": "mech"
     },
     {
         "name": "MECH 587",
@@ -1290,7 +1363,10 @@
         "desc": "Analytical, computational, and experimental methods in fluid mechanics. Overview of CFD program development. Finite volume methods, spacial discretization and spatial accuracy analysis. Boundary conditions. Time advance methods, time accuracy, and stability. Application to model problems and to the incompressible laminar Navier-Stokes equations. Validation techniques for CFD codes. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8815185146246717,
+        "y": -0.4721494555476184,
+        "group": "mech"
     },
     {
         "name": "MECH 588",
@@ -1298,11 +1374,11 @@
         "credits": 3,
         "desc": "Selected advanced topics in CFD, typically chosen from: Finite volume methods on curvilinear meshes and structured mesh generation. Finite volume methods on unstructured meshes. Multigrid methods for elliptic PDE's. Reynolds-averaged form of the Navier-Stokes equations and turbulence modelling. Three-dimensional flows. Compressible flows. This course is not eligible for Credit/D/Fail grading. \nPrerequisite: One of MECH 510, MECH 587.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 510",
-            "MECH 587"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.9059868269881632,
+        "y": -0.42330588151349835,
+        "group": "mech"
     },
     {
         "name": "MECH 590",
@@ -1311,7 +1387,10 @@
         "desc": "Special advanced lecture courses may be arranged for graduate students upon the approval of the department head. There will not be more than 6 credits in any one such course. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9277513185759844,
+        "y": -0.37319899635519177,
+        "group": "mech"
     },
     {
         "name": "MECH 591",
@@ -1320,7 +1399,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9467470355910437,
+        "y": -0.3219783387117386,
+        "group": "mech"
     },
     {
         "name": "MECH 597",
@@ -1329,7 +1411,10 @@
         "desc": "Project on assigned topic of specialization. For students registered in the M.Eng. program whose project is supervised by a faculty member in the department of Mechanical Engineering. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9629172873477992,
+        "y": -0.2697967711570244,
+        "group": "mech"
     },
     {
         "name": "MECH 598",
@@ -1338,7 +1423,10 @@
         "desc": "Current topics in mechanical engineering research for M.A.Sc. students. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9762138154595446,
+        "y": -0.21681002399778065,
+        "group": "mech"
     },
     {
         "name": "MECH 599",
@@ -1347,7 +1435,10 @@
         "desc": "For M.A.Sc. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.986596937860402,
+        "y": -0.16317623051314198,
+        "group": "mech"
     },
     {
         "name": "MECH 698",
@@ -1356,7 +1447,10 @@
         "desc": "Current topics in mechanical engineering for doctoral students. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9940356672322036,
+        "y": -0.10905545502279027,
+        "group": "mech"
     },
     {
         "name": "MECH 699",
@@ -1365,6 +1459,9 @@
         "desc": "\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.998507803482828,
+        "y": -0.05460921519211042,
+        "group": "mech"
     }
 ]

@@ -5,6 +5,7 @@ from os.path import exists
 import requests
 import json
 import re
+import numpy as np
 
 codes_subset = []
 
@@ -43,9 +44,11 @@ for code in codes_subset:
             if("Corequisite" in i.text):
                 coreqs = i.text.split("Corequisite: ")[1].split('.')[0]
                 coreqs = re.findall(r"[A-Z]{3,4} [0-9]{3}", coreqs)
+                coreqs = [elem for elem in coreqs if elem.split(' ')[0] in CODES]
             if("Prerequisite" in i.text):
                 prereqs = i.text.split("Prerequisite: ")[1].split('.')[0]
                 prereqs = re.findall(r"[A-Z]{3,4} [0-9]{3}", prereqs)
+                prereqs = [elem for elem in coreqs if elem.split(' ')[0] in CODES]
 
             course_dict['coreqs'] = coreqs
             course_dict['prereqs'] = prereqs
@@ -53,6 +56,13 @@ for code in codes_subset:
             
             course_descs.append(course_dict)
             course_dict = {}
+
+    num = len(course_descs)
+    for i in range(num):
+        course_dict = course_descs[i]
+        course_dict['x'] = np.cos(2*np.pi*i / float(num))
+        course_dict['y'] = np.sin(2*np.pi*i / float(num))
+        course_dict['group'] = code.lower()
 
     # Serializing json
     courses_json = json.dumps(course_descs, indent=4)

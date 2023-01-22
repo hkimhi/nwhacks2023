@@ -6,7 +6,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\nPrerequisite: Enrolment in the PhD degree program in ECE.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 1.0,
+        "y": 0.0,
+        "group": "eece"
     },
     {
         "name": "EECE 501",
@@ -15,7 +18,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9749279121818236,
+        "y": 0.2225209339563144,
+        "group": "eece"
     },
     {
         "name": "EECE 502",
@@ -24,7 +30,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\nPrerequisite: by permission of the instructor.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9009688679024191,
+        "y": 0.4338837391175581,
+        "group": "eece"
     },
     {
         "name": "EECE 510",
@@ -33,7 +42,10 @@
         "desc": "Strategic frameworks. Organizational change. Team dynamics, effectiveness, and decision-making. Personal leadership style and development. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7818314824680298,
+        "y": 0.6234898018587335,
+        "group": "eece"
     },
     {
         "name": "EECE 541",
@@ -42,7 +54,10 @@
         "desc": "Theoretical and practical issues in designing multimedia systems. Interactive multimedia, digital video broadcasting and streaming, media asset management, video indexing and retrieval, content protection, and design of multimedia middleware. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.6234898018587336,
+        "y": 0.7818314824680298,
+        "group": "eece"
     },
     {
         "name": "EECE 549",
@@ -51,7 +66,10 @@
         "desc": "Numerical aspects of time-domain simulation are reviewed. Dynamic modelling and analysis of power systems components including transformers, induction and synchronous machines, inverters, electric drives and associated controls. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.4338837391175582,
+        "y": 0.9009688679024191,
+        "group": "eece"
     },
     {
         "name": "EECE 550",
@@ -60,7 +78,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.22252093395631445,
+        "y": 0.9749279121818236,
+        "group": "eece"
     },
     {
         "name": "EECE 553",
@@ -69,7 +90,10 @@
         "desc": "Computer-oriented analysis of electric power systems with regard to multiphase line constants, steady-state analysis of single and parallel circuits, lightning and switching surges; large-scale solution of power-flow problems; optimal real and reactive power flow. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 6.123233995736766e-17,
+        "y": 1.0,
+        "group": "eece"
     },
     {
         "name": "EECE 554",
@@ -78,7 +102,10 @@
         "desc": "Synchronous machine modelling; excitation and speed governor systems; enhancing power system damping through excitation or governor control; linear optimal stabilization of power systems; load shedding, generator dropping and other emergency measures; asynchronous operation and resynchronization; nonlinear stability; power-frequency control. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.22252093395631434,
+        "y": 0.9749279121818236,
+        "group": "eece"
     },
     {
         "name": "EECE 555",
@@ -87,7 +114,10 @@
         "desc": "Credit will be granted for only one of EECE 555 or ELEC 352. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.43388373911755806,
+        "y": 0.9009688679024191,
+        "group": "eece"
     },
     {
         "name": "EECE 560",
@@ -96,7 +126,10 @@
         "desc": "Solution of lumped and distributed networks. Time-domain solutions, discretization and integration rules. Frequency-domain solutions, FFT and windowing techniques. Systems of linear equations, reduction and sparsity techniques. Nonlinear elements. Computer-aided simulation. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.6234898018587335,
+        "y": 0.7818314824680299,
+        "group": "eece"
     },
     {
         "name": "EECE 561",
@@ -105,7 +138,10 @@
         "desc": "Photovoltaic, wind, small hydro and fuel cell systems for stand alone and grid connected use. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.7818314824680295,
+        "y": 0.6234898018587339,
+        "group": "eece"
     },
     {
         "name": "EECE 562",
@@ -114,7 +150,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.900968867902419,
+        "y": 0.43388373911755823,
+        "group": "eece"
     },
     {
         "name": "EECE 563",
@@ -123,7 +162,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9749279121818237,
+        "y": 0.2225209339563141,
+        "group": "eece"
     },
     {
         "name": "EECE 564",
@@ -132,7 +174,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -1.0,
+        "y": 1.2246467991473532e-16,
+        "group": "eece"
     },
     {
         "name": "EECE 565",
@@ -141,7 +186,10 @@
         "desc": "Analysis and design of communications networks; network architectures; Internet protocols; routing; scheduling algorithms; medium access control; congestion control; admission control; optimization techniques; network management. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9749279121818237,
+        "y": -0.22252093395631384,
+        "group": "eece"
     },
     {
         "name": "EECE 566",
@@ -150,7 +198,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9009688679024191,
+        "y": -0.433883739117558,
+        "group": "eece"
     },
     {
         "name": "EECE 567",
@@ -159,7 +210,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.7818314824680296,
+        "y": -0.6234898018587338,
+        "group": "eece"
     },
     {
         "name": "EECE 568",
@@ -168,7 +222,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.6234898018587337,
+        "y": -0.7818314824680297,
+        "group": "eece"
     },
     {
         "name": "EECE 569",
@@ -177,7 +234,10 @@
         "desc": "Network architectures: cellular networks, ad hoc networks; access protocols; radio and network resource management; quality of service; mobility and location management; routing; mobile-IP; current wireless technologies for personal, local and satellite networks. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.4338837391175583,
+        "y": -0.900968867902419,
+        "group": "eece"
     },
     {
         "name": "EECE 570",
@@ -186,7 +246,10 @@
         "desc": "Computational and mathematical methods for data driven processing and model-based analysis of digital images and other visual data: perception, capture; representation, modelling; enhancement, restoration; registration, fusion; feature extraction, segmentation; recognition; practical applications. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.2225209339563146,
+        "y": -0.9749279121818236,
+        "group": "eece"
     },
     {
         "name": "EECE 571",
@@ -195,7 +258,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -1.8369701987210297e-16,
+        "y": -1.0,
+        "group": "eece"
     },
     {
         "name": "EECE 581",
@@ -204,7 +270,10 @@
         "desc": "Project-based modelling techniques applied to microsystems; multi-physics at microscale; physical limitations in MEMS; interface with electronics; behavioural modelling languages for mixed analog-digital system design. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.22252093395631334,
+        "y": -0.9749279121818238,
+        "group": "eece"
     },
     {
         "name": "EECE 585",
@@ -213,7 +282,10 @@
         "desc": "History of electromagnetic compatibility; standards and regulations; component models; radiated emissions; conducted emissions; transmission lines and cross-talk; shielding; electrostatic discharge; EMC system design. This course is not eligible for Credit/D/Fail grading. [2-3*-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.43388373911755795,
+        "y": -0.9009688679024193,
+        "group": "eece"
     },
     {
         "name": "EECE 589",
@@ -222,7 +294,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.6234898018587334,
+        "y": -0.7818314824680299,
+        "group": "eece"
     },
     {
         "name": "EECE 597",
@@ -231,7 +306,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7818314824680297,
+        "y": -0.6234898018587337,
+        "group": "eece"
     },
     {
         "name": "EECE 599",
@@ -240,7 +318,10 @@
         "desc": "For M.A.Sc. This course is not eligible for Credit/D/Fail grading. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9009688679024194,
+        "y": -0.4338837391175575,
+        "group": "eece"
     },
     {
         "name": "EECE 699",
@@ -249,6 +330,9 @@
         "desc": "For Ph.D. \n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9749279121818235,
+        "y": -0.22252093395631464,
+        "group": "eece"
     }
 ]

@@ -8,15 +8,12 @@
             "IGEN 230"
         ],
         "prereqs": [
-            "APSC 176",
-            "ENGL 110",
-            "ENGL 111",
-            "ENGL 112",
-            "ENGL 120",
-            "ENGL 121",
-            "WRDS 150"
+            "IGEN 230"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 1.0,
+        "y": 0.0,
+        "group": "igen"
     },
     {
         "name": "IGEN 230",
@@ -25,7 +22,10 @@
         "desc": "Introduction to engineering design methods, problem solving, working individually and in teams, and methods of communication of results. Engineering design projects will be assigned. Restricted to students in the second year of the Integrated Engineering program. This course is not eligible for Credit/D/Fail grading. [1-4-0;1-4-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.7071067811865476,
+        "y": 0.7071067811865475,
+        "group": "igen"
     },
     {
         "name": "IGEN 330",
@@ -34,7 +34,10 @@
         "desc": "Intermediate level engineering design projects involving material in the curriculum of the Integrated Engineering program. This course is not eligible for Credit/D/Fail grading. [1-4;1-4]\nPrerequisite: Third-year standing in the Integrated Engineering program.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 6.123233995736766e-17,
+        "y": 1.0,
+        "group": "igen"
     },
     {
         "name": "IGEN 340",
@@ -43,7 +46,10 @@
         "desc": "Theory and skills needed for engineers to capitalize on the opportunities that exist in commercializing technology, including the relationships between ideas and opportunities, customers and competition, and products and solutions. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.7071067811865475,
+        "y": 0.7071067811865476,
+        "group": "igen"
     },
     {
         "name": "IGEN 430",
@@ -52,7 +58,10 @@
         "desc": "Projects involving all material in the curriculum of the Integrated Engineering Program. Students will be expected to propose a project and complete the design and construction of a prototype. Restricted to students in the fourth year of the Integrated Engineering program. This course is not eligible for Credit/D/Fail grading. [1-4-0;1-4-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -1.0,
+        "y": 1.2246467991473532e-16,
+        "group": "igen"
     },
     {
         "name": "IGEN 450",
@@ -60,15 +69,11 @@
         "credits": 3,
         "desc": "Pipeline materials and material selection; fracture mechanics; manufacturing and processing; welding and corrosion; soil-pipe interactions; surveying and site investigations; slope stability; natural hazards; pipeline loads and response. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: Either (a) MECH 221 or (b) APSC 278 and one of CIVL 215, MTRL 263 and one of CIVL 230, MECH 260.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 221",
-            "APSC 278",
-            "CIVL 215",
-            "MTRL 263",
-            "CIVL 230",
-            "MECH 260"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.7071067811865477,
+        "y": -0.7071067811865475,
+        "group": "igen"
     },
     {
         "name": "IGEN 451",
@@ -76,15 +81,11 @@
         "credits": 3,
         "desc": "Energy infrastructure; pipe flows; equipment and facilities including compressors, pumping stations, coolers, and controls; terminals; pipeline integrity; corrosion control. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: Either (a) MECH 221 or (b) APSC 278 and one of CIVL 215, MTRL 263 and one of CIVL 230, MECH 260.\n",
         "coreqs": [],
-        "prereqs": [
-            "MECH 221",
-            "APSC 278",
-            "CIVL 215",
-            "MTRL 263",
-            "CIVL 230",
-            "MECH 260"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -1.8369701987210297e-16,
+        "y": -1.0,
+        "group": "igen"
     },
     {
         "name": "IGEN 452",
@@ -92,9 +93,10 @@
         "credits": 3,
         "desc": "Pipeline and pipeline system design reflecting technical, regulatory, environmental, societal, professional, and economic aspects; pipeline design project. This course is not eligible for Credit/D/Fail grading. [2-0-2]\nPrerequisite: IGEN 450.\n",
         "coreqs": [],
-        "prereqs": [
-            "IGEN 450"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.7071067811865474,
+        "y": -0.7071067811865477,
+        "group": "igen"
     }
 ]

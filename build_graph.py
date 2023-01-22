@@ -10,21 +10,24 @@ with open("courses.json", "r") as infile:
             'id': course['name'],
             'title': course['title'],
             'credits': course['credits'],
-            'desc': course['desc']
+            'desc': course['desc'],
+            'x': course['x'],
+            'y': course['y'],
+            'group': course['group']
         }
         nodes.append(node_dict)
 
         for prereq in course['prereqs']:
             edge_dict = {
-                'source': prereq,
-                'target': course['name']
+                'from': prereq,
+                'to': course['name']
             }
             edges.append(edge_dict)
 
         for coreq in course['coreqs']:
             edge_dict = {
-                'source': coreq,
-                'target': course['name']
+                'from': coreq,
+                'to': course['name']
             }
             edges.append(edge_dict)
 

@@ -5,16 +5,11 @@
         "credits": 3,
         "desc": "Written and oral communication in business correspondence, engineering design methods, report preparation and oral presentations of technical material. Restricted to students in second year of the Manufacturing Engineering Program. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: One of APSC 176, ENGL 110, ENGL 111, ENGL 112, ENGL 120, ENGL 121, WRDS 150.\nEquivalency: APSC 201.\r\n\t",
         "coreqs": [],
-        "prereqs": [
-            "APSC 176",
-            "ENGL 110",
-            "ENGL 111",
-            "ENGL 112",
-            "ENGL 120",
-            "ENGL 121",
-            "WRDS 150"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 1.0,
+        "y": 0.0,
+        "group": "manu"
     },
     {
         "name": "MANU 230",
@@ -23,7 +18,10 @@
         "desc": "Theory, operational constraints, and problem solving in traditional manufacturing processes. Casting, heat treatment, bulk deformation (i.e. rolling, extrusion, drawing), machining, joining, and shaping of composites. Experiments in process and product characterization. This course is not eligible for Credit/D/Fail grading. [1-2-0; 1-2-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9510565162951535,
+        "y": 0.3090169943749474,
+        "group": "manu"
     },
     {
         "name": "MANU 261",
@@ -34,11 +32,12 @@
             "MATH 255"
         ],
         "prereqs": [
-            "MATH 101",
-            "MATH 152",
-            "PHYS 158"
+            "MATH 255"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8090169943749475,
+        "y": 0.5877852522924731,
+        "group": "manu"
     },
     {
         "name": "MANU 265",
@@ -49,12 +48,12 @@
             "MATH 255"
         ],
         "prereqs": [
-            "MATH 101",
-            "MATH 152",
-            "PHYS 158",
-            "PHYS 170"
+            "MATH 255"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.5877852522924731,
+        "y": 0.8090169943749475,
+        "group": "manu"
     },
     {
         "name": "MANU 270",
@@ -63,7 +62,10 @@
         "desc": "Impact of operations in increasing productivity and reducing waste. This course is not eligible for Credit/D/Fail grading. [3-0-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.30901699437494745,
+        "y": 0.9510565162951535,
+        "group": "manu"
     },
     {
         "name": "MANU 330",
@@ -71,10 +73,11 @@
         "credits": 6,
         "desc": "Project-based, multi-step manufacturing engineering design and problem solving. This course is not eligible for Credit/D/Fail grading. [1-4-0; 1-4-0]\nPrerequisite: MANU 230.\n",
         "coreqs": [],
-        "prereqs": [
-            "MANU 230"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 6.123233995736766e-17,
+        "y": 1.0,
+        "group": "manu"
     },
     {
         "name": "MANU 370",
@@ -82,10 +85,11 @@
         "credits": 3,
         "desc": "Functional area of production and operations management. Decision-making, capacity planning, aggregate planning, inventory management, distribution planning, materials requirements planning and quality control. This course is not eligible for Credit/D/Fail grading. [3-0-0]\nPrerequisite: MANU 270.\n",
         "coreqs": [],
-        "prereqs": [
-            "MANU 270"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.30901699437494734,
+        "y": 0.9510565162951536,
+        "group": "manu"
     },
     {
         "name": "MANU 378",
@@ -93,10 +97,11 @@
         "credits": 3,
         "desc": "Materials selection for different design criteria; importance of shape and processing variables; computer software in selection. Credit will be granted for only one of MTRL 280 or MANU 378. This course is not eligible for Credit/D/Fail grading. [2-0-3]\nPrerequisite: APSC 278.\n",
         "coreqs": [],
-        "prereqs": [
-            "APSC 278"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.587785252292473,
+        "y": 0.8090169943749475,
+        "group": "manu"
     },
     {
         "name": "MANU 380",
@@ -104,17 +109,11 @@
         "credits": 3,
         "desc": "Correlation between material properties and processibility for practical engineering manufacturing routes.  Calculations and design. Application of heat/mass/fluid transport, mechanics and thermodynamics to manufacturing processes. This course is not eligible for Credit/D/Fail grading. [2-0-3]\nPrerequisite: All of APSC 278, APSC 279, MTRL 264, MECH 260 and one of MANU 261, MTRL 250 and one of MECH 280, MTRL 263.\n",
         "coreqs": [],
-        "prereqs": [
-            "APSC 278",
-            "APSC 279",
-            "MTRL 264",
-            "MECH 260",
-            "MANU 261",
-            "MTRL 250",
-            "MECH 280",
-            "MTRL 263"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.8090169943749473,
+        "y": 0.5877852522924732,
+        "group": "manu"
     },
     {
         "name": "MANU 386",
@@ -125,10 +124,12 @@
             "MANU 330"
         ],
         "prereqs": [
-            "MANU 265",
-            "MATH 255"
+            "MANU 330"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9510565162951535,
+        "y": 0.3090169943749475,
+        "group": "manu"
     },
     {
         "name": "MANU 399",
@@ -137,7 +138,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading.\nPrerequisite: Third-year standing.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -1.0,
+        "y": 1.2246467991473532e-16,
+        "group": "manu"
     },
     {
         "name": "MANU 400",
@@ -146,7 +150,10 @@
         "desc": " This course is not eligible for Credit/D/Fail grading. [2-0-3]\nPrerequisite: TBD\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.9510565162951538,
+        "y": -0.3090169943749469,
+        "group": "manu"
     },
     {
         "name": "MANU 430",
@@ -154,10 +161,11 @@
         "credits": 6,
         "desc": "Project-based, multi-step, multi-part Capstone design project involving manufacturing engineering design methods, problem solving. This course is not eligible for Credit/D/Fail grading. [1-4-0; 1-4-0]\nPrerequisite: MANU 230.\n",
         "coreqs": [],
-        "prereqs": [
-            "MANU 230"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.8090169943749476,
+        "y": -0.587785252292473,
+        "group": "manu"
     },
     {
         "name": "MANU 455",
@@ -166,7 +174,10 @@
         "desc": "Resources planning, layout and logistics. Modular production and cyber-physical manufacturing systems in laboratory scale, virtual manufacturing and factory automation. This course is not eligible for Credit/D/Fail grading. [2-2-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.5877852522924732,
+        "y": -0.8090169943749473,
+        "group": "manu"
     },
     {
         "name": "MANU 465",
@@ -175,7 +186,10 @@
         "desc": "Artificial intelligence, machine learning techniques, Deep learning, Python libraries for machine learning, Basic signal processing techniques, Data Acquisition, Applications in Manufacturing, Use of sound to evaluate operation of CNC machinery, Use of AE sensor to evaluate metal 3D printing This course is not eligible for Credit/D/Fail grading. [3-0-1]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": -0.30901699437494756,
+        "y": -0.9510565162951535,
+        "group": "manu"
     },
     {
         "name": "MANU 480",
@@ -183,10 +197,11 @@
         "credits": 3,
         "desc": "Numerical modelling of manufacturing processes, linkage between material, process, properties and product geometry, heat/mass transport, thermodynamics and design principles applied to practical engineering processes. This course is not eligible for Credit/D/Fail grading. [2-0-3]\nPrerequisite: MANU 380.\n",
         "coreqs": [],
-        "prereqs": [
-            "MANU 380"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -1.8369701987210297e-16,
+        "y": -1.0,
+        "group": "manu"
     },
     {
         "name": "MANU 481",
@@ -194,10 +209,11 @@
         "credits": 3,
         "desc": "Integrating concepts of primary (casting), secondary (deformation), and tertiary (machining and surface treatment) processes and economic and environmental assessment. This course is not eligible for Credit/D/Fail grading. [2-0-3]\nPrerequisite: MANU 380.\n",
         "coreqs": [],
-        "prereqs": [
-            "MANU 380"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.30901699437494723,
+        "y": -0.9510565162951536,
+        "group": "manu"
     },
     {
         "name": "MANU 485",
@@ -206,7 +222,10 @@
         "desc": "Metal cutting and grinding mechanics; prediction of force-torque-power in turning, drilling, milling and grinding operations. Machine tool vibrations, forced and self-excited vibrations in machining, experimental modal testing of machine tools, chatter, and stability. Credit will be granted for only one of MANU 485 or MECH 592. This course is not eligible for Credit/D/Fail grading. [2-2-0]\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.5877852522924729,
+        "y": -0.8090169943749476,
+        "group": "manu"
     },
     {
         "name": "MANU 487",
@@ -217,11 +236,12 @@
             "MANU 430"
         ],
         "prereqs": [
-            "MANU 265",
-            "MATH 255",
-            "MECH 368"
+            "MANU 430"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.8090169943749473,
+        "y": -0.5877852522924734,
+        "group": "manu"
     },
     {
         "name": "MANU 499",
@@ -230,6 +250,9 @@
         "desc": " This course is not eligible for Credit/D/Fail grading. [2-2-0]\nPrerequisite: Fourth-year standing\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.9510565162951535,
+        "y": -0.3090169943749476,
+        "group": "manu"
     }
 ]

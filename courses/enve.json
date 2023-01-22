@@ -6,7 +6,10 @@
         "desc": "Environmental Engineering design and decision-making, analysis tools and techniques, data illustration and other communication techniques, professional development including ethics and equity. Subject themes include water, air and soil. This course is not eligible for Credit/D/Fail grading. [3-0-2]\nPrerequisite: Second-year standing.\n",
         "coreqs": [],
         "prereqs": [],
-        "postreqs": []
+        "postreqs": [],
+        "x": 1.0,
+        "y": 0.0,
+        "group": "enve"
     },
     {
         "name": "ENVE 201",
@@ -19,13 +22,14 @@
             "ENVE 203"
         ],
         "prereqs": [
-            "WRDS 150",
-            "ENGL 100",
             "ENVE 200",
             "ENVE 202",
             "ENVE 203"
         ],
-        "postreqs": []
+        "postreqs": [],
+        "x": 0.5000000000000001,
+        "y": 0.8660254037844386,
+        "group": "enve"
     },
     {
         "name": "ENVE 202",
@@ -33,13 +37,11 @@
         "credits": 4,
         "desc": "Analysis of integrated environmental systems, quantification of fundamental chemical and biological processes, systems design, evaluation of environmental impact, future trends. This course is not eligible for Credit/D/Fail grading. [3-2-0]\nPrerequisite: All of CHEM 154, CIVL 204, CHBE 241, ENVE 200.\n",
         "coreqs": [],
-        "prereqs": [
-            "CHEM 154",
-            "CIVL 204",
-            "CHBE 241",
-            "ENVE 200"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.4999999999999998,
+        "y": 0.8660254037844387,
+        "group": "enve"
     },
     {
         "name": "ENVE 203",
@@ -47,10 +49,11 @@
         "credits": 4,
         "desc": "Sustainability vocabulary and systems theory relevant to environmental engineering practice,  foundational sustainability topics including those relating to urban ecology, industrial ecology/circular economy, and humanitarian engineering, stakeholder analysis, communication,  and adaptive change leadership skills [3-0-2]\nPrerequisite: ENVE 200.\n",
         "coreqs": [],
-        "prereqs": [
-            "ENVE 200"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -1.0,
+        "y": 1.2246467991473532e-16,
+        "group": "enve"
     },
     {
         "name": "ENVE 301",
@@ -58,11 +61,11 @@
         "credits": 3,
         "desc": "Real-time, fully-integrated, conceptual and detailed design experiences that address an ill-structured, socially and technically complex environmental engineering problem for communities with consideration to the cultural history and needs of the communities. This course is not eligible for Credit/D/Fail grading. [2-0-3]\nPrerequisite: All of ENVE 202, ENVE 203 and Third-year standing.\n",
         "coreqs": [],
-        "prereqs": [
-            "ENVE 202",
-            "ENVE 203"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": -0.5000000000000004,
+        "y": -0.8660254037844384,
+        "group": "enve"
     },
     {
         "name": "ENVE 401",
@@ -70,9 +73,10 @@
         "credits": 8,
         "desc": "Application of chemical, biological, and environmental science; engineering concepts; sustainable development and health and safety considerations; engineering economics; and life cycle analysis. Conceptual and detailed design for a multi-scale and complex environment health and protection problem. This course is not eligible for Credit/D/Fail grading. [2-0-4; 2-0-4]\nPrerequisite: ENVE 301 and Fourth-year standing.\n",
         "coreqs": [],
-        "prereqs": [
-            "ENVE 301"
-        ],
-        "postreqs": []
+        "prereqs": [],
+        "postreqs": [],
+        "x": 0.5000000000000001,
+        "y": -0.8660254037844386,
+        "group": "enve"
     }
 ]
