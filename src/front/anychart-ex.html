@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JavaScript Network Graph</title>
+        <script src="https://cdn.anychart.com/releases/8.8.0/js/anychart-core.min.js"></script>
+        <script src="https://cdn.anychart.com/releases/8.8.0/js/anychart-graph.min.js"></script> 
+        <script src="https://cdn.anychart.com/releases/8.8.0/js/anychart-data-adapter.min.js"></script>
+        <style>
+        html, body, #container {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        </style>
+    </head>
+<body>
+    <div id="test">
+    </div>
+    <div id="container"></div>
+    <script>
+        anychart.onDocumentReady(function () {
+            anychart.data.loadJsonFile("https://static.anychart.com/git-storage/word-press/data/network-graph-tutorial/data.json", function (data) {
+            // create a chart from the loaded data
+            var chart = anychart.graph(data);
+            // set the title
+            chart.title("Network Graph showing the battles in Game of Thrones");
+            // draw the chart
+            chart.container("container").draw();
+        });
+      });
+    </script>
+</body>
+</html>
